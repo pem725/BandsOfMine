@@ -19,3 +19,8 @@ node_modules/
 
 # Local Claude Code state
 .claude/
+
+# Spotify credentials & tokens — never commit
+.spotify_client_id
+.env
+data/cache/spotify_token.json

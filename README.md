@@ -69,6 +69,32 @@ python3 scripts/fetch_musicbrainz.py --expand-seeds          # preview additions
 python3 scripts/fetch_musicbrainz.py --expand-seeds --write  # apply, then re-validate
 ```
 
+## Seed it from your own listening
+
+Two ways to make *your* ears the seed set. Both merge top artists into the graph as
+`seed` nodes; run `validate_graph.py` and `fetch_musicbrainz.py --resolve` after.
+
+**Spotify Web API** — live, repeatable. Needs only a free Client ID (no secret; PKCE auth
+in your own browser — Claude never sees your password). Setup is documented at the top of
+the script.
+
+```bash
+export SPOTIFY_CLIENT_ID=...                 # from developer.spotify.com/dashboard
+python3 scripts/import_spotify.py            # authorize + preview your top artists
+python3 scripts/import_spotify.py --write    # apply
+```
+
+**Spotify data export** — ground truth. Request it under Spotify → Privacy Settings →
+"Download your data", unzip into `data/raw/spotify_export/` (gitignored), then:
+
+```bash
+python3 scripts/import_spotify_export.py data/raw/spotify_export --report   # rank by hours listened
+python3 scripts/import_spotify_export.py data/raw/spotify_export --top 40 --write
+```
+
+The export ranks artists by *total listening time* — the single strongest signal for what
+you actually love. Handles both the basic and the "extended streaming history" formats.
+
 ## Edge types — what makes it *influence*
 
 `member_of` and `collaborated_with` are the skeleton. But the edges that make this an
