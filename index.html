@@ -1,0 +1,386 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bands of Mine — an influence graph</title>
+<script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+<style>
+  :root {
+    --bg: #0d0f12;
+    --panel: #16191f;
+    --line: #262b34;
+    --ink: #e8e6e1;
+    --dim: #8b8f98;
+    --accent: #d9843b;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; }
+  body {
+    background: var(--bg);
+    color: var(--ink);
+    font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    display: grid;
+    grid-template-columns: 1fr 320px;
+    grid-template-rows: auto 1fr auto;
+    grid-template-areas: "head head" "graph side" "time side";
+    height: 100vh;
+    overflow: hidden;
+  }
+
+  header {
+    grid-area: head;
+    padding: 14px 20px;
+    border-bottom: 1px solid var(--line);
+    display: flex;
+    align-items: baseline;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+  header h1 { margin: 0; font-size: 18px; letter-spacing: .02em; font-weight: 600; }
+  header .sub { color: var(--dim); font-size: 12px; }
+  header input[type=search] {
+    margin-left: auto;
+    background: var(--panel);
+    border: 1px solid var(--line);
+    color: var(--ink);
+    border-radius: 6px;
+    padding: 6px 10px;
+    width: 200px;
+    font: inherit;
+  }
+
+  #graph { grid-area: graph; position: relative; overflow: hidden; }
+  #graph svg { width: 100%; height: 100%; display: block; cursor: grab; }
+  #graph svg:active { cursor: grabbing; }
+
+  aside {
+    grid-area: side;
+    border-left: 1px solid var(--line);
+    background: var(--panel);
+    padding: 16px;
+    overflow-y: auto;
+  }
+  aside h2 { font-size: 15px; margin: 0 0 2px; }
+  aside .kind { color: var(--accent); font-size: 11px; text-transform: uppercase; letter-spacing: .08em; }
+  aside .meta { color: var(--dim); font-size: 12px; margin: 8px 0; }
+  aside h3 {
+    font-size: 11px; text-transform: uppercase; letter-spacing: .08em;
+    color: var(--dim); margin: 18px 0 6px; border-top: 1px solid var(--line); padding-top: 12px;
+  }
+  aside ul { list-style: none; padding: 0; margin: 0; }
+  aside li { padding: 5px 0; border-bottom: 1px solid var(--line); font-size: 13px; }
+  aside li .rel { color: var(--dim); font-size: 11px; }
+  aside li .note { color: var(--dim); font-size: 11px; font-style: italic; display: block; margin-top: 2px; }
+  aside li b { cursor: pointer; }
+  aside li b:hover { color: var(--accent); }
+  aside .empty { color: var(--dim); font-size: 13px; }
+
+  footer {
+    grid-area: time;
+    border-top: 1px solid var(--line);
+    padding: 12px 20px;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+  footer button {
+    background: var(--panel); color: var(--ink); border: 1px solid var(--line);
+    border-radius: 6px; padding: 6px 12px; font: inherit; cursor: pointer; min-width: 76px;
+  }
+  footer button:hover { border-color: var(--accent); }
+  footer input[type=range] { flex: 1; accent-color: var(--accent); }
+  #year { font-variant-numeric: tabular-nums; font-size: 22px; min-width: 74px; font-weight: 600; }
+  footer label { color: var(--dim); font-size: 12px; display: flex; align-items: center; gap: 6px; cursor: pointer; }
+
+  .legend { position: absolute; left: 16px; bottom: 16px; font-size: 11px; color: var(--dim); }
+  .legend div { display: flex; align-items: center; gap: 6px; margin: 3px 0; }
+  .legend .sw { width: 20px; height: 3px; border-radius: 2px; }
+  .legend .dot { width: 10px; height: 10px; border-radius: 50%; }
+
+  .node circle { cursor: pointer; stroke: var(--bg); stroke-width: 1.5px; }
+  .node text { font-size: 10px; fill: var(--ink); pointer-events: none; paint-order: stroke;
+               stroke: var(--bg); stroke-width: 3px; stroke-linejoin: round; }
+  .faded { opacity: .12; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Bands of Mine</h1>
+  <span class="sub">an influence graph — who played with whom, and when</span>
+  <input type="search" id="search" placeholder="find an artist…" autocomplete="off">
+</header>
+
+<div id="graph">
+  <div class="legend" id="legend"></div>
+</div>
+
+<aside id="panel"></aside>
+
+<footer>
+  <button id="play">▶ Play</button>
+  <span id="year">1969</span>
+  <input type="range" id="slider">
+  <label><input type="checkbox" id="alltime"> show all years at once</label>
+</footer>
+
+<script type="module">
+const KIND_COLOR = {
+  person: "#6ba3d6",
+  band:   "#d9843b",
+  label:  "#7d8590",
+  venue:  "#9d7cd8",
+  scene:  "#68b587",
+};
+const EDGE_COLOR = {
+  member_of:         "#d9843b",
+  collaborated_with: "#6ba3d6",
+  influenced_by:     "#c85f5f",
+  mentored:          "#c85f5f",
+  produced:          "#68b587",
+  signed_to:         "#4a4f58",
+  covered:           "#9d7cd8",
+  spun_off_from:     "#b8a04a",
+};
+
+const [nodes, edges] = await Promise.all([
+  fetch("data/graph/nodes.json").then(r => r.json()),
+  fetch("data/graph/edges.json").then(r => r.json()),
+]);
+
+const byId = new Map(nodes.map(n => [n.id, n]));
+edges.forEach(e => { e.src = byId.get(e.source); e.tgt = byId.get(e.target); });
+
+// --- time domain -------------------------------------------------------
+// Derived from the data itself so the slider always spans exactly what exists.
+const years = edges.flatMap(e => e.intervals.flat()).filter(y => y != null);
+const MIN_YEAR = Math.min(...years);
+const MAX_YEAR = Math.max(new Date().getFullYear(), Math.max(...years));
+
+/** An edge is live in year y if any of its intervals contains y. */
+const liveIn = (e, y) =>
+  e.intervals.some(([s, t]) => s != null && s <= y && (t == null || y <= t));
+
+// --- svg scaffold ------------------------------------------------------
+const container = document.getElementById("graph");
+const svg = d3.select("#graph").append("svg");
+const root = svg.append("g");
+const linkLayer = root.append("g").attr("class", "links");
+const nodeLayer = root.append("g").attr("class", "nodes");
+
+svg.call(d3.zoom().scaleExtent([0.2, 6]).on("zoom", ev => root.attr("transform", ev.transform)));
+
+let W = 0, H = 0;
+function measure() {
+  W = container.clientWidth; H = container.clientHeight;
+  svg.attr("viewBox", [-W / 2, -H / 2, W, H]);
+}
+measure();
+new ResizeObserver(() => { measure(); sim.alpha(0.3).restart(); }).observe(container);
+
+// Node size reflects how connected someone was *in the current year*.
+// Declared before the simulation because forceCollide() closes over radius().
+let degree = new Map();
+const radius = d => 5 + Math.sqrt(degree.get(d.id) || 0) * 3.4;
+
+const sim = d3.forceSimulation(nodes)
+  .force("link", d3.forceLink([]).id(d => d.id).distance(d => 60 + 60 * (1 - d.weight)).strength(d => 0.15 + 0.5 * d.weight))
+  .force("charge", d3.forceManyBody().strength(-260))
+  .force("center", d3.forceCenter(0, 0))
+  .force("collide", d3.forceCollide().radius(d => radius(d) + 6))
+  .on("tick", tick);
+
+let linkSel = linkLayer.selectAll("line");
+let nodeSel = nodeLayer.selectAll("g");
+let selected = null;
+
+// --- render ------------------------------------------------------------
+function render() {
+  const allTime = document.getElementById("alltime").checked;
+  const y = +document.getElementById("slider").value;
+  const live = allTime ? edges : edges.filter(e => liveIn(e, y));
+
+  degree = new Map();
+  for (const e of live) {
+    degree.set(e.source, (degree.get(e.source) || 0) + 1);
+    degree.set(e.target, (degree.get(e.target) || 0) + 1);
+  }
+  // Only draw people/bands who are actually connected right now.
+  const visible = nodes.filter(n => degree.has(n.id));
+
+  linkSel = linkLayer.selectAll("line")
+    .data(live, d => `${d.source}|${d.target}|${d.type}`)
+    .join(
+      enter => enter.append("line")
+        .attr("stroke", d => EDGE_COLOR[d.type] || "#555")
+        .attr("stroke-width", d => 0.8 + d.weight * 2)
+        .attr("stroke-opacity", 0)
+        .call(en => en.transition().duration(250).attr("stroke-opacity", 0.55)),
+      update => update,
+      exit => exit.transition().duration(200).attr("stroke-opacity", 0).remove()
+    )
+    .attr("stroke-dasharray", d => (d.type === "influenced_by" || d.type === "mentored") ? "4 3" : null);
+
+  nodeSel = nodeLayer.selectAll("g.node")
+    .data(visible, d => d.id)
+    .join(
+      enter => {
+        const g = enter.append("g").attr("class", "node").attr("opacity", 0);
+        g.append("circle")
+          .attr("fill", d => KIND_COLOR[d.kind] || "#888")
+          .attr("stroke-width", d => d.seed ? 2.5 : 1.5)
+          .attr("stroke", d => d.seed ? "#fff" : "var(--bg)");
+        g.append("text").attr("dy", -10).attr("text-anchor", "middle").text(d => d.name);
+        g.on("click", (_, d) => select(d)).call(drag());
+        g.transition().duration(250).attr("opacity", 1);
+        return g;
+      },
+      update => update,
+      exit => exit.transition().duration(200).attr("opacity", 0).remove()
+    );
+
+  nodeSel.select("circle").transition().duration(250).attr("r", radius);
+  nodeSel.select("text").attr("dy", d => -radius(d) - 4);
+
+  sim.nodes(visible);
+  sim.force("link").links(live.map(e => ({ ...e, source: e.source, target: e.target })));
+  sim.alpha(0.5).restart();
+
+  document.getElementById("year").textContent = allTime ? "all" : y;
+  renderPanel(selected, y, allTime);
+  applyHighlight();
+}
+
+function tick() {
+  linkSel
+    .attr("x1", d => d.src.x).attr("y1", d => d.src.y)
+    .attr("x2", d => d.tgt.x).attr("y2", d => d.tgt.y);
+  nodeSel.attr("transform", d => `translate(${d.x},${d.y})`);
+}
+
+function drag() {
+  return d3.drag()
+    .on("start", (ev, d) => { if (!ev.active) sim.alphaTarget(0.3).restart(); d.fx = d.x; d.fy = d.y; })
+    .on("drag",  (ev, d) => { d.fx = ev.x; d.fy = ev.y; })
+    .on("end",   (ev, d) => { if (!ev.active) sim.alphaTarget(0); d.fx = null; d.fy = null; });
+}
+
+// --- selection ---------------------------------------------------------
+function select(d) {
+  selected = (selected === d) ? null : d;
+  const allTime = document.getElementById("alltime").checked;
+  renderPanel(selected, +document.getElementById("slider").value, allTime);
+  applyHighlight();
+}
+
+function applyHighlight() {
+  if (!selected) {
+    nodeSel.classed("faded", false);
+    linkSel.classed("faded", false);
+    return;
+  }
+  const near = new Set([selected.id]);
+  linkSel.each(d => {
+    if (d.source === selected.id) near.add(d.target);
+    if (d.target === selected.id) near.add(d.source);
+  });
+  nodeSel.classed("faded", d => !near.has(d.id));
+  linkSel.classed("faded", d => d.source !== selected.id && d.target !== selected.id);
+}
+
+const span = iv => iv.map(([s, t]) => `${s}–${t ?? "now"}`).join(", ");
+
+function renderPanel(d, y, allTime) {
+  const panel = document.getElementById("panel");
+  if (!d) {
+    const n = document.getElementById("alltime").checked
+      ? edges.length : edges.filter(e => liveIn(e, y)).length;
+    panel.innerHTML = `<p class="empty">Click any node to see its ties.<br><br>
+      <b>${n}</b> relationships live ${allTime ? "across all years" : `in <b>${y}</b>`}.<br><br>
+      White-ringed nodes are your seed artists. Dashed lines are influence and mentorship —
+      the edges that make this more than a personnel chart.</p>`;
+    return;
+  }
+  const rel = (allTime ? edges : edges.filter(e => liveIn(e, y)))
+    .filter(e => e.source === d.id || e.target === d.id);
+
+  const life = d.kind === "band"
+    ? (d.born ? `formed ${d.born}${d.died ? `, ended ${d.died}` : ""}` : "")
+    : (d.born ? `b. ${d.born}${d.died ? ` – d. ${d.died}` : ""}` : "");
+
+  panel.innerHTML = `
+    <div class="kind">${d.kind}${d.seed ? " · seed" : ""}</div>
+    <h2>${d.name}</h2>
+    <div class="meta">
+      ${[life, d.origin].filter(Boolean).join(" · ")}
+      ${d.roles?.length ? `<br>${d.roles.join(", ")}` : ""}
+      ${d.genres?.length ? `<br><i>${d.genres.join(" · ")}</i>` : ""}
+    </div>
+    <h3>${rel.length} tie${rel.length === 1 ? "" : "s"} ${allTime ? "" : `in ${y}`}</h3>
+    ${rel.length ? `<ul>${rel.map(e => {
+      const otherId = e.source === d.id ? e.target : e.source;
+      const other = byId.get(otherId);
+      const arrow = e.source === d.id ? "→" : "←";
+      return `<li>
+        <span class="rel">${e.type.replace(/_/g, " ")} ${arrow}</span>
+        <b data-id="${otherId}">${other?.name ?? otherId}</b>
+        <span class="rel"> · ${span(e.intervals)}</span>
+        ${e.note ? `<span class="note">${e.note}</span>` : ""}
+      </li>`;
+    }).join("")}</ul>` : `<p class="empty">No active ties in ${y}.</p>`}
+  `;
+  panel.querySelectorAll("b[data-id]").forEach(b =>
+    b.onclick = () => { const n = byId.get(b.dataset.id); if (n) select(n); });
+}
+
+// --- legend ------------------------------------------------------------
+document.getElementById("legend").innerHTML =
+  Object.entries(KIND_COLOR).map(([k, c]) =>
+    `<div><span class="dot" style="background:${c}"></span>${k}</div>`).join("") +
+  `<div style="height:8px"></div>` +
+  Object.entries(EDGE_COLOR).map(([k, c]) =>
+    `<div><span class="sw" style="background:${c}"></span>${k.replace(/_/g, " ")}</div>`).join("");
+
+// --- controls ----------------------------------------------------------
+const slider = document.getElementById("slider");
+slider.min = MIN_YEAR; slider.max = MAX_YEAR; slider.value = 1970;
+slider.addEventListener("input", render);
+document.getElementById("alltime").addEventListener("change", render);
+
+let timer = null;
+document.getElementById("play").addEventListener("click", ev => {
+  if (timer) { clearInterval(timer); timer = null; ev.target.textContent = "▶ Play"; return; }
+  ev.target.textContent = "❚❚ Pause";
+  if (+slider.value >= MAX_YEAR) slider.value = MIN_YEAR;
+  timer = setInterval(() => {
+    if (+slider.value >= MAX_YEAR) {
+      clearInterval(timer); timer = null;
+      document.getElementById("play").textContent = "▶ Play";
+      return;
+    }
+    slider.value = +slider.value + 1;
+    render();
+  }, 550);
+});
+
+document.getElementById("search").addEventListener("input", ev => {
+  const q = ev.target.value.trim().toLowerCase();
+  if (!q) return;
+  const hit = nodes.find(n => n.name.toLowerCase().includes(q));
+  if (hit) {
+    // Jump to a year where this node actually has ties, so it's on screen.
+    const theirs = edges.filter(e => e.source === hit.id || e.target === hit.id);
+    const starts = theirs.flatMap(e => e.intervals.map(iv => iv[0])).filter(Boolean);
+    if (starts.length && !document.getElementById("alltime").checked) {
+      slider.value = Math.min(...starts);
+    }
+    render();
+    select(hit);
+  }
+});
+
+render();
+</script>
+</body>
+</html>

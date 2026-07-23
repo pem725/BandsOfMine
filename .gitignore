@@ -1,0 +1,21 @@
+# Raw third-party bio text (AllMusic/Rovi, Wikipedia, etc.) is a LOCAL CACHE ONLY.
+# It is copyrighted and must never be committed. Only derived facts go in git.
+data/raw/
+
+# MusicBrainz response cache
+data/cache/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+
+# Local Claude Code state
+.claude/

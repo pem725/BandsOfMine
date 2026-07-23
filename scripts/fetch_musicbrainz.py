@@ -1,0 +1,238 @@
+#!/usr/bin/env python3
+"""Enrich data/graph/ from MusicBrainz.
+
+MusicBrainz is CC0 and models band membership as first-class relations with
+begin/end dates -- exactly the temporal edges this project needs. We use it for
+hard structure (who was in what, when) and leave the narrative "why" to bios.
+
+Usage:
+  python3 scripts/fetch_musicbrainz.py --resolve            # fill in missing mbids
+  python3 scripts/fetch_musicbrainz.py --expand neil-young  # pull that artist's relations
+  python3 scripts/fetch_musicbrainz.py --expand-seeds       # expand every seed:true node
+  python3 scripts/fetch_musicbrainz.py --expand-all --depth 1
+
+Nothing is written until you pass --write. By default it prints a diff of what
+it *would* add, so you stay the editor of your own graph.
+"""
+from __future__ import annotations
+
+import argparse
+import json
+import re
+import sys
+import time
+import unicodedata
+import urllib.parse
+import urllib.request
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+GRAPH = ROOT / "data" / "graph"
+CACHE = ROOT / "data" / "cache"
+
+API = "https://musicbrainz.org/ws/2"
+# MusicBrainz requires a descriptive User-Agent and rate-limits to ~1 req/sec.
+UA = "BandsOfMine/0.1 ( https://github.com/pem725/BandsOfMine )"
+RATE_LIMIT_SECONDS = 1.1
+
+# MusicBrainz relation type -> our edge type
+REL_MAP = {
+    "member of band": "member_of",
+    "collaboration": "collaborated_with",
+    "producer": "produced",
+    "instrumental supporting musician": "collaborated_with",
+    "vocal supporting musician": "collaborated_with",
+    "founder": "member_of",
+    "subgroup": "spun_off_from",
+    "teacher": "mentored",
+}
+
+_last_call = 0.0
+
+
+def slugify(name: str) -> str:
+    """Node ids are kebab-case ASCII. 'Frank "Poncho" Sampedro' -> frank-poncho-sampedro."""
+    n = unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode()
+    n = re.sub(r"[^a-zA-Z0-9]+", "-", n).strip("-").lower()
+    return n or "unknown"
+
+
+def get(path: str, **params) -> dict:
+    """GET from MusicBrainz with on-disk caching and polite rate limiting."""
+    global _last_call
+    params.setdefault("fmt", "json")
+    url = f"{API}/{path}?{urllib.parse.urlencode(params)}"
+
+    CACHE.mkdir(parents=True, exist_ok=True)
+    key = CACHE / (slugify(url)[:180] + ".json")
+    if key.exists():
+        return json.loads(key.read_text())
+
+    elapsed = time.monotonic() - _last_call
+    if elapsed < RATE_LIMIT_SECONDS:
+        time.sleep(RATE_LIMIT_SECONDS - elapsed)
+    _last_call = time.monotonic()
+
+    req = urllib.request.Request(url, headers={"User-Agent": UA})
+    with urllib.request.urlopen(req, timeout=30) as resp:
+        data = json.loads(resp.read().decode())
+    key.write_text(json.dumps(data))
+    return data
+
+
+def year_of(date_str: str | None) -> int | None:
+    if not date_str:
+        return None
+    m = re.match(r"(\d{4})", date_str)
+    return int(m.group(1)) if m else None
+
+
+def resolve_mbid(node: dict) -> str | None:
+    """Search MusicBrainz for a node by name, constrained by kind."""
+    mb_type = {"person": "person", "band": "group"}.get(node["kind"])
+    query = f'artist:"{node["name"]}"'
+    if mb_type:
+        query += f" AND type:{mb_type}"
+    res = get("artist", query=query, limit=5)
+    for a in res.get("artists", []):
+        # MB scores 0-100; below ~85 the match is usually a different artist.
+        if a.get("score", 0) < 85:
+            continue
+        born = year_of((a.get("life-span") or {}).get("begin"))
+        if node.get("born") and born and abs(node["born"] - born) > 2:
+            continue  # right name, wrong person
+        return a["id"]
+    return None
+
+
+def relations_for(mbid: str) -> list[dict]:
+    data = get(f"artist/{mbid}", inc="artist-rels")
+    return data.get("relations", [])
+
+
+def main() -> int:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--resolve", action="store_true", help="fill in missing mbids")
+    ap.add_argument("--expand", metavar="NODE_ID", help="pull relations for one node")
+    ap.add_argument("--expand-seeds", action="store_true", help="expand every seed:true node")
+    ap.add_argument("--write", action="store_true", help="actually write the graph files")
+    args = ap.parse_args()
+
+    nodes = json.loads((GRAPH / "nodes.json").read_text())
+    edges = json.loads((GRAPH / "edges.json").read_text())
+    by_id = {n["id"]: n for n in nodes}
+    existing = {(e["source"], e["target"], e["type"]) for e in edges}
+
+    changed_nodes: list[str] = []
+    new_nodes: list[dict] = []
+    new_edges: list[dict] = []
+
+    targets: list[dict] = []
+    if args.expand:
+        if args.expand not in by_id:
+            print(f"no such node: {args.expand}", file=sys.stderr)
+            return 1
+        targets = [by_id[args.expand]]
+    elif args.expand_seeds:
+        targets = [n for n in nodes if n.get("seed")]
+
+    # --- resolve mbids ---------------------------------------------------
+    to_resolve = nodes if args.resolve else targets
+    for n in to_resolve:
+        if n.get("mbid"):
+            continue
+        try:
+            mbid = resolve_mbid(n)
+        except Exception as exc:  # network hiccup shouldn't lose prior work
+            print(f"  !! {n['id']}: {exc}", file=sys.stderr)
+            continue
+        if mbid:
+            n["mbid"] = mbid
+            changed_nodes.append(n["id"])
+            print(f"  mbid {n['id']} -> {mbid}")
+        else:
+            print(f"  ??  {n['id']}: no confident MusicBrainz match")
+
+    # --- expand relations ------------------------------------------------
+    for n in targets:
+        if not n.get("mbid"):
+            continue
+        print(f"\nexpanding {n['id']}")
+        try:
+            rels = relations_for(n["mbid"])
+        except Exception as exc:
+            print(f"  !! {exc}", file=sys.stderr)
+            continue
+
+        for rel in rels:
+            etype = REL_MAP.get(rel.get("type"))
+            if not etype:
+                continue
+            other = rel.get("artist") or {}
+            if not other.get("name"):
+                continue
+
+            oid = next(
+                (m["id"] for m in nodes + new_nodes if m.get("mbid") == other["id"]),
+                slugify(other["name"]),
+            )
+            if oid not in by_id and not any(m["id"] == oid for m in new_nodes):
+                new_nodes.append(
+                    {
+                        "id": oid,
+                        "name": other["name"],
+                        "kind": "band" if other.get("type") == "Group" else "person",
+                        "born": year_of((other.get("life-span") or {}).get("begin")),
+                        "died": year_of((other.get("life-span") or {}).get("end")),
+                        "origin": None,
+                        "roles": [],
+                        "genres": [],
+                        "mbid": other["id"],
+                        "spotify_id": None,
+                        "seed": False,
+                        "sources": ["musicbrainz"],
+                    }
+                )
+
+            # MusicBrainz relations carry direction; "backward" means the other
+            # artist is the subject (e.g. THEY are a member of THIS band).
+            src, tgt = (n["id"], oid)
+            if rel.get("direction") == "backward":
+                src, tgt = tgt, src
+
+            if (src, tgt, etype) in existing:
+                continue
+            existing.add((src, tgt, etype))
+
+            start = year_of(rel.get("begin"))
+            end = year_of(rel.get("end"))
+            new_edges.append(
+                {
+                    "source": src,
+                    "target": tgt,
+                    "type": etype,
+                    "intervals": [[start, end]] if start else [],
+                    "weight": 0.7,
+                    "note": None,
+                    "sources": ["musicbrainz"],
+                }
+            )
+            span = f"{start or '?'}-{end or ''}"
+            print(f"  + {src} -{etype}-> {tgt}  [{span}]")
+
+    print(
+        f"\n{len(changed_nodes)} mbids resolved, "
+        f"{len(new_nodes)} new nodes, {len(new_edges)} new edges"
+    )
+    if not args.write:
+        print("(dry run -- pass --write to apply)")
+        return 0
+
+    (GRAPH / "nodes.json").write_text(json.dumps(nodes + new_nodes, indent=2) + "\n")
+    (GRAPH / "edges.json").write_text(json.dumps(edges + new_edges, indent=2) + "\n")
+    print("written. now run: python3 scripts/validate_graph.py")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
