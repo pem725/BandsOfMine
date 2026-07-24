@@ -31,7 +31,9 @@ EDGE_ENDPOINTS = {
     "produced": ({"person"}, {"person", "band"}),
 }
 
-MIN_YEAR, MAX_YEAR = 1900, 2100
+# Wide enough for classical composers and old orchestras (Berlin Phil, 1882;
+# Beethoven, 1770) while still catching typos like a year of 42 or 20250.
+MIN_YEAR, MAX_YEAR = 1700, 2100
 
 
 def main() -> int:

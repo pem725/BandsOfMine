@@ -11,3 +11,7 @@ daniel-tigers-neighborhood
 super-simple-songs
 twenty-trucks
 bobs-lolo
+# --- non-music buckets from the local ~/Music library ---
+compilations
+willard-harley
+plexvideo

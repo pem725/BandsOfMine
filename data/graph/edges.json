@@ -3,432 +3,792 @@
     "source": "neil-young",
     "target": "the-squires",
     "type": "member_of",
-    "intervals": [[1963, 1965]],
+    "intervals": [
+      [
+        1963,
+        1965
+      ]
+    ],
     "weight": 0.5,
     "note": "High-school garage rock outfit in Winnipeg.",
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "neil-young",
     "target": "the-mynah-birds",
     "type": "member_of",
-    "intervals": [[1966, 1966]],
+    "intervals": [
+      [
+        1966,
+        1966
+      ]
+    ],
     "weight": 0.5,
     "note": "Toronto band with Bruce Palmer and Rick James; cut an unreleased Motown album.",
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "bruce-palmer",
     "target": "the-mynah-birds",
     "type": "member_of",
-    "intervals": [[1965, 1966]],
+    "intervals": [
+      [
+        1965,
+        1966
+      ]
+    ],
     "weight": 0.8,
     "note": "Bass.",
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "rick-james",
     "target": "the-mynah-birds",
     "type": "member_of",
-    "intervals": [[1965, 1966]],
+    "intervals": [
+      [
+        1965,
+        1966
+      ]
+    ],
     "weight": 0.9,
     "note": "Before his funk career. The single strangest edge in the whole graph.",
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "the-mynah-birds",
     "target": "motown",
     "type": "signed_to",
-    "intervals": [[1966, 1966]],
+    "intervals": [
+      [
+        1966,
+        1966
+      ]
+    ],
     "weight": 0.6,
     "note": "Recorded an album's worth of material, none released at the time.",
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "neil-young",
     "target": "buffalo-springfield",
     "type": "member_of",
-    "intervals": [[1966, 1968], [2010, 2011]],
+    "intervals": [
+      [
+        1966,
+        1968
+      ],
+      [
+        2010,
+        2011
+      ]
+    ],
     "weight": 1.0,
     "note": "Formed after chance meeting with Stills in L.A. Quit several times before leaving for good in May 1968. Reunited for Bridge School shows in 2010-11.",
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "stephen-stills",
     "target": "buffalo-springfield",
     "type": "member_of",
-    "intervals": [[1966, 1968], [2010, 2011]],
+    "intervals": [
+      [
+        1966,
+        1968
+      ],
+      [
+        2010,
+        2011
+      ]
+    ],
     "weight": 1.0,
     "note": null,
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "bruce-palmer",
     "target": "buffalo-springfield",
     "type": "member_of",
-    "intervals": [[1966, 1968]],
+    "intervals": [
+      [
+        1966,
+        1968
+      ]
+    ],
     "weight": 0.9,
     "note": "Rode to L.A. with Young in the Pontiac hearse. Died 2004, so absent from the reunion.",
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "richie-furay",
     "target": "buffalo-springfield",
     "type": "member_of",
-    "intervals": [[1966, 1968], [2010, 2011]],
+    "intervals": [
+      [
+        1966,
+        1968
+      ],
+      [
+        2010,
+        2011
+      ]
+    ],
     "weight": 0.9,
     "note": null,
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "dewey-martin",
     "target": "buffalo-springfield",
     "type": "member_of",
-    "intervals": [[1966, 1968]],
+    "intervals": [
+      [
+        1966,
+        1968
+      ]
+    ],
     "weight": 0.8,
     "note": "Drums. Died 2009, so absent from the reunion.",
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "neil-young",
     "target": "joni-mitchell",
     "type": "collaborated_with",
-    "intervals": [[1964, null]],
+    "intervals": [
+      [
+        1964,
+        null
+      ]
+    ],
     "weight": 0.5,
     "note": "Met on the Canadian folk club and coffeehouse circuit in the mid-'60s.",
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "neil-young",
     "target": "reprise-records",
     "type": "signed_to",
-    "intervals": [[1968, 1982], [1988, null]],
+    "intervals": [
+      [
+        1968,
+        1982
+      ],
+      [
+        1988,
+        null
+      ]
+    ],
     "weight": 1.0,
     "note": "Signed via manager Elliot Roberts; left for Geffen in 1982, returned 1988.",
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "neil-young",
     "target": "geffen-records",
     "type": "signed_to",
-    "intervals": [[1982, 1988]],
+    "intervals": [
+      [
+        1982,
+        1988
+      ]
+    ],
     "weight": 0.8,
     "note": "Promised money and artistic freedom; Geffen then sued him for making 'uncharacteristic' albums.",
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "crazy-horse",
     "target": "the-rockets",
     "type": "spun_off_from",
-    "intervals": [[1969, 1969]],
+    "intervals": [
+      [
+        1969,
+        1969
+      ]
+    ],
     "weight": 1.0,
     "note": "Young renamed the Rockets as Crazy Horse to back him on Everybody Knows This Is Nowhere.",
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "danny-whitten",
     "target": "the-rockets",
     "type": "member_of",
-    "intervals": [[1967, 1969]],
+    "intervals": [
+      [
+        1967,
+        1969
+      ]
+    ],
     "weight": 0.9,
     "note": "Guitar.",
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "billy-talbot",
     "target": "the-rockets",
     "type": "member_of",
-    "intervals": [[1967, 1969]],
+    "intervals": [
+      [
+        1967,
+        1969
+      ]
+    ],
     "weight": 0.9,
     "note": "Bass.",
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "ralph-molina",
     "target": "the-rockets",
     "type": "member_of",
-    "intervals": [[1967, 1969]],
+    "intervals": [
+      [
+        1967,
+        1969
+      ]
+    ],
     "weight": 0.9,
     "note": "Drums.",
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "danny-whitten",
     "target": "crazy-horse",
     "type": "member_of",
-    "intervals": [[1969, 1972]],
+    "intervals": [
+      [
+        1969,
+        1972
+      ]
+    ],
     "weight": 1.0,
     "note": "Died of an overdose in 1972; his death directly inspired Tonight's the Night.",
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "billy-talbot",
     "target": "crazy-horse",
     "type": "member_of",
-    "intervals": [[1969, null]],
+    "intervals": [
+      [
+        1969,
+        null
+      ]
+    ],
     "weight": 1.0,
     "note": "Continuous member for over fifty years.",
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "ralph-molina",
     "target": "crazy-horse",
     "type": "member_of",
-    "intervals": [[1969, null]],
+    "intervals": [
+      [
+        1969,
+        null
+      ]
+    ],
     "weight": 1.0,
     "note": "Continuous member for over fifty years.",
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "frank-sampedro",
     "target": "crazy-horse",
     "type": "member_of",
-    "intervals": [[1975, 2018]],
+    "intervals": [
+      [
+        1975,
+        2018
+      ]
+    ],
     "weight": 0.9,
     "note": "Retired; declined the 2018 California shows.",
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "nils-lofgren",
     "target": "crazy-horse",
     "type": "member_of",
-    "intervals": [[2018, null]],
+    "intervals": [
+      [
+        2018,
+        null
+      ]
+    ],
     "weight": 0.8,
     "note": "Took over the guitar role vacated by Sampedro, from Colorado (2019) onward.",
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "neil-young",
     "target": "crazy-horse",
     "type": "collaborated_with",
-    "intervals": [[1969, null]],
+    "intervals": [
+      [
+        1969,
+        null
+      ]
+    ],
     "weight": 1.0,
-    "note": "His 'home base' for over five decades — Everybody Knows This Is Nowhere through Barn and World Record.",
-    "sources": ["neil-young.spotify"]
+    "note": "His 'home base' for over five decades \u2014 Everybody Knows This Is Nowhere through Barn and World Record.",
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "david-crosby",
     "target": "crosby-stills-nash",
     "type": "member_of",
-    "intervals": [[1968, null]],
+    "intervals": [
+      [
+        1968,
+        null
+      ]
+    ],
     "weight": 1.0,
     "note": null,
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "stephen-stills",
     "target": "crosby-stills-nash",
     "type": "member_of",
-    "intervals": [[1968, null]],
+    "intervals": [
+      [
+        1968,
+        null
+      ]
+    ],
     "weight": 1.0,
     "note": null,
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "graham-nash",
     "target": "crosby-stills-nash",
     "type": "member_of",
-    "intervals": [[1968, null]],
+    "intervals": [
+      [
+        1968,
+        null
+      ]
+    ],
     "weight": 1.0,
     "note": null,
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "csny",
     "target": "crosby-stills-nash",
     "type": "spun_off_from",
-    "intervals": [[1969, 1969]],
+    "intervals": [
+      [
+        1969,
+        1969
+      ]
+    ],
     "weight": 1.0,
     "note": "Young joined CSN in time for Deja Vu (spring 1970).",
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "neil-young",
     "target": "csny",
     "type": "member_of",
-    "intervals": [[1969, 1971], [1988, 1988], [1999, 2000]],
+    "intervals": [
+      [
+        1969,
+        1971
+      ],
+      [
+        1988,
+        1988
+      ],
+      [
+        1999,
+        2000
+      ]
+    ],
     "weight": 0.9,
     "note": "Volatile from the start; split by the spring 1971 Four Way Street. Reunions: American Dream (1988), Looking Forward (1999).",
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "neil-young",
     "target": "stephen-stills",
     "type": "collaborated_with",
-    "intervals": [[1976, 1976]],
+    "intervals": [
+      [
+        1976,
+        1976
+      ]
+    ],
     "weight": 0.6,
-    "note": "Long May You Run duet album — Young abandoned the supporting tour midway.",
-    "sources": ["neil-young.spotify"]
+    "note": "Long May You Run duet album \u2014 Young abandoned the supporting tour midway.",
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "neil-young",
     "target": "the-stray-gators",
     "type": "collaborated_with",
-    "intervals": [[1971, 1973]],
+    "intervals": [
+      [
+        1971,
+        1973
+      ]
+    ],
     "weight": 0.7,
     "note": "Backed Harvest and the raw Time Fades Away tour.",
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "neil-young",
     "target": "nicolette-larson",
     "type": "collaborated_with",
-    "intervals": [[1977, 1978]],
+    "intervals": [
+      [
+        1977,
+        1978
+      ]
+    ],
     "weight": 0.5,
     "note": "Vocals on American Stars 'n Bars and Comes a Time.",
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "neil-young",
     "target": "the-ducks",
     "type": "member_of",
-    "intervals": [[1977, 1977]],
+    "intervals": [
+      [
+        1977,
+        1977
+      ]
+    ],
     "weight": 0.4,
     "note": "Short-lived unannounced barroom band; first officially released on High Flyin' (2023).",
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "neil-young",
     "target": "the-international-harvesters",
     "type": "collaborated_with",
-    "intervals": [[1984, 1985]],
+    "intervals": [
+      [
+        1984,
+        1985
+      ]
+    ],
     "weight": 0.6,
     "note": "The straight-country phase; documented on A Treasure (2011).",
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "neil-young",
     "target": "sonic-youth",
     "type": "mentored",
-    "intervals": [[1991, 1991]],
+    "intervals": [
+      [
+        1991,
+        1991
+      ]
+    ],
     "weight": 0.8,
-    "note": "Hired them to open the Ragged Glory tour, giving them exposure and himself alt-rock credibility. They in turn advised adding the Arc noise EP to Weld — influence running both directions.",
-    "sources": ["neil-young.spotify"]
+    "note": "Hired them to open the Ragged Glory tour, giving them exposure and himself alt-rock credibility. They in turn advised adding the Arc noise EP to Weld \u2014 influence running both directions.",
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "neil-young",
     "target": "pearl-jam",
     "type": "collaborated_with",
-    "intervals": [[1995, 1995]],
+    "intervals": [
+      [
+        1995,
+        1995
+      ]
+    ],
     "weight": 0.8,
     "note": "Mirror Ball. Pearl Jam's name could not legally appear on the cover.",
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "pearl-jam",
     "target": "neil-young",
     "type": "influenced_by",
-    "intervals": [[1990, null]],
+    "intervals": [
+      [
+        1990,
+        null
+      ]
+    ],
     "weight": 0.9,
-    "note": "The 'Godfather of Grunge' lineage — Young as forefather to the Seattle scene.",
-    "sources": ["neil-young.spotify"]
+    "note": "The 'Godfather of Grunge' lineage \u2014 Young as forefather to the Seattle scene.",
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "sonic-youth",
     "target": "neil-young",
     "type": "influenced_by",
-    "intervals": [[1990, null]],
+    "intervals": [
+      [
+        1990,
+        null
+      ]
+    ],
     "weight": 0.6,
     "note": "Feedback and noise lineage running from Ragged Glory / Arc.",
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "neil-young",
     "target": "bob-dylan",
     "type": "covered",
-    "intervals": [[2020, 2020]],
+    "intervals": [
+      [
+        2020,
+        2020
+      ]
+    ],
     "weight": 0.7,
     "note": "Covered 'The Times They Are A-Changin'' on The Times EP, two months before the 2020 election.",
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "neil-young",
     "target": "promise-of-the-real",
     "type": "collaborated_with",
-    "intervals": [[2015, 2019]],
+    "intervals": [
+      [
+        2015,
+        2019
+      ]
+    ],
     "weight": 0.8,
     "note": "The Monsanto Years, Earth, The Visitor, Paradox, Noise & Flowers.",
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "lukas-nelson",
     "target": "promise-of-the-real",
     "type": "member_of",
-    "intervals": [[2008, null]],
+    "intervals": [
+      [
+        2008,
+        null
+      ]
+    ],
     "weight": 1.0,
     "note": "Bandleader.",
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "lukas-nelson",
     "target": "willie-nelson",
     "type": "influenced_by",
-    "intervals": [[1988, null]],
+    "intervals": [
+      [
+        1988,
+        null
+      ]
+    ],
     "weight": 0.9,
     "note": "Son of Willie Nelson, Young's close friend.",
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "neil-young",
     "target": "willie-nelson",
     "type": "collaborated_with",
-    "intervals": [[1985, null]],
+    "intervals": [
+      [
+        1985,
+        null
+      ]
+    ],
     "weight": 0.6,
     "note": "Close friends; Farm Aid co-founders.",
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "rick-rubin",
     "target": "neil-young",
     "type": "produced",
-    "intervals": [[2022, 2022]],
+    "intervals": [
+      [
+        2022,
+        2022
+      ]
+    ],
     "weight": 0.7,
-    "note": "World Record — tracked live in the studio, mixed to analog tape.",
-    "sources": ["neil-young.spotify"]
+    "note": "World Record \u2014 tracked live in the studio, mixed to analog tape.",
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "daniel-lanois",
     "target": "neil-young",
     "type": "produced",
-    "intervals": [[2010, 2010]],
+    "intervals": [
+      [
+        2010,
+        2010
+      ]
+    ],
     "weight": 0.7,
     "note": "Le Noise.",
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "neil-young",
     "target": "jack-white",
     "type": "collaborated_with",
-    "intervals": [[2014, 2014]],
+    "intervals": [
+      [
+        2014,
+        2014
+      ]
+    ],
     "weight": 0.6,
-    "note": "A Letter Home, cut in White's Third Man studio in Nashville — a covers album of Young's own favorite songwriters.",
-    "sources": ["neil-young.spotify"]
+    "note": "A Letter Home, cut in White's Third Man studio in Nashville \u2014 a covers album of Young's own favorite songwriters.",
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "levon-helm",
     "target": "the-band",
     "type": "member_of",
-    "intervals": [[1967, 1999]],
+    "intervals": [
+      [
+        1967,
+        1999
+      ]
+    ],
     "weight": 1.0,
     "note": "Drums and vocals.",
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "neil-young",
     "target": "levon-helm",
     "type": "collaborated_with",
-    "intervals": [[1977, 1977]],
+    "intervals": [
+      [
+        1977,
+        1977
+      ]
+    ],
     "weight": 0.5,
     "note": "Helm played drums on one track of the 1977 Oceanside Countryside sessions, released 2025.",
-    "sources": ["neil-young.spotify"]
+    "sources": [
+      "neil-young.spotify"
+    ]
   },
   {
     "source": "neil-young",
     "target": "ry-cooder",
     "type": "collaborated_with",
-    "intervals": [[1974, 1974]],
+    "intervals": [
+      [
+        1974,
+        1974
+      ]
+    ],
     "weight": 0.3,
-    "note": "Shared a 1974 Bottom Line bill with Cooder and Leon Redbone — the Citizen Kane Jr. Blues set.",
-    "sources": ["neil-young.spotify"]
+    "note": "Shared a 1974 Bottom Line bill with Cooder and Leon Redbone \u2014 the Citizen Kane Jr. Blues set.",
+    "sources": [
+      "neil-young.spotify"
+    ]
   }
 ]

@@ -87,13 +87,14 @@ def year_of(date_str: str | None) -> int | None:
     return int(m.group(1)) if m else None
 
 
-def resolve_mbid(node: dict) -> str | None:
-    """Search MusicBrainz for a node by name, constrained by kind."""
-    mb_type = {"person": "person", "band": "group"}.get(node["kind"])
-    query = f'artist:"{node["name"]}"'
-    if mb_type:
-        query += f" AND type:{mb_type}"
-    res = get("artist", query=query, limit=5)
+def resolve_mbid(node: dict) -> dict | None:
+    """Search MusicBrainz by name and return the best matching artist dict.
+
+    We do NOT constrain by kind: Spotify-seeded nodes are all tagged 'person'
+    even when they're bands, so constraining would miss every band. Instead we
+    read the matched entity's own type back and let the caller fix the kind.
+    """
+    res = get("artist", query=f'artist:"{node["name"]}"', limit=5)
     for a in res.get("artists", []):
         # MB scores 0-100; below ~85 the match is usually a different artist.
         if a.get("score", 0) < 85:
@@ -101,7 +102,7 @@ def resolve_mbid(node: dict) -> str | None:
         born = year_of((a.get("life-span") or {}).get("begin"))
         if node.get("born") and born and abs(node["born"] - born) > 2:
             continue  # right name, wrong person
-        return a["id"]
+        return a
     return None
 
 
@@ -142,16 +143,31 @@ def main() -> int:
         if n.get("mbid"):
             continue
         try:
-            mbid = resolve_mbid(n)
+            match = resolve_mbid(n)
         except Exception as exc:  # network hiccup shouldn't lose prior work
             print(f"  !! {n['id']}: {exc}", file=sys.stderr)
             continue
-        if mbid:
-            n["mbid"] = mbid
-            changed_nodes.append(n["id"])
-            print(f"  mbid {n['id']} -> {mbid}")
-        else:
+        if not match:
             print(f"  ??  {n['id']}: no confident MusicBrainz match")
+            continue
+        n["mbid"] = match["id"]
+        fixes = []
+        # Correct kind from MB's own typing (Spotify tagged everything 'person').
+        mb_kind = {"Group": "band", "Person": "person"}.get(match.get("type"))
+        if mb_kind and mb_kind != n["kind"]:
+            n["kind"] = mb_kind
+            fixes.append(f"kind->{mb_kind}")
+        # Fill in formed/born and dissolved/died years when we don't have them.
+        span = match.get("life-span") or {}
+        if not n.get("born") and year_of(span.get("begin")):
+            n["born"] = year_of(span.get("begin")); fixes.append(f"born {n['born']}")
+        if not n.get("died") and year_of(span.get("end")):
+            n["died"] = year_of(span.get("end")); fixes.append(f"died {n['died']}")
+        if "musicbrainz" not in n.get("sources", []):
+            n.setdefault("sources", []).append("musicbrainz")
+        changed_nodes.append(n["id"])
+        tail = ("  " + ", ".join(fixes)) if fixes else ""
+        print(f"  mbid {n['id']} -> {match['id']}{tail}")
 
     # --- expand relations ------------------------------------------------
     for n in targets:
