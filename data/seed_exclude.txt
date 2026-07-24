@@ -1,0 +1,13 @@
+# Artist slugs to exclude when seeding from Spotify.
+# These rode in on a shared/family account but aren't "bands of mine".
+# One slug per line; # starts a comment. Re-runs of the importers honor this.
+peppa-pig
+blippi
+danny-go
+screen-team
+saja-boys
+bluey
+daniel-tigers-neighborhood
+super-simple-songs
+twenty-trucks
+bobs-lolo

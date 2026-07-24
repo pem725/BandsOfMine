@@ -257,20 +257,30 @@ def collect_artists(token: str, time_range: str, top_only: bool) -> dict[str, di
         if not items:
             break
         for it in items:
-            for a in it.get("track", {}).get("artists", []):
-                saved_artist_ids[a["id"]] = saved_artist_ids.get(a["id"], 0) + 1
+            for a in (it.get("track") or {}).get("artists", []):
+                aid = a.get("id")
+                if not aid:  # local files have null artist ids — skip them
+                    continue
+                saved_artist_ids[aid] = saved_artist_ids.get(aid, 0) + 1
         offset += 50
     # Only artists you've saved 2+ tracks from, to cut one-off features.
     strong = [aid for aid, c in saved_artist_ids.items() if c >= 2 and aid not in found]
+    enriched = 0
     for chunk_start in range(0, len(strong), 50):
-        ids = strong[chunk_start:chunk_start + 50]
+        ids = [i for i in strong[chunk_start:chunk_start + 50] if i]
         if not ids:
+            continue
+        try:
+            full = api_get("artists", token, ids=",".join(ids)).get("artists", [])
+        except Exception as exc:
+            # Enrichment is a bonus; never let it discard the top/followed data.
+            print(f"  (saved-track enrichment skipped: {exc})")
             break
-        full = api_get("artists", token, ids=",".join(ids)).get("artists", [])
         for a in full:
-            if a:
+            if a and a.get("id"):
                 bump(a, 0.6, f"{saved_artist_ids[a['id']]} saved tracks")
-    print(f"  artists from saved tracks (2+ tracks): {len(strong)}")
+                enriched += 1
+    print(f"  artists from saved tracks (2+ tracks): {enriched}")
 
     return found
 
@@ -278,14 +288,32 @@ def collect_artists(token: str, time_range: str, top_only: bool) -> dict[str, di
 # ----------------------------------------------------------------------
 # merge into the graph
 # ----------------------------------------------------------------------
+def load_excludes() -> set[str]:
+    """Slugs to skip when seeding (kids' content on a shared account, etc.)."""
+    f = ROOT / "data" / "seed_exclude.txt"
+    if not f.exists():
+        return set()
+    out = set()
+    for line in f.read_text().splitlines():
+        line = line.split("#", 1)[0].strip()
+        if line:
+            out.add(line)
+    return out
+
+
 def merge(found: dict[str, dict], write: bool) -> int:
     nodes = json.loads((GRAPH / "nodes.json").read_text())
     by_spotify = {n.get("spotify_id"): n for n in nodes if n.get("spotify_id")}
     by_slug = {n["id"]: n for n in nodes}
+    excludes = load_excludes()
 
     added = 0
     promoted = 0
+    skipped = 0
     for aid, info in sorted(found.items(), key=lambda kv: -kv[1]["weight"]):
+        if slugify(info["name"]) in excludes:
+            skipped += 1
+            continue
         existing = by_spotify.get(aid)
         if not existing:
             # maybe the artist is already in the graph by slug but without a spotify_id
@@ -331,7 +359,8 @@ def merge(found: dict[str, dict], write: bool) -> int:
         added += 1
         print(f"  + {node['id']}  (weight {info['weight']}, {why})")
 
-    print(f"\n{added} new seed artists, {promoted} existing nodes promoted to seed.")
+    print(f"\n{added} new seed artists, {promoted} existing nodes promoted to seed"
+          f", {skipped} skipped via seed_exclude.txt.")
     if not write:
         print("(dry run -- pass --write to apply, then run validate_graph.py)")
         return 0
