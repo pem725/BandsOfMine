@@ -26,3 +26,8 @@ node_modules/
 data/cache/spotify_token.json
 data/cache/
 .venv-audio/
+
+# Personal Spotify data export (never commit)
+my_spotify_data.zip
+MyData/
+data/raw/spotify_export/

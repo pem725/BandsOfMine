@@ -183,10 +183,13 @@ function measure() {
 measure();
 new ResizeObserver(() => { measure(); sim.alpha(0.3).restart(); }).observe(container);
 
-// Node size reflects how connected someone was *in the current year*.
+// Node size blends two things: how connected someone was *in the current year*
+// (degree) and how much you actually LOVE them — play-time from your Spotify
+// export (play_weight) or how deep your local library runs (local_weight).
 // Declared before the simulation because forceCollide() closes over radius().
 let degree = new Map();
-const radius = d => 5 + Math.sqrt(degree.get(d.id) || 0) * 3.4;
+const love = d => Math.max(d.play_weight || 0, d.local_weight || 0);  // 0..1
+const radius = d => 4 + Math.sqrt(degree.get(d.id) || 0) * 2.6 + love(d) * 10;
 
 const sim = d3.forceSimulation(nodes)
   .force("link", d3.forceLink([]).id(d => d.id).distance(d => 60 + 60 * (1 - d.weight)).strength(d => 0.15 + 0.5 * d.weight))

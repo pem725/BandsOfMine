@@ -87,14 +87,27 @@ def kmeans(Z: np.ndarray, k: int, iters: int = 100) -> np.ndarray:
     return labels
 
 
-def describe_cluster(feats: dict, members: list[str]) -> str:
-    """A short human label from the cluster's average tempo/brightness/energy."""
-    tempos = [feats[m]["tempo"] for m in members]
-    brights = [feats[m]["brightness"] for m in members]
-    t, b = float(np.median(tempos)), float(np.median(brights))
-    pace = "slow" if t < 95 else "midtempo" if t < 125 else "driving"
-    tone = "warm/dark" if b < 2100 else "balanced" if b < 2700 else "bright"
-    return f"{pace}, {tone} (~{t:.0f} BPM)"
+def describe_cluster(feats: dict, members: list[str], glob: dict) -> str:
+    """Label a cluster by the traits on which it most departs from the whole library."""
+    def z(name):
+        vals = [feats[m][name] for m in members]
+        return (float(np.mean(vals)) - glob[name][0]) / (glob[name][1] + 1e-9)
+    traits = []
+    # (feature, low-word, high-word)
+    for name, lo, hi in [
+        ("tempo", "relaxed", "driving"),
+        ("brightness", "warm/dark", "bright"),
+        ("energy", "gentle", "loud"),
+        ("percussive", "smooth", "gritty"),
+        ("dynamics", "steady", "dynamic"),
+    ]:
+        zz = z(name)
+        if abs(zz) > 0.45:
+            traits.append((abs(zz), hi if zz > 0 else lo))
+    traits.sort(reverse=True)
+    words = ", ".join(w for _, w in traits[:3]) or "middle-of-the-road"
+    t = float(np.median([feats[m]["tempo"] for m in members]))
+    return f"{words} (~{t:.0f} BPM)"
 
 
 def main() -> int:
@@ -106,6 +119,13 @@ def main() -> int:
     if not FEATURES.exists():
         sys.exit("No audio_features.json yet — run analyze_audio.py first.")
     feats = json.loads(FEATURES.read_text())
+    # Drop non-music noise (ringtones, podcasts, compilations) per the shared list.
+    exf = GRAPH.parent / "seed_exclude.txt"
+    if exf.exists():
+        excl = {ln.split("#", 1)[0].strip() for ln in exf.read_text().splitlines()
+                if ln.split("#", 1)[0].strip()}
+        excl |= {"ringtones", "bumisc", "podcasts", "kaldor"}
+        feats = {s: f for s, f in feats.items() if s not in excl}
     if len(feats) < args.clusters + 2:
         sys.exit(f"Only {len(feats)} artists analyzed; need more before clustering.")
 
@@ -143,12 +163,22 @@ def main() -> int:
             "neighbors": [[slugs[j], round(float(sim[i, j]), 3)] for j in order],
         }
 
+    # Global mean/std per feature, for describing how each cluster departs.
+    glob = {name: (float(np.mean([feats[s][name] for s in slugs])),
+                   float(np.std([feats[s][name] for s in slugs])))
+            for name in ("tempo", "brightness", "energy", "percussive", "dynamics")}
+
     clusters = {}
     for j in range(k):
-        members = [slugs[i] for i in range(len(slugs)) if labels[i] == j]
+        idx = [i for i in range(len(slugs)) if labels[i] == j]
+        members = [slugs[i] for i in idx]
+        centroid = Z[idx].mean(axis=0)
+        # representatives = closest to the cluster centre (most characteristic)
+        central = sorted(idx, key=lambda i: float(np.linalg.norm(Z[i] - centroid)))
         clusters[str(j)] = {
-            "label": describe_cluster(feats, members),
+            "label": describe_cluster(feats, members, glob),
             "size": len(members),
+            "representatives": [slugs[i] for i in central[:8]],
             "members": sorted(members, key=lambda m: -artists[m]["uniqueness"]),
         }
 
@@ -170,7 +200,7 @@ def main() -> int:
     print(f"{len(slugs)} artists mapped into {k} sonic clusters -> {OUT.relative_to(ROOT)}\n")
     for j in range(k):
         c = clusters[str(j)]
-        sample = ", ".join(feats[m].get("name", m) for m in c["members"][:6])
+        sample = ", ".join(feats[m].get("name", m) for m in c["representatives"][:6])
         print(f"  cluster {j}: {c['label']}  ({c['size']})")
         print(f"     {sample}")
     print("\n  most sonically unique (they diverge from everything):")

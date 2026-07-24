@@ -15,3 +15,11 @@ bobs-lolo
 compilations
 willard-harley
 plexvideo
+podcasts
+kindermusik
+various-artists
+comet-1993
+kids
+# --- kids' streaming-history noise from the Spotify export ---
+peppa
+super-simple-songs-kids-songs
