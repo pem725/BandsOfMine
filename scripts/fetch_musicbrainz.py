@@ -116,6 +116,11 @@ def main() -> int:
     ap.add_argument("--resolve", action="store_true", help="fill in missing mbids")
     ap.add_argument("--expand", metavar="NODE_ID", help="pull relations for one node")
     ap.add_argument("--expand-seeds", action="store_true", help="expand every seed:true node")
+    ap.add_argument("--expand-bands", action="store_true",
+                    help="expand only band nodes (their members connect the graph)")
+    ap.add_argument("--link-only", action="store_true",
+                    help="with expand: only add edges between artists ALREADY in the graph; "
+                         "don't pull in new member nodes")
     ap.add_argument("--write", action="store_true", help="actually write the graph files")
     args = ap.parse_args()
 
@@ -134,6 +139,8 @@ def main() -> int:
             print(f"no such node: {args.expand}", file=sys.stderr)
             return 1
         targets = [by_id[args.expand]]
+    elif args.expand_bands:
+        targets = [n for n in nodes if n.get("seed") and n.get("kind") == "band"]
     elif args.expand_seeds:
         targets = [n for n in nodes if n.get("seed")]
 
@@ -188,10 +195,24 @@ def main() -> int:
             if not other.get("name"):
                 continue
 
-            oid = next(
-                (m["id"] for m in nodes + new_nodes if m.get("mbid") == other["id"]),
-                slugify(other["name"]),
+            # Is this other artist already in the graph? Match by MBID first,
+            # then by slug (so we connect existing nodes rather than dup them).
+            slug = slugify(other["name"])
+            match_id = next(
+                (m["id"] for m in nodes + new_nodes
+                 if m.get("mbid") and m["mbid"] == other["id"]),
+                None,
             )
+            if match_id is None and (slug in by_id or any(m["id"] == slug for m in new_nodes)):
+                match_id = slug
+            known = match_id is not None
+
+            # --link-only: draw edges among artists you already have; don't
+            # pull every sideman on Earth into the graph.
+            if args.link_only and not known:
+                continue
+
+            oid = match_id or slug
             if oid not in by_id and not any(m["id"] == oid for m in new_nodes):
                 new_nodes.append(
                     {

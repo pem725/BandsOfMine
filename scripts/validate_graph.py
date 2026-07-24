@@ -31,9 +31,9 @@ EDGE_ENDPOINTS = {
     "produced": ({"person"}, {"person", "band"}),
 }
 
-# Wide enough for classical composers and old orchestras (Berlin Phil, 1882;
-# Beethoven, 1770) while still catching typos like a year of 42 or 20250.
-MIN_YEAR, MAX_YEAR = 1700, 2100
+# Wide enough for baroque composers (Vivaldi 1678, Handel/Bach 1685) and old
+# orchestras while still catching typos like a year of 42 or 20250.
+MIN_YEAR, MAX_YEAR = 1600, 2100
 
 
 def main() -> int:
@@ -98,7 +98,9 @@ def main() -> int:
 
         intervals = e.get("intervals") or []
         if not intervals:
-            errors.append(f"{tag}: no intervals — a temporal graph needs time")
+            # Dateless memberships are legitimate (MusicBrainz often lacks years);
+            # the viz treats them as always-on. Worth noting, not fatal.
+            warnings.append(f"{tag}: no dates — edge shows in all years")
         prev_end = None
         for iv in intervals:
             if not (isinstance(iv, list) and len(iv) == 2):

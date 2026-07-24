@@ -158,8 +158,11 @@ const years = edges.flatMap(e => e.intervals.flat()).filter(y => y != null);
 const MIN_YEAR = Math.min(...years);
 const MAX_YEAR = Math.max(new Date().getFullYear(), Math.max(...years));
 
-/** An edge is live in year y if any of its intervals contains y. */
+/** An edge is live in year y if any of its intervals contains y.
+ *  A dateless edge (empty intervals — common for MusicBrainz memberships with
+ *  no recorded years) is treated as always-on so it never silently disappears. */
 const liveIn = (e, y) =>
+  !e.intervals.length ||
   e.intervals.some(([s, t]) => s != null && s <= y && (t == null || y <= t));
 
 // --- svg scaffold ------------------------------------------------------
@@ -232,7 +235,10 @@ function render() {
           .attr("stroke-width", d => d.seed ? 2.5 : 1.5)
           .attr("stroke", d => d.seed ? "#fff" : "var(--bg)");
         g.append("text").attr("dy", -10).attr("text-anchor", "middle").text(d => d.name);
-        g.on("click", (_, d) => select(d)).call(drag());
+        g.on("click", (_, d) => select(d))
+         .on("mouseover", (_, d) => hover(d, true))
+         .on("mouseout", (_, d) => hover(d, false))
+         .call(drag());
         g.transition().duration(250).attr("opacity", 1);
         return g;
       },
@@ -241,7 +247,13 @@ function render() {
     );
 
   nodeSel.select("circle").transition().duration(250).attr("r", radius);
-  nodeSel.select("text").attr("dy", d => -radius(d) - 4);
+  // With hundreds of nodes, showing every label is a hairball. Label only your
+  // seed artists and the well-connected hubs; the rest surface on hover/select.
+  const labelCut = visible.length > 60 ? 4 : 0;
+  nodeSel.select("text")
+    .attr("dy", d => -radius(d) - 4)
+    .style("display", d =>
+      (d.seed || (degree.get(d.id) || 0) >= labelCut) ? null : "none");
 
   sim.nodes(visible);
   sim.force("link").links(live.map(e => ({ ...e, source: e.source, target: e.target })));
@@ -264,6 +276,13 @@ function drag() {
     .on("start", (ev, d) => { if (!ev.active) sim.alphaTarget(0.3).restart(); d.fx = d.x; d.fy = d.y; })
     .on("drag",  (ev, d) => { d.fx = ev.x; d.fy = ev.y; })
     .on("end",   (ev, d) => { if (!ev.active) sim.alphaTarget(0); d.fx = null; d.fy = null; });
+}
+
+// Reveal an otherwise-hidden label while hovering, and bring the node forward.
+function hover(d, on) {
+  nodeSel.filter(n => n === d).select("text")
+    .style("display", on ? null : (d.seed || (degree.get(d.id) || 0) >= (nodeSel.size() > 60 ? 4 : 0)) ? null : "none")
+    .style("font-weight", on ? "700" : null);
 }
 
 // --- selection ---------------------------------------------------------
