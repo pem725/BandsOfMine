@@ -24,3 +24,5 @@ node_modules/
 .spotify_client_id
 .env
 data/cache/spotify_token.json
+data/cache/
+.venv-audio/

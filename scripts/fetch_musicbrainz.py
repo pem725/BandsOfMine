@@ -118,6 +118,9 @@ def main() -> int:
     ap.add_argument("--expand-seeds", action="store_true", help="expand every seed:true node")
     ap.add_argument("--expand-bands", action="store_true",
                     help="expand only band nodes (their members connect the graph)")
+    ap.add_argument("--expand-persons", action="store_true",
+                    help="expand every person node with an mbid (find every band each "
+                         "person joined — Joe Walsh -> James Gang, Barnstorm, Eagles...)")
     ap.add_argument("--link-only", action="store_true",
                     help="with expand: only add edges between artists ALREADY in the graph; "
                          "don't pull in new member nodes")
@@ -141,6 +144,8 @@ def main() -> int:
         targets = [by_id[args.expand]]
     elif args.expand_bands:
         targets = [n for n in nodes if n.get("seed") and n.get("kind") == "band"]
+    elif args.expand_persons:
+        targets = [n for n in nodes if n.get("kind") == "person" and n.get("mbid")]
     elif args.expand_seeds:
         targets = [n for n in nodes if n.get("seed")]
 
