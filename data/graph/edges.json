@@ -118391,5 +118391,346 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "source": "bruce-springsteen",
+    "target": "bob-dylan",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Bruce Springsteen influenced by Bob Dylan. Source: rollingstone.com / publicradiotulsa.org \u2014 Springsteen heroes",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "bruce-springsteen",
+    "target": "woody-guthrie",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Bruce Springsteen influenced by Woody Guthrie. Source: rollingstone.com / publicradiotulsa.org \u2014 Springsteen heroes",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "bruce-springsteen",
+    "target": "pete-seeger",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Bruce Springsteen influenced by Pete Seeger. Source: rollingstone.com / publicradiotulsa.org \u2014 Springsteen heroes",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "bruce-springsteen",
+    "target": "eddie-cochran",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Bruce Springsteen influenced by Eddie Cochran. Source: rollingstone.com / publicradiotulsa.org \u2014 Springsteen heroes",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "eagles",
+    "target": "the-byrds",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Eagles influenced by The Byrds. Source: ebsco.com / rollingstone.com \u2014 Eagles influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "eagles",
+    "target": "the-flying-burrito-brothers",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Eagles influenced by The Flying Burrito Brothers. Source: ebsco.com / rollingstone.com \u2014 Eagles influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "eagles",
+    "target": "linda-ronstadt",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Eagles influenced by Linda Ronstadt. Source: ebsco.com / rollingstone.com \u2014 Eagles influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "eric-clapton",
+    "target": "robert-johnson",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Eric Clapton influenced by Robert Johnson. Source: rollingstone.com / musicradar.com \u2014 Clapton blues influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "eric-clapton",
+    "target": "b-b-king",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Eric Clapton influenced by B.B. King. Source: rollingstone.com / musicradar.com \u2014 Clapton blues influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "eric-clapton",
+    "target": "muddy-waters",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Eric Clapton influenced by Muddy Waters. Source: rollingstone.com / musicradar.com \u2014 Clapton blues influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "eric-clapton",
+    "target": "hubert-sumlin",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Eric Clapton influenced by Hubert Sumlin. Source: rollingstone.com / musicradar.com \u2014 Clapton blues influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "eric-clapton",
+    "target": "chuck-berry",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Eric Clapton influenced by Chuck Berry. Source: rollingstone.com / musicradar.com \u2014 Clapton blues influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "eric-clapton",
+    "target": "freddie-king",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Eric Clapton influenced by Freddie King. Source: rollingstone.com / musicradar.com \u2014 Clapton blues influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "santana",
+    "target": "t-bone-walker",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Santana influenced by T-Bone Walker. Source: britannica.com / encyclopedia.com \u2014 Carlos Santana influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "santana",
+    "target": "b-b-king",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Santana influenced by B.B. King. Source: britannica.com / encyclopedia.com \u2014 Carlos Santana influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "santana",
+    "target": "tito-puente",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Santana influenced by Tito Puente. Source: britannica.com / encyclopedia.com \u2014 Carlos Santana influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "santana",
+    "target": "ray-barretto",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Santana influenced by Ray Barretto. Source: britannica.com / encyclopedia.com \u2014 Carlos Santana influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "santana",
+    "target": "eddie-palmieri",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Santana influenced by Eddie Palmieri. Source: britannica.com / encyclopedia.com \u2014 Carlos Santana influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "santana",
+    "target": "john-coltrane",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Santana influenced by John Coltrane. Source: britannica.com / encyclopedia.com \u2014 Carlos Santana influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "santana",
+    "target": "miles-davis",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Santana influenced by Miles Davis. Source: britannica.com / encyclopedia.com \u2014 Carlos Santana influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "santana",
+    "target": "john-mclaughlin",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Santana influenced by John McLaughlin. Source: britannica.com / encyclopedia.com \u2014 Carlos Santana influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "steely-dan",
+    "target": "duke-ellington",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Steely Dan influenced by Duke Ellington. Source: faroutmagazine.co.uk / newmusicusa.org \u2014 Steely Dan jazz heroes",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "steely-dan",
+    "target": "charlie-parker",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Steely Dan influenced by Charlie Parker. Source: faroutmagazine.co.uk / newmusicusa.org \u2014 Steely Dan jazz heroes",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "steely-dan",
+    "target": "bill-evans",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Steely Dan influenced by Bill Evans. Source: faroutmagazine.co.uk / newmusicusa.org \u2014 Steely Dan jazz heroes",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "steely-dan",
+    "target": "charles-mingus",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Steely Dan influenced by Charles Mingus. Source: faroutmagazine.co.uk / newmusicusa.org \u2014 Steely Dan jazz heroes",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "steely-dan",
+    "target": "sonny-rollins",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Steely Dan influenced by Sonny Rollins. Source: faroutmagazine.co.uk / newmusicusa.org \u2014 Steely Dan jazz heroes",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "steely-dan",
+    "target": "stan-getz",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Steely Dan influenced by Stan Getz. Source: faroutmagazine.co.uk / newmusicusa.org \u2014 Steely Dan jazz heroes",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "steely-dan",
+    "target": "horace-silver",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Steely Dan influenced by Horace Silver. Source: faroutmagazine.co.uk / newmusicusa.org \u2014 Steely Dan jazz heroes",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-doobie-brothers",
+    "target": "moby-grape",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Doobie Brothers influenced by Moby Grape. Source: relix.com \u2014 Doobie Brothers / Moby Grape",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "simon-and-garfunkel",
+    "target": "the-everly-brothers",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Simon And Garfunkel influenced by The Everly Brothers. Source: faroutmagazine.co.uk \u2014 Simon & Garfunkel / Everly Brothers",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "allman-brothers-band",
+    "target": "the-band",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Allman Brothers Band influenced by The Band. Source: britannica.com \u2014 The Band's influence on the Allman Brothers",
+    "sources": [
+      "web-curated"
+    ]
   }
 ]

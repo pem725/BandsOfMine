@@ -68,5 +68,45 @@
     "artist": "mumford-sons",
     "influences": ["Old Crow Medicine Show"],
     "source": "wikipedia — Old Crow Medicine Show influence on the string-band revival"
+  },
+  {
+    "artist": "bruce-springsteen",
+    "influences": ["Bob Dylan", "Woody Guthrie", "Pete Seeger", "Eddie Cochran"],
+    "source": "rollingstone.com / publicradiotulsa.org — Springsteen heroes"
+  },
+  {
+    "artist": "eagles",
+    "influences": ["The Byrds", "The Flying Burrito Brothers", "Linda Ronstadt"],
+    "source": "ebsco.com / rollingstone.com — Eagles influences"
+  },
+  {
+    "artist": "eric-clapton",
+    "influences": ["Robert Johnson", "B.B. King", "Muddy Waters", "Hubert Sumlin", "Chuck Berry", "Freddie King"],
+    "source": "rollingstone.com / musicradar.com — Clapton blues influences"
+  },
+  {
+    "artist": "santana",
+    "influences": ["T-Bone Walker", "B.B. King", "Tito Puente", "Ray Barretto", "Eddie Palmieri", "John Coltrane", "Miles Davis", "John McLaughlin"],
+    "source": "britannica.com / encyclopedia.com — Carlos Santana influences"
+  },
+  {
+    "artist": "steely-dan",
+    "influences": ["Duke Ellington", "Charlie Parker", "Bill Evans", "Charles Mingus", "Sonny Rollins", "Stan Getz", "Horace Silver"],
+    "source": "faroutmagazine.co.uk / newmusicusa.org — Steely Dan jazz heroes"
+  },
+  {
+    "artist": "the-doobie-brothers",
+    "influences": ["Moby Grape"],
+    "source": "relix.com — Doobie Brothers / Moby Grape"
+  },
+  {
+    "artist": "simon-and-garfunkel",
+    "influences": ["The Everly Brothers"],
+    "source": "faroutmagazine.co.uk — Simon & Garfunkel / Everly Brothers"
+  },
+  {
+    "artist": "allman-brothers-band",
+    "influences": ["The Band"],
+    "source": "britannica.com — The Band's influence on the Allman Brothers"
   }
 ]
