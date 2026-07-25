@@ -119051,5 +119051,324 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "source": "the-pogues",
+    "target": "the-clancy-brothers",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Pogues influenced by The Clancy Brothers. Source: theconversation.com \u2014 The Pogues (Clancy Brothers meets the Clash)",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-pogues",
+    "target": "the-clash",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Pogues influenced by The Clash. Source: theconversation.com \u2014 The Pogues (Clancy Brothers meets the Clash)",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-pogues",
+    "target": "the-dubliners",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Pogues influenced by The Dubliners. Source: theconversation.com \u2014 The Pogues (Clancy Brothers meets the Clash)",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "flogging-molly",
+    "target": "the-pogues",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Flogging Molly influenced by The Pogues. Source: irishmusicdaily.com / wikipedia \u2014 Flogging Molly influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "flogging-molly",
+    "target": "the-dubliners",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Flogging Molly influenced by The Dubliners. Source: irishmusicdaily.com / wikipedia \u2014 Flogging Molly influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "flogging-molly",
+    "target": "the-clash",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Flogging Molly influenced by The Clash. Source: irishmusicdaily.com / wikipedia \u2014 Flogging Molly influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "flogging-molly",
+    "target": "johnny-cash",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Flogging Molly influenced by Johnny Cash. Source: irishmusicdaily.com / wikipedia \u2014 Flogging Molly influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "flogging-molly",
+    "target": "dropkick-murphys",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Flogging Molly influenced by Dropkick Murphys. Source: irishmusicdaily.com / wikipedia \u2014 Flogging Molly influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "diana-krall",
+    "target": "nat-king-cole",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Diana Krall influenced by Nat King Cole. Source: encyclopedia.com \u2014 Diana Krall influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "diana-krall",
+    "target": "bill-evans",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Diana Krall influenced by Bill Evans. Source: encyclopedia.com \u2014 Diana Krall influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "diana-krall",
+    "target": "frank-sinatra",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Diana Krall influenced by Frank Sinatra. Source: encyclopedia.com \u2014 Diana Krall influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "diana-krall",
+    "target": "fats-waller",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Diana Krall influenced by Fats Waller. Source: encyclopedia.com \u2014 Diana Krall influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "kacey-musgraves",
+    "target": "john-prine",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Kacey Musgraves influenced by John Prine. Source: allmusic.com / americansongwriter.com \u2014 Kacey Musgraves influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "kacey-musgraves",
+    "target": "roger-miller",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Kacey Musgraves influenced by Roger Miller. Source: allmusic.com / americansongwriter.com \u2014 Kacey Musgraves influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "kacey-musgraves",
+    "target": "willie-nelson",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Kacey Musgraves influenced by Willie Nelson. Source: allmusic.com / americansongwriter.com \u2014 Kacey Musgraves influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "ray-lamontagne",
+    "target": "stephen-stills",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Ray LaMontagne influenced by Stephen Stills. Source: wikipedia / americansongwriter.com \u2014 Ray LaMontagne influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "ray-lamontagne",
+    "target": "joni-mitchell",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Ray LaMontagne influenced by Joni Mitchell. Source: wikipedia / americansongwriter.com \u2014 Ray LaMontagne influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "ray-lamontagne",
+    "target": "bob-dylan",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Ray LaMontagne influenced by Bob Dylan. Source: wikipedia / americansongwriter.com \u2014 Ray LaMontagne influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "ray-lamontagne",
+    "target": "the-band",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Ray LaMontagne influenced by The Band. Source: wikipedia / americansongwriter.com \u2014 Ray LaMontagne influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "ray-lamontagne",
+    "target": "neil-young",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Ray LaMontagne influenced by Neil Young. Source: wikipedia / americansongwriter.com \u2014 Ray LaMontagne influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "ray-lamontagne",
+    "target": "ray-charles",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Ray LaMontagne influenced by Ray Charles. Source: wikipedia / americansongwriter.com \u2014 Ray LaMontagne influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "ray-lamontagne",
+    "target": "otis-redding",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Ray LaMontagne influenced by Otis Redding. Source: wikipedia / americansongwriter.com \u2014 Ray LaMontagne influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "ray-lamontagne",
+    "target": "aretha-franklin",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Ray LaMontagne influenced by Aretha Franklin. Source: wikipedia / americansongwriter.com \u2014 Ray LaMontagne influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "ray-lamontagne",
+    "target": "grateful-dead",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Ray LaMontagne influenced by Grateful Dead. Source: wikipedia / americansongwriter.com \u2014 Ray LaMontagne influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "colter-wall",
+    "target": "townes-van-zandt",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Colter Wall influenced by Townes Van Zandt. Source: spotify newsroom / irishtimes.com \u2014 Colter Wall influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "colter-wall",
+    "target": "guy-clark",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Colter Wall influenced by Guy Clark. Source: spotify newsroom / irishtimes.com \u2014 Colter Wall influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "colter-wall",
+    "target": "johnny-cash",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Colter Wall influenced by Johnny Cash. Source: spotify newsroom / irishtimes.com \u2014 Colter Wall influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "colter-wall",
+    "target": "waylon-jennings",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Colter Wall influenced by Waylon Jennings. Source: spotify newsroom / irishtimes.com \u2014 Colter Wall influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "colter-wall",
+    "target": "bob-dylan",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Colter Wall influenced by Bob Dylan. Source: spotify newsroom / irishtimes.com \u2014 Colter Wall influences",
+    "sources": [
+      "web-curated"
+    ]
   }
 ]

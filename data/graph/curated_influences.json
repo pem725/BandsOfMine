@@ -143,5 +143,35 @@
     "artist": "john-hiatt",
     "influences": ["Bob Dylan", "Elvis Costello", "Graham Parker", "Joe Jackson"],
     "source": "encyclopedia.com — John Hiatt influences"
+  },
+  {
+    "artist": "the-pogues",
+    "influences": ["The Clancy Brothers", "The Clash", "The Dubliners"],
+    "source": "theconversation.com — The Pogues (Clancy Brothers meets the Clash)"
+  },
+  {
+    "artist": "flogging-molly",
+    "influences": ["The Pogues", "The Dubliners", "The Clash", "Johnny Cash", "Dropkick Murphys"],
+    "source": "irishmusicdaily.com / wikipedia — Flogging Molly influences"
+  },
+  {
+    "artist": "diana-krall",
+    "influences": ["Nat King Cole", "Bill Evans", "Frank Sinatra", "Fats Waller"],
+    "source": "encyclopedia.com — Diana Krall influences"
+  },
+  {
+    "artist": "kacey-musgraves",
+    "influences": ["John Prine", "Roger Miller", "Willie Nelson"],
+    "source": "allmusic.com / americansongwriter.com — Kacey Musgraves influences"
+  },
+  {
+    "artist": "ray-lamontagne",
+    "influences": ["Stephen Stills", "Joni Mitchell", "Bob Dylan", "The Band", "Neil Young", "Ray Charles", "Otis Redding", "Aretha Franklin", "Grateful Dead"],
+    "source": "wikipedia / americansongwriter.com — Ray LaMontagne influences"
+  },
+  {
+    "artist": "colter-wall",
+    "influences": ["Townes Van Zandt", "Guy Clark", "Johnny Cash", "Waylon Jennings", "Bob Dylan"],
+    "source": "spotify newsroom / irishtimes.com — Colter Wall influences"
   }
 ]
