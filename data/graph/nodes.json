@@ -111185,5 +111185,5189 @@
     "sources": [
       "spotify-export"
     ]
+  },
+  {
+    "id": "elvis-presley",
+    "name": "Elvis Presley",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "01809552-4f87-45b0-afff-2c6f0730a3be",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "stevie-wonder",
+    "name": "Stevie Wonder",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "johann-sebastian-bach",
+    "name": "Johann Sebastian Bach",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "chuck-berry",
+    "name": "Chuck Berry",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "592a3b6d-c42b-4567-99c9-ecf63bd66499",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "buddy-holly",
+    "name": "Buddy Holly",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "5260e08d-2a8b-47f0-a88f-77d888b69fe9",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "prince",
+    "name": "Prince",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "070d193a-845c-479f-980e-bef15710653e",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-lord-of-the-rings",
+    "name": "The Lord of the Rings",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "prince-paul",
+    "name": "Prince Paul",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "50840ae7-d000-4858-8aac-bd776a12dafa",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "justin-timberlake",
+    "name": "Justin Timberlake",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "596ffa74-3d08-44ef-b113-765d43d12738",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "minor-threat",
+    "name": "Minor Threat",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "09037f07-42bc-46ac-a1ee-37f834451fee",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "little-richard",
+    "name": "Little Richard",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "95c2339b-8277-49a6-9aaf-08d8eeeaa0be",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "ravi-shankar",
+    "name": "Ravi Shankar",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "697f8b9f-0454-40f2-bba2-58f35668cdbe",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "billie-holiday",
+    "name": "Billie Holiday",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "d59c4cda-11d9-48db-8bfe-b557ee602aed",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "r-e-m",
+    "name": "R.E.M.",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "ea4dfa26-f633-4da6-a52a-f49ea4897b58",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "robert-johnson",
+    "name": "Robert Johnson",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "8a8bbba6-72f7-4900-a306-c40b94f2631b",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "wyclef-jean",
+    "name": "Wyclef Jean",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "4f29ecd7-21a5-4c03-b9ba-d0cfe9488f8c",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "willie-dixon",
+    "name": "Willie Dixon",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "ff4c8d42-4871-4778-885b-d41b01245133",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-stooges",
+    "name": "The Stooges",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "timothy-leary",
+    "name": "Timothy Leary",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "0530b969-4f0c-4594-b970-181a8361abb6",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-grapes-of-wrath",
+    "name": "The Grapes of Wrath",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "muddy-waters",
+    "name": "Muddy Waters",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "f86f1f07-d182-45ce-ae93-ef610880ca72",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "al-green",
+    "name": "Al Green",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "fb7272ba-f130-4f0a-934d-6eeea4c18c9a",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "bill-withers",
+    "name": "Bill Withers",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "fd1a2d9d-9bb6-44de-83a3-41560658aba9",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "elmore-james",
+    "name": "Elmore James",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "6fbd2cfb-5f9c-497c-8e06-3c6668367681",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "woody-guthrie",
+    "name": "Woody Guthrie",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "cbd827e1-4e38-427e-a436-642683433732",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "allen-ginsberg",
+    "name": "Allen Ginsberg",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "8fc551bc-0c60-43fd-a234-2776561c2b18",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "bertolt-brecht",
+    "name": "Bertolt Brecht",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "95fb3a0c-fc74-4f51-acba-bbe5b3a78e32",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "blind-lemon-jefferson",
+    "name": "Blind Lemon Jefferson",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "9481010a-db23-469d-87df-b04118850efb",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "suze-rotolo",
+    "name": "Suze Rotolo",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "96ddf1b6-2544-4ee9-b7d2-31677bf017e4",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "flipper",
+    "name": "Flipper",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "4e99b3a5-654b-43ee-a9bf-c55c155c0495",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "mc5",
+    "name": "MC5",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "08b736bb-1c82-40b4-8b0b-49e2182a067a",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "tonic",
+    "name": "Tonic",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "5f8dfb7a-3cf6-47a1-a361-eb3b187f09f6",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "husker-du",
+    "name": "H\u00fcsker D\u00fc",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "5c4c90a4-539f-4101-83cf-301bc6a94e06",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "spin-doctors",
+    "name": "Spin Doctors",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "1bcb61f3-ca9c-4a26-b16e-0547ad6c21be",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-dead-boys",
+    "name": "The Dead Boys",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "7e2cf7cc-211e-4588-9069-b3126a29d1b1",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "minutemen",
+    "name": "Minutemen",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "d4ad0149-d8ae-4105-8009-0221fce9ff35",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "semisonic",
+    "name": "Semisonic",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "3037bd18-0079-4e4b-9ce1-758689e210d8",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "double-trouble",
+    "name": "Double Trouble",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "2452fb69-e6b0-4834-aa94-b4a0635b7a96",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "kurtis-mantronik",
+    "name": "Kurtis Mantronik",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "2d69451d-2a99-4b2c-95a3-14f60437afed",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "airbourne",
+    "name": "Airbourne",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "5365f55c-b1e1-48f9-b09f-078f7a14cb1f",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "eagle-eye-cherry",
+    "name": "Eagle-Eye Cherry",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "4a5777b3-f55b-437c-8b23-d9ee7791c7fc",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "matchbox-twenty",
+    "name": "Matchbox Twenty",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "75af9d25-cf32-49c0-9192-60bd8e9784e6",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "inxs",
+    "name": "INXS",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "481bf5f9-2e7c-4c44-b08a-05b32bc7c00d",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "soul-asylum",
+    "name": "Soul Asylum",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "b10db9ad-b4c3-47f3-a7a4-37864b134f65",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "vic-chesnutt",
+    "name": "Vic Chesnutt",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "b07cdbbe-421e-418a-bbb7-ce0d8d53bfa8",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "dinosaur-jr",
+    "name": "Dinosaur Jr.",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "77c167d2-4965-4421-830a-9815e4956475",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "blind-willie-johnson",
+    "name": "Blind Willie Johnson",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "8a14c00b-4779-44e4-9b2e-4cc9dcd92e9b",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "leonard-cohen",
+    "name": "Leonard Cohen",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "65314b12-0e08-43fa-ba33-baaa7b874c15",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "metallica",
+    "name": "Metallica",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "bjork",
+    "name": "Bj\u00f6rk",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "87c5dedd-371d-4a53-9f7f-80522fb7f3cb",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "big-star",
+    "name": "Big Star",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "21d177ba-3d51-461e-9b3f-ad9a80b419dc",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "korn",
+    "name": "Korn",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "ac865b2e-bba8-4f5a-8756-dd40d5e39f46",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "soundgarden",
+    "name": "Soundgarden",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "153c9281-268f-4cf3-8938-f5a4593e5df4",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "pantera",
+    "name": "Pantera",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "541f16f5-ad7a-428e-af89-9fa1b16d3c9c",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-smashing-pumpkins",
+    "name": "The Smashing Pumpkins",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "ba0d6274-db14-4ef5-b28d-657ebde1a396",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "pixies",
+    "name": "Pixies",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "b6b2bb8d-54a9-491f-9607-7b546023b433",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "killing-joke",
+    "name": "Killing Joke",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "f5aca88c-e3c1-4bc2-af33-68a9a9f7b56a",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "fugazi",
+    "name": "Fugazi",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "233fc3f3-6de2-465c-985e-e721dbabbace",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "massive-attack",
+    "name": "Massive Attack",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "black-flag",
+    "name": "Black Flag",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "9941a936-196a-4a62-ae53-a69cbc33f20e",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "depeche-mode",
+    "name": "Depeche Mode",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "8538e728-ca0b-4321-b7e5-cff6565dd4c0",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "garbage",
+    "name": "Garbage",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "john-hartford",
+    "name": "John Hartford",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "3178cc4c-cd9f-4842-96fb-28bf9cfec591",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "mudhoney",
+    "name": "Mudhoney",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "e675295a-1efe-4247-aa3b-53b78d0cdffc",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-jam",
+    "name": "The Jam",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "23228f18-01d5-493e-94ce-cfcde82a8db2",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "cheap-trick",
+    "name": "Cheap Trick",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "9f870653-72b0-4c6d-8c59-439a95963e09",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "screaming-trees",
+    "name": "Screaming Trees",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "bc5e6e42-73ba-44fa-a41e-3379402f0429",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "wipers",
+    "name": "Wipers",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "65aac2dc-216c-4b1a-8501-45567c901c0e",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "veruca-salt",
+    "name": "Veruca Salt",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "86e8e21a-d29f-47d2-bbf0-e079f7044e71",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "girls-against-boys",
+    "name": "Girls Against Boys",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "837cd182-8da4-4c1c-924c-03daf72f0237",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "kyuss",
+    "name": "Kyuss",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "ea0f2a37-7007-4217-a812-396227f5013a",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "patti-smith",
+    "name": "Patti Smith",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "d135874d-9cae-4fef-97e3-36acbd9f5a26",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "jacques-brel",
+    "name": "Jacques Brel",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "91eda19b-1437-42cd-b7af-69df24b7f275",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "andy-warhol",
+    "name": "Andy Warhol",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "3c37fc8c-9c5a-4a70-8a8c-9f97a2020f1b",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "james-brown",
+    "name": "James Brown",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "20ff3303-4fe2-4a47-a1b6-291e26aa3438",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "motorhead",
+    "name": "Mot\u00f6rhead",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "57961a97-3796-4bf7-9f02-a985a8979ae9",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "gene-vincent",
+    "name": "Gene Vincent",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "f491f5ad-0946-40a6-bab9-da319c3f3995",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "sex-pistols",
+    "name": "Sex Pistols",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "e5db18cb-4b1f-496d-a308-548b611090d3",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "fred-astaire",
+    "name": "Fred Astaire",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "3ae3fa20-d295-467c-b59f-969376a28470",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "slade",
+    "name": "Slade",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "2e700147-56a3-416b-a95d-381ea42f947f",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "joy-division",
+    "name": "Joy Division",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "9a58fda3-f4ed-4080-a3a5-f457aac9fcdd",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "jackie-wilson",
+    "name": "Jackie Wilson",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "f0bf4fa0-028e-452f-82d3-7d4375e105dd",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "jeff-beck",
+    "name": "Jeff Beck",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "14a4bc78-1c2d-4ca7-8d1b-9b58076a2a17",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "t-rex",
+    "name": "T. Rex",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "c842d29f-a297-48cd-bb71-4f77fd672b16",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-equals",
+    "name": "The Equals",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "efe5c081-3a3d-4730-9669-c3eec3018989",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "marc-bolan",
+    "name": "Marc Bolan",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "ce0630f0-3f89-49c1-b5f0-acd88dfc9353",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "sammy-davis-jr",
+    "name": "Sammy Davis Jr.",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "johann-joseph-fux",
+    "name": "Johann Joseph Fux",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "cfda9e84-49f1-4afb-9e4b-f6f4dda9de41",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "lee-scratch-perry",
+    "name": "Lee \"Scratch\" Perry",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "af75ebe4-3ab1-423d-a499-2a6f9d011ce2",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "phil-ochs",
+    "name": "Phil Ochs",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "80cd255d-995c-47f1-a5bc-cc34669a37a0",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "ramones",
+    "name": "Ramones",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "d6ed7887-a401-47a8-893c-34b967444d26",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-sweet",
+    "name": "The Sweet",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "dc73bb40-b697-4df9-a2ec-0555bebdba75",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "scott-walker",
+    "name": "Scott Walker",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "99524243-dc2e-4bf3-82c0-72395391d21f",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "sly-and-robbie",
+    "name": "Sly and Robbie",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "6e14dc18-9313-4afa-9344-4b6c2bf80fca",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "england",
+    "name": "England",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "italy",
+    "name": "Italy",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "france",
+    "name": "France",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "germany",
+    "name": "Germany",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "edith-piaf",
+    "name": "\u00c9dith Piaf",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "liza-minnelli",
+    "name": "Liza Minnelli",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "34cdf83c-0ba8-4411-814f-c3ef44588521",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "patti-labelle",
+    "name": "Patti LaBelle",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "f319ec6a-9290-449b-baef-4244809c487a",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "georg-philipp-telemann",
+    "name": "Georg Philipp Telemann",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "8f831f50-e409-47c3-8598-71a61bc8cfb3",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "maurice-jarre",
+    "name": "Maurice Jarre",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "05d4d95c-8803-450f-80c2-7ea606e6f78b",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "elmer-bernstein",
+    "name": "Elmer Bernstein",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "e2c7d7a5-b520-4232-b7cf-aaceead17b6c",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "john-williams",
+    "name": "John Williams",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "53b106e7-0cc6-42cc-ac95-ed8d30a3a98e",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "lata-mangeshkar",
+    "name": "Lata Mangeshkar",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "aeb71bd8-447d-4415-8ea1-2b7d664f67e1",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "arcangelo-corelli",
+    "name": "Arcangelo Corelli",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "a3546087-fe59-47d3-a3a8-42d58e2573c7",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "domenico-scarlatti",
+    "name": "Domenico Scarlatti",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "95c7a1d1-5cfd-41d5-99f9-0611262de8e1",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "alessandro-scarlatti",
+    "name": "Alessandro Scarlatti",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "6aada4a8-2533-4fa9-a0c7-04c50a62c2ca",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "bette-midler",
+    "name": "Bette Midler",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "ed333e8b-d18a-49fc-b361-4ec9731dfdba",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "giuseppe-torelli",
+    "name": "Giuseppe Torelli",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "f346a19a-e909-4a0d-9a66-4c32a92e8abc",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "anne-murray",
+    "name": "Anne Murray",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "cff63c14-b081-4686-9357-eea84d5348fc",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "lalo-schifrin",
+    "name": "Lalo Schifrin",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "adf017f5-76d6-4d31-b1b9-a0211675e7c2",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "judy-collins",
+    "name": "Judy Collins",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "06f9c474-0547-40fc-be3d-1ae6ce38abd7",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "neil-diamond",
+    "name": "Neil Diamond",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "a42d3fd5-55de-4206-86c3-4fbb5404018f",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "bernard-herrmann",
+    "name": "Bernard Herrmann",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "74cad662-0eb6-4044-908e-04680457957a",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "carl-perkins",
+    "name": "Carl Perkins",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "068bd7ab-c38e-4fae-8ed2-cb0c153ed68f",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "alan-silvestri",
+    "name": "Alan Silvestri",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "f4c53778-e48d-4da4-9ddd-cc007f715d64",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "giovanni-bononcini",
+    "name": "Giovanni Bononcini",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "5deac8fb-b0a4-48dc-88ff-3bf92858a527",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "sheena-easton",
+    "name": "Sheena Easton",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "7b004920-b04e-4ff2-b2e5-55d8f1cc0522",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "david-newman",
+    "name": "David Newman",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "39211611-9744-4c83-a0c4-5bcd2f480b61",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "captain-tennille",
+    "name": "Captain & Tennille",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "ae27f1d1-b8c4-4b2f-88a0-094c3333ed24",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "television",
+    "name": "Television",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "490bde43-5edb-4a93-b3b3-7a0465fd8909",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "joe-south",
+    "name": "Joe South",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "399fc572-6f08-4dee-b5fc-213c8a4d050b",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "screaming-lord-sutch",
+    "name": "Screaming Lord Sutch",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "e1079a78-75d4-4a1a-aef1-0be051386598",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "mose-allison",
+    "name": "Mose Allison",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "18b76828-4b12-44c1-b8d9-ae82b22557a0",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-undertones",
+    "name": "The Undertones",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "d188e4cd-d187-4df2-8516-6ff8dfd3735c",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "iron-butterfly",
+    "name": "Iron Butterfly",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "3da3e7e1-e817-47e8-8624-635df4aedbe6",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "vanilla-fudge",
+    "name": "Vanilla Fudge",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "96ad1836-0a6e-423f-a2af-0f4a64a325ca",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "new-york-dolls",
+    "name": "New York Dolls",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "1b96b9c9-0832-40cb-9f8d-7274de3733fc",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "lee-clayton",
+    "name": "Lee Clayton",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "74d5317c-c081-41ba-a530-19f5c58ca1b4",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "dr-feelgood",
+    "name": "Dr. Feelgood",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "fcc0e623-435b-4a46-b9b3-73823e22e1ec",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "parliament",
+    "name": "Parliament",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "d1947987-9614-49ae-bd36-8000e6b6f7d0",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-spinners",
+    "name": "The Spinners",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "fd2b6371-5b61-4068-8baa-9c333c97dfd7",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-brothers-johnson",
+    "name": "The Brothers Johnson",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "cfb830a4-66ca-4d81-a099-033883b39ad8",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "prince-far-i",
+    "name": "Prince Far I",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "86f26c3e-c6ac-4829-ac22-f1a2133d4ffe",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "rare-earth",
+    "name": "Rare Earth",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "670cc8bc-a6e1-40cd-b20a-86753456d6fa",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "superchunk",
+    "name": "Superchunk",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "61653550-fd9b-4401-8248-44f2d064d384",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-nils",
+    "name": "The Nils",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "bobby-fuller",
+    "name": "Bobby Fuller",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "c8e68072-90d1-4608-8121-aa65d9bd006f",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "brinsley-schwarz",
+    "name": "Brinsley Schwarz",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "ebbd8491-967a-4a83-8bbc-496b89be029f",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "enya",
+    "name": "Enya",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "4967c0a1-b9f3-465e-8440-4598fd9fc33c",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "frankie-goes-to-hollywood",
+    "name": "Frankie Goes to Hollywood",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "c09c8263-40ef-4352-8031-e438b1ce68fc",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "nat-king-cole",
+    "name": "Nat King Cole",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "fbe054ec-a143-4101-9e9e-64abc5ff5ac9",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-lemonheads",
+    "name": "The Lemonheads",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "58a53082-a629-4ff1-a44d-7492d6f6e8fb",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "elliott-smith",
+    "name": "Elliott Smith",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "03ad1736-b7c9-412a-b442-82536d63a5c4",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "808-state",
+    "name": "808 State",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "36f35db0-bc09-43e7-8650-a123224943c7",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "a-guy-called-gerald",
+    "name": "A Guy Called Gerald",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "b343730d-a34e-44d5-9191-a83f00231716",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "adamski",
+    "name": "Adamski",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "219ea8da-d328-42ec-aa04-edf4e91ae622",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "curtis-mayfield",
+    "name": "Curtis Mayfield",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "4dca4bb2-23ba-4103-97e6-5810311db33a",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-plimsouls",
+    "name": "The Plimsouls",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "43670151-f762-4c71-b560-d279d389eb44",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-call",
+    "name": "The Call",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "38633e0c-1296-49f5-bacc-2e80ae1e18c4",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "funkadelic",
+    "name": "Funkadelic",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "cf042013-3edd-46c4-9b0e-a62faac98d0b",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "sananda-maitreya",
+    "name": "Sananda Maitreya",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "66e8f2b9-69c3-4ded-8095-b65657940473",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "love",
+    "name": "Love",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "34ec9a8d-c65b-48fd-bcdd-aad2f72fdb47",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "terry-reid",
+    "name": "Terry Reid",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "5c232cd8-297a-4586-9090-f7cf30466fe2",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "junior-murvin",
+    "name": "Junior Murvin",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "8411d1f6-0f7a-4e9b-9745-a474780cd5b7",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "ian-hunter",
+    "name": "Ian Hunter",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "09a67d90-b221-4d15-9bcf-707218108690",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "papa-wemba",
+    "name": "Papa Wemba",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "07f9fb91-1147-4532-a522-ac36dacd1c72",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "amede-ardoin",
+    "name": "Am\u00e9d\u00e9 Ardoin",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "cd4bc033-c4c3-4e89-8e3c-22e432aaffc2",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "dennis-mcgee",
+    "name": "Dennis McGee",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "6e5f7e2e-766a-4343-98a1-ef1118630649",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "dewey-balfa",
+    "name": "Dewey Balfa",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "ae5a3f36-f01b-4d81-85ae-20b7c8d0342f",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-balfa-brothers",
+    "name": "The Balfa Brothers",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "00bdf7fb-2989-49eb-85d4-aa4453a59fc7",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "our-lady-peace",
+    "name": "Our Lady Peace",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "78661da3-894c-4947-a34b-fb7edf585d9b",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "mountain",
+    "name": "Mountain",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "295ad371-45d3-4370-8504-68c92ca2948d",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "everclear",
+    "name": "Everclear",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "3604c99d-c146-4276-aa0c-9376d333aeb8",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "jobriath",
+    "name": "Jobriath",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "2803b905-fe99-4071-ac2e-f4bf94ce6fb8",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "fairuz",
+    "name": "Fairuz",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "338bbb53-5b96-447a-9444-8906844a0790",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "wynona-carr",
+    "name": "Wynona Carr",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "e0cee58f-6e9f-426b-88c1-1619acad26d5",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "laura-nyro",
+    "name": "Laura Nyro",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "bb0a1e95-9444-4a05-a1bb-22b8d7ed7844",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "suzanne-vega",
+    "name": "Suzanne Vega",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "cf119120-7df5-47d7-9dec-49f8837a4e40",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "sandy-denny",
+    "name": "Sandy Denny",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "08d86aab-8e58-4d9f-90e4-cfc3d2f0b867",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "jane-siberry",
+    "name": "Jane Siberry",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "711c9171-14c4-4644-9099-15831fcfa750",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "cocteau-twins",
+    "name": "Cocteau Twins",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "000fc734-b7e1-4a01-92d1-f544261b43f5",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "bruce-cockburn",
+    "name": "Bruce Cockburn",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "254b70d3-4aec-4c64-ac95-b13a1dbb30cb",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "big-brother-and-the-holding-company",
+    "name": "Big Brother and the Holding Company",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "3cf5a3be-25ef-4408-98fe-e66fee536be1",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "be-bop-deluxe",
+    "name": "Be-Bop Deluxe",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "96742ec2-b733-4ac6-b493-7e056a43b357",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "kate-and-anna-mcgarrigle",
+    "name": "Kate and Anna McGarrigle",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "c773cf10-e516-49a3-ab11-0ac3e8efeb22",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "johnny-guitar-watson",
+    "name": "Johnny \"Guitar\" Watson",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "defba3df-b0f3-4ef1-8e1f-4ef88cc8fc42",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "toots-and-the-maytals",
+    "name": "Toots and the Maytals",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "29730ee3-e1c7-4e28-9ccd-3a0e6b0e8103",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "gentle-giant",
+    "name": "Gentle Giant",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "f795c501-1c41-4be2-bc2a-875eba75aa31",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "candlebox",
+    "name": "Candlebox",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "8e9516ba-f417-47dd-a8a5-8998b94553f8",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "alice-in-chains",
+    "name": "Alice in Chains",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "4bd95eea-b9f6-4d70-a36c-cfea77431553",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "andean-music",
+    "name": "Andean music",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "collective-soul",
+    "name": "Collective Soul",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "aa266ac7-d919-4132-982e-76cbd95591a7",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "guitar-slim",
+    "name": "Guitar Slim",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "017151db-3920-4b4d-ab17-c8c5b6616648",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "madonna",
+    "name": "Madonna",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "79239441-bfd5-4981-a70c-55c3f15c1287",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "ella-fitzgerald",
+    "name": "Ella Fitzgerald",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "anna-magnani",
+    "name": "Anna Magnani",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "0e901946-b385-4b64-b8e2-a0c2aeb7a042",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "edgard-varese",
+    "name": "Edgard Var\u00e8se",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "9a6d6ce0-3496-4db2-8c7a-f2a9a14548a9",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "monica-vitti",
+    "name": "Monica Vitti",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "1523b1d9-1abc-4514-a3e4-759939b73cc7",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "mariangela-melato",
+    "name": "Mariangela Melato",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "gyorgy-ligeti",
+    "name": "Gy\u00f6rgy Ligeti",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "da5e774b-026a-4117-82a4-11d246c05a8b",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "silverchair",
+    "name": "Silverchair",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "b0799818-22cb-4564-8e68-3c410d0722ee",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "live",
+    "name": "Live",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "cba77ba2-862d-4cee-a8f6-d3f9daf7211c",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "nina-simone",
+    "name": "Nina Simone",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "2944824d-4c26-476f-a981-be849081942f",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "anton-webern",
+    "name": "Anton Webern",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "7be0b588-030c-4904-836f-71ff43a2dfec",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "mahalia-jackson",
+    "name": "Mahalia Jackson",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "1bebb19e-9305-4da8-a3fd-5dd40a6e517e",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "procol-harum",
+    "name": "Procol Harum",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "44119570-4d53-46e7-a447-bd18608c28d8",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "sarah-vaughan",
+    "name": "Sarah Vaughan",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "351d8bdf-33a1-45e2-8c04-c85fad20da55",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "alejandro-jodorowsky",
+    "name": "Alejandro Jodorowsky",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "5a7ac986-0e4b-4223-ab54-d3a1878c9de2",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "eleonora-duse",
+    "name": "Eleonora Duse",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "focus",
+    "name": "Focus",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "821e11d6-cfec-44a7-9615-06a4e631c975",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "sam-cooke",
+    "name": "Sam Cooke",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "6c8fd0be-d961-454c-aee0-4366a6dbc993",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "smokey-robinson",
+    "name": "Smokey Robinson",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "c19ff12b-058f-44a8-b245-b0efb4752925",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "stone-temple-pilots",
+    "name": "Stone Temple Pilots",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "8c32bb01-58a3-453b-8050-8c0620edb0e5",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "mad-season",
+    "name": "Mad Season",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "bfd085b8-0bbf-46b3-8ab9-193bca5c85e7",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "sister-rosetta-tharpe",
+    "name": "Sister Rosetta Tharpe",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "f5625c87-5a62-4b3b-a375-fe08a71acddc",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "ray-charles",
+    "name": "Ray Charles",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "2ce02909-598b-44ef-a456-151ba0a3bd70",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "jim-donoghue",
+    "name": "Jim Donoghue",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "jack-kerouac",
+    "name": "Jack Kerouac",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "ccf81e74-b701-4277-a599-3e0942e70b53",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "duane-eddy",
+    "name": "Duane Eddy",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "efc0ee36-ad69-45af-8602-991b254b7529",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "james-jamerson",
+    "name": "James Jamerson",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "2514f57f-bee5-4dc1-a2c7-589aea08cef1",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "brendan-behan",
+    "name": "Brendan Behan",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "d18ffad7-355c-40af-b754-01eb21e04d9f",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "thom-yorke",
+    "name": "Thom Yorke",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "maurice-ravel",
+    "name": "Maurice Ravel",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "6fdd3b3e-1ea6-4da9-8d6f-8f8de01c133a",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "pyotr-ilyich-tchaikovsky",
+    "name": "Pyotr Ilyich Tchaikovsky",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "9ddd7abc-9e1b-471d-8031-583bc6bc8be9",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "arnold-schoenberg",
+    "name": "Arnold Schoenberg",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "9b490b96-ad82-4d7b-9055-f0a196ad64cc",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "edward-elgar",
+    "name": "Edward Elgar",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "4e60a56a-514a-4a19-a3cc-49927c96b3cb",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "dolly-parton",
+    "name": "Dolly Parton",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "1d543e07-d0d2-4834-a8db-d65c50c2a856",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "emmylou-harris",
+    "name": "Emmylou Harris",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "35ef61ca-43db-4772-ba27-0489e9ebcb69",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "tammy-wynette",
+    "name": "Tammy Wynette",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "26fe36eb-fd75-4799-bf0f-fa502a7bcfe8",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "loretta-lynn",
+    "name": "Loretta Lynn",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "613260c3-d620-4645-94cd-33cd55f29b1e",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "patsy-cline",
+    "name": "Patsy Cline",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "ad82dd72-0df3-4a09-8d7a-1af9c9e80522",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "barbara-mandrell",
+    "name": "Barbara Mandrell",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "f9af8ba9-78d9-4355-85f5-f3c8abdaa31f",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "crystal-gayle",
+    "name": "Crystal Gayle",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "cefd9d3d-9506-461c-972f-89b4cbade9da",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "suzy-bogguss",
+    "name": "Suzy Bogguss",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "37d4bb9c-422b-4032-abfc-479dfdc64bbd",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "tanya-tucker",
+    "name": "Tanya Tucker",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "45677914-89de-4267-aeae-8c1661b2c859",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "amy-grant",
+    "name": "Amy Grant",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "3cd18a93-1797-4bbb-9b8a-c096d5e7864c",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "k-t-oslin",
+    "name": "K. T. Oslin",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "b5cb3237-3941-4346-95fe-3734b30f915f",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "dick-dale",
+    "name": "Dick Dale",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "cc6115aa-379c-4133-9f46-5743a4a341d0",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "skinny-puppy",
+    "name": "Skinny Puppy",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "5a24bc1a-c093-4a82-84ed-8d7f2da0570d",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "melvins",
+    "name": "Melvins",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "9ccfbc94-a4f4-42f7-b6f5-d903ab77cccb",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "ministry",
+    "name": "Ministry",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "13df2a46-f72f-40e7-aa63-26fcf62c7048",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-vaselines",
+    "name": "The Vaselines",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "a70b63fd-cae7-4a5f-b338-b18343f3ee2f",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "brownsville-station",
+    "name": "Brownsville Station",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "eda386f2-d8b5-4b8d-a692-3461a12eba07",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "darby-crash",
+    "name": "Darby Crash",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "84a32844-61f1-4129-ac10-d6bd4ce1ee38",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "marianne-williamson",
+    "name": "Marianne Williamson",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "d-i",
+    "name": "D.I.",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "4dfe97a1-4179-4377-9e24-e2bdfb780d05",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-damned",
+    "name": "The Damned",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "77d21c13-846f-4f48-9546-873949eff6ae",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "fear",
+    "name": "Fear",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "5e6512dd-160b-4512-a4b4-2c30fa894a08",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "richard-hell-and-the-voidoids",
+    "name": "Richard Hell and the Voidoids",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "42995787-59e7-46fa-9d4f-d9bb68d27521",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "gorilla-biscuits",
+    "name": "Gorilla Biscuits",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "0320a32e-b781-40df-bf48-5cb5ee842762",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "janis-joplin",
+    "name": "Janis Joplin",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "76c9a186-75bd-436a-85c0-823e3efddb7f",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "cyndi-lauper",
+    "name": "Cyndi Lauper",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "7bd9e20e-74b9-446a-a2ed-a223f82a36e7",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "judas-priest",
+    "name": "Judas Priest",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "6b335658-22c8-485d-93de-0bc29a1d0349",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "agent-orange",
+    "name": "Agent Orange",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "3214be8b-6d78-4c8e-9c93-b1e31a9bc4d6",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "scorpions",
+    "name": "Scorpions",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "c3cceeed-3332-4cf0-8c4c-bbde425147b6",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "ozzy-osbourne",
+    "name": "Ozzy Osbourne",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "def-leppard",
+    "name": "Def Leppard",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "7249b899-8db8-43e7-9e6e-22f1e736024e",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "van-halen",
+    "name": "Van Halen",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "b665b768-0d83-4363-950c-31ed39317c15",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "bad-religion",
+    "name": "Bad Religion",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "149e6720-4e4a-41a4-afca-6d29083fc091",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "ani-difranco",
+    "name": "Ani DiFranco",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "a7bdc71f-697a-45d9-92b2-a01fbbe50272",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "liz-phair",
+    "name": "Liz Phair",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "149326c2-b8a3-48e3-b3d2-9b5b9593127f",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "descendents",
+    "name": "Descendents",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "f035837e-4117-438d-a524-cacf43500e68",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "misfits",
+    "name": "Misfits",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "936addc3-91aa-49de-8ec0-0dc186de151f",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "oasis",
+    "name": "Oasis",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "39ab1aed-75e0-4140-bd47-540276886b60",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "sammy-hagar",
+    "name": "Sammy Hagar",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "e68b06a4-d47f-432e-89d8-db43c48a2726",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "johnny-thunders",
+    "name": "Johnny Thunders",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "3b14b1a7-2235-4fcf-a718-383beb79e856",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "circle-jerks",
+    "name": "Circle Jerks",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "22995eba-1238-4b4f-a937-ac2c5767ab9f",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "nick-drake",
+    "name": "Nick Drake",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "99ea432a-e3d8-42cb-9d5e-db316a6a8458",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "joanna-newsom",
+    "name": "Joanna Newsom",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "cb69e1f1-bc76-4df5-93c9-cf97dd8a3b5c",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "sufjan-stevens",
+    "name": "Sufjan Stevens",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "01d3c51b-9b98-418a-8d8e-37f6fab59d8c",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "damien-jurado",
+    "name": "Damien Jurado",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "f4805b9d-68f8-438e-8f13-ec7bcb4c8581",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "rage-against-the-machine",
+    "name": "Rage Against the Machine",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "3798b104-01cb-484c-a3b0-56adc6399b80",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "run-dmc",
+    "name": "Run-DMC",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "5ecc3f72-20a6-47a0-8dc5-fb0b3dadeea0",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "tool",
+    "name": "Tool",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "66fc5bf8-daa4-4241-b378-9bc9077939d2",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "beastie-boys",
+    "name": "Beastie Boys",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "9beb62b2-88db-4cea-801e-162cd344ee53",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "faith-no-more",
+    "name": "Faith No More",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "b15ebd71-a252-417d-9e1c-3e6863da68f8",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "primus",
+    "name": "Primus",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "84dc4f23-c0b8-4fe1-bbca-a3993ddc8fc2",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "mr-bungle",
+    "name": "Mr. Bungle",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "277e21a9-2d64-452d-96c4-2d23a7af5891",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "living-colour",
+    "name": "Living Colour",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "dc6f8c1f-626b-42b0-9115-7e66ae4cecd6",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "antonio-bribiesca-castellanos",
+    "name": "Antonio Bribiesca Castellanos",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "3d8f1f9e-1b40-4491-ab45-c67214150fbe",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "arthur-brown",
+    "name": "Arthur Brown",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "8373c711-1043-42bd-bf7d-b17ab26de5c7",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "bad-brains",
+    "name": "Bad Brains",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "e919b253-da5b-4aae-a444-6a368376a2d6",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "kool-the-gang",
+    "name": "Kool & The Gang",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "2469950a-f0ca-425a-bfbc-baf55ea3afde",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "bobby-byrd",
+    "name": "Bobby Byrd",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "ed3af6a3-1db0-48e3-bb39-2730b22cf8d9",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "gang-of-four",
+    "name": "Gang of Four",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "d8661c02-f423-4d72-8044-40ff05daf7a1",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "ohio-players",
+    "name": "Ohio Players",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "81e07550-d0e2-467e-bc71-44b5d52de8f4",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "blowfly",
+    "name": "Blowfly",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "47e10a96-cd1a-4fd9-947e-87b1a201284e",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-meters",
+    "name": "The Meters",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "851827d6-ae31-4093-a166-1420cac610a4",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "graham-central-station",
+    "name": "Graham Central Station",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "e11c5e9a-8b3a-44c2-9a71-b7a00b5fb8d5",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-weirdos",
+    "name": "The Weirdos",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "bea10050-d80f-4280-98fe-23c9d945beb0",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "aphex-twin",
+    "name": "Aphex Twin",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "e7d734a2-3909-4e1c-97a0-87ef04acd4c2",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "franz-schubert",
+    "name": "Franz Schubert",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "ennio-morricone",
+    "name": "Ennio Morricone",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "a16e47f5-aa54-47fe-87e4-bb8af91a9fdd",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "jean-michel-jarre",
+    "name": "Jean-Michel Jarre",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "86e2e2ad-6d1b-44fd-9463-b6683718a1cc",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "john-barry",
+    "name": "John Barry",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "661e20c8-3d82-4da2-94a2-97d9e11691c0",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "vangelis",
+    "name": "Vangelis",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "57fca0e2-f9ad-4ae6-af9d-6a6f50cbcd5f",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "danny-elfman",
+    "name": "Danny Elfman",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "5b24fbab-c58f-4c37-a59d-ab232e2d98c4",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "joel-goldsmith",
+    "name": "Joel Goldsmith",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "0b4fa061-c261-4ba2-80bc-63cfbd3e88d9",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "isao-tomita",
+    "name": "Isao Tomita",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "9119e57f-1086-48b2-8a93-57feacb7f6d9",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "rolfe-kent",
+    "name": "Rolfe Kent",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "fc31ddde-0030-4cc3-9180-5cc4e7004fef",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "joseph-williams",
+    "name": "Joseph Williams",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "e9eb5a12-95c8-4bc6-985c-e3b540a81dda",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "peter-bernstein",
+    "name": "Peter Bernstein",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "90898b2c-a266-4ecb-9fe9-e98e92a9c935",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "kevin-kiner",
+    "name": "Kevin Kiner",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "5c2786b5-5a75-419f-b349-af9212a001bc",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "mixmaster-morris",
+    "name": "Mixmaster Morris",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "73bc4b43-afdd-43f8-9c6b-03da2ddf09c6",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "chris-mancini",
+    "name": "Chris Mancini",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "jean-sibelius",
+    "name": "Jean Sibelius",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "691b0e9d-9e57-41cf-932d-a3d21b068e75",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "charles-mackerras",
+    "name": "Charles Mackerras",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "69a7d073-869e-4af2-a58b-a62fe34454d6",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "vernon-handley",
+    "name": "Vernon Handley",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "10ab5755-ad56-4e85-a30f-ccfee81cf9d5",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-specials",
+    "name": "The Specials",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "07eb40a2-2914-439c-a01d-15a685b84ddf",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "green-day",
+    "name": "Green Day",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "084308bd-1654-436f-ba03-df6697104e19",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "billy-idol",
+    "name": "Billy Idol",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "47c8f88b-987a-4b64-9175-2b1b57809727",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "phil-spector",
+    "name": "Phil Spector",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "e7b587f7-e678-47c1-81dd-e7bb7855b0f9",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-monkees",
+    "name": "The Monkees",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "b8549efe-f4fd-4dc0-8ef1-226e9c400233",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "sugar-ray",
+    "name": "Sugar Ray",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "9968756b-d504-4c90-a184-776ba1dd32ea",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "house-of-pain",
+    "name": "House of Pain",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "c2d6a6fb-7999-4bb3-b2df-7d752fdf4e95",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "fishbone",
+    "name": "Fishbone",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "9f3764c0-c9f4-4e20-b7a8-9993124fb1b2",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "joe-jackson",
+    "name": "Joe Jackson",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "07f6d469-38f3-46da-9cfa-2f532422b84e",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "goldfinger",
+    "name": "Goldfinger",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "87fc1871-b74e-4bf5-a00d-8a89c288008b",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "and-the-mysterians",
+    "name": "? and the Mysterians",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "912fcb75-fa16-49e6-9e19-becf0f7dea4d",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-seeds",
+    "name": "The Seeds",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "f706bac1-a02a-4569-9164-9f3371e6fa74",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "perrey-and-kingsley",
+    "name": "Perrey and Kingsley",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "5c05057e-ebb1-4679-85e0-21c928ec01cd",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "iron-maiden",
+    "name": "Iron Maiden",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "prince-buster",
+    "name": "Prince Buster",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "a1d32e75-2391-4d94-904e-13536304dcf6",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "white-lion",
+    "name": "White Lion",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "4fe426de-9c86-46d5-bbab-239f5e7344bf",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "tesla",
+    "name": "Tesla",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "eeacb319-8d4c-48e0-80a0-944e71c375bf",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "david-lee-roth",
+    "name": "David Lee Roth",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "802d37d5-0aaa-492e-b366-99f75e5a196f",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "kix",
+    "name": "Kix",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "04a15a94-2a32-4f48-9596-ce3ea14e7d52",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "billy-squier",
+    "name": "Billy Squier",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "3792dcb3-036e-45d6-8ee2-ff8d12c6c6c9",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "london",
+    "name": "London",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "15ee152b-9a67-44d0-861e-1886fa1f9bdb",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "spiders-snakes",
+    "name": "Spiders & Snakes",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "200086aa-3c12-47ce-b513-ab81220c855e",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "armenian-genocide",
+    "name": "Armenian Genocide",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
   }
 ]
