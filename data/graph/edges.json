@@ -119370,5 +119370,258 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "source": "jack-johnson",
+    "target": "bob-dylan",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Jack Johnson influenced by Bob Dylan. Source: udiscovermusic.com / grokipedia \u2014 Jack Johnson influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "jack-johnson",
+    "target": "bob-marley",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Jack Johnson influenced by Bob Marley. Source: udiscovermusic.com / grokipedia \u2014 Jack Johnson influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "jack-johnson",
+    "target": "sublime",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Jack Johnson influenced by Sublime. Source: udiscovermusic.com / grokipedia \u2014 Jack Johnson influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "jack-johnson",
+    "target": "the-beatles",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Jack Johnson influenced by The Beatles. Source: udiscovermusic.com / grokipedia \u2014 Jack Johnson influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "jack-johnson",
+    "target": "jimi-hendrix",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Jack Johnson influenced by Jimi Hendrix. Source: udiscovermusic.com / grokipedia \u2014 Jack Johnson influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "jack-johnson",
+    "target": "james-taylor",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Jack Johnson influenced by James Taylor. Source: udiscovermusic.com / grokipedia \u2014 Jack Johnson influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "jack-johnson",
+    "target": "nick-drake",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Jack Johnson influenced by Nick Drake. Source: udiscovermusic.com / grokipedia \u2014 Jack Johnson influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "jack-johnson",
+    "target": "radiohead",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Jack Johnson influenced by Radiohead. Source: udiscovermusic.com / grokipedia \u2014 Jack Johnson influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "bonnie-raitt",
+    "target": "sippie-wallace",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Bonnie Raitt influenced by Sippie Wallace. Source: bonnieraitt.com / performingsongwriter.com \u2014 Bonnie Raitt blues influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "bonnie-raitt",
+    "target": "mississippi-fred-mcdowell",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Bonnie Raitt influenced by Mississippi Fred McDowell. Source: bonnieraitt.com / performingsongwriter.com \u2014 Bonnie Raitt blues influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "bonnie-raitt",
+    "target": "son-house",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Bonnie Raitt influenced by Son House. Source: bonnieraitt.com / performingsongwriter.com \u2014 Bonnie Raitt blues influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "bonnie-raitt",
+    "target": "muddy-waters",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Bonnie Raitt influenced by Muddy Waters. Source: bonnieraitt.com / performingsongwriter.com \u2014 Bonnie Raitt blues influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "bonnie-raitt",
+    "target": "john-lee-hooker",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Bonnie Raitt influenced by John Lee Hooker. Source: bonnieraitt.com / performingsongwriter.com \u2014 Bonnie Raitt blues influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "bonnie-raitt",
+    "target": "robert-johnson",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Bonnie Raitt influenced by Robert Johnson. Source: bonnieraitt.com / performingsongwriter.com \u2014 Bonnie Raitt blues influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-marshall-tucker-band",
+    "target": "allman-brothers-band",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Marshall Tucker Band influenced by Allman Brothers Band. Source: encyclopedia.com / bestclassicbands.com \u2014 Marshall Tucker Band",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-marshall-tucker-band",
+    "target": "lynyrd-skynyrd",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Marshall Tucker Band influenced by Lynyrd Skynyrd. Source: encyclopedia.com / bestclassicbands.com \u2014 Marshall Tucker Band",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "chet-baker",
+    "target": "miles-davis",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Chet Baker influenced by Miles Davis. Source: udiscovermusic.com \u2014 Chet Baker / cool jazz",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "dirty-heads",
+    "target": "sublime",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Dirty Heads influenced by Sublime. Source: vice.com / wikipedia \u2014 Dirty Heads influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "dirty-heads",
+    "target": "slightly-stoopid",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Dirty Heads influenced by Slightly Stoopid. Source: vice.com / wikipedia \u2014 Dirty Heads influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "dirty-heads",
+    "target": "black-uhuru",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Dirty Heads influenced by Black Uhuru. Source: vice.com / wikipedia \u2014 Dirty Heads influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "dirty-heads",
+    "target": "israel-vibration",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Dirty Heads influenced by Israel Vibration. Source: vice.com / wikipedia \u2014 Dirty Heads influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "dirty-heads",
+    "target": "the-pharcyde",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Dirty Heads influenced by The Pharcyde. Source: vice.com / wikipedia \u2014 Dirty Heads influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "dirty-heads",
+    "target": "beastie-boys",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Dirty Heads influenced by Beastie Boys. Source: vice.com / wikipedia \u2014 Dirty Heads influences",
+    "sources": [
+      "web-curated"
+    ]
   }
 ]

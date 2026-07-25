@@ -173,5 +173,30 @@
     "artist": "colter-wall",
     "influences": ["Townes Van Zandt", "Guy Clark", "Johnny Cash", "Waylon Jennings", "Bob Dylan"],
     "source": "spotify newsroom / irishtimes.com — Colter Wall influences"
+  },
+  {
+    "artist": "jack-johnson",
+    "influences": ["Bob Dylan", "Bob Marley", "Sublime", "The Beatles", "Jimi Hendrix", "James Taylor", "Nick Drake", "Radiohead"],
+    "source": "udiscovermusic.com / grokipedia — Jack Johnson influences"
+  },
+  {
+    "artist": "bonnie-raitt",
+    "influences": ["Sippie Wallace", "Mississippi Fred McDowell", "Son House", "Muddy Waters", "John Lee Hooker", "Robert Johnson"],
+    "source": "bonnieraitt.com / performingsongwriter.com — Bonnie Raitt blues influences"
+  },
+  {
+    "artist": "the-marshall-tucker-band",
+    "influences": ["Allman Brothers Band", "Lynyrd Skynyrd"],
+    "source": "encyclopedia.com / bestclassicbands.com — Marshall Tucker Band"
+  },
+  {
+    "artist": "chet-baker",
+    "influences": ["Miles Davis"],
+    "source": "udiscovermusic.com — Chet Baker / cool jazz"
+  },
+  {
+    "artist": "dirty-heads",
+    "influences": ["Sublime", "Slightly Stoopid", "Black Uhuru", "Israel Vibration", "The Pharcyde", "Beastie Boys"],
+    "source": "vice.com / wikipedia — Dirty Heads influences"
   }
 ]
