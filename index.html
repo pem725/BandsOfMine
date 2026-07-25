@@ -39,6 +39,10 @@
   }
   header h1 { margin: 0; font-size: 18px; letter-spacing: .02em; font-weight: 600; }
   header .sub { color: var(--dim); font-size: 12px; }
+  .layers { display: flex; gap: 12px; align-items: center; }
+  .layers label { display: flex; align-items: center; gap: 5px; font-size: 12px; color: var(--dim); cursor: pointer; }
+  .layers input { accent-color: var(--accent); }
+  .layers .pip { width: 18px; height: 3px; border-radius: 2px; display: inline-block; }
   header input[type=search] {
     margin-left: auto;
     background: var(--panel);
@@ -109,6 +113,11 @@
 <header>
   <h1>Bands of Mine</h1>
   <span class="sub">an influence graph — who played with whom, and when</span>
+  <span class="layers">
+    <label><input type="checkbox" id="L-personnel" checked><span class="pip" style="background:#d9843b"></span>played with</label>
+    <label><input type="checkbox" id="L-influence" checked><span class="pip" style="background:#c85f5f"></span>influenced by</label>
+    <label><input type="checkbox" id="L-sonic"><span class="pip" style="background:#4bb3a7"></span>sounds like</label>
+  </span>
   <a href="sonic.html" style="color:var(--accent);text-decoration:none;font-size:13px">the sonic map →</a>
   <input type="search" id="search" placeholder="find an artist…" autocomplete="off">
 </header>
@@ -143,15 +152,47 @@ const EDGE_COLOR = {
   signed_to:         "#4a4f58",
   covered:           "#9d7cd8",
   spun_off_from:     "#b8a04a",
+  sounds_like:       "#4bb3a7",
 };
 
-const [nodes, edges] = await Promise.all([
+const [nodes, edges, sonic] = await Promise.all([
   fetch("data/graph/nodes.json").then(r => r.json()),
   fetch("data/graph/edges.json").then(r => r.json()),
+  fetch("data/graph/sonic.json").then(r => r.json()).catch(() => ({artists:{}})),
 ]);
 
 const byId = new Map(nodes.map(n => [n.id, n]));
-edges.forEach(e => { e.src = byId.get(e.source); e.tgt = byId.get(e.target); });
+
+// Which relationship types belong to which toggleable layer.
+const LAYER_OF = {
+  member_of: "personnel", collaborated_with: "personnel",
+  spun_off_from: "personnel", signed_to: "personnel",
+  influenced_by: "influence", mentored: "influence", covered: "influence",
+  sounds_like: "sonic",
+};
+
+// Sonic-similarity edges are DERIVED from the sonic map (each artist to its
+// nearest-sounding neighbours), not stored in the graph — so they can be
+// overlaid on demand. Undirected, deduped, only above a similarity floor.
+const SONIC_MIN = 0.55;
+const sonicEdges = [];
+{
+  const seen = new Set();
+  for (const [id, a] of Object.entries(sonic.artists || {})) {
+    for (const [nid, sim] of (a.neighbors || [])) {
+      if (sim < SONIC_MIN || !byId.has(id) || !byId.has(nid)) continue;
+      const key = id < nid ? id + "|" + nid : nid + "|" + id;
+      if (seen.has(key)) continue;
+      seen.add(key);
+      sonicEdges.push({ source: id, target: nid, type: "sounds_like",
+                        intervals: [], weight: sim, sim, note: null, sources: ["sonic"] });
+    }
+  }
+}
+const allEdges = edges.concat(sonicEdges);
+allEdges.forEach(e => { e.src = byId.get(e.source); e.tgt = byId.get(e.target); });
+
+const layers = { personnel: true, influence: true, sonic: false };
 
 // --- time domain -------------------------------------------------------
 // Derived from the data itself so the slider always spans exactly what exists.
@@ -206,7 +247,12 @@ let selected = null;
 function render() {
   const allTime = document.getElementById("alltime").checked;
   const y = +document.getElementById("slider").value;
-  const live = allTime ? edges : edges.filter(e => liveIn(e, y));
+  // An edge shows if its layer is on AND (it's timeless sonic OR live this year).
+  const live = allEdges.filter(e => {
+    if (!layers[LAYER_OF[e.type]]) return false;
+    if (e.type === "sounds_like") return true;      // sound is timeless
+    return allTime || liveIn(e, y);
+  });
 
   degree = new Map();
   for (const e of live) {
@@ -227,7 +273,9 @@ function render() {
       update => update,
       exit => exit.transition().duration(200).attr("stroke-opacity", 0).remove()
     )
-    .attr("stroke-dasharray", d => (d.type === "influenced_by" || d.type === "mentored") ? "4 3" : null);
+    .attr("stroke-dasharray", d =>
+      d.type === "sounds_like" ? "1 4"
+      : (d.type === "influenced_by" || d.type === "mentored") ? "4 3" : null);
 
   nodeSel = nodeLayer.selectAll("g.node")
     .data(visible, d => d.id)
@@ -325,8 +373,10 @@ function renderPanel(d, y, allTime) {
       the edges that make this more than a personnel chart.</p>`;
     return;
   }
-  const rel = (allTime ? edges : edges.filter(e => liveIn(e, y)))
-    .filter(e => e.source === d.id || e.target === d.id);
+  const rel = allEdges.filter(e =>
+    layers[LAYER_OF[e.type]] &&
+    (e.type === "sounds_like" || allTime || liveIn(e, y)) &&
+    (e.source === d.id || e.target === d.id));
 
   const life = d.kind === "band"
     ? (d.born ? `formed ${d.born}${d.died ? `, ended ${d.died}` : ""}` : "")
@@ -370,6 +420,13 @@ const slider = document.getElementById("slider");
 slider.min = MIN_YEAR; slider.max = MAX_YEAR; slider.value = 1970;
 slider.addEventListener("input", render);
 document.getElementById("alltime").addEventListener("change", render);
+
+for (const k of ["personnel", "influence", "sonic"]) {
+  document.getElementById("L-" + k).addEventListener("change", ev => {
+    layers[k] = ev.target.checked;
+    render();
+  });
+}
 
 let timer = null;
 document.getElementById("play").addEventListener("click", ev => {
