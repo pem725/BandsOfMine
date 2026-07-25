@@ -118732,5 +118732,324 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "source": "jay-z",
+    "target": "the-notorious-b-i-g",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "JAY-Z influenced by The Notorious B.I.G.. Source: hiphopdx.com / lithub.com \u2014 JAY-Z influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "jay-z",
+    "target": "rakim",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "JAY-Z influenced by Rakim. Source: hiphopdx.com / lithub.com \u2014 JAY-Z influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "jay-z",
+    "target": "eric-b-rakim",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "JAY-Z influenced by Eric B. & Rakim. Source: hiphopdx.com / lithub.com \u2014 JAY-Z influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "jay-z",
+    "target": "boogie-down-productions",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "JAY-Z influenced by Boogie Down Productions. Source: hiphopdx.com / lithub.com \u2014 JAY-Z influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "drake",
+    "target": "lil-wayne",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Drake influenced by Lil Wayne. Source: thefader.com \u2014 Drake influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "drake",
+    "target": "kanye-west",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Drake influenced by Kanye West. Source: thefader.com \u2014 Drake influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "drake",
+    "target": "jay-z",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Drake influenced by JAY-Z. Source: thefader.com \u2014 Drake influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "lemon-jelly",
+    "target": "xtc",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Lemon Jelly influenced by XTC. Source: wikipedia / equipboard.com \u2014 Lemon Jelly (Fred Deakin) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "lemon-jelly",
+    "target": "a-certain-ratio",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Lemon Jelly influenced by A Certain Ratio. Source: wikipedia / equipboard.com \u2014 Lemon Jelly (Fred Deakin) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "billy-joel",
+    "target": "beethoven",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Billy Joel influenced by Beethoven. Source: faroutmagazine.co.uk / encyclopedia.com \u2014 Billy Joel influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "billy-joel",
+    "target": "chopin",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Billy Joel influenced by Chopin. Source: faroutmagazine.co.uk / encyclopedia.com \u2014 Billy Joel influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "billy-joel",
+    "target": "leonard-bernstein",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Billy Joel influenced by Leonard Bernstein. Source: faroutmagazine.co.uk / encyclopedia.com \u2014 Billy Joel influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "billy-joel",
+    "target": "the-beatles",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Billy Joel influenced by The Beatles. Source: faroutmagazine.co.uk / encyclopedia.com \u2014 Billy Joel influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "billy-joel",
+    "target": "ray-charles",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Billy Joel influenced by Ray Charles. Source: faroutmagazine.co.uk / encyclopedia.com \u2014 Billy Joel influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "billy-joel",
+    "target": "sam-cooke",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Billy Joel influenced by Sam Cooke. Source: faroutmagazine.co.uk / encyclopedia.com \u2014 Billy Joel influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "billy-joel",
+    "target": "otis-redding",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Billy Joel influenced by Otis Redding. Source: faroutmagazine.co.uk / encyclopedia.com \u2014 Billy Joel influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "billy-joel",
+    "target": "the-rolling-stones",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Billy Joel influenced by The Rolling Stones. Source: faroutmagazine.co.uk / encyclopedia.com \u2014 Billy Joel influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "elton-john",
+    "target": "little-richard",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Elton John influenced by Little Richard. Source: showbiz411.com / keyboardimprov.com \u2014 Elton John influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "elton-john",
+    "target": "leon-russell",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Elton John influenced by Leon Russell. Source: showbiz411.com / keyboardimprov.com \u2014 Elton John influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "elton-john",
+    "target": "jerry-lee-lewis",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Elton John influenced by Jerry Lee Lewis. Source: showbiz411.com / keyboardimprov.com \u2014 Elton John influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "elton-john",
+    "target": "dr-john",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Elton John influenced by Dr. John. Source: showbiz411.com / keyboardimprov.com \u2014 Elton John influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "fleetwood-mac",
+    "target": "hank-marvin",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Fleetwood Mac influenced by Hank Marvin. Source: npr.org \u2014 Peter Green / early Fleetwood Mac blues influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "fleetwood-mac",
+    "target": "muddy-waters",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Fleetwood Mac influenced by Muddy Waters. Source: npr.org \u2014 Peter Green / early Fleetwood Mac blues influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "fleetwood-mac",
+    "target": "b-b-king",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Fleetwood Mac influenced by B.B. King. Source: npr.org \u2014 Peter Green / early Fleetwood Mac blues influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "fleetwood-mac",
+    "target": "freddie-king",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Fleetwood Mac influenced by Freddie King. Source: npr.org \u2014 Peter Green / early Fleetwood Mac blues influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "john-hiatt",
+    "target": "bob-dylan",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "John Hiatt influenced by Bob Dylan. Source: encyclopedia.com \u2014 John Hiatt influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "john-hiatt",
+    "target": "elvis-costello",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "John Hiatt influenced by Elvis Costello. Source: encyclopedia.com \u2014 John Hiatt influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "john-hiatt",
+    "target": "graham-parker",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "John Hiatt influenced by Graham Parker. Source: encyclopedia.com \u2014 John Hiatt influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "john-hiatt",
+    "target": "joe-jackson",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "John Hiatt influenced by Joe Jackson. Source: encyclopedia.com \u2014 John Hiatt influences",
+    "sources": [
+      "web-curated"
+    ]
   }
 ]

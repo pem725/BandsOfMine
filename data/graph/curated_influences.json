@@ -108,5 +108,40 @@
     "artist": "allman-brothers-band",
     "influences": ["The Band"],
     "source": "britannica.com — The Band's influence on the Allman Brothers"
+  },
+  {
+    "artist": "jay-z",
+    "influences": ["The Notorious B.I.G.", "Rakim", "Eric B. & Rakim", "Boogie Down Productions"],
+    "source": "hiphopdx.com / lithub.com — JAY-Z influences"
+  },
+  {
+    "artist": "drake",
+    "influences": ["Lil Wayne", "Kanye West", "JAY-Z"],
+    "source": "thefader.com — Drake influences"
+  },
+  {
+    "artist": "lemon-jelly",
+    "influences": ["XTC", "A Certain Ratio"],
+    "source": "wikipedia / equipboard.com — Lemon Jelly (Fred Deakin) influences"
+  },
+  {
+    "artist": "billy-joel",
+    "influences": ["Beethoven", "Chopin", "Leonard Bernstein", "The Beatles", "Ray Charles", "Sam Cooke", "Otis Redding", "The Rolling Stones"],
+    "source": "faroutmagazine.co.uk / encyclopedia.com — Billy Joel influences"
+  },
+  {
+    "artist": "elton-john",
+    "influences": ["Little Richard", "Leon Russell", "Jerry Lee Lewis", "Dr. John"],
+    "source": "showbiz411.com / keyboardimprov.com — Elton John influences"
+  },
+  {
+    "artist": "fleetwood-mac",
+    "influences": ["Hank Marvin", "Muddy Waters", "B.B. King", "Freddie King"],
+    "source": "npr.org — Peter Green / early Fleetwood Mac blues influences"
+  },
+  {
+    "artist": "john-hiatt",
+    "influences": ["Bob Dylan", "Elvis Costello", "Graham Parker", "Joe Jackson"],
+    "source": "encyclopedia.com — John Hiatt influences"
   }
 ]
