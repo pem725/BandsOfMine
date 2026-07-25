@@ -117665,5 +117665,731 @@
     "sources": [
       "wikidata"
     ]
+  },
+  {
+    "source": "phish",
+    "target": "grateful-dead",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Phish influenced by Grateful Dead. Source: stripe.jhu.edu / tvtropes.org \u2014 Phish influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "phish",
+    "target": "frank-zappa",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Phish influenced by Frank Zappa. Source: stripe.jhu.edu / tvtropes.org \u2014 Phish influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "phish",
+    "target": "genesis",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Phish influenced by Genesis. Source: stripe.jhu.edu / tvtropes.org \u2014 Phish influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "phish",
+    "target": "talking-heads",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Phish influenced by Talking Heads. Source: stripe.jhu.edu / tvtropes.org \u2014 Phish influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "phish",
+    "target": "miles-davis",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Phish influenced by Miles Davis. Source: stripe.jhu.edu / tvtropes.org \u2014 Phish influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "phish",
+    "target": "king-crimson",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Phish influenced by King Crimson. Source: stripe.jhu.edu / tvtropes.org \u2014 Phish influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "dave-matthews-band",
+    "target": "grateful-dead",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Dave Matthews Band influenced by Grateful Dead. Source: ebsco.com / wikipedia \u2014 Dave Matthews Band influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "dave-matthews-band",
+    "target": "jimi-hendrix",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Dave Matthews Band influenced by Jimi Hendrix. Source: ebsco.com / wikipedia \u2014 Dave Matthews Band influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "dave-matthews-band",
+    "target": "little-feat",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Dave Matthews Band influenced by Little Feat. Source: ebsco.com / wikipedia \u2014 Dave Matthews Band influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "dave-matthews-band",
+    "target": "paul-simon",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Dave Matthews Band influenced by Paul Simon. Source: ebsco.com / wikipedia \u2014 Dave Matthews Band influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "dave-matthews-band",
+    "target": "sting",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Dave Matthews Band influenced by Sting. Source: ebsco.com / wikipedia \u2014 Dave Matthews Band influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "dave-matthews-band",
+    "target": "bob-marley",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Dave Matthews Band influenced by Bob Marley. Source: ebsco.com / wikipedia \u2014 Dave Matthews Band influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "dave-matthews-band",
+    "target": "keith-jarrett",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Dave Matthews Band influenced by Keith Jarrett. Source: ebsco.com / wikipedia \u2014 Dave Matthews Band influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "tedeschi-trucks-band",
+    "target": "stevie-ray-vaughan",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Tedeschi Trucks Band influenced by Stevie Ray Vaughan. Source: wfuv.org / kunc.org \u2014 Tedeschi Trucks influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "tedeschi-trucks-band",
+    "target": "buddy-guy",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Tedeschi Trucks Band influenced by Buddy Guy. Source: wfuv.org / kunc.org \u2014 Tedeschi Trucks influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "tedeschi-trucks-band",
+    "target": "janis-joplin",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Tedeschi Trucks Band influenced by Janis Joplin. Source: wfuv.org / kunc.org \u2014 Tedeschi Trucks influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "tedeschi-trucks-band",
+    "target": "bonnie-raitt",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Tedeschi Trucks Band influenced by Bonnie Raitt. Source: wfuv.org / kunc.org \u2014 Tedeschi Trucks influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "tedeschi-trucks-band",
+    "target": "freddie-king",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Tedeschi Trucks Band influenced by Freddie King. Source: wfuv.org / kunc.org \u2014 Tedeschi Trucks influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "tedeschi-trucks-band",
+    "target": "allman-brothers-band",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Tedeschi Trucks Band influenced by Allman Brothers Band. Source: wfuv.org / kunc.org \u2014 Tedeschi Trucks influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "tedeschi-trucks-band",
+    "target": "mccoy-tyner",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Tedeschi Trucks Band influenced by McCoy Tyner. Source: wfuv.org / kunc.org \u2014 Tedeschi Trucks influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-steeldrivers",
+    "target": "new-grass-revival",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Steeldrivers influenced by New Grass Revival. Source: bluegrassunlimited.com \u2014 SteelDrivers",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "jimmy-buffett",
+    "target": "hank-williams",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Jimmy Buffett influenced by Hank Williams. Source: udiscovermusic.com / vocal.media \u2014 Jimmy Buffett influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "jimmy-buffett",
+    "target": "merle-haggard",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Jimmy Buffett influenced by Merle Haggard. Source: udiscovermusic.com / vocal.media \u2014 Jimmy Buffett influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "jimmy-buffett",
+    "target": "bob-dylan",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Jimmy Buffett influenced by Bob Dylan. Source: udiscovermusic.com / vocal.media \u2014 Jimmy Buffett influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "jimmy-buffett",
+    "target": "the-beach-boys",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Jimmy Buffett influenced by The Beach Boys. Source: udiscovermusic.com / vocal.media \u2014 Jimmy Buffett influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "jimmy-buffett",
+    "target": "jerry-jeff-walker",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Jimmy Buffett influenced by Jerry Jeff Walker. Source: udiscovermusic.com / vocal.media \u2014 Jimmy Buffett influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "jimmy-buffett",
+    "target": "willis-alan-ramsey",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Jimmy Buffett influenced by Willis Alan Ramsey. Source: udiscovermusic.com / vocal.media \u2014 Jimmy Buffett influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "widespread-panic",
+    "target": "allman-brothers-band",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Widespread Panic influenced by Allman Brothers Band. Source: wikipedia / concerttour.net \u2014 Widespread Panic influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "widespread-panic",
+    "target": "grateful-dead",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Widespread Panic influenced by Grateful Dead. Source: wikipedia / concerttour.net \u2014 Widespread Panic influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "widespread-panic",
+    "target": "lynyrd-skynyrd",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Widespread Panic influenced by Lynyrd Skynyrd. Source: wikipedia / concerttour.net \u2014 Widespread Panic influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "widespread-panic",
+    "target": "black-sabbath",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Widespread Panic influenced by Black Sabbath. Source: wikipedia / concerttour.net \u2014 Widespread Panic influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "widespread-panic",
+    "target": "james-taylor",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Widespread Panic influenced by James Taylor. Source: wikipedia / concerttour.net \u2014 Widespread Panic influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "widespread-panic",
+    "target": "the-guess-who",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Widespread Panic influenced by The Guess Who. Source: wikipedia / concerttour.net \u2014 Widespread Panic influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "widespread-panic",
+    "target": "talking-heads",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Widespread Panic influenced by Talking Heads. Source: wikipedia / concerttour.net \u2014 Widespread Panic influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "billy-strings",
+    "target": "doc-watson",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Billy Strings influenced by Doc Watson. Source: grammy.com / savingcountrymusic.com \u2014 Billy Strings influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "billy-strings",
+    "target": "bill-monroe",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Billy Strings influenced by Bill Monroe. Source: grammy.com / savingcountrymusic.com \u2014 Billy Strings influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "billy-strings",
+    "target": "flatt-scruggs",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Billy Strings influenced by Flatt & Scruggs. Source: grammy.com / savingcountrymusic.com \u2014 Billy Strings influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "billy-strings",
+    "target": "j-d-crowe",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Billy Strings influenced by J.D. Crowe. Source: grammy.com / savingcountrymusic.com \u2014 Billy Strings influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "billy-strings",
+    "target": "ralph-stanley",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Billy Strings influenced by Ralph Stanley. Source: grammy.com / savingcountrymusic.com \u2014 Billy Strings influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "billy-strings",
+    "target": "the-stanley-brothers",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Billy Strings influenced by The Stanley Brothers. Source: grammy.com / savingcountrymusic.com \u2014 Billy Strings influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "billy-strings",
+    "target": "grateful-dead",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Billy Strings influenced by Grateful Dead. Source: grammy.com / savingcountrymusic.com \u2014 Billy Strings influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "billy-strings",
+    "target": "phish",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Billy Strings influenced by Phish. Source: grammy.com / savingcountrymusic.com \u2014 Billy Strings influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "billy-strings",
+    "target": "black-sabbath",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Billy Strings influenced by Black Sabbath. Source: grammy.com / savingcountrymusic.com \u2014 Billy Strings influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "billy-strings",
+    "target": "jimi-hendrix",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Billy Strings influenced by Jimi Hendrix. Source: grammy.com / savingcountrymusic.com \u2014 Billy Strings influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "little-feat",
+    "target": "robert-johnson",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Little Feat influenced by Robert Johnson. Source: furious.com / theobjectivestandard.com \u2014 Lowell George influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "little-feat",
+    "target": "muddy-waters",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Little Feat influenced by Muddy Waters. Source: furious.com / theobjectivestandard.com \u2014 Lowell George influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "little-feat",
+    "target": "howlin-wolf",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Little Feat influenced by Howlin' Wolf. Source: furious.com / theobjectivestandard.com \u2014 Lowell George influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "little-feat",
+    "target": "frank-zappa",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Little Feat influenced by Frank Zappa. Source: furious.com / theobjectivestandard.com \u2014 Lowell George influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "van-morrison",
+    "target": "jelly-roll-morton",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Van Morrison influenced by Jelly Roll Morton. Source: encyclopedia.com / americanbluesscene.com \u2014 Van Morrison influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "van-morrison",
+    "target": "lead-belly",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Van Morrison influenced by Lead Belly. Source: encyclopedia.com / americanbluesscene.com \u2014 Van Morrison influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "van-morrison",
+    "target": "ray-charles",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Van Morrison influenced by Ray Charles. Source: encyclopedia.com / americanbluesscene.com \u2014 Van Morrison influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "van-morrison",
+    "target": "sonny-terry",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Van Morrison influenced by Sonny Terry. Source: encyclopedia.com / americanbluesscene.com \u2014 Van Morrison influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "van-morrison",
+    "target": "brownie-mcghee",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Van Morrison influenced by Brownie McGhee. Source: encyclopedia.com / americanbluesscene.com \u2014 Van Morrison influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "van-morrison",
+    "target": "solomon-burke",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Van Morrison influenced by Solomon Burke. Source: encyclopedia.com / americanbluesscene.com \u2014 Van Morrison influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "trampled-by-turtles",
+    "target": "bob-dylan",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Trampled by Turtles influenced by Bob Dylan. Source: thebaybridged.com \u2014 Trampled by Turtles",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "old-crow-medicine-show",
+    "target": "the-horse-flies",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Old Crow Medicine Show influenced by The Horse Flies. Source: wikipedia \u2014 Old Crow Medicine Show",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "old-crow-medicine-show",
+    "target": "the-highwoods-stringband",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Old Crow Medicine Show influenced by The Highwoods Stringband. Source: wikipedia \u2014 Old Crow Medicine Show",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "gov-t-mule",
+    "target": "cream",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Gov't Mule influenced by Cream. Source: alanpaul.substack.com / wikipedia \u2014 Gov't Mule influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "gov-t-mule",
+    "target": "free",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Gov't Mule influenced by Free. Source: alanpaul.substack.com / wikipedia \u2014 Gov't Mule influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "gov-t-mule",
+    "target": "jimi-hendrix",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Gov't Mule influenced by Jimi Hendrix. Source: alanpaul.substack.com / wikipedia \u2014 Gov't Mule influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "gov-t-mule",
+    "target": "james-gang",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Gov't Mule influenced by The James Gang. Source: alanpaul.substack.com / wikipedia \u2014 Gov't Mule influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "gov-t-mule",
+    "target": "mountain",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Gov't Mule influenced by Mountain. Source: alanpaul.substack.com / wikipedia \u2014 Gov't Mule influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "gov-t-mule",
+    "target": "allman-brothers-band",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Gov't Mule influenced by Allman Brothers Band. Source: alanpaul.substack.com / wikipedia \u2014 Gov't Mule influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "gregory-alan-isakov",
+    "target": "paul-simon",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Gregory Alan Isakov influenced by Paul Simon. Source: gregoryalanisakov / allmusic \u2014 Gregory Alan Isakov influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "gregory-alan-isakov",
+    "target": "bruce-springsteen",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Gregory Alan Isakov influenced by Bruce Springsteen. Source: gregoryalanisakov / allmusic \u2014 Gregory Alan Isakov influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "gregory-alan-isakov",
+    "target": "kelly-joe-phelps",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Gregory Alan Isakov influenced by Kelly Joe Phelps. Source: gregoryalanisakov / allmusic \u2014 Gregory Alan Isakov influences",
+    "sources": [
+      "web-curated"
+    ]
   }
 ]

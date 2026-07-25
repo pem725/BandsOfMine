@@ -1,0 +1,72 @@
+[
+  {
+    "artist": "phish",
+    "influences": ["Grateful Dead", "Frank Zappa", "Genesis", "Talking Heads", "Miles Davis", "King Crimson"],
+    "source": "stripe.jhu.edu / tvtropes.org — Phish influences"
+  },
+  {
+    "artist": "dave-matthews-band",
+    "influences": ["Grateful Dead", "Jimi Hendrix", "Little Feat", "Paul Simon", "Sting", "Bob Marley", "Keith Jarrett"],
+    "source": "ebsco.com / wikipedia — Dave Matthews Band influences"
+  },
+  {
+    "artist": "tedeschi-trucks-band",
+    "influences": ["Stevie Ray Vaughan", "Buddy Guy", "Janis Joplin", "Bonnie Raitt", "Freddie King", "Allman Brothers Band", "McCoy Tyner"],
+    "source": "wfuv.org / kunc.org — Tedeschi Trucks influences"
+  },
+  {
+    "artist": "the-steeldrivers",
+    "influences": ["New Grass Revival"],
+    "source": "bluegrassunlimited.com — SteelDrivers"
+  },
+  {
+    "artist": "jimmy-buffett",
+    "influences": ["Hank Williams", "Merle Haggard", "Bob Dylan", "The Beach Boys", "Jerry Jeff Walker", "Willis Alan Ramsey"],
+    "source": "udiscovermusic.com / vocal.media — Jimmy Buffett influences"
+  },
+  {
+    "artist": "widespread-panic",
+    "influences": ["Allman Brothers Band", "Grateful Dead", "Lynyrd Skynyrd", "Black Sabbath", "James Taylor", "The Guess Who", "Talking Heads"],
+    "source": "wikipedia / concerttour.net — Widespread Panic influences"
+  },
+  {
+    "artist": "billy-strings",
+    "influences": ["Doc Watson", "Bill Monroe", "Flatt & Scruggs", "J.D. Crowe", "Ralph Stanley", "The Stanley Brothers", "Grateful Dead", "Phish", "Black Sabbath", "Jimi Hendrix"],
+    "source": "grammy.com / savingcountrymusic.com — Billy Strings influences"
+  },
+  {
+    "artist": "little-feat",
+    "influences": ["Robert Johnson", "Muddy Waters", "Howlin' Wolf", "Frank Zappa"],
+    "source": "furious.com / theobjectivestandard.com — Lowell George influences"
+  },
+  {
+    "artist": "van-morrison",
+    "influences": ["Jelly Roll Morton", "Lead Belly", "Ray Charles", "Sonny Terry", "Brownie McGhee", "Solomon Burke"],
+    "source": "encyclopedia.com / americanbluesscene.com — Van Morrison influences"
+  },
+  {
+    "artist": "trampled-by-turtles",
+    "influences": ["Bob Dylan"],
+    "source": "thebaybridged.com — Trampled by Turtles"
+  },
+  {
+    "artist": "old-crow-medicine-show",
+    "influences": ["The Horse Flies", "The Highwoods Stringband"],
+    "source": "wikipedia — Old Crow Medicine Show"
+  },
+  {
+    "artist": "gov-t-mule",
+    "influences": ["Cream", "Free", "Jimi Hendrix", "The James Gang", "Mountain", "Allman Brothers Band"],
+    "source": "alanpaul.substack.com / wikipedia — Gov't Mule influences"
+  },
+  {
+    "artist": "gregory-alan-isakov",
+    "influences": ["Leonard Cohen", "Paul Simon", "Bruce Springsteen", "Kelly Joe Phelps"],
+    "source": "gregoryalanisakov / allmusic — Gregory Alan Isakov influences"
+  },
+  {
+    "artist": "mumford-sons",
+    "influences": ["Old Crow Medicine Show"],
+    "source": "wikipedia — Old Crow Medicine Show influence on the string-band revival"
+  }
+]
