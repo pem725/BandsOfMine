@@ -119821,5 +119821,170 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "source": "todd-snider",
+    "target": "jerry-jeff-walker",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Todd Snider influenced by Jerry Jeff Walker. Source: rollingstone.com / relix.com \u2014 Todd Snider influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "todd-snider",
+    "target": "john-prine",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Todd Snider influenced by John Prine. Source: rollingstone.com / relix.com \u2014 Todd Snider influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "todd-snider",
+    "target": "billy-joe-shaver",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Todd Snider influenced by Billy Joe Shaver. Source: rollingstone.com / relix.com \u2014 Todd Snider influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "todd-snider",
+    "target": "kris-kristofferson",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Todd Snider influenced by Kris Kristofferson. Source: rollingstone.com / relix.com \u2014 Todd Snider influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "todd-snider",
+    "target": "jimmy-buffett",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Todd Snider influenced by Jimmy Buffett. Source: rollingstone.com / relix.com \u2014 Todd Snider influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "lucero",
+    "target": "r-e-m",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Lucero influenced by R.E.M.. Source: idleclassmag.com \u2014 Ben Nichols / Lucero early influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "lucero",
+    "target": "the-cure",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Lucero influenced by The Cure. Source: idleclassmag.com \u2014 Ben Nichols / Lucero early influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "jj-grey-mofro",
+    "target": "otis-redding",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "JJ Grey & Mofro influenced by Otis Redding. Source: springfieldnewssun.com / allmusic \u2014 JJ Grey & Mofro influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "jj-grey-mofro",
+    "target": "bill-withers",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "JJ Grey & Mofro influenced by Bill Withers. Source: springfieldnewssun.com / allmusic \u2014 JJ Grey & Mofro influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "jj-grey-mofro",
+    "target": "muddy-waters",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "JJ Grey & Mofro influenced by Muddy Waters. Source: springfieldnewssun.com / allmusic \u2014 JJ Grey & Mofro influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "jj-grey-mofro",
+    "target": "jerry-reed",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "JJ Grey & Mofro influenced by Jerry Reed. Source: springfieldnewssun.com / allmusic \u2014 JJ Grey & Mofro influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "st-paul-the-broken-bones",
+    "target": "otis-redding",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "St. Paul & The Broken Bones influenced by Otis Redding. Source: grokipedia / dailyutahchronicle.com \u2014 St. Paul & the Broken Bones influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "st-paul-the-broken-bones",
+    "target": "sam-cooke",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "St. Paul & The Broken Bones influenced by Sam Cooke. Source: grokipedia / dailyutahchronicle.com \u2014 St. Paul & the Broken Bones influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "st-paul-the-broken-bones",
+    "target": "wilson-pickett",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "St. Paul & The Broken Bones influenced by Wilson Pickett. Source: grokipedia / dailyutahchronicle.com \u2014 St. Paul & the Broken Bones influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "st-paul-the-broken-bones",
+    "target": "curtis-mayfield",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "St. Paul & The Broken Bones influenced by Curtis Mayfield. Source: grokipedia / dailyutahchronicle.com \u2014 St. Paul & the Broken Bones influences",
+    "sources": [
+      "web-curated"
+    ]
   }
 ]

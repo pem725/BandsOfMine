@@ -218,5 +218,25 @@
     "artist": "the-revivalists",
     "influences": ["Dr. John", "Queen", "The Beatles", "Stevie Wonder", "Galactic", "Dumpstaphunk", "Rebirth Brass Band"],
     "source": "grammy.com / vocal.media — The Revivalists influences"
+  },
+  {
+    "artist": "todd-snider",
+    "influences": ["Jerry Jeff Walker", "John Prine", "Billy Joe Shaver", "Kris Kristofferson", "Jimmy Buffett"],
+    "source": "rollingstone.com / relix.com — Todd Snider influences"
+  },
+  {
+    "artist": "lucero",
+    "influences": ["R.E.M.", "The Cure"],
+    "source": "idleclassmag.com — Ben Nichols / Lucero early influences"
+  },
+  {
+    "artist": "jj-grey-mofro",
+    "influences": ["Otis Redding", "Bill Withers", "Muddy Waters", "Jerry Reed"],
+    "source": "springfieldnewssun.com / allmusic — JJ Grey & Mofro influences"
+  },
+  {
+    "artist": "st-paul-the-broken-bones",
+    "influences": ["Otis Redding", "Sam Cooke", "Wilson Pickett", "Curtis Mayfield"],
+    "source": "grokipedia / dailyutahchronicle.com — St. Paul & the Broken Bones influences"
   }
 ]
