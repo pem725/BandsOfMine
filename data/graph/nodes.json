@@ -118849,5 +118849,24 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "id": "george-martin",
+    "name": "George Martin",
+    "kind": "person",
+    "born": 1926,
+    "died": 2016,
+    "origin": "London, England",
+    "roles": [
+      "producer",
+      "arranger"
+    ],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
   }
 ]

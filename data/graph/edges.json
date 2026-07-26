@@ -122747,5 +122747,21 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "source": "george-martin",
+    "target": "the-beatles",
+    "type": "produced",
+    "intervals": [
+      [
+        1962,
+        1970
+      ]
+    ],
+    "weight": 1.0,
+    "note": "The 'fifth Beatle' \u2014 signed them, arranged strings on 'Yesterday', shaped their studio sound.",
+    "sources": [
+      "web-curated"
+    ]
   }
 ]
