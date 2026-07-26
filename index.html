@@ -116,6 +116,7 @@
   <span class="layers">
     <label><input type="checkbox" id="L-personnel" checked><span class="pip" style="background:#d9843b"></span>played with</label>
     <label><input type="checkbox" id="L-influence" checked><span class="pip" style="background:#c85f5f"></span>influenced by</label>
+    <label><input type="checkbox" id="L-producer"><span class="pip" style="background:#68b587"></span>produced by</label>
     <label><input type="checkbox" id="L-sonic"><span class="pip" style="background:#4bb3a7"></span>sounds like</label>
   </span>
   <a href="sonic.html" style="color:var(--accent);text-decoration:none;font-size:13px">the sonic map →</a>
@@ -168,7 +169,7 @@ const LAYER_OF = {
   member_of: "personnel", collaborated_with: "personnel",
   spun_off_from: "personnel", signed_to: "personnel",
   influenced_by: "influence", mentored: "influence", covered: "influence",
-  produced: "influence",
+  produced: "producer",
   sounds_like: "sonic",
 };
 
@@ -193,7 +194,7 @@ const sonicEdges = [];
 const allEdges = edges.concat(sonicEdges);
 allEdges.forEach(e => { e.src = byId.get(e.source); e.tgt = byId.get(e.target); });
 
-const layers = { personnel: true, influence: true, sonic: false };
+const layers = { personnel: true, influence: true, producer: false, sonic: false };
 
 // --- time domain -------------------------------------------------------
 // Derived from the data itself so the slider always spans exactly what exists.
@@ -276,6 +277,7 @@ function render() {
     )
     .attr("stroke-dasharray", d =>
       d.type === "sounds_like" ? "1 4"
+      : d.type === "produced" ? "6 2 1 2"
       : (d.type === "influenced_by" || d.type === "mentored") ? "4 3" : null);
 
   nodeSel = nodeLayer.selectAll("g.node")
@@ -422,7 +424,7 @@ slider.min = MIN_YEAR; slider.max = MAX_YEAR; slider.value = 1970;
 slider.addEventListener("input", render);
 document.getElementById("alltime").addEventListener("change", render);
 
-for (const k of ["personnel", "influence", "sonic"]) {
+for (const k of ["personnel", "influence", "producer", "sonic"]) {
   document.getElementById("L-" + k).addEventListener("change", ev => {
     layers[k] = ev.target.checked;
     render();

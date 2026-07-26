@@ -37056,7 +37056,9 @@
     "born": null,
     "died": null,
     "origin": null,
-    "roles": [],
+    "roles": [
+      "producer"
+    ],
     "genres": [],
     "mbid": "ff95eb47-41c4-4f7f-a104-cdc30f02e872",
     "spotify_id": null,
@@ -118585,7 +118587,9 @@
     "born": null,
     "died": null,
     "origin": null,
-    "roles": [],
+    "roles": [
+      "producer"
+    ],
     "genres": [],
     "mbid": null,
     "spotify_id": null,
@@ -118957,6 +118961,96 @@
     "died": null,
     "origin": null,
     "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "id": "steve-lillywhite",
+    "name": "Steve Lillywhite",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [
+      "producer"
+    ],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "id": "glen-ballard",
+    "name": "Glen Ballard",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [
+      "producer"
+    ],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "id": "zaytoven",
+    "name": "Zaytoven",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [
+      "producer"
+    ],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "id": "metro-boomin",
+    "name": "Metro Boomin",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [
+      "producer"
+    ],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "id": "t-bone-burnett",
+    "name": "T Bone Burnett",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [
+      "producer"
+    ],
     "genres": [],
     "mbid": null,
     "spotify_id": null,

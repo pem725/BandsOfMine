@@ -123005,5 +123005,280 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "source": "rick-rubin",
+    "target": "johnny-cash",
+    "type": "produced",
+    "intervals": [],
+    "weight": 0.8,
+    "note": "Rick Rubin produced Johnny Cash. Source: britannica.com \u2014 Rick Rubin / Johnny Cash American Recordings",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "rick-rubin",
+    "target": "red-hot-chili-peppers",
+    "type": "produced",
+    "intervals": [],
+    "weight": 0.8,
+    "note": "Rick Rubin produced Red Hot Chili Peppers. Source: allmusic.com \u2014 Rick Rubin / Blood Sugar Sex Magik",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "rick-rubin",
+    "target": "tom-petty",
+    "type": "produced",
+    "intervals": [],
+    "weight": 0.8,
+    "note": "Rick Rubin produced Tom Petty. Source: faroutmagazine.co.uk \u2014 Rick Rubin / Wildflowers",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "rick-rubin",
+    "target": "zz-top",
+    "type": "produced",
+    "intervals": [],
+    "weight": 0.8,
+    "note": "Rick Rubin produced Zz Top. Source: loudersound.com \u2014 Rick Rubin discography",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "daniel-lanois",
+    "target": "u2",
+    "type": "produced",
+    "intervals": [],
+    "weight": 0.8,
+    "note": "Daniel Lanois produced U2. Source: guitarplayer.com / tapeop.com \u2014 U2 producers",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "brian-eno",
+    "target": "u2",
+    "type": "produced",
+    "intervals": [],
+    "weight": 0.8,
+    "note": "Brian Eno produced U2. Source: guitarplayer.com / tapeop.com \u2014 U2 producers",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "steve-lillywhite",
+    "target": "u2",
+    "type": "produced",
+    "intervals": [],
+    "weight": 0.8,
+    "note": "Steve Lillywhite produced U2. Source: guitarplayer.com / tapeop.com \u2014 U2 producers",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "daniel-lanois",
+    "target": "bob-dylan",
+    "type": "produced",
+    "intervals": [],
+    "weight": 0.8,
+    "note": "Daniel Lanois produced Bob Dylan. Source: guitarplayer.com \u2014 Lanois / Oh Mercy, Time Out of Mind",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "daniel-lanois",
+    "target": "willie-nelson",
+    "type": "produced",
+    "intervals": [],
+    "weight": 0.8,
+    "note": "Daniel Lanois produced Willie Nelson. Source: allmusic.com \u2014 Lanois / Teatro",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "daniel-lanois",
+    "target": "peter-gabriel",
+    "type": "produced",
+    "intervals": [],
+    "weight": 0.8,
+    "note": "Daniel Lanois produced Peter Gabriel. Source: ebsco.com \u2014 Lanois / So, Us",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "steve-lillywhite",
+    "target": "dave-matthews-band",
+    "type": "produced",
+    "intervals": [],
+    "weight": 0.8,
+    "note": "Steve Lillywhite produced Dave Matthews Band. Source: hollywoodreporter.com \u2014 Lillywhite / Under the Table, Crash",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "glen-ballard",
+    "target": "dave-matthews-band",
+    "type": "produced",
+    "intervals": [],
+    "weight": 0.8,
+    "note": "Glen Ballard produced Dave Matthews Band. Source: hollywoodreporter.com \u2014 Lillywhite / Under the Table, Crash",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "steve-lillywhite",
+    "target": "phish",
+    "type": "produced",
+    "intervals": [],
+    "weight": 0.8,
+    "note": "Steve Lillywhite produced Phish. Source: relix.com \u2014 Lillywhite / Billy Breathes",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "dr-dre",
+    "target": "eminem",
+    "type": "produced",
+    "intervals": [],
+    "weight": 0.8,
+    "note": "Dr. Dre produced Eminem. Source: britannica.com \u2014 Dr. Dre / Aftermath",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "dr-dre",
+    "target": "snoop-dogg",
+    "type": "produced",
+    "intervals": [],
+    "weight": 0.8,
+    "note": "Dr. Dre produced Snoop Dogg. Source: britannica.com \u2014 Dr. Dre / Doggystyle",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "dr-dre",
+    "target": "kendrick-lamar",
+    "type": "produced",
+    "intervals": [],
+    "weight": 0.8,
+    "note": "Dr. Dre produced Kendrick Lamar. Source: revolt.tv \u2014 Dr. Dre exec-produced Compton",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "zaytoven",
+    "target": "gucci-mane",
+    "type": "produced",
+    "intervals": [],
+    "weight": 0.8,
+    "note": "Zaytoven produced Gucci Mane. Source: billboard.com \u2014 Zaytoven / So Icy",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "zaytoven",
+    "target": "migos",
+    "type": "produced",
+    "intervals": [],
+    "weight": 0.8,
+    "note": "Zaytoven produced Migos. Source: redbull.com \u2014 Zaytoven / Versace",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "zaytoven",
+    "target": "future",
+    "type": "produced",
+    "intervals": [],
+    "weight": 0.8,
+    "note": "Zaytoven produced Future. Source: complex.com \u2014 Zaytoven / Metro Boomin Atlanta trap",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "metro-boomin",
+    "target": "future",
+    "type": "produced",
+    "intervals": [],
+    "weight": 0.8,
+    "note": "Metro Boomin produced Future. Source: complex.com \u2014 Zaytoven / Metro Boomin Atlanta trap",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "zaytoven",
+    "target": "t-i",
+    "type": "produced",
+    "intervals": [],
+    "weight": 0.8,
+    "note": "Zaytoven produced T.I.. Source: daily.redbullmusicacademy.com \u2014 Zaytoven for T.I.",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "dr-dre",
+    "target": "t-i",
+    "type": "produced",
+    "intervals": [],
+    "weight": 0.8,
+    "note": "Dr. Dre produced T.I.. Source: daily.redbullmusicacademy.com \u2014 Zaytoven for T.I.",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "zaytoven",
+    "target": "drake",
+    "type": "produced",
+    "intervals": [],
+    "weight": 0.8,
+    "note": "Zaytoven produced Drake. Source: daily.redbullmusicacademy.com \u2014 Zaytoven / Metro for Drake",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "metro-boomin",
+    "target": "drake",
+    "type": "produced",
+    "intervals": [],
+    "weight": 0.8,
+    "note": "Metro Boomin produced Drake. Source: daily.redbullmusicacademy.com \u2014 Zaytoven / Metro for Drake",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "t-bone-burnett",
+    "target": "gillian-welch",
+    "type": "produced",
+    "intervals": [],
+    "weight": 0.8,
+    "note": "T Bone Burnett produced Gillian Welch. Source: performingsongwriter.com \u2014 T Bone Burnett early mentorship",
+    "sources": [
+      "web-curated"
+    ]
   }
 ]

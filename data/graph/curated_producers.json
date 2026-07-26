@@ -1,0 +1,97 @@
+[
+  {
+    "artist": "johnny-cash",
+    "producers": ["Rick Rubin"],
+    "source": "britannica.com — Rick Rubin / Johnny Cash American Recordings"
+  },
+  {
+    "artist": "red-hot-chili-peppers",
+    "producers": ["Rick Rubin"],
+    "source": "allmusic.com — Rick Rubin / Blood Sugar Sex Magik"
+  },
+  {
+    "artist": "tom-petty",
+    "producers": ["Rick Rubin"],
+    "source": "faroutmagazine.co.uk — Rick Rubin / Wildflowers"
+  },
+  {
+    "artist": "zz-top",
+    "producers": ["Rick Rubin"],
+    "source": "loudersound.com — Rick Rubin discography"
+  },
+  {
+    "artist": "u2",
+    "producers": ["Daniel Lanois", "Brian Eno", "Steve Lillywhite"],
+    "source": "guitarplayer.com / tapeop.com — U2 producers"
+  },
+  {
+    "artist": "bob-dylan",
+    "producers": ["Daniel Lanois"],
+    "source": "guitarplayer.com — Lanois / Oh Mercy, Time Out of Mind"
+  },
+  {
+    "artist": "willie-nelson",
+    "producers": ["Daniel Lanois"],
+    "source": "allmusic.com — Lanois / Teatro"
+  },
+  {
+    "artist": "peter-gabriel",
+    "producers": ["Daniel Lanois"],
+    "source": "ebsco.com — Lanois / So, Us"
+  },
+  {
+    "artist": "dave-matthews-band",
+    "producers": ["Steve Lillywhite", "Glen Ballard"],
+    "source": "hollywoodreporter.com — Lillywhite / Under the Table, Crash"
+  },
+  {
+    "artist": "phish",
+    "producers": ["Steve Lillywhite"],
+    "source": "relix.com — Lillywhite / Billy Breathes"
+  },
+  {
+    "artist": "eminem",
+    "producers": ["Dr. Dre"],
+    "source": "britannica.com — Dr. Dre / Aftermath"
+  },
+  {
+    "artist": "snoop-dogg",
+    "producers": ["Dr. Dre"],
+    "source": "britannica.com — Dr. Dre / Doggystyle"
+  },
+  {
+    "artist": "kendrick-lamar",
+    "producers": ["Dr. Dre"],
+    "source": "revolt.tv — Dr. Dre exec-produced Compton"
+  },
+  {
+    "artist": "gucci-mane",
+    "producers": ["Zaytoven"],
+    "source": "billboard.com — Zaytoven / So Icy"
+  },
+  {
+    "artist": "migos",
+    "producers": ["Zaytoven"],
+    "source": "redbull.com — Zaytoven / Versace"
+  },
+  {
+    "artist": "future",
+    "producers": ["Zaytoven", "Metro Boomin"],
+    "source": "complex.com — Zaytoven / Metro Boomin Atlanta trap"
+  },
+  {
+    "artist": "t-i",
+    "producers": ["Zaytoven", "Dr. Dre"],
+    "source": "daily.redbullmusicacademy.com — Zaytoven for T.I."
+  },
+  {
+    "artist": "drake",
+    "producers": ["Zaytoven", "Metro Boomin"],
+    "source": "daily.redbullmusicacademy.com — Zaytoven / Metro for Drake"
+  },
+  {
+    "artist": "gillian-welch",
+    "producers": ["T Bone Burnett"],
+    "source": "performingsongwriter.com — T Bone Burnett early mentorship"
+  }
+]
