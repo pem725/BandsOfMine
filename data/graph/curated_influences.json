@@ -198,5 +198,25 @@
     "artist": "dirty-heads",
     "influences": ["Sublime", "Slightly Stoopid", "Black Uhuru", "Israel Vibration", "The Pharcyde", "Beastie Boys"],
     "source": "vice.com / wikipedia — Dirty Heads influences"
+  },
+  {
+    "artist": "slightly-stoopid",
+    "influences": ["Sublime", "Bad Religion", "The Descendents"],
+    "source": "allmusic.com — Slightly Stoopid influences"
+  },
+  {
+    "artist": "rebelution",
+    "influences": ["Don Carlos", "Black Uhuru"],
+    "source": "hollywoodsoapbox.com — Rebelution (Eric Rachmany) influences"
+  },
+  {
+    "artist": "first-aid-kit",
+    "influences": ["Emmylou Harris", "Bob Dylan", "Gram Parsons", "Townes Van Zandt", "Joni Mitchell", "Bright Eyes"],
+    "source": "undertheradarmag.com / faroutmagazine.co.uk — First Aid Kit heroes"
+  },
+  {
+    "artist": "the-revivalists",
+    "influences": ["Dr. John", "Queen", "The Beatles", "Stevie Wonder", "Galactic", "Dumpstaphunk", "Rebirth Brass Band"],
+    "source": "grammy.com / vocal.media — The Revivalists influences"
   }
 ]

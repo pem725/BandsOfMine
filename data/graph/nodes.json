@@ -117425,5 +117425,101 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "id": "don-carlos",
+    "name": "Don Carlos",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "id": "gram-parsons",
+    "name": "Gram Parsons",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "id": "bright-eyes",
+    "name": "Bright Eyes",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "id": "galactic",
+    "name": "Galactic",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "id": "dumpstaphunk",
+    "name": "Dumpstaphunk",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "id": "rebirth-brass-band",
+    "name": "Rebirth Brass Band",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
   }
 ]

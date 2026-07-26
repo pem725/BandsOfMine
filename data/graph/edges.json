@@ -119623,5 +119623,203 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "source": "slightly-stoopid",
+    "target": "sublime",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Slightly Stoopid influenced by Sublime. Source: allmusic.com \u2014 Slightly Stoopid influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "slightly-stoopid",
+    "target": "bad-religion",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Slightly Stoopid influenced by Bad Religion. Source: allmusic.com \u2014 Slightly Stoopid influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "slightly-stoopid",
+    "target": "descendents",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Slightly Stoopid influenced by The Descendents. Source: allmusic.com \u2014 Slightly Stoopid influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "rebelution",
+    "target": "don-carlos",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Rebelution influenced by Don Carlos. Source: hollywoodsoapbox.com \u2014 Rebelution (Eric Rachmany) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "rebelution",
+    "target": "black-uhuru",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Rebelution influenced by Black Uhuru. Source: hollywoodsoapbox.com \u2014 Rebelution (Eric Rachmany) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "first-aid-kit",
+    "target": "emmylou-harris",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "First Aid Kit influenced by Emmylou Harris. Source: undertheradarmag.com / faroutmagazine.co.uk \u2014 First Aid Kit heroes",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "first-aid-kit",
+    "target": "bob-dylan",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "First Aid Kit influenced by Bob Dylan. Source: undertheradarmag.com / faroutmagazine.co.uk \u2014 First Aid Kit heroes",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "first-aid-kit",
+    "target": "gram-parsons",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "First Aid Kit influenced by Gram Parsons. Source: undertheradarmag.com / faroutmagazine.co.uk \u2014 First Aid Kit heroes",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "first-aid-kit",
+    "target": "townes-van-zandt",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "First Aid Kit influenced by Townes Van Zandt. Source: undertheradarmag.com / faroutmagazine.co.uk \u2014 First Aid Kit heroes",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "first-aid-kit",
+    "target": "joni-mitchell",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "First Aid Kit influenced by Joni Mitchell. Source: undertheradarmag.com / faroutmagazine.co.uk \u2014 First Aid Kit heroes",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "first-aid-kit",
+    "target": "bright-eyes",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "First Aid Kit influenced by Bright Eyes. Source: undertheradarmag.com / faroutmagazine.co.uk \u2014 First Aid Kit heroes",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-revivalists",
+    "target": "dr-john",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Revivalists influenced by Dr. John. Source: grammy.com / vocal.media \u2014 The Revivalists influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-revivalists",
+    "target": "queen",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Revivalists influenced by Queen. Source: grammy.com / vocal.media \u2014 The Revivalists influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-revivalists",
+    "target": "the-beatles",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Revivalists influenced by The Beatles. Source: grammy.com / vocal.media \u2014 The Revivalists influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-revivalists",
+    "target": "stevie-wonder",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Revivalists influenced by Stevie Wonder. Source: grammy.com / vocal.media \u2014 The Revivalists influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-revivalists",
+    "target": "galactic",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Revivalists influenced by Galactic. Source: grammy.com / vocal.media \u2014 The Revivalists influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-revivalists",
+    "target": "dumpstaphunk",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Revivalists influenced by Dumpstaphunk. Source: grammy.com / vocal.media \u2014 The Revivalists influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-revivalists",
+    "target": "rebirth-brass-band",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Revivalists influenced by Rebirth Brass Band. Source: grammy.com / vocal.media \u2014 The Revivalists influences",
+    "sources": [
+      "web-curated"
+    ]
   }
 ]
