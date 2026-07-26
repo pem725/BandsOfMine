@@ -121163,5 +121163,225 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "source": "lynyrd-skynyrd",
+    "target": "the-rolling-stones",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Lynyrd Skynyrd influenced by The Rolling Stones. Source: britannica.com / theconservativetoday.com \u2014 Lynyrd Skynyrd influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "lynyrd-skynyrd",
+    "target": "allman-brothers-band",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Lynyrd Skynyrd influenced by Allman Brothers Band. Source: britannica.com / theconservativetoday.com \u2014 Lynyrd Skynyrd influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "lynyrd-skynyrd",
+    "target": "free",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Lynyrd Skynyrd influenced by Free. Source: britannica.com / theconservativetoday.com \u2014 Lynyrd Skynyrd influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "kings-of-leon",
+    "target": "the-strokes",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Kings of Leon influenced by The Strokes. Source: allmusic.com / today.com \u2014 Kings of Leon influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "kings-of-leon",
+    "target": "the-rolling-stones",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Kings of Leon influenced by The Rolling Stones. Source: allmusic.com / today.com \u2014 Kings of Leon influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "kings-of-leon",
+    "target": "the-velvet-underground",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Kings of Leon influenced by The Velvet Underground. Source: allmusic.com / today.com \u2014 Kings of Leon influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "kings-of-leon",
+    "target": "creedence-clearwater-revival",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Kings of Leon influenced by Creedence Clearwater Revival. Source: allmusic.com / today.com \u2014 Kings of Leon influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "kings-of-leon",
+    "target": "allman-brothers-band",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Kings of Leon influenced by Allman Brothers Band. Source: allmusic.com / today.com \u2014 Kings of Leon influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-wallflowers",
+    "target": "tom-petty",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Wallflowers influenced by Tom Petty. Source: grammy.com / wikipedia \u2014 Jakob Dylan / The Wallflowers influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-wallflowers",
+    "target": "bob-dylan",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Wallflowers influenced by Bob Dylan. Source: grammy.com / wikipedia \u2014 Jakob Dylan / The Wallflowers influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "louis-armstrong",
+    "target": "king-oliver",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Louis Armstrong influenced by King Oliver. Source: encyclopedia.com / louisarmstronghouse.org \u2014 Louis Armstrong influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "louis-armstrong",
+    "target": "bunk-johnson",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Louis Armstrong influenced by Bunk Johnson. Source: encyclopedia.com / louisarmstronghouse.org \u2014 Louis Armstrong influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "louis-armstrong",
+    "target": "buddy-bolden",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Louis Armstrong influenced by Buddy Bolden. Source: encyclopedia.com / louisarmstronghouse.org \u2014 Louis Armstrong influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "lil-wayne",
+    "target": "jay-z",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Lil Wayne influenced by JAY-Z. Source: allhiphop.com / hotnewhiphop.com \u2014 Lil Wayne influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "lil-wayne",
+    "target": "missy-elliott",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Lil Wayne influenced by Missy Elliott. Source: allhiphop.com / hotnewhiphop.com \u2014 Lil Wayne influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "air",
+    "target": "serge-gainsbourg",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Air influenced by Serge Gainsbourg. Source: smoothradio.com / wikipedia \u2014 Air influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "air",
+    "target": "pink-floyd",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Air influenced by Pink Floyd. Source: smoothradio.com / wikipedia \u2014 Air influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "air",
+    "target": "jean-michel-jarre",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Air influenced by Jean-Michel Jarre. Source: smoothradio.com / wikipedia \u2014 Air influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "air",
+    "target": "vangelis",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Air influenced by Vangelis. Source: smoothradio.com / wikipedia \u2014 Air influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "air",
+    "target": "kraftwerk",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Air influenced by Kraftwerk. Source: smoothradio.com / wikipedia \u2014 Air influences",
+    "sources": [
+      "web-curated"
+    ]
   }
 ]

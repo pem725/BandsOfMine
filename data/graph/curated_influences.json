@@ -348,5 +348,35 @@
     "artist": "the-charlie-daniels-band",
     "influences": ["Allman Brothers Band"],
     "source": "thetrucker.com — Charlie Daniels Band (Allman Brothers blueprint)"
+  },
+  {
+    "artist": "lynyrd-skynyrd",
+    "influences": ["The Rolling Stones", "Allman Brothers Band", "Free"],
+    "source": "britannica.com / theconservativetoday.com — Lynyrd Skynyrd influences"
+  },
+  {
+    "artist": "kings-of-leon",
+    "influences": ["The Strokes", "The Rolling Stones", "The Velvet Underground", "Creedence Clearwater Revival", "Allman Brothers Band"],
+    "source": "allmusic.com / today.com — Kings of Leon influences"
+  },
+  {
+    "artist": "the-wallflowers",
+    "influences": ["Tom Petty", "Bob Dylan"],
+    "source": "grammy.com / wikipedia — Jakob Dylan / The Wallflowers influences"
+  },
+  {
+    "artist": "louis-armstrong",
+    "influences": ["King Oliver", "Bunk Johnson", "Buddy Bolden"],
+    "source": "encyclopedia.com / louisarmstronghouse.org — Louis Armstrong influences"
+  },
+  {
+    "artist": "lil-wayne",
+    "influences": ["JAY-Z", "Missy Elliott"],
+    "source": "allhiphop.com / hotnewhiphop.com — Lil Wayne influences"
+  },
+  {
+    "artist": "air",
+    "influences": ["Serge Gainsbourg", "Pink Floyd", "Jean-Michel Jarre", "Vangelis", "Kraftwerk"],
+    "source": "smoothradio.com / wikipedia — Air influences"
   }
 ]
