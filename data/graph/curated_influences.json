@@ -378,5 +378,35 @@
     "artist": "air",
     "influences": ["Serge Gainsbourg", "Pink Floyd", "Jean-Michel Jarre", "Vangelis", "Kraftwerk"],
     "source": "smoothradio.com / wikipedia — Air influences"
+  },
+  {
+    "artist": "buddy-guy",
+    "influences": ["Muddy Waters", "Otis Rush", "Guitar Slim", "Magic Sam", "T-Bone Walker", "Lightnin' Hopkins"],
+    "source": "allmusic.com / guitarplayer.com — Buddy Guy influences"
+  },
+  {
+    "artist": "joe-cocker",
+    "influences": ["Ray Charles"],
+    "source": "faroutmagazine.co.uk / inthestudio.net — Joe Cocker (Ray Charles)"
+  },
+  {
+    "artist": "etta-james",
+    "influences": ["Billie Holiday"],
+    "source": "wers.org / wikipedia — Etta James (Billie Holiday)"
+  },
+  {
+    "artist": "leon-russell",
+    "influences": ["Little Richard", "Jerry Lee Lewis"],
+    "source": "ultimateclassicrock.com / allmusic — Leon Russell influences"
+  },
+  {
+    "artist": "emmylou-harris",
+    "influences": ["Gram Parsons"],
+    "source": "wikipedia / boundarystones.weta.org — Emmylou Harris (Gram Parsons)"
+  },
+  {
+    "artist": "jimmy-cliff",
+    "influences": ["Fats Domino", "Sam Cooke", "Ray Charles"],
+    "source": "npr.org / wikipedia — Jimmy Cliff influences"
   }
 ]

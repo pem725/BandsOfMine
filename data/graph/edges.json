@@ -121383,5 +121383,159 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "source": "buddy-guy",
+    "target": "muddy-waters",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Buddy Guy influenced by Muddy Waters. Source: allmusic.com / guitarplayer.com \u2014 Buddy Guy influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "buddy-guy",
+    "target": "otis-rush",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Buddy Guy influenced by Otis Rush. Source: allmusic.com / guitarplayer.com \u2014 Buddy Guy influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "buddy-guy",
+    "target": "guitar-slim",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Buddy Guy influenced by Guitar Slim. Source: allmusic.com / guitarplayer.com \u2014 Buddy Guy influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "buddy-guy",
+    "target": "magic-sam",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Buddy Guy influenced by Magic Sam. Source: allmusic.com / guitarplayer.com \u2014 Buddy Guy influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "buddy-guy",
+    "target": "t-bone-walker",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Buddy Guy influenced by T-Bone Walker. Source: allmusic.com / guitarplayer.com \u2014 Buddy Guy influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "buddy-guy",
+    "target": "lightnin-hopkins",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Buddy Guy influenced by Lightnin' Hopkins. Source: allmusic.com / guitarplayer.com \u2014 Buddy Guy influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "joe-cocker",
+    "target": "ray-charles",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Joe Cocker influenced by Ray Charles. Source: faroutmagazine.co.uk / inthestudio.net \u2014 Joe Cocker (Ray Charles)",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "etta-james",
+    "target": "billie-holiday",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Etta James influenced by Billie Holiday. Source: wers.org / wikipedia \u2014 Etta James (Billie Holiday)",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "leon-russell",
+    "target": "little-richard",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Leon Russell influenced by Little Richard. Source: ultimateclassicrock.com / allmusic \u2014 Leon Russell influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "leon-russell",
+    "target": "jerry-lee-lewis",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Leon Russell influenced by Jerry Lee Lewis. Source: ultimateclassicrock.com / allmusic \u2014 Leon Russell influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "emmylou-harris",
+    "target": "gram-parsons",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Emmylou Harris influenced by Gram Parsons. Source: wikipedia / boundarystones.weta.org \u2014 Emmylou Harris (Gram Parsons)",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "jimmy-cliff",
+    "target": "fats-domino",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Jimmy Cliff influenced by Fats Domino. Source: npr.org / wikipedia \u2014 Jimmy Cliff influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "jimmy-cliff",
+    "target": "sam-cooke",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Jimmy Cliff influenced by Sam Cooke. Source: npr.org / wikipedia \u2014 Jimmy Cliff influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "jimmy-cliff",
+    "target": "ray-charles",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Jimmy Cliff influenced by Ray Charles. Source: npr.org / wikipedia \u2014 Jimmy Cliff influences",
+    "sources": [
+      "web-curated"
+    ]
   }
 ]
