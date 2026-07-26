@@ -493,5 +493,30 @@
     "artist": "vince-guaraldi-trio",
     "influences": ["Cal Tjader", "Stan Getz", "Woody Herman"],
     "source": "encyclopedia.com / wikipedia — Vince Guaraldi influences"
+  },
+  {
+    "artist": "michael-franti-spearhead",
+    "influences": ["Bob Marley", "Curtis Mayfield", "Marvin Gaye", "Stevie Wonder", "Public Enemy", "Gil Scott-Heron", "The Clash", "Parliament"],
+    "source": "anti.com / encyclopedia.com — Michael Franti & Spearhead influences"
+  },
+  {
+    "artist": "gipsy-kings",
+    "influences": ["Manitas de Plata", "José Reyes", "Django Reinhardt"],
+    "source": "nonesuch.com / sandiegotroubadour.com — Gipsy Kings influences"
+  },
+  {
+    "artist": "chicago",
+    "influences": ["Miles Davis", "Blood, Sweat & Tears"],
+    "source": "britannica.com / quora — Chicago (brass rock) influences"
+  },
+  {
+    "artist": "r-kelly",
+    "influences": ["Sam Cooke", "Marvin Gaye", "Curtis Mayfield", "Al Green", "Aretha Franklin", "Prince"],
+    "source": "singersroom.com / apple music — R. Kelly influences"
+  },
+  {
+    "artist": "wale",
+    "influences": ["JAY-Z", "Rick Ross"],
+    "source": "mytimeng.com / bbc — Wale influences"
   }
 ]

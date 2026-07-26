@@ -122285,5 +122285,236 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "source": "michael-franti-spearhead",
+    "target": "bob-marley",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Michael Franti & Spearhead influenced by Bob Marley. Source: anti.com / encyclopedia.com \u2014 Michael Franti & Spearhead influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "michael-franti-spearhead",
+    "target": "curtis-mayfield",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Michael Franti & Spearhead influenced by Curtis Mayfield. Source: anti.com / encyclopedia.com \u2014 Michael Franti & Spearhead influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "michael-franti-spearhead",
+    "target": "marvin-gaye",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Michael Franti & Spearhead influenced by Marvin Gaye. Source: anti.com / encyclopedia.com \u2014 Michael Franti & Spearhead influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "michael-franti-spearhead",
+    "target": "stevie-wonder",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Michael Franti & Spearhead influenced by Stevie Wonder. Source: anti.com / encyclopedia.com \u2014 Michael Franti & Spearhead influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "michael-franti-spearhead",
+    "target": "public-enemy",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Michael Franti & Spearhead influenced by Public Enemy. Source: anti.com / encyclopedia.com \u2014 Michael Franti & Spearhead influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "michael-franti-spearhead",
+    "target": "gil-scott-heron",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Michael Franti & Spearhead influenced by Gil Scott-Heron. Source: anti.com / encyclopedia.com \u2014 Michael Franti & Spearhead influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "michael-franti-spearhead",
+    "target": "the-clash",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Michael Franti & Spearhead influenced by The Clash. Source: anti.com / encyclopedia.com \u2014 Michael Franti & Spearhead influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "michael-franti-spearhead",
+    "target": "parliament",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Michael Franti & Spearhead influenced by Parliament. Source: anti.com / encyclopedia.com \u2014 Michael Franti & Spearhead influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "gipsy-kings",
+    "target": "manitas-de-plata",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Gipsy Kings influenced by Manitas de Plata. Source: nonesuch.com / sandiegotroubadour.com \u2014 Gipsy Kings influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "gipsy-kings",
+    "target": "jose-reyes",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Gipsy Kings influenced by Jos\u00e9 Reyes. Source: nonesuch.com / sandiegotroubadour.com \u2014 Gipsy Kings influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "gipsy-kings",
+    "target": "django-reinhardt",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Gipsy Kings influenced by Django Reinhardt. Source: nonesuch.com / sandiegotroubadour.com \u2014 Gipsy Kings influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "chicago",
+    "target": "miles-davis",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Chicago influenced by Miles Davis. Source: britannica.com / quora \u2014 Chicago (brass rock) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "chicago",
+    "target": "blood-sweat-tears",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Chicago influenced by Blood, Sweat & Tears. Source: britannica.com / quora \u2014 Chicago (brass rock) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "r-kelly",
+    "target": "sam-cooke",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "R. Kelly influenced by Sam Cooke. Source: singersroom.com / apple music \u2014 R. Kelly influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "r-kelly",
+    "target": "marvin-gaye",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "R. Kelly influenced by Marvin Gaye. Source: singersroom.com / apple music \u2014 R. Kelly influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "r-kelly",
+    "target": "curtis-mayfield",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "R. Kelly influenced by Curtis Mayfield. Source: singersroom.com / apple music \u2014 R. Kelly influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "r-kelly",
+    "target": "al-green",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "R. Kelly influenced by Al Green. Source: singersroom.com / apple music \u2014 R. Kelly influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "r-kelly",
+    "target": "aretha-franklin",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "R. Kelly influenced by Aretha Franklin. Source: singersroom.com / apple music \u2014 R. Kelly influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "r-kelly",
+    "target": "prince",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "R. Kelly influenced by Prince. Source: singersroom.com / apple music \u2014 R. Kelly influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "wale",
+    "target": "jay-z",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Wale influenced by JAY-Z. Source: mytimeng.com / bbc \u2014 Wale influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "wale",
+    "target": "rick-ross",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Wale influenced by Rick Ross. Source: mytimeng.com / bbc \u2014 Wale influences",
+    "sources": [
+      "web-curated"
+    ]
   }
 ]

@@ -118641,5 +118641,101 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "id": "public-enemy",
+    "name": "Public Enemy",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "id": "gil-scott-heron",
+    "name": "Gil Scott-Heron",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "id": "manitas-de-plata",
+    "name": "Manitas de Plata",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "id": "jose-reyes",
+    "name": "Jos\u00e9 Reyes",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "id": "django-reinhardt",
+    "name": "Django Reinhardt",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "id": "rick-ross",
+    "name": "Rick Ross",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
   }
 ]
