@@ -122763,5 +122763,247 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "source": "john-mayer",
+    "target": "stevie-ray-vaughan",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "John Mayer influenced by Stevie Ray Vaughan. Source: cincyblues.org / libertyparkmusic.com \u2014 John Mayer influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "john-mayer",
+    "target": "b-b-king",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "John Mayer influenced by B.B. King. Source: cincyblues.org / libertyparkmusic.com \u2014 John Mayer influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "john-mayer",
+    "target": "eric-clapton",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "John Mayer influenced by Eric Clapton. Source: cincyblues.org / libertyparkmusic.com \u2014 John Mayer influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "john-mayer",
+    "target": "buddy-guy",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "John Mayer influenced by Buddy Guy. Source: cincyblues.org / libertyparkmusic.com \u2014 John Mayer influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "john-mayer",
+    "target": "jimi-hendrix",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "John Mayer influenced by Jimi Hendrix. Source: cincyblues.org / libertyparkmusic.com \u2014 John Mayer influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "jackson-browne",
+    "target": "bob-dylan",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Jackson Browne influenced by Bob Dylan. Source: britannica.com / encyclopedia.com \u2014 Jackson Browne influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "rod-stewart",
+    "target": "sam-cooke",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Rod Stewart influenced by Sam Cooke. Source: faroutmagazine.co.uk / today.com \u2014 Rod Stewart influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "rod-stewart",
+    "target": "otis-redding",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Rod Stewart influenced by Otis Redding. Source: faroutmagazine.co.uk / today.com \u2014 Rod Stewart influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "rod-stewart",
+    "target": "jackie-wilson",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Rod Stewart influenced by Jackie Wilson. Source: faroutmagazine.co.uk / today.com \u2014 Rod Stewart influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "rod-stewart",
+    "target": "muddy-waters",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Rod Stewart influenced by Muddy Waters. Source: faroutmagazine.co.uk / today.com \u2014 Rod Stewart influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "dire-straits",
+    "target": "j-j-cale",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Dire Straits influenced by J.J. Cale. Source: allmusic.com / scaruffi.com \u2014 Dire Straits (Mark Knopfler) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "dire-straits",
+    "target": "bob-dylan",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Dire Straits influenced by Bob Dylan. Source: allmusic.com / scaruffi.com \u2014 Dire Straits (Mark Knopfler) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "kenny-g",
+    "target": "grover-washington-jr",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Kenny G influenced by Grover Washington Jr.. Source: allaboutjazz.com / grokipedia \u2014 Kenny G influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "kenny-g",
+    "target": "john-coltrane",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Kenny G influenced by John Coltrane. Source: allaboutjazz.com / grokipedia \u2014 Kenny G influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "kenny-g",
+    "target": "cannonball-adderley",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Kenny G influenced by Cannonball Adderley. Source: allaboutjazz.com / grokipedia \u2014 Kenny G influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "kenny-g",
+    "target": "sonny-rollins",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Kenny G influenced by Sonny Rollins. Source: allaboutjazz.com / grokipedia \u2014 Kenny G influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "kenny-g",
+    "target": "dexter-gordon",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Kenny G influenced by Dexter Gordon. Source: allaboutjazz.com / grokipedia \u2014 Kenny G influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "michelle-shocked",
+    "target": "woody-guthrie",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Michelle Shocked influenced by Woody Guthrie. Source: allmusic.com / wikipedia \u2014 Michelle Shocked influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "michelle-shocked",
+    "target": "big-bill-broonzy",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Michelle Shocked influenced by Big Bill Broonzy. Source: allmusic.com / wikipedia \u2014 Michelle Shocked influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "michelle-shocked",
+    "target": "lead-belly",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Michelle Shocked influenced by Lead Belly. Source: allmusic.com / wikipedia \u2014 Michelle Shocked influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "michelle-shocked",
+    "target": "guy-clark",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Michelle Shocked influenced by Guy Clark. Source: allmusic.com / wikipedia \u2014 Michelle Shocked influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "michelle-shocked",
+    "target": "randy-newman",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Michelle Shocked influenced by Randy Newman. Source: allmusic.com / wikipedia \u2014 Michelle Shocked influences",
+    "sources": [
+      "web-curated"
+    ]
   }
 ]
