@@ -122087,5 +122087,203 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "source": "paul-simon",
+    "target": "the-everly-brothers",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Paul Simon influenced by The Everly Brothers. Source: britannica.com / faroutmagazine.co.uk \u2014 Paul Simon influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "paul-simon",
+    "target": "george-gershwin",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Paul Simon influenced by George Gershwin. Source: britannica.com / faroutmagazine.co.uk \u2014 Paul Simon influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "john-prine",
+    "target": "bob-dylan",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "John Prine influenced by Bob Dylan. Source: rollingstone.com / pastemagazine.com \u2014 John Prine's stated three influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "john-prine",
+    "target": "hank-williams",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "John Prine influenced by Hank Williams. Source: rollingstone.com / pastemagazine.com \u2014 John Prine's stated three influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "john-prine",
+    "target": "roger-miller",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "John Prine influenced by Roger Miller. Source: rollingstone.com / pastemagazine.com \u2014 John Prine's stated three influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "kendrick-lamar",
+    "target": "tupac-shakur",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Kendrick Lamar influenced by Tupac Shakur. Source: tvtropes.org / faroutmagazine.co.uk \u2014 Kendrick Lamar influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "kendrick-lamar",
+    "target": "the-notorious-b-i-g",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Kendrick Lamar influenced by The Notorious B.I.G.. Source: tvtropes.org / faroutmagazine.co.uk \u2014 Kendrick Lamar influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "kendrick-lamar",
+    "target": "jay-z",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Kendrick Lamar influenced by JAY-Z. Source: tvtropes.org / faroutmagazine.co.uk \u2014 Kendrick Lamar influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "kendrick-lamar",
+    "target": "nas",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Kendrick Lamar influenced by Nas. Source: tvtropes.org / faroutmagazine.co.uk \u2014 Kendrick Lamar influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "kendrick-lamar",
+    "target": "eminem",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Kendrick Lamar influenced by Eminem. Source: tvtropes.org / faroutmagazine.co.uk \u2014 Kendrick Lamar influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "kendrick-lamar",
+    "target": "dr-dre",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Kendrick Lamar influenced by Dr. Dre. Source: tvtropes.org / faroutmagazine.co.uk \u2014 Kendrick Lamar influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "kendrick-lamar",
+    "target": "snoop-dogg",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Kendrick Lamar influenced by Snoop Dogg. Source: tvtropes.org / faroutmagazine.co.uk \u2014 Kendrick Lamar influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "kendrick-lamar",
+    "target": "lil-wayne",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Kendrick Lamar influenced by Lil Wayne. Source: tvtropes.org / faroutmagazine.co.uk \u2014 Kendrick Lamar influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "bee-gees",
+    "target": "the-everly-brothers",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Bee Gees influenced by The Everly Brothers. Source: panfurware.com / grokipedia \u2014 Bee Gees influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "bee-gees",
+    "target": "the-beatles",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Bee Gees influenced by The Beatles. Source: panfurware.com / grokipedia \u2014 Bee Gees influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "vince-guaraldi-trio",
+    "target": "cal-tjader",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Vince Guaraldi Trio influenced by Cal Tjader. Source: encyclopedia.com / wikipedia \u2014 Vince Guaraldi influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "vince-guaraldi-trio",
+    "target": "stan-getz",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Vince Guaraldi Trio influenced by Stan Getz. Source: encyclopedia.com / wikipedia \u2014 Vince Guaraldi influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "vince-guaraldi-trio",
+    "target": "woody-herman",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Vince Guaraldi Trio influenced by Woody Herman. Source: encyclopedia.com / wikipedia \u2014 Vince Guaraldi influences",
+    "sources": [
+      "web-curated"
+    ]
   }
 ]

@@ -468,5 +468,30 @@
     "artist": "major-lazer",
     "influences": ["Barrington Levy", "Alton Ellis", "Burning Spear", "Ken Boothe"],
     "source": "rollingstone.com / grammy.com — Major Lazer (Diplo) influences"
+  },
+  {
+    "artist": "paul-simon",
+    "influences": ["The Everly Brothers", "George Gershwin"],
+    "source": "britannica.com / faroutmagazine.co.uk — Paul Simon influences"
+  },
+  {
+    "artist": "john-prine",
+    "influences": ["Bob Dylan", "Hank Williams", "Roger Miller"],
+    "source": "rollingstone.com / pastemagazine.com — John Prine's stated three influences"
+  },
+  {
+    "artist": "kendrick-lamar",
+    "influences": ["Tupac Shakur", "The Notorious B.I.G.", "JAY-Z", "Nas", "Eminem", "Dr. Dre", "Snoop Dogg", "Lil Wayne"],
+    "source": "tvtropes.org / faroutmagazine.co.uk — Kendrick Lamar influences"
+  },
+  {
+    "artist": "bee-gees",
+    "influences": ["The Everly Brothers", "The Beatles"],
+    "source": "panfurware.com / grokipedia — Bee Gees influences"
+  },
+  {
+    "artist": "vince-guaraldi-trio",
+    "influences": ["Cal Tjader", "Stan Getz", "Woody Herman"],
+    "source": "encyclopedia.com / wikipedia — Vince Guaraldi influences"
   }
 ]
