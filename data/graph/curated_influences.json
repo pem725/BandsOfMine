@@ -268,5 +268,35 @@
     "artist": "kanye-west",
     "influences": ["A Tribe Called Quest", "Stevie Wonder", "Michael Jackson", "George Michael", "LL Cool J", "Phil Collins", "Madonna", "The Pharcyde", "Prince"],
     "source": "revolt.tv / tvtropes.org — Kanye West influences"
+  },
+  {
+    "artist": "ben-harper",
+    "influences": ["Bob Marley", "Robert Johnson", "Taj Mahal", "Jimi Hendrix"],
+    "source": "udiscovermusic.com / wikipedia — Ben Harper influences"
+  },
+  {
+    "artist": "amos-lee",
+    "influences": ["Bob Dylan", "Bill Withers", "John Prine", "Otis Redding", "Neil Young", "Marvin Gaye"],
+    "source": "allmusic.com / npr.org — Amos Lee influences"
+  },
+  {
+    "artist": "gillian-welch",
+    "influences": ["The Stanley Brothers", "Ralph Stanley", "Norman Blake"],
+    "source": "grammy.com / vinylmeplease.com — Gillian Welch influences"
+  },
+  {
+    "artist": "ben-folds-five",
+    "influences": ["Elton John", "Billy Joel", "Joe Jackson", "Queen", "Cole Porter", "The Clash"],
+    "source": "encyclopedia.com / austinchronicle.com — Ben Folds Five influences"
+  },
+  {
+    "artist": "waxahatchee",
+    "influences": ["Lucinda Williams"],
+    "source": "radiomilwaukee.org / faroutmagazine.co.uk — Waxahatchee influences"
+  },
+  {
+    "artist": "fruit-bats",
+    "influences": ["The Byrds", "The Kinks", "Supertramp", "Grateful Dead"],
+    "source": "wikipedia / allmusic — Fruit Bats influences"
   }
 ]

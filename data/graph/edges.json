@@ -120437,5 +120437,269 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "source": "ben-harper",
+    "target": "bob-marley",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Ben Harper influenced by Bob Marley. Source: udiscovermusic.com / wikipedia \u2014 Ben Harper influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "ben-harper",
+    "target": "robert-johnson",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Ben Harper influenced by Robert Johnson. Source: udiscovermusic.com / wikipedia \u2014 Ben Harper influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "ben-harper",
+    "target": "taj-mahal",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Ben Harper influenced by Taj Mahal. Source: udiscovermusic.com / wikipedia \u2014 Ben Harper influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "ben-harper",
+    "target": "jimi-hendrix",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Ben Harper influenced by Jimi Hendrix. Source: udiscovermusic.com / wikipedia \u2014 Ben Harper influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "amos-lee",
+    "target": "bob-dylan",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Amos Lee influenced by Bob Dylan. Source: allmusic.com / npr.org \u2014 Amos Lee influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "amos-lee",
+    "target": "bill-withers",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Amos Lee influenced by Bill Withers. Source: allmusic.com / npr.org \u2014 Amos Lee influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "amos-lee",
+    "target": "john-prine",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Amos Lee influenced by John Prine. Source: allmusic.com / npr.org \u2014 Amos Lee influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "amos-lee",
+    "target": "otis-redding",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Amos Lee influenced by Otis Redding. Source: allmusic.com / npr.org \u2014 Amos Lee influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "amos-lee",
+    "target": "neil-young",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Amos Lee influenced by Neil Young. Source: allmusic.com / npr.org \u2014 Amos Lee influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "amos-lee",
+    "target": "marvin-gaye",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Amos Lee influenced by Marvin Gaye. Source: allmusic.com / npr.org \u2014 Amos Lee influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "gillian-welch",
+    "target": "the-stanley-brothers",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Gillian Welch influenced by The Stanley Brothers. Source: grammy.com / vinylmeplease.com \u2014 Gillian Welch influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "gillian-welch",
+    "target": "ralph-stanley",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Gillian Welch influenced by Ralph Stanley. Source: grammy.com / vinylmeplease.com \u2014 Gillian Welch influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "gillian-welch",
+    "target": "norman-blake",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Gillian Welch influenced by Norman Blake. Source: grammy.com / vinylmeplease.com \u2014 Gillian Welch influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "ben-folds-five",
+    "target": "elton-john",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Ben Folds Five influenced by Elton John. Source: encyclopedia.com / austinchronicle.com \u2014 Ben Folds Five influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "ben-folds-five",
+    "target": "billy-joel",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Ben Folds Five influenced by Billy Joel. Source: encyclopedia.com / austinchronicle.com \u2014 Ben Folds Five influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "ben-folds-five",
+    "target": "joe-jackson",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Ben Folds Five influenced by Joe Jackson. Source: encyclopedia.com / austinchronicle.com \u2014 Ben Folds Five influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "ben-folds-five",
+    "target": "queen",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Ben Folds Five influenced by Queen. Source: encyclopedia.com / austinchronicle.com \u2014 Ben Folds Five influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "ben-folds-five",
+    "target": "cole-porter",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Ben Folds Five influenced by Cole Porter. Source: encyclopedia.com / austinchronicle.com \u2014 Ben Folds Five influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "ben-folds-five",
+    "target": "the-clash",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Ben Folds Five influenced by The Clash. Source: encyclopedia.com / austinchronicle.com \u2014 Ben Folds Five influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "waxahatchee",
+    "target": "lucinda-williams",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Waxahatchee influenced by Lucinda Williams. Source: radiomilwaukee.org / faroutmagazine.co.uk \u2014 Waxahatchee influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "fruit-bats",
+    "target": "the-byrds",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Fruit Bats influenced by The Byrds. Source: wikipedia / allmusic \u2014 Fruit Bats influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "fruit-bats",
+    "target": "the-kinks",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Fruit Bats influenced by The Kinks. Source: wikipedia / allmusic \u2014 Fruit Bats influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "fruit-bats",
+    "target": "supertramp",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Fruit Bats influenced by Supertramp. Source: wikipedia / allmusic \u2014 Fruit Bats influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "fruit-bats",
+    "target": "grateful-dead",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Fruit Bats influenced by Grateful Dead. Source: wikipedia / allmusic \u2014 Fruit Bats influences",
+    "sources": [
+      "web-curated"
+    ]
   }
 ]
