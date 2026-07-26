@@ -238,5 +238,35 @@
     "artist": "st-paul-the-broken-bones",
     "influences": ["Otis Redding", "Sam Cooke", "Wilson Pickett", "Curtis Mayfield"],
     "source": "grokipedia / dailyutahchronicle.com — St. Paul & the Broken Bones influences"
+  },
+  {
+    "artist": "the-band",
+    "influences": ["Ronnie Hawkins", "Curtis Mayfield", "The Staple Singers"],
+    "source": "britannica.com / rock.fandom — The Band influences"
+  },
+  {
+    "artist": "steve-miller-band",
+    "influences": ["Les Paul", "T-Bone Walker", "Buddy Guy", "Muddy Waters", "Howlin' Wolf", "Paul Butterfield"],
+    "source": "guitarworld.com / stevemillerband.com — Steve Miller influences"
+  },
+  {
+    "artist": "norah-jones",
+    "influences": ["Billie Holiday", "Ray Charles", "Willie Nelson", "Etta James", "Nina Simone", "Bill Evans", "Miles Davis", "Donny Hathaway"],
+    "source": "udiscovermusic.com / bluenote.com — Norah Jones influences"
+  },
+  {
+    "artist": "cat-stevens",
+    "influences": ["The Beatles", "The Rolling Stones", "Bob Dylan", "Simon & Garfunkel", "Joan Baez", "Joni Mitchell", "Ralph McTell"],
+    "source": "britannica.com / toppermost.co.uk — Cat Stevens influences"
+  },
+  {
+    "artist": "coldplay",
+    "influences": ["Radiohead", "U2", "Jeff Buckley", "Oasis", "The Smiths", "The Beatles", "Kate Bush", "Brian Eno"],
+    "source": "tvtropes.org / spectrumculture.com — Coldplay influences"
+  },
+  {
+    "artist": "kanye-west",
+    "influences": ["A Tribe Called Quest", "Stevie Wonder", "Michael Jackson", "George Michael", "LL Cool J", "Phil Collins", "Madonna", "The Pharcyde", "Prince"],
+    "source": "revolt.tv / tvtropes.org — Kanye West influences"
   }
 ]

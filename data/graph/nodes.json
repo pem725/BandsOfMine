@@ -117585,5 +117585,165 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "id": "ronnie-hawkins",
+    "name": "Ronnie Hawkins",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "id": "the-staple-singers",
+    "name": "The Staple Singers",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "id": "les-paul",
+    "name": "Les Paul",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "id": "paul-butterfield",
+    "name": "Paul Butterfield",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "id": "donny-hathaway",
+    "name": "Donny Hathaway",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "id": "simon-garfunkel",
+    "name": "Simon & Garfunkel",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "id": "joan-baez",
+    "name": "Joan Baez",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "id": "ralph-mctell",
+    "name": "Ralph McTell",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "id": "a-tribe-called-quest",
+    "name": "A Tribe Called Quest",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "id": "ll-cool-j",
+    "name": "LL Cool J",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
   }
 ]

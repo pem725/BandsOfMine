@@ -119986,5 +119986,456 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "source": "the-band",
+    "target": "ronnie-hawkins",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Band influenced by Ronnie Hawkins. Source: britannica.com / rock.fandom \u2014 The Band influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-band",
+    "target": "curtis-mayfield",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Band influenced by Curtis Mayfield. Source: britannica.com / rock.fandom \u2014 The Band influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-band",
+    "target": "the-staple-singers",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Band influenced by The Staple Singers. Source: britannica.com / rock.fandom \u2014 The Band influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "steve-miller-band",
+    "target": "les-paul",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Steve Miller Band influenced by Les Paul. Source: guitarworld.com / stevemillerband.com \u2014 Steve Miller influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "steve-miller-band",
+    "target": "t-bone-walker",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Steve Miller Band influenced by T-Bone Walker. Source: guitarworld.com / stevemillerband.com \u2014 Steve Miller influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "steve-miller-band",
+    "target": "buddy-guy",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Steve Miller Band influenced by Buddy Guy. Source: guitarworld.com / stevemillerband.com \u2014 Steve Miller influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "steve-miller-band",
+    "target": "muddy-waters",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Steve Miller Band influenced by Muddy Waters. Source: guitarworld.com / stevemillerband.com \u2014 Steve Miller influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "steve-miller-band",
+    "target": "howlin-wolf",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Steve Miller Band influenced by Howlin' Wolf. Source: guitarworld.com / stevemillerband.com \u2014 Steve Miller influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "steve-miller-band",
+    "target": "paul-butterfield",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Steve Miller Band influenced by Paul Butterfield. Source: guitarworld.com / stevemillerband.com \u2014 Steve Miller influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "norah-jones",
+    "target": "billie-holiday",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Norah Jones influenced by Billie Holiday. Source: udiscovermusic.com / bluenote.com \u2014 Norah Jones influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "norah-jones",
+    "target": "ray-charles",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Norah Jones influenced by Ray Charles. Source: udiscovermusic.com / bluenote.com \u2014 Norah Jones influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "norah-jones",
+    "target": "willie-nelson",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Norah Jones influenced by Willie Nelson. Source: udiscovermusic.com / bluenote.com \u2014 Norah Jones influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "norah-jones",
+    "target": "etta-james",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Norah Jones influenced by Etta James. Source: udiscovermusic.com / bluenote.com \u2014 Norah Jones influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "norah-jones",
+    "target": "nina-simone",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Norah Jones influenced by Nina Simone. Source: udiscovermusic.com / bluenote.com \u2014 Norah Jones influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "norah-jones",
+    "target": "bill-evans",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Norah Jones influenced by Bill Evans. Source: udiscovermusic.com / bluenote.com \u2014 Norah Jones influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "norah-jones",
+    "target": "miles-davis",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Norah Jones influenced by Miles Davis. Source: udiscovermusic.com / bluenote.com \u2014 Norah Jones influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "norah-jones",
+    "target": "donny-hathaway",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Norah Jones influenced by Donny Hathaway. Source: udiscovermusic.com / bluenote.com \u2014 Norah Jones influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "cat-stevens",
+    "target": "the-beatles",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Cat Stevens influenced by The Beatles. Source: britannica.com / toppermost.co.uk \u2014 Cat Stevens influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "cat-stevens",
+    "target": "the-rolling-stones",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Cat Stevens influenced by The Rolling Stones. Source: britannica.com / toppermost.co.uk \u2014 Cat Stevens influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "cat-stevens",
+    "target": "bob-dylan",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Cat Stevens influenced by Bob Dylan. Source: britannica.com / toppermost.co.uk \u2014 Cat Stevens influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "cat-stevens",
+    "target": "simon-garfunkel",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Cat Stevens influenced by Simon & Garfunkel. Source: britannica.com / toppermost.co.uk \u2014 Cat Stevens influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "cat-stevens",
+    "target": "joan-baez",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Cat Stevens influenced by Joan Baez. Source: britannica.com / toppermost.co.uk \u2014 Cat Stevens influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "cat-stevens",
+    "target": "joni-mitchell",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Cat Stevens influenced by Joni Mitchell. Source: britannica.com / toppermost.co.uk \u2014 Cat Stevens influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "cat-stevens",
+    "target": "ralph-mctell",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Cat Stevens influenced by Ralph McTell. Source: britannica.com / toppermost.co.uk \u2014 Cat Stevens influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "coldplay",
+    "target": "radiohead",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Coldplay influenced by Radiohead. Source: tvtropes.org / spectrumculture.com \u2014 Coldplay influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "coldplay",
+    "target": "u2",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Coldplay influenced by U2. Source: tvtropes.org / spectrumculture.com \u2014 Coldplay influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "coldplay",
+    "target": "jeff-buckley",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Coldplay influenced by Jeff Buckley. Source: tvtropes.org / spectrumculture.com \u2014 Coldplay influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "coldplay",
+    "target": "oasis",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Coldplay influenced by Oasis. Source: tvtropes.org / spectrumculture.com \u2014 Coldplay influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "coldplay",
+    "target": "the-smiths",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Coldplay influenced by The Smiths. Source: tvtropes.org / spectrumculture.com \u2014 Coldplay influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "coldplay",
+    "target": "the-beatles",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Coldplay influenced by The Beatles. Source: tvtropes.org / spectrumculture.com \u2014 Coldplay influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "coldplay",
+    "target": "kate-bush",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Coldplay influenced by Kate Bush. Source: tvtropes.org / spectrumculture.com \u2014 Coldplay influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "coldplay",
+    "target": "brian-eno",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Coldplay influenced by Brian Eno. Source: tvtropes.org / spectrumculture.com \u2014 Coldplay influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "kanye-west",
+    "target": "a-tribe-called-quest",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Kanye West influenced by A Tribe Called Quest. Source: revolt.tv / tvtropes.org \u2014 Kanye West influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "kanye-west",
+    "target": "stevie-wonder",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Kanye West influenced by Stevie Wonder. Source: revolt.tv / tvtropes.org \u2014 Kanye West influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "kanye-west",
+    "target": "michael-jackson",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Kanye West influenced by Michael Jackson. Source: revolt.tv / tvtropes.org \u2014 Kanye West influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "kanye-west",
+    "target": "george-michael",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Kanye West influenced by George Michael. Source: revolt.tv / tvtropes.org \u2014 Kanye West influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "kanye-west",
+    "target": "ll-cool-j",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Kanye West influenced by LL Cool J. Source: revolt.tv / tvtropes.org \u2014 Kanye West influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "kanye-west",
+    "target": "phil-collins",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Kanye West influenced by Phil Collins. Source: revolt.tv / tvtropes.org \u2014 Kanye West influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "kanye-west",
+    "target": "madonna",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Kanye West influenced by Madonna. Source: revolt.tv / tvtropes.org \u2014 Kanye West influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "kanye-west",
+    "target": "the-pharcyde",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Kanye West influenced by The Pharcyde. Source: revolt.tv / tvtropes.org \u2014 Kanye West influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "kanye-west",
+    "target": "prince",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Kanye West influenced by Prince. Source: revolt.tv / tvtropes.org \u2014 Kanye West influences",
+    "sources": [
+      "web-curated"
+    ]
   }
 ]
