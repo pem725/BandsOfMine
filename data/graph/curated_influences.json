@@ -408,5 +408,35 @@
     "artist": "jimmy-cliff",
     "influences": ["Fats Domino", "Sam Cooke", "Ray Charles"],
     "source": "npr.org / wikipedia — Jimmy Cliff influences"
+  },
+  {
+    "artist": "miles-davis",
+    "influences": ["Dizzy Gillespie", "Charlie Parker", "Freddie Webster"],
+    "source": "britannica.com / encyclopedia.com — Miles Davis influences"
+  },
+  {
+    "artist": "pink-floyd",
+    "influences": ["Bo Diddley", "The Beatles", "Pink Anderson", "Floyd Council"],
+    "source": "britannica.com / faroutmagazine.co.uk — Pink Floyd (Syd Barrett) influences"
+  },
+  {
+    "artist": "harry-chapin",
+    "influences": ["Pete Seeger", "The Weavers", "Woody Guthrie"],
+    "source": "rockandrollglobe.com / last.fm — Harry Chapin influences"
+  },
+  {
+    "artist": "wiz-khalifa",
+    "influences": ["Bone Thugs-n-Harmony", "The Notorious B.I.G.", "Jimi Hendrix", "Camp Lo", "Bob Marley"],
+    "source": "hotnewhiphop.com / karencivil.com — Wiz Khalifa influences"
+  },
+  {
+    "artist": "future",
+    "influences": ["OutKast", "Goodie Mob", "Gucci Mane", "Kanye West"],
+    "source": "wikipedia — Future influences"
+  },
+  {
+    "artist": "bing-crosby",
+    "influences": ["Al Jolson", "Louis Armstrong", "Eddie Cantor", "Cab Calloway", "Ethel Waters"],
+    "source": "encyclopedia.com / udiscovermusic.com — Bing Crosby influences"
   }
 ]

@@ -121537,5 +121537,269 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "source": "miles-davis",
+    "target": "dizzy-gillespie",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Miles Davis influenced by Dizzy Gillespie. Source: britannica.com / encyclopedia.com \u2014 Miles Davis influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "miles-davis",
+    "target": "charlie-parker",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Miles Davis influenced by Charlie Parker. Source: britannica.com / encyclopedia.com \u2014 Miles Davis influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "miles-davis",
+    "target": "freddie-webster",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Miles Davis influenced by Freddie Webster. Source: britannica.com / encyclopedia.com \u2014 Miles Davis influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "pink-floyd",
+    "target": "bo-diddley",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Pink Floyd influenced by Bo Diddley. Source: britannica.com / faroutmagazine.co.uk \u2014 Pink Floyd (Syd Barrett) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "pink-floyd",
+    "target": "the-beatles",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Pink Floyd influenced by The Beatles. Source: britannica.com / faroutmagazine.co.uk \u2014 Pink Floyd (Syd Barrett) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "pink-floyd",
+    "target": "pink-anderson",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Pink Floyd influenced by Pink Anderson. Source: britannica.com / faroutmagazine.co.uk \u2014 Pink Floyd (Syd Barrett) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "pink-floyd",
+    "target": "floyd-council",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Pink Floyd influenced by Floyd Council. Source: britannica.com / faroutmagazine.co.uk \u2014 Pink Floyd (Syd Barrett) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "harry-chapin",
+    "target": "pete-seeger",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Harry Chapin influenced by Pete Seeger. Source: rockandrollglobe.com / last.fm \u2014 Harry Chapin influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "harry-chapin",
+    "target": "the-weavers",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Harry Chapin influenced by The Weavers. Source: rockandrollglobe.com / last.fm \u2014 Harry Chapin influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "harry-chapin",
+    "target": "woody-guthrie",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Harry Chapin influenced by Woody Guthrie. Source: rockandrollglobe.com / last.fm \u2014 Harry Chapin influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "wiz-khalifa",
+    "target": "bone-thugs-n-harmony",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Wiz Khalifa influenced by Bone Thugs-n-Harmony. Source: hotnewhiphop.com / karencivil.com \u2014 Wiz Khalifa influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "wiz-khalifa",
+    "target": "the-notorious-b-i-g",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Wiz Khalifa influenced by The Notorious B.I.G.. Source: hotnewhiphop.com / karencivil.com \u2014 Wiz Khalifa influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "wiz-khalifa",
+    "target": "jimi-hendrix",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Wiz Khalifa influenced by Jimi Hendrix. Source: hotnewhiphop.com / karencivil.com \u2014 Wiz Khalifa influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "wiz-khalifa",
+    "target": "camp-lo",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Wiz Khalifa influenced by Camp Lo. Source: hotnewhiphop.com / karencivil.com \u2014 Wiz Khalifa influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "wiz-khalifa",
+    "target": "bob-marley",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Wiz Khalifa influenced by Bob Marley. Source: hotnewhiphop.com / karencivil.com \u2014 Wiz Khalifa influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "future",
+    "target": "outkast",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Future influenced by OutKast. Source: wikipedia \u2014 Future influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "future",
+    "target": "goodie-mob",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Future influenced by Goodie Mob. Source: wikipedia \u2014 Future influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "future",
+    "target": "gucci-mane",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Future influenced by Gucci Mane. Source: wikipedia \u2014 Future influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "future",
+    "target": "kanye-west",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Future influenced by Kanye West. Source: wikipedia \u2014 Future influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "bing-crosby",
+    "target": "al-jolson",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Bing Crosby influenced by Al Jolson. Source: encyclopedia.com / udiscovermusic.com \u2014 Bing Crosby influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "bing-crosby",
+    "target": "louis-armstrong",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Bing Crosby influenced by Louis Armstrong. Source: encyclopedia.com / udiscovermusic.com \u2014 Bing Crosby influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "bing-crosby",
+    "target": "eddie-cantor",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Bing Crosby influenced by Eddie Cantor. Source: encyclopedia.com / udiscovermusic.com \u2014 Bing Crosby influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "bing-crosby",
+    "target": "cab-calloway",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Bing Crosby influenced by Cab Calloway. Source: encyclopedia.com / udiscovermusic.com \u2014 Bing Crosby influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "bing-crosby",
+    "target": "ethel-waters",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Bing Crosby influenced by Ethel Waters. Source: encyclopedia.com / udiscovermusic.com \u2014 Bing Crosby influences",
+    "sources": [
+      "web-curated"
+    ]
   }
 ]
