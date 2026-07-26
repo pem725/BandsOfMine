@@ -120987,5 +120987,181 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "source": "taj-mahal",
+    "target": "jimmy-reed",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Taj Mahal influenced by Jimmy Reed. Source: ebsco.com / allmusic \u2014 Taj Mahal blues influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "taj-mahal",
+    "target": "howlin-wolf",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Taj Mahal influenced by Howlin' Wolf. Source: ebsco.com / allmusic \u2014 Taj Mahal blues influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "taj-mahal",
+    "target": "muddy-waters",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Taj Mahal influenced by Muddy Waters. Source: ebsco.com / allmusic \u2014 Taj Mahal blues influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "taj-mahal",
+    "target": "lightnin-hopkins",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Taj Mahal influenced by Lightnin' Hopkins. Source: ebsco.com / allmusic \u2014 Taj Mahal blues influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "taj-mahal",
+    "target": "john-lee-hooker",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Taj Mahal influenced by John Lee Hooker. Source: ebsco.com / allmusic \u2014 Taj Mahal blues influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "dr-hook",
+    "target": "shel-silverstein",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Dr. Hook influenced by Shel Silverstein. Source: allmusic.com / parade.com \u2014 Dr. Hook & the Medicine Show / Shel Silverstein",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "nitty-gritty-dirt-band",
+    "target": "the-lovin-spoonful",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Nitty Gritty Dirt Band influenced by The Lovin' Spoonful. Source: allmusic.com / wikipedia \u2014 Nitty Gritty Dirt Band jug-band roots",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "nitty-gritty-dirt-band",
+    "target": "jim-kweskin-jug-band",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Nitty Gritty Dirt Band influenced by Jim Kweskin Jug Band. Source: allmusic.com / wikipedia \u2014 Nitty Gritty Dirt Band jug-band roots",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "nitty-gritty-dirt-band",
+    "target": "memphis-jug-band",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Nitty Gritty Dirt Band influenced by Memphis Jug Band. Source: allmusic.com / wikipedia \u2014 Nitty Gritty Dirt Band jug-band roots",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "carbon-leaf",
+    "target": "ac-dc",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Carbon Leaf influenced by AC/DC. Source: thedailytimes.com \u2014 Carbon Leaf (Barry Privett) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "carbon-leaf",
+    "target": "grateful-dead",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Carbon Leaf influenced by Grateful Dead. Source: thedailytimes.com \u2014 Carbon Leaf (Barry Privett) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "carbon-leaf",
+    "target": "red-hot-chili-peppers",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Carbon Leaf influenced by Red Hot Chili Peppers. Source: thedailytimes.com \u2014 Carbon Leaf (Barry Privett) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "carbon-leaf",
+    "target": "neil-young",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Carbon Leaf influenced by Neil Young. Source: thedailytimes.com \u2014 Carbon Leaf (Barry Privett) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "carbon-leaf",
+    "target": "the-beach-boys",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Carbon Leaf influenced by The Beach Boys. Source: thedailytimes.com \u2014 Carbon Leaf (Barry Privett) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "carbon-leaf",
+    "target": "r-e-m",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Carbon Leaf influenced by R.E.M.. Source: thedailytimes.com \u2014 Carbon Leaf (Barry Privett) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-charlie-daniels-band",
+    "target": "allman-brothers-band",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Charlie Daniels Band influenced by Allman Brothers Band. Source: thetrucker.com \u2014 Charlie Daniels Band (Allman Brothers blueprint)",
+    "sources": [
+      "web-curated"
+    ]
   }
 ]

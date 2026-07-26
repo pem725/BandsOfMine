@@ -323,5 +323,30 @@
     "artist": "america",
     "influences": ["The Beatles", "The Beach Boys", "Jackson Browne"],
     "source": "stuffnobodycaresabout.com — America influences"
+  },
+  {
+    "artist": "taj-mahal",
+    "influences": ["Jimmy Reed", "Howlin' Wolf", "Muddy Waters", "Lightnin' Hopkins", "John Lee Hooker"],
+    "source": "ebsco.com / allmusic — Taj Mahal blues influences"
+  },
+  {
+    "artist": "dr-hook",
+    "influences": ["Shel Silverstein"],
+    "source": "allmusic.com / parade.com — Dr. Hook & the Medicine Show / Shel Silverstein"
+  },
+  {
+    "artist": "nitty-gritty-dirt-band",
+    "influences": ["The Lovin' Spoonful", "Jim Kweskin Jug Band", "Memphis Jug Band"],
+    "source": "allmusic.com / wikipedia — Nitty Gritty Dirt Band jug-band roots"
+  },
+  {
+    "artist": "carbon-leaf",
+    "influences": ["AC/DC", "Grateful Dead", "Red Hot Chili Peppers", "Neil Young", "The Beach Boys", "R.E.M."],
+    "source": "thedailytimes.com — Carbon Leaf (Barry Privett) influences"
+  },
+  {
+    "artist": "the-charlie-daniels-band",
+    "influences": ["Allman Brothers Band"],
+    "source": "thetrucker.com — Charlie Daniels Band (Allman Brothers blueprint)"
   }
 ]
