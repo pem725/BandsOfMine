@@ -120701,5 +120701,291 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "source": "blitzen-trapper",
+    "target": "neil-young",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Blitzen Trapper influenced by Neil Young. Source: bigtakeover.com / grokipedia \u2014 Blitzen Trapper (Eric Earley) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "blitzen-trapper",
+    "target": "bob-dylan",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Blitzen Trapper influenced by Bob Dylan. Source: bigtakeover.com / grokipedia \u2014 Blitzen Trapper (Eric Earley) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "blitzen-trapper",
+    "target": "grateful-dead",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Blitzen Trapper influenced by Grateful Dead. Source: bigtakeover.com / grokipedia \u2014 Blitzen Trapper (Eric Earley) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "blitzen-trapper",
+    "target": "wilco",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Blitzen Trapper influenced by Wilco. Source: bigtakeover.com / grokipedia \u2014 Blitzen Trapper (Eric Earley) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "blitzen-trapper",
+    "target": "tom-petty",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Blitzen Trapper influenced by Tom Petty. Source: bigtakeover.com / grokipedia \u2014 Blitzen Trapper (Eric Earley) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "blitzen-trapper",
+    "target": "nitty-gritty-dirt-band",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Blitzen Trapper influenced by Nitty Gritty Dirt Band. Source: bigtakeover.com / grokipedia \u2014 Blitzen Trapper (Eric Earley) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "darlingside",
+    "target": "the-beach-boys",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Darlingside influenced by The Beach Boys. Source: csindy.com \u2014 Darlingside four-part harmony (Pet Sounds)",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "zz-top",
+    "target": "muddy-waters",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Zz Top influenced by Muddy Waters. Source: americanbluesscene.com / rockandrollgarage.com \u2014 ZZ Top (Billy Gibbons) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "zz-top",
+    "target": "b-b-king",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Zz Top influenced by B.B. King. Source: americanbluesscene.com / rockandrollgarage.com \u2014 ZZ Top (Billy Gibbons) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "zz-top",
+    "target": "jimmy-reed",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Zz Top influenced by Jimmy Reed. Source: americanbluesscene.com / rockandrollgarage.com \u2014 ZZ Top (Billy Gibbons) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "zz-top",
+    "target": "howlin-wolf",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Zz Top influenced by Howlin' Wolf. Source: americanbluesscene.com / rockandrollgarage.com \u2014 ZZ Top (Billy Gibbons) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "zz-top",
+    "target": "t-bone-walker",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Zz Top influenced by T-Bone Walker. Source: americanbluesscene.com / rockandrollgarage.com \u2014 ZZ Top (Billy Gibbons) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "zz-top",
+    "target": "albert-king",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Zz Top influenced by Albert King. Source: americanbluesscene.com / rockandrollgarage.com \u2014 ZZ Top (Billy Gibbons) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "zz-top",
+    "target": "lightnin-hopkins",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Zz Top influenced by Lightnin' Hopkins. Source: americanbluesscene.com / rockandrollgarage.com \u2014 ZZ Top (Billy Gibbons) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "zz-top",
+    "target": "albert-collins",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Zz Top influenced by Albert Collins. Source: americanbluesscene.com / rockandrollgarage.com \u2014 ZZ Top (Billy Gibbons) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "zz-top",
+    "target": "freddie-king",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Zz Top influenced by Freddie King. Source: americanbluesscene.com / rockandrollgarage.com \u2014 ZZ Top (Billy Gibbons) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "zz-top",
+    "target": "jimi-hendrix",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Zz Top influenced by Jimi Hendrix. Source: americanbluesscene.com / rockandrollgarage.com \u2014 ZZ Top (Billy Gibbons) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "boston",
+    "target": "jeff-beck",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Boston influenced by Jeff Beck. Source: loudersound.com \u2014 Boston (Tom Scholz) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "boston",
+    "target": "led-zeppelin",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Boston influenced by Led Zeppelin. Source: loudersound.com \u2014 Boston (Tom Scholz) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "boston",
+    "target": "james-gang",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Boston influenced by The James Gang. Source: loudersound.com \u2014 Boston (Tom Scholz) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "boston",
+    "target": "iron-butterfly",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Boston influenced by Iron Butterfly. Source: loudersound.com \u2014 Boston (Tom Scholz) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "boston",
+    "target": "pink-floyd",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Boston influenced by Pink Floyd. Source: loudersound.com \u2014 Boston (Tom Scholz) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "boston",
+    "target": "aerosmith",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Boston influenced by Aerosmith. Source: loudersound.com \u2014 Boston (Tom Scholz) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "america",
+    "target": "the-beatles",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "America influenced by The Beatles. Source: stuffnobodycaresabout.com \u2014 America influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "america",
+    "target": "the-beach-boys",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "America influenced by The Beach Boys. Source: stuffnobodycaresabout.com \u2014 America influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "america",
+    "target": "jackson-browne",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "America influenced by Jackson Browne. Source: stuffnobodycaresabout.com \u2014 America influences",
+    "sources": [
+      "web-curated"
+    ]
   }
 ]

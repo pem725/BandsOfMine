@@ -298,5 +298,30 @@
     "artist": "fruit-bats",
     "influences": ["The Byrds", "The Kinks", "Supertramp", "Grateful Dead"],
     "source": "wikipedia / allmusic — Fruit Bats influences"
+  },
+  {
+    "artist": "blitzen-trapper",
+    "influences": ["Neil Young", "Bob Dylan", "Grateful Dead", "Wilco", "Tom Petty", "Nitty Gritty Dirt Band"],
+    "source": "bigtakeover.com / grokipedia — Blitzen Trapper (Eric Earley) influences"
+  },
+  {
+    "artist": "darlingside",
+    "influences": ["The Beach Boys"],
+    "source": "csindy.com — Darlingside four-part harmony (Pet Sounds)"
+  },
+  {
+    "artist": "zz-top",
+    "influences": ["Muddy Waters", "B.B. King", "Jimmy Reed", "Howlin' Wolf", "T-Bone Walker", "Albert King", "Lightnin' Hopkins", "Albert Collins", "Freddie King", "Jimi Hendrix"],
+    "source": "americanbluesscene.com / rockandrollgarage.com — ZZ Top (Billy Gibbons) influences"
+  },
+  {
+    "artist": "boston",
+    "influences": ["Jeff Beck", "Led Zeppelin", "The James Gang", "Iron Butterfly", "Pink Floyd", "Aerosmith"],
+    "source": "loudersound.com — Boston (Tom Scholz) influences"
+  },
+  {
+    "artist": "america",
+    "influences": ["The Beatles", "The Beach Boys", "Jackson Browne"],
+    "source": "stuffnobodycaresabout.com — America influences"
   }
 ]
