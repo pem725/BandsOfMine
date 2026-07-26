@@ -518,5 +518,35 @@
     "artist": "wale",
     "influences": ["JAY-Z", "Rick Ross"],
     "source": "mytimeng.com / bbc — Wale influences"
+  },
+  {
+    "artist": "grateful-dead",
+    "influences": ["Bill Monroe", "Doc Watson", "John Coltrane", "Freddie King", "Chuck Berry"],
+    "source": "storytellersband.com / classicrockhistory.com — Grateful Dead (Jerry Garcia) influences"
+  },
+  {
+    "artist": "watchhouse",
+    "influences": ["Gillian Welch", "Emmylou Harris", "The Carter Family"],
+    "source": "thebluegrasssituation.com / apple music — Watchhouse (Andrew Marlin) influences"
+  },
+  {
+    "artist": "explosions-in-the-sky",
+    "influences": ["Mogwai", "Sigur Rós", "Godspeed You! Black Emperor"],
+    "source": "heavyblogisheavy.com / grammy.com — Explosions in the Sky influences"
+  },
+  {
+    "artist": "dave-matthews",
+    "influences": ["Bob Marley", "Keith Jarrett"],
+    "source": "ebsco.com / apple music — Dave Matthews influences"
+  },
+  {
+    "artist": "mgk",
+    "influences": ["Eminem", "DMX", "Ludacris", "Guns N' Roses", "Blink-182"],
+    "source": "tvtropes.org / rollingstone.com — Machine Gun Kelly influences"
+  },
+  {
+    "artist": "ty-dolla-ign",
+    "influences": ["Prince", "Marvin Gaye", "Tupac Shakur"],
+    "source": "facts.net / wikipedia — Ty Dolla $ign influences"
   }
 ]

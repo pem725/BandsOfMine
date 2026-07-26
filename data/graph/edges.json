@@ -122516,5 +122516,236 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "source": "grateful-dead",
+    "target": "bill-monroe",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Grateful Dead influenced by Bill Monroe. Source: storytellersband.com / classicrockhistory.com \u2014 Grateful Dead (Jerry Garcia) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "grateful-dead",
+    "target": "doc-watson",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Grateful Dead influenced by Doc Watson. Source: storytellersband.com / classicrockhistory.com \u2014 Grateful Dead (Jerry Garcia) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "grateful-dead",
+    "target": "john-coltrane",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Grateful Dead influenced by John Coltrane. Source: storytellersband.com / classicrockhistory.com \u2014 Grateful Dead (Jerry Garcia) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "grateful-dead",
+    "target": "freddie-king",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Grateful Dead influenced by Freddie King. Source: storytellersband.com / classicrockhistory.com \u2014 Grateful Dead (Jerry Garcia) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "grateful-dead",
+    "target": "chuck-berry",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Grateful Dead influenced by Chuck Berry. Source: storytellersband.com / classicrockhistory.com \u2014 Grateful Dead (Jerry Garcia) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "watchhouse",
+    "target": "gillian-welch",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Watchhouse influenced by Gillian Welch. Source: thebluegrasssituation.com / apple music \u2014 Watchhouse (Andrew Marlin) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "watchhouse",
+    "target": "emmylou-harris",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Watchhouse influenced by Emmylou Harris. Source: thebluegrasssituation.com / apple music \u2014 Watchhouse (Andrew Marlin) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "watchhouse",
+    "target": "the-carter-family",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Watchhouse influenced by The Carter Family. Source: thebluegrasssituation.com / apple music \u2014 Watchhouse (Andrew Marlin) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "explosions-in-the-sky",
+    "target": "mogwai",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Explosions_In_The_Sky influenced by Mogwai. Source: heavyblogisheavy.com / grammy.com \u2014 Explosions in the Sky influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "explosions-in-the-sky",
+    "target": "sigur-ros",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Explosions_In_The_Sky influenced by Sigur R\u00f3s. Source: heavyblogisheavy.com / grammy.com \u2014 Explosions in the Sky influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "explosions-in-the-sky",
+    "target": "godspeed-you-black-emperor",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Explosions_In_The_Sky influenced by Godspeed You! Black Emperor. Source: heavyblogisheavy.com / grammy.com \u2014 Explosions in the Sky influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "dave-matthews",
+    "target": "bob-marley",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Dave Matthews influenced by Bob Marley. Source: ebsco.com / apple music \u2014 Dave Matthews influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "dave-matthews",
+    "target": "keith-jarrett",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Dave Matthews influenced by Keith Jarrett. Source: ebsco.com / apple music \u2014 Dave Matthews influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "mgk",
+    "target": "eminem",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "mgk influenced by Eminem. Source: tvtropes.org / rollingstone.com \u2014 Machine Gun Kelly influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "mgk",
+    "target": "dmx",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "mgk influenced by DMX. Source: tvtropes.org / rollingstone.com \u2014 Machine Gun Kelly influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "mgk",
+    "target": "ludacris",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "mgk influenced by Ludacris. Source: tvtropes.org / rollingstone.com \u2014 Machine Gun Kelly influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "mgk",
+    "target": "guns-n-roses",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "mgk influenced by Guns N' Roses. Source: tvtropes.org / rollingstone.com \u2014 Machine Gun Kelly influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "mgk",
+    "target": "blink-182",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "mgk influenced by Blink-182. Source: tvtropes.org / rollingstone.com \u2014 Machine Gun Kelly influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "ty-dolla-ign",
+    "target": "prince",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Ty Dolla $ign influenced by Prince. Source: facts.net / wikipedia \u2014 Ty Dolla $ign influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "ty-dolla-ign",
+    "target": "marvin-gaye",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Ty Dolla $ign influenced by Marvin Gaye. Source: facts.net / wikipedia \u2014 Ty Dolla $ign influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "ty-dolla-ign",
+    "target": "tupac-shakur",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Ty Dolla $ign influenced by Tupac Shakur. Source: facts.net / wikipedia \u2014 Ty Dolla $ign influences",
+    "sources": [
+      "web-curated"
+    ]
   }
 ]
