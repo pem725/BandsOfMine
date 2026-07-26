@@ -438,5 +438,35 @@
     "artist": "bing-crosby",
     "influences": ["Al Jolson", "Louis Armstrong", "Eddie Cantor", "Cab Calloway", "Ethel Waters"],
     "source": "encyclopedia.com / udiscovermusic.com — Bing Crosby influences"
+  },
+  {
+    "artist": "t-i",
+    "influences": ["Scarface", "André 3000", "UGK"],
+    "source": "allhiphop.com / wikipedia — T.I. influences"
+  },
+  {
+    "artist": "big-sean",
+    "influences": ["Kanye West", "Eminem", "The Notorious B.I.G.", "J Dilla"],
+    "source": "hiphopdx.com / miraheze — Big Sean influences"
+  },
+  {
+    "artist": "gucci-mane",
+    "influences": ["Master P", "Eazy-E", "Mannie Fresh", "Hot Boys"],
+    "source": "scope.uiowa.edu / apple music — Gucci Mane influences"
+  },
+  {
+    "artist": "chris-brown",
+    "influences": ["Michael Jackson", "Usher", "Bobby Brown", "R. Kelly", "Sam Cooke", "Ginuwine", "Tupac Shakur"],
+    "source": "tvtropes.org / vibe.com — Chris Brown influences"
+  },
+  {
+    "artist": "migos",
+    "influences": ["Gucci Mane", "T.I.", "OutKast", "Hot Boys"],
+    "source": "nicekicks.com / wikipedia — Migos influences"
+  },
+  {
+    "artist": "major-lazer",
+    "influences": ["Barrington Levy", "Alton Ellis", "Burning Spear", "Ken Boothe"],
+    "source": "rollingstone.com / grammy.com — Major Lazer (Diplo) influences"
   }
 ]

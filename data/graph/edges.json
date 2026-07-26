@@ -121801,5 +121801,291 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "source": "t-i",
+    "target": "scarface",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "T.I. influenced by Scarface. Source: allhiphop.com / wikipedia \u2014 T.I. influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "t-i",
+    "target": "andre-3000",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "T.I. influenced by Andr\u00e9 3000. Source: allhiphop.com / wikipedia \u2014 T.I. influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "t-i",
+    "target": "ugk",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "T.I. influenced by UGK. Source: allhiphop.com / wikipedia \u2014 T.I. influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "big-sean",
+    "target": "kanye-west",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Big Sean influenced by Kanye West. Source: hiphopdx.com / miraheze \u2014 Big Sean influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "big-sean",
+    "target": "eminem",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Big Sean influenced by Eminem. Source: hiphopdx.com / miraheze \u2014 Big Sean influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "big-sean",
+    "target": "the-notorious-b-i-g",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Big Sean influenced by The Notorious B.I.G.. Source: hiphopdx.com / miraheze \u2014 Big Sean influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "big-sean",
+    "target": "j-dilla",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Big Sean influenced by J Dilla. Source: hiphopdx.com / miraheze \u2014 Big Sean influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "gucci-mane",
+    "target": "master-p",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Gucci Mane influenced by Master P. Source: scope.uiowa.edu / apple music \u2014 Gucci Mane influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "gucci-mane",
+    "target": "eazy-e",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Gucci Mane influenced by Eazy-E. Source: scope.uiowa.edu / apple music \u2014 Gucci Mane influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "gucci-mane",
+    "target": "mannie-fresh",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Gucci Mane influenced by Mannie Fresh. Source: scope.uiowa.edu / apple music \u2014 Gucci Mane influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "gucci-mane",
+    "target": "hot-boys",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Gucci Mane influenced by Hot Boys. Source: scope.uiowa.edu / apple music \u2014 Gucci Mane influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "chris-brown",
+    "target": "michael-jackson",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Chris Brown influenced by Michael Jackson. Source: tvtropes.org / vibe.com \u2014 Chris Brown influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "chris-brown",
+    "target": "usher",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Chris Brown influenced by Usher. Source: tvtropes.org / vibe.com \u2014 Chris Brown influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "chris-brown",
+    "target": "bobby-brown",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Chris Brown influenced by Bobby Brown. Source: tvtropes.org / vibe.com \u2014 Chris Brown influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "chris-brown",
+    "target": "r-kelly",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Chris Brown influenced by R. Kelly. Source: tvtropes.org / vibe.com \u2014 Chris Brown influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "chris-brown",
+    "target": "sam-cooke",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Chris Brown influenced by Sam Cooke. Source: tvtropes.org / vibe.com \u2014 Chris Brown influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "chris-brown",
+    "target": "ginuwine",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Chris Brown influenced by Ginuwine. Source: tvtropes.org / vibe.com \u2014 Chris Brown influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "chris-brown",
+    "target": "tupac-shakur",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Chris Brown influenced by Tupac Shakur. Source: tvtropes.org / vibe.com \u2014 Chris Brown influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "migos",
+    "target": "gucci-mane",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Migos influenced by Gucci Mane. Source: nicekicks.com / wikipedia \u2014 Migos influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "migos",
+    "target": "t-i",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Migos influenced by T.I.. Source: nicekicks.com / wikipedia \u2014 Migos influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "migos",
+    "target": "outkast",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Migos influenced by OutKast. Source: nicekicks.com / wikipedia \u2014 Migos influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "migos",
+    "target": "hot-boys",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Migos influenced by Hot Boys. Source: nicekicks.com / wikipedia \u2014 Migos influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "major-lazer",
+    "target": "barrington-levy",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Major Lazer influenced by Barrington Levy. Source: rollingstone.com / grammy.com \u2014 Major Lazer (Diplo) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "major-lazer",
+    "target": "alton-ellis",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Major Lazer influenced by Alton Ellis. Source: rollingstone.com / grammy.com \u2014 Major Lazer (Diplo) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "major-lazer",
+    "target": "burning-spear",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Major Lazer influenced by Burning Spear. Source: rollingstone.com / grammy.com \u2014 Major Lazer (Diplo) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "major-lazer",
+    "target": "ken-boothe",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Major Lazer influenced by Ken Boothe. Source: rollingstone.com / grammy.com \u2014 Major Lazer (Diplo) influences",
+    "sources": [
+      "web-curated"
+    ]
   }
 ]
