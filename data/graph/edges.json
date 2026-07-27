@@ -123588,5 +123588,181 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "source": "bob-marley",
+    "target": "fats-domino",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Bob Marley influenced by Fats Domino. Source: americansongwriter.com / rootfire.net \u2014 Bob Marley influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "bob-marley",
+    "target": "ray-charles",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Bob Marley influenced by Ray Charles. Source: americansongwriter.com / rootfire.net \u2014 Bob Marley influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "bob-marley",
+    "target": "curtis-mayfield",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Bob Marley influenced by Curtis Mayfield. Source: americansongwriter.com / rootfire.net \u2014 Bob Marley influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "bob-marley",
+    "target": "elvis-presley",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Bob Marley influenced by Elvis Presley. Source: americansongwriter.com / rootfire.net \u2014 Bob Marley influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "bob-marley",
+    "target": "the-impressions",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Bob Marley influenced by The Impressions. Source: americansongwriter.com / rootfire.net \u2014 Bob Marley influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "barenaked-ladies",
+    "target": "the-beatles",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Barenaked Ladies influenced by The Beatles. Source: nme.com / thelineofbestfit.com \u2014 Barenaked Ladies influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "barenaked-ladies",
+    "target": "the-beach-boys",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Barenaked Ladies influenced by The Beach Boys. Source: nme.com / thelineofbestfit.com \u2014 Barenaked Ladies influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "barenaked-ladies",
+    "target": "rush",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Barenaked Ladies influenced by Rush. Source: nme.com / thelineofbestfit.com \u2014 Barenaked Ladies influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "kansas",
+    "target": "yes",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Kansas influenced by Yes. Source: progarchives.com / realrocknews.com \u2014 Kansas influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "kansas",
+    "target": "genesis",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Kansas influenced by Genesis. Source: progarchives.com / realrocknews.com \u2014 Kansas influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "kansas",
+    "target": "deep-purple",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Kansas influenced by Deep Purple. Source: progarchives.com / realrocknews.com \u2014 Kansas influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "kansas",
+    "target": "emerson-lake-palmer",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Kansas influenced by Emerson, Lake & Palmer. Source: progarchives.com / realrocknews.com \u2014 Kansas influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "kansas",
+    "target": "king-crimson",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Kansas influenced by King Crimson. Source: progarchives.com / realrocknews.com \u2014 Kansas influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "melissa-etheridge",
+    "target": "bruce-springsteen",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Melissa Etheridge influenced by Bruce Springsteen. Source: encyclopedia.com / rollingstone.com \u2014 Melissa Etheridge influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "melissa-etheridge",
+    "target": "janis-joplin",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Melissa Etheridge influenced by Janis Joplin. Source: encyclopedia.com / rollingstone.com \u2014 Melissa Etheridge influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "melissa-etheridge",
+    "target": "bob-dylan",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Melissa Etheridge influenced by Bob Dylan. Source: encyclopedia.com / rollingstone.com \u2014 Melissa Etheridge influences",
+    "sources": [
+      "web-curated"
+    ]
   }
 ]

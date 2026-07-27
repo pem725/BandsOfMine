@@ -608,5 +608,25 @@
     "artist": "robert-cray",
     "influences": ["Albert Collins", "Magic Sam", "Otis Rush", "O.V. Wright", "Al Green"],
     "source": "musicradar.com / guitarworld.com — Robert Cray influences"
+  },
+  {
+    "artist": "bob-marley",
+    "influences": ["Fats Domino", "Ray Charles", "Curtis Mayfield", "Elvis Presley", "The Impressions"],
+    "source": "americansongwriter.com / rootfire.net — Bob Marley influences"
+  },
+  {
+    "artist": "barenaked-ladies",
+    "influences": ["The Beatles", "The Beach Boys", "Rush"],
+    "source": "nme.com / thelineofbestfit.com — Barenaked Ladies influences"
+  },
+  {
+    "artist": "kansas",
+    "influences": ["Yes", "Genesis", "Deep Purple", "Emerson, Lake & Palmer", "King Crimson"],
+    "source": "progarchives.com / realrocknews.com — Kansas influences"
+  },
+  {
+    "artist": "melissa-etheridge",
+    "influences": ["Bruce Springsteen", "Janis Joplin", "Bob Dylan"],
+    "source": "encyclopedia.com / rollingstone.com — Melissa Etheridge influences"
   }
 ]

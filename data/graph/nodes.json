@@ -119170,5 +119170,21 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "id": "the-impressions",
+    "name": "The Impressions",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
   }
 ]
