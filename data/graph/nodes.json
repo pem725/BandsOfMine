@@ -119058,5 +119058,117 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "id": "jaco-pastorius",
+    "name": "Jaco Pastorius",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "id": "jimmie-rodgers",
+    "name": "Jimmie Rodgers",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "id": "duran-duran",
+    "name": "Duran Duran",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "id": "the-kingston-trio",
+    "name": "The Kingston Trio",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "id": "the-four-freshmen",
+    "name": "The Four Freshmen",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "id": "the-four-lads",
+    "name": "The Four Lads",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "id": "o-v-wright",
+    "name": "O.V. Wright",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
   }
 ]

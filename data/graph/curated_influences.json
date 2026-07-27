@@ -578,5 +578,35 @@
     "artist": "michelle-shocked",
     "influences": ["Woody Guthrie", "Big Bill Broonzy", "Lead Belly", "Guy Clark", "Randy Newman"],
     "source": "allmusic.com / wikipedia — Michelle Shocked influences"
+  },
+  {
+    "artist": "the-kinks",
+    "influences": ["Big Bill Broonzy", "Muddy Waters", "Lead Belly", "Chuck Berry", "Bo Diddley"],
+    "source": "stereophile.com / britannica.com — The Kinks (Ray Davies) influences"
+  },
+  {
+    "artist": "sting",
+    "influences": ["The Beatles", "Bob Marley", "Miles Davis", "Jaco Pastorius"],
+    "source": "stingtour.org / culturesonar.com — Sting influences"
+  },
+  {
+    "artist": "johnny-cash",
+    "influences": ["Jimmie Rodgers", "Hank Williams", "Woody Guthrie"],
+    "source": "apple music / americansongwriter.com — Johnny Cash influences"
+  },
+  {
+    "artist": "the-killers",
+    "influences": ["New Order", "Depeche Mode", "Duran Duran", "The Cure", "Bruce Springsteen", "Tom Petty", "U2", "Oasis"],
+    "source": "tvtropes.org / nme.com — The Killers influences"
+  },
+  {
+    "artist": "the-mamas-and-the-papas",
+    "influences": ["The Kingston Trio", "The Four Freshmen", "The Four Lads"],
+    "source": "britannica.com / wikipedia — The Mamas & the Papas influences"
+  },
+  {
+    "artist": "robert-cray",
+    "influences": ["Albert Collins", "Magic Sam", "Otis Rush", "O.V. Wright", "Al Green"],
+    "source": "musicradar.com / guitarworld.com — Robert Cray influences"
   }
 ]

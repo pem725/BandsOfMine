@@ -123280,5 +123280,313 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "source": "the-kinks",
+    "target": "big-bill-broonzy",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Kinks influenced by Big Bill Broonzy. Source: stereophile.com / britannica.com \u2014 The Kinks (Ray Davies) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-kinks",
+    "target": "muddy-waters",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Kinks influenced by Muddy Waters. Source: stereophile.com / britannica.com \u2014 The Kinks (Ray Davies) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-kinks",
+    "target": "lead-belly",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Kinks influenced by Lead Belly. Source: stereophile.com / britannica.com \u2014 The Kinks (Ray Davies) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-kinks",
+    "target": "chuck-berry",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Kinks influenced by Chuck Berry. Source: stereophile.com / britannica.com \u2014 The Kinks (Ray Davies) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-kinks",
+    "target": "bo-diddley",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Kinks influenced by Bo Diddley. Source: stereophile.com / britannica.com \u2014 The Kinks (Ray Davies) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "sting",
+    "target": "the-beatles",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Sting influenced by The Beatles. Source: stingtour.org / culturesonar.com \u2014 Sting influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "sting",
+    "target": "bob-marley",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Sting influenced by Bob Marley. Source: stingtour.org / culturesonar.com \u2014 Sting influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "sting",
+    "target": "miles-davis",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Sting influenced by Miles Davis. Source: stingtour.org / culturesonar.com \u2014 Sting influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "sting",
+    "target": "jaco-pastorius",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Sting influenced by Jaco Pastorius. Source: stingtour.org / culturesonar.com \u2014 Sting influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "johnny-cash",
+    "target": "jimmie-rodgers",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Johnny Cash influenced by Jimmie Rodgers. Source: apple music / americansongwriter.com \u2014 Johnny Cash influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "johnny-cash",
+    "target": "hank-williams",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Johnny Cash influenced by Hank Williams. Source: apple music / americansongwriter.com \u2014 Johnny Cash influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "johnny-cash",
+    "target": "woody-guthrie",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Johnny Cash influenced by Woody Guthrie. Source: apple music / americansongwriter.com \u2014 Johnny Cash influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-killers",
+    "target": "new-order",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Killers influenced by New Order. Source: tvtropes.org / nme.com \u2014 The Killers influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-killers",
+    "target": "depeche-mode",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Killers influenced by Depeche Mode. Source: tvtropes.org / nme.com \u2014 The Killers influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-killers",
+    "target": "duran-duran",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Killers influenced by Duran Duran. Source: tvtropes.org / nme.com \u2014 The Killers influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-killers",
+    "target": "the-cure",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Killers influenced by The Cure. Source: tvtropes.org / nme.com \u2014 The Killers influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-killers",
+    "target": "bruce-springsteen",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Killers influenced by Bruce Springsteen. Source: tvtropes.org / nme.com \u2014 The Killers influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-killers",
+    "target": "tom-petty",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Killers influenced by Tom Petty. Source: tvtropes.org / nme.com \u2014 The Killers influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-killers",
+    "target": "u2",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Killers influenced by U2. Source: tvtropes.org / nme.com \u2014 The Killers influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-killers",
+    "target": "oasis",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Killers influenced by Oasis. Source: tvtropes.org / nme.com \u2014 The Killers influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-mamas-and-the-papas",
+    "target": "the-kingston-trio",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Mamas And The Papas influenced by The Kingston Trio. Source: britannica.com / wikipedia \u2014 The Mamas & the Papas influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-mamas-and-the-papas",
+    "target": "the-four-freshmen",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Mamas And The Papas influenced by The Four Freshmen. Source: britannica.com / wikipedia \u2014 The Mamas & the Papas influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-mamas-and-the-papas",
+    "target": "the-four-lads",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Mamas And The Papas influenced by The Four Lads. Source: britannica.com / wikipedia \u2014 The Mamas & the Papas influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "robert-cray",
+    "target": "albert-collins",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Robert Cray influenced by Albert Collins. Source: musicradar.com / guitarworld.com \u2014 Robert Cray influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "robert-cray",
+    "target": "magic-sam",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Robert Cray influenced by Magic Sam. Source: musicradar.com / guitarworld.com \u2014 Robert Cray influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "robert-cray",
+    "target": "otis-rush",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Robert Cray influenced by Otis Rush. Source: musicradar.com / guitarworld.com \u2014 Robert Cray influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "robert-cray",
+    "target": "o-v-wright",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Robert Cray influenced by O.V. Wright. Source: musicradar.com / guitarworld.com \u2014 Robert Cray influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "robert-cray",
+    "target": "al-green",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Robert Cray influenced by Al Green. Source: musicradar.com / guitarworld.com \u2014 Robert Cray influences",
+    "sources": [
+      "web-curated"
+    ]
   }
 ]
