@@ -123995,5 +123995,291 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "source": "john-lennon",
+    "target": "elvis-presley",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "John Lennon influenced by Elvis Presley. Source: americansongwriter.com / faroutmagazine.co.uk \u2014 John Lennon influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "john-lennon",
+    "target": "chuck-berry",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "John Lennon influenced by Chuck Berry. Source: americansongwriter.com / faroutmagazine.co.uk \u2014 John Lennon influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "john-lennon",
+    "target": "buddy-holly",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "John Lennon influenced by Buddy Holly. Source: americansongwriter.com / faroutmagazine.co.uk \u2014 John Lennon influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "john-lennon",
+    "target": "little-richard",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "John Lennon influenced by Little Richard. Source: americansongwriter.com / faroutmagazine.co.uk \u2014 John Lennon influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "john-lennon",
+    "target": "carl-perkins",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "John Lennon influenced by Carl Perkins. Source: americansongwriter.com / faroutmagazine.co.uk \u2014 John Lennon influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "traffic",
+    "target": "ray-charles",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Traffic influenced by Ray Charles. Source: loudersound.com / culturesonar.com \u2014 Traffic (Steve Winwood) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "traffic",
+    "target": "the-impressions",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Traffic influenced by The Impressions. Source: loudersound.com / culturesonar.com \u2014 Traffic (Steve Winwood) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "traffic",
+    "target": "jimi-hendrix",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Traffic influenced by Jimi Hendrix. Source: loudersound.com / culturesonar.com \u2014 Traffic (Steve Winwood) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "traffic",
+    "target": "buddy-guy",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Traffic influenced by Buddy Guy. Source: loudersound.com / culturesonar.com \u2014 Traffic (Steve Winwood) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "traffic",
+    "target": "nina-simone",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Traffic influenced by Nina Simone. Source: loudersound.com / culturesonar.com \u2014 Traffic (Steve Winwood) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "don-henley",
+    "target": "the-byrds",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Don Henley influenced by The Byrds. Source: faroutmagazine.co.uk \u2014 Don Henley influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "don-henley",
+    "target": "merle-haggard",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Don Henley influenced by Merle Haggard. Source: faroutmagazine.co.uk \u2014 Don Henley influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "don-henley",
+    "target": "the-flying-burrito-brothers",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Don Henley influenced by The Flying Burrito Brothers. Source: faroutmagazine.co.uk \u2014 Don Henley influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "tracy-chapman",
+    "target": "joan-armatrading",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Tracy Chapman influenced by Joan Armatrading. Source: encyclopedia.com / about-tracy-chapman.net \u2014 Tracy Chapman influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "tracy-chapman",
+    "target": "joni-mitchell",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Tracy Chapman influenced by Joni Mitchell. Source: encyclopedia.com / about-tracy-chapman.net \u2014 Tracy Chapman influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "tracy-chapman",
+    "target": "odetta",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Tracy Chapman influenced by Odetta. Source: encyclopedia.com / about-tracy-chapman.net \u2014 Tracy Chapman influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "tracy-chapman",
+    "target": "bob-marley",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Tracy Chapman influenced by Bob Marley. Source: encyclopedia.com / about-tracy-chapman.net \u2014 Tracy Chapman influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "tracy-chapman",
+    "target": "johnny-cash",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Tracy Chapman influenced by Johnny Cash. Source: encyclopedia.com / about-tracy-chapman.net \u2014 Tracy Chapman influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "jethro-tull",
+    "target": "howlin-wolf",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Jethro Tull influenced by Howlin' Wolf. Source: loudersound.com / guitarplayer.com \u2014 Jethro Tull (Ian Anderson) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "jethro-tull",
+    "target": "muddy-waters",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Jethro Tull influenced by Muddy Waters. Source: loudersound.com / guitarplayer.com \u2014 Jethro Tull (Ian Anderson) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "jethro-tull",
+    "target": "roy-harper",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Jethro Tull influenced by Roy Harper. Source: loudersound.com / guitarplayer.com \u2014 Jethro Tull (Ian Anderson) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "jethro-tull",
+    "target": "bert-jansch",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Jethro Tull influenced by Bert Jansch. Source: loudersound.com / guitarplayer.com \u2014 Jethro Tull (Ian Anderson) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "jethro-tull",
+    "target": "john-mayall",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Jethro Tull influenced by John Mayall. Source: loudersound.com / guitarplayer.com \u2014 Jethro Tull (Ian Anderson) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "jethro-tull",
+    "target": "jimi-hendrix",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Jethro Tull influenced by Jimi Hendrix. Source: loudersound.com / guitarplayer.com \u2014 Jethro Tull (Ian Anderson) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "indigo-girls",
+    "target": "neil-young",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Indigo Girls influenced by Neil Young. Source: encyclopedia.com / wikipedia \u2014 Indigo Girls influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "indigo-girls",
+    "target": "r-e-m",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Indigo Girls influenced by R.E.M.. Source: encyclopedia.com / wikipedia \u2014 Indigo Girls influences",
+    "sources": [
+      "web-curated"
+    ]
   }
 ]

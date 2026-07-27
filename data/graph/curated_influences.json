@@ -653,5 +653,35 @@
     "artist": "carole-king",
     "influences": ["Leiber and Stoller", "Cole Porter", "Irving Berlin"],
     "source": "history.com / udiscovermusic.com — Carole King (Brill Building) influences"
+  },
+  {
+    "artist": "john-lennon",
+    "influences": ["Elvis Presley", "Chuck Berry", "Buddy Holly", "Little Richard", "Carl Perkins"],
+    "source": "americansongwriter.com / faroutmagazine.co.uk — John Lennon influences"
+  },
+  {
+    "artist": "traffic",
+    "influences": ["Ray Charles", "The Impressions", "Jimi Hendrix", "Buddy Guy", "Nina Simone"],
+    "source": "loudersound.com / culturesonar.com — Traffic (Steve Winwood) influences"
+  },
+  {
+    "artist": "don-henley",
+    "influences": ["The Byrds", "Merle Haggard", "The Flying Burrito Brothers"],
+    "source": "faroutmagazine.co.uk — Don Henley influences"
+  },
+  {
+    "artist": "tracy-chapman",
+    "influences": ["Joan Armatrading", "Joni Mitchell", "Odetta", "Bob Marley", "Johnny Cash"],
+    "source": "encyclopedia.com / about-tracy-chapman.net — Tracy Chapman influences"
+  },
+  {
+    "artist": "jethro-tull",
+    "influences": ["Howlin' Wolf", "Muddy Waters", "Roy Harper", "Bert Jansch", "John Mayall", "Jimi Hendrix"],
+    "source": "loudersound.com / guitarplayer.com — Jethro Tull (Ian Anderson) influences"
+  },
+  {
+    "artist": "indigo-girls",
+    "influences": ["Neil Young", "R.E.M."],
+    "source": "encyclopedia.com / wikipedia — Indigo Girls influences"
   }
 ]

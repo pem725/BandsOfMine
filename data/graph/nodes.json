@@ -119234,5 +119234,85 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "id": "joan-armatrading",
+    "name": "Joan Armatrading",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "id": "odetta",
+    "name": "Odetta",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "id": "roy-harper",
+    "name": "Roy Harper",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "id": "bert-jansch",
+    "name": "Bert Jansch",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "id": "john-mayall",
+    "name": "John Mayall",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated"
+    ]
   }
 ]
