@@ -110764,74 +110764,6 @@
     ]
   },
   {
-    "id": "kanye-west",
-    "name": "Kanye West",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "play_weight": 0.571,
-    "sources": [
-      "spotify-export"
-    ]
-  },
-  {
-    "id": "drake",
-    "name": "Drake",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "play_weight": 0.493,
-    "sources": [
-      "spotify-export"
-    ]
-  },
-  {
-    "id": "jay-z",
-    "name": "JAY-Z",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "play_weight": 0.492,
-    "sources": [
-      "spotify-export"
-    ]
-  },
-  {
-    "id": "future",
-    "name": "Future",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "play_weight": 0.474,
-    "sources": [
-      "spotify-export"
-    ]
-  },
-  {
     "id": "chet-baker",
     "name": "Chet Baker",
     "kind": "person",
@@ -110844,142 +110776,6 @@
     "spotify_id": null,
     "seed": true,
     "play_weight": 0.469,
-    "sources": [
-      "spotify-export"
-    ]
-  },
-  {
-    "id": "lil-wayne",
-    "name": "Lil Wayne",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "play_weight": 0.468,
-    "sources": [
-      "spotify-export"
-    ]
-  },
-  {
-    "id": "wiz-khalifa",
-    "name": "Wiz Khalifa",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "play_weight": 0.467,
-    "sources": [
-      "spotify-export"
-    ]
-  },
-  {
-    "id": "kid-ink",
-    "name": "Kid Ink",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "play_weight": 0.466,
-    "sources": [
-      "spotify-export"
-    ]
-  },
-  {
-    "id": "chris-brown",
-    "name": "Chris Brown",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "play_weight": 0.463,
-    "sources": [
-      "spotify-export"
-    ]
-  },
-  {
-    "id": "t-i",
-    "name": "T.I.",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "play_weight": 0.458,
-    "sources": [
-      "spotify-export"
-    ]
-  },
-  {
-    "id": "big-sean",
-    "name": "Big Sean",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "play_weight": 0.455,
-    "sources": [
-      "spotify-export"
-    ]
-  },
-  {
-    "id": "chief-keef",
-    "name": "Chief Keef",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "play_weight": 0.452,
-    "sources": [
-      "spotify-export"
-    ]
-  },
-  {
-    "id": "r-kelly",
-    "name": "R. Kelly",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "play_weight": 0.45,
     "sources": [
       "spotify-export"
     ]
@@ -111002,40 +110798,6 @@
     ]
   },
   {
-    "id": "montana-of-300",
-    "name": "Montana of 300",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "play_weight": 0.446,
-    "sources": [
-      "spotify-export"
-    ]
-  },
-  {
-    "id": "migos",
-    "name": "Migos",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "play_weight": 0.446,
-    "sources": [
-      "spotify-export"
-    ]
-  },
-  {
     "id": "yusuf-cat-stevens",
     "name": "Yusuf / Cat Stevens",
     "kind": "person",
@@ -111053,74 +110815,6 @@
     ]
   },
   {
-    "id": "gucci-mane",
-    "name": "Gucci Mane",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "play_weight": 0.443,
-    "sources": [
-      "spotify-export"
-    ]
-  },
-  {
-    "id": "rich-homie-quan",
-    "name": "Rich Homie Quan",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "play_weight": 0.442,
-    "sources": [
-      "spotify-export"
-    ]
-  },
-  {
-    "id": "mgk",
-    "name": "mgk",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "play_weight": 0.442,
-    "sources": [
-      "spotify-export"
-    ]
-  },
-  {
-    "id": "ty-dolla-ign",
-    "name": "Ty Dolla $ign",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "play_weight": 0.441,
-    "sources": [
-      "spotify-export"
-    ]
-  },
-  {
     "id": "michael-franti-spearhead",
     "name": "Michael Franti & Spearhead",
     "kind": "person",
@@ -111133,40 +110827,6 @@
     "spotify_id": null,
     "seed": true,
     "play_weight": 0.44,
-    "sources": [
-      "spotify-export"
-    ]
-  },
-  {
-    "id": "kendrick-lamar",
-    "name": "Kendrick Lamar",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "play_weight": 0.44,
-    "sources": [
-      "spotify-export"
-    ]
-  },
-  {
-    "id": "wale",
-    "name": "Wale",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "play_weight": 0.438,
     "sources": [
       "spotify-export"
     ]
@@ -117013,70 +116673,6 @@
     ]
   },
   {
-    "id": "the-notorious-b-i-g",
-    "name": "The Notorious B.I.G.",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "web-curated"
-    ]
-  },
-  {
-    "id": "rakim",
-    "name": "Rakim",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "web-curated"
-    ]
-  },
-  {
-    "id": "eric-b-rakim",
-    "name": "Eric B. & Rakim",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "web-curated"
-    ]
-  },
-  {
-    "id": "boogie-down-productions",
-    "name": "Boogie Down Productions",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "web-curated"
-    ]
-  },
-  {
     "id": "xtc",
     "name": "XTC",
     "kind": "person",
@@ -117717,38 +117313,6 @@
     ]
   },
   {
-    "id": "a-tribe-called-quest",
-    "name": "A Tribe Called Quest",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "web-curated"
-    ]
-  },
-  {
-    "id": "ll-cool-j",
-    "name": "LL Cool J",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "web-curated"
-    ]
-  },
-  {
     "id": "norman-blake",
     "name": "Norman Blake",
     "kind": "person",
@@ -118005,22 +117569,6 @@
     ]
   },
   {
-    "id": "missy-elliott",
-    "name": "Missy Elliott",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "web-curated"
-    ]
-  },
-  {
     "id": "serge-gainsbourg",
     "name": "Serge Gainsbourg",
     "kind": "person",
@@ -118197,70 +117745,6 @@
     ]
   },
   {
-    "id": "bone-thugs-n-harmony",
-    "name": "Bone Thugs-n-Harmony",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "web-curated"
-    ]
-  },
-  {
-    "id": "camp-lo",
-    "name": "Camp Lo",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "web-curated"
-    ]
-  },
-  {
-    "id": "outkast",
-    "name": "OutKast",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "web-curated"
-    ]
-  },
-  {
-    "id": "goodie-mob",
-    "name": "Goodie Mob",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "web-curated"
-    ]
-  },
-  {
     "id": "al-jolson",
     "name": "Al Jolson",
     "kind": "person",
@@ -118325,182 +117809,6 @@
     ]
   },
   {
-    "id": "scarface",
-    "name": "Scarface",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "web-curated"
-    ]
-  },
-  {
-    "id": "andre-3000",
-    "name": "Andr\u00e9 3000",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "web-curated"
-    ]
-  },
-  {
-    "id": "ugk",
-    "name": "UGK",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "web-curated"
-    ]
-  },
-  {
-    "id": "j-dilla",
-    "name": "J Dilla",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "web-curated"
-    ]
-  },
-  {
-    "id": "master-p",
-    "name": "Master P",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "web-curated"
-    ]
-  },
-  {
-    "id": "eazy-e",
-    "name": "Eazy-E",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "web-curated"
-    ]
-  },
-  {
-    "id": "mannie-fresh",
-    "name": "Mannie Fresh",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "web-curated"
-    ]
-  },
-  {
-    "id": "hot-boys",
-    "name": "Hot Boys",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "web-curated"
-    ]
-  },
-  {
-    "id": "bobby-brown",
-    "name": "Bobby Brown",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "web-curated"
-    ]
-  },
-  {
-    "id": "ginuwine",
-    "name": "Ginuwine",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "web-curated"
-    ]
-  },
-  {
-    "id": "tupac-shakur",
-    "name": "Tupac Shakur",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "web-curated"
-    ]
-  },
-  {
     "id": "barrington-levy",
     "name": "Barrington Levy",
     "kind": "person",
@@ -118551,22 +117859,6 @@
   {
     "id": "ken-boothe",
     "name": "Ken Boothe",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "web-curated"
-    ]
-  },
-  {
-    "id": "nas",
-    "name": "Nas",
     "kind": "person",
     "born": null,
     "died": null,
@@ -118727,22 +118019,6 @@
     ]
   },
   {
-    "id": "rick-ross",
-    "name": "Rick Ross",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "web-curated"
-    ]
-  },
-  {
     "id": "the-carter-family",
     "name": "The Carter Family",
     "kind": "person",
@@ -118793,54 +118069,6 @@
   {
     "id": "godspeed-you-black-emperor",
     "name": "Godspeed You! Black Emperor",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "web-curated"
-    ]
-  },
-  {
-    "id": "dmx",
-    "name": "DMX",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "web-curated"
-    ]
-  },
-  {
-    "id": "ludacris",
-    "name": "Ludacris",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "web-curated"
-    ]
-  },
-  {
-    "id": "blink-182",
-    "name": "Blink-182",
     "kind": "person",
     "born": null,
     "died": null,
@@ -118990,42 +118218,6 @@
   {
     "id": "glen-ballard",
     "name": "Glen Ballard",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [
-      "producer"
-    ],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "web-curated"
-    ]
-  },
-  {
-    "id": "zaytoven",
-    "name": "Zaytoven",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [
-      "producer"
-    ],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "web-curated"
-    ]
-  },
-  {
-    "id": "metro-boomin",
-    "name": "Metro Boomin",
     "kind": "person",
     "born": null,
     "died": null,
@@ -119494,38 +118686,6 @@
   {
     "id": "fiona-apple",
     "name": "Fiona Apple",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "web-curated"
-    ]
-  },
-  {
-    "id": "50-cent",
-    "name": "50 Cent",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "web-curated"
-    ]
-  },
-  {
-    "id": "young-jeezy",
-    "name": "Young Jeezy",
     "kind": "person",
     "born": null,
     "died": null,

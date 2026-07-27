@@ -1,0 +1,21 @@
+# Artists excised as not-mine (streamed by others). Importers skip these.
+big-sean
+chief-keef
+chris-brown
+drake
+future
+gucci-mane
+jay-z
+kanye-west
+kendrick-lamar
+kid-ink
+lil-wayne
+mgk
+migos
+montana-of-300
+r-kelly
+rich-homie-quan
+t-i
+ty-dolla-ign
+wale
+wiz-khalifa

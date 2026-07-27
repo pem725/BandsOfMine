@@ -23,3 +23,25 @@ kids
 # --- kids' streaming-history noise from the Spotify export ---
 peppa
 super-simple-songs-kids-songs
+
+# excised hip-hop (Patrick Jr.) — see data/graph/not_mine.txt
+kanye-west
+lil-wayne
+drake
+jay-z
+gucci-mane
+migos
+future
+chief-keef
+rich-homie-quan
+t-i
+big-sean
+wale
+kendrick-lamar
+wiz-khalifa
+ty-dolla-ign
+kid-ink
+montana-of-300
+chris-brown
+r-kelly
+mgk
