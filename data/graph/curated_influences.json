@@ -683,5 +683,35 @@
     "artist": "indigo-girls",
     "influences": ["Neil Young", "R.E.M."],
     "source": "encyclopedia.com / wikipedia — Indigo Girls influences"
+  },
+  {
+    "artist": "tom-waits",
+    "influences": ["Bob Dylan", "Kurt Weill", "Louis Armstrong", "Howlin' Wolf"],
+    "source": "ebsco.com / tvtropes.org — Tom Waits influences"
+  },
+  {
+    "artist": "genesis",
+    "influences": ["The Beatles", "The Beach Boys", "Fairport Convention", "King Crimson", "The Nice", "Nina Simone"],
+    "source": "allmusic.com / toppermost.co.uk — Genesis influences"
+  },
+  {
+    "artist": "nanci-griffith",
+    "influences": ["Carolyn Hester", "Loretta Lynn", "Odetta", "Woody Guthrie", "Townes Van Zandt", "John Prine", "Gordon Lightfoot"],
+    "source": "encyclopedia.com / texasmonthly.com — Nanci Griffith influences"
+  },
+  {
+    "artist": "roberta-flack",
+    "influences": ["Nina Simone", "Billie Holiday", "Frank Sinatra", "Mahalia Jackson", "Sarah Vaughan"],
+    "source": "andscape.com / shatterthestandards.com — Roberta Flack influences"
+  },
+  {
+    "artist": "firefall",
+    "influences": ["The Flying Burrito Brothers", "The Byrds", "Buffalo Springfield", "Gram Parsons"],
+    "source": "wikipedia / grokipedia — Firefall influences"
+  },
+  {
+    "artist": "diana-ross",
+    "influences": ["Billie Holiday", "Josephine Baker", "Ethel Waters", "Bessie Smith"],
+    "source": "wers.org / hollywoodreporter.com — Diana Ross influences"
   }
 ]

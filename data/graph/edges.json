@@ -124281,5 +124281,335 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "source": "tom-waits",
+    "target": "bob-dylan",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Tom Waits influenced by Bob Dylan. Source: ebsco.com / tvtropes.org \u2014 Tom Waits influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "tom-waits",
+    "target": "kurt-weill",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Tom Waits influenced by Kurt Weill. Source: ebsco.com / tvtropes.org \u2014 Tom Waits influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "tom-waits",
+    "target": "louis-armstrong",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Tom Waits influenced by Louis Armstrong. Source: ebsco.com / tvtropes.org \u2014 Tom Waits influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "tom-waits",
+    "target": "howlin-wolf",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Tom Waits influenced by Howlin' Wolf. Source: ebsco.com / tvtropes.org \u2014 Tom Waits influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "genesis",
+    "target": "the-beatles",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Genesis influenced by The Beatles. Source: allmusic.com / toppermost.co.uk \u2014 Genesis influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "genesis",
+    "target": "the-beach-boys",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Genesis influenced by The Beach Boys. Source: allmusic.com / toppermost.co.uk \u2014 Genesis influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "genesis",
+    "target": "fairport-convention",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Genesis influenced by Fairport Convention. Source: allmusic.com / toppermost.co.uk \u2014 Genesis influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "genesis",
+    "target": "king-crimson",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Genesis influenced by King Crimson. Source: allmusic.com / toppermost.co.uk \u2014 Genesis influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "genesis",
+    "target": "the-nice",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Genesis influenced by The Nice. Source: allmusic.com / toppermost.co.uk \u2014 Genesis influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "genesis",
+    "target": "nina-simone",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Genesis influenced by Nina Simone. Source: allmusic.com / toppermost.co.uk \u2014 Genesis influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "nanci-griffith",
+    "target": "carolyn-hester",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Nanci Griffith influenced by Carolyn Hester. Source: encyclopedia.com / texasmonthly.com \u2014 Nanci Griffith influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "nanci-griffith",
+    "target": "loretta-lynn",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Nanci Griffith influenced by Loretta Lynn. Source: encyclopedia.com / texasmonthly.com \u2014 Nanci Griffith influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "nanci-griffith",
+    "target": "odetta",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Nanci Griffith influenced by Odetta. Source: encyclopedia.com / texasmonthly.com \u2014 Nanci Griffith influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "nanci-griffith",
+    "target": "woody-guthrie",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Nanci Griffith influenced by Woody Guthrie. Source: encyclopedia.com / texasmonthly.com \u2014 Nanci Griffith influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "nanci-griffith",
+    "target": "townes-van-zandt",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Nanci Griffith influenced by Townes Van Zandt. Source: encyclopedia.com / texasmonthly.com \u2014 Nanci Griffith influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "nanci-griffith",
+    "target": "john-prine",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Nanci Griffith influenced by John Prine. Source: encyclopedia.com / texasmonthly.com \u2014 Nanci Griffith influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "nanci-griffith",
+    "target": "gordon-lightfoot",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Nanci Griffith influenced by Gordon Lightfoot. Source: encyclopedia.com / texasmonthly.com \u2014 Nanci Griffith influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "roberta-flack",
+    "target": "nina-simone",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Roberta Flack influenced by Nina Simone. Source: andscape.com / shatterthestandards.com \u2014 Roberta Flack influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "roberta-flack",
+    "target": "billie-holiday",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Roberta Flack influenced by Billie Holiday. Source: andscape.com / shatterthestandards.com \u2014 Roberta Flack influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "roberta-flack",
+    "target": "frank-sinatra",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Roberta Flack influenced by Frank Sinatra. Source: andscape.com / shatterthestandards.com \u2014 Roberta Flack influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "roberta-flack",
+    "target": "mahalia-jackson",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Roberta Flack influenced by Mahalia Jackson. Source: andscape.com / shatterthestandards.com \u2014 Roberta Flack influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "roberta-flack",
+    "target": "sarah-vaughan",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Roberta Flack influenced by Sarah Vaughan. Source: andscape.com / shatterthestandards.com \u2014 Roberta Flack influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "firefall",
+    "target": "the-flying-burrito-brothers",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Firefall influenced by The Flying Burrito Brothers. Source: wikipedia / grokipedia \u2014 Firefall influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "firefall",
+    "target": "the-byrds",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Firefall influenced by The Byrds. Source: wikipedia / grokipedia \u2014 Firefall influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "firefall",
+    "target": "buffalo-springfield",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Firefall influenced by Buffalo Springfield. Source: wikipedia / grokipedia \u2014 Firefall influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "firefall",
+    "target": "gram-parsons",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Firefall influenced by Gram Parsons. Source: wikipedia / grokipedia \u2014 Firefall influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "diana-ross",
+    "target": "billie-holiday",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Diana Ross influenced by Billie Holiday. Source: wers.org / hollywoodreporter.com \u2014 Diana Ross influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "diana-ross",
+    "target": "josephine-baker",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Diana Ross influenced by Josephine Baker. Source: wers.org / hollywoodreporter.com \u2014 Diana Ross influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "diana-ross",
+    "target": "ethel-waters",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Diana Ross influenced by Ethel Waters. Source: wers.org / hollywoodreporter.com \u2014 Diana Ross influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "diana-ross",
+    "target": "bessie-smith",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Diana Ross influenced by Bessie Smith. Source: wers.org / hollywoodreporter.com \u2014 Diana Ross influences",
+    "sources": [
+      "web-curated"
+    ]
   }
 ]
