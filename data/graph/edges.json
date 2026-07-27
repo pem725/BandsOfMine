@@ -124611,5 +124611,247 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "source": "stray-cats",
+    "target": "eddie-cochran",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Stray Cats influenced by Eddie Cochran. Source: encyclopedia.com / saturdayeveningpost.com \u2014 Stray Cats influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "stray-cats",
+    "target": "gene-vincent",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Stray Cats influenced by Gene Vincent. Source: encyclopedia.com / saturdayeveningpost.com \u2014 Stray Cats influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "stray-cats",
+    "target": "carl-perkins",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Stray Cats influenced by Carl Perkins. Source: encyclopedia.com / saturdayeveningpost.com \u2014 Stray Cats influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "stray-cats",
+    "target": "elvis-presley",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Stray Cats influenced by Elvis Presley. Source: encyclopedia.com / saturdayeveningpost.com \u2014 Stray Cats influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "stray-cats",
+    "target": "johnny-cash",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Stray Cats influenced by Johnny Cash. Source: encyclopedia.com / saturdayeveningpost.com \u2014 Stray Cats influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "stray-cats",
+    "target": "buddy-holly",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Stray Cats influenced by Buddy Holly. Source: encyclopedia.com / saturdayeveningpost.com \u2014 Stray Cats influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "stray-cats",
+    "target": "johnny-burnette",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Stray Cats influenced by Johnny Burnette. Source: encyclopedia.com / saturdayeveningpost.com \u2014 Stray Cats influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "damien-rice",
+    "target": "jeff-buckley",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Damien Rice influenced by Jeff Buckley. Source: encyclopedia.com / allmusic \u2014 Damien Rice influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "damien-rice",
+    "target": "nick-drake",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Damien Rice influenced by Nick Drake. Source: encyclopedia.com / allmusic \u2014 Damien Rice influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "damien-rice",
+    "target": "bob-dylan",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Damien Rice influenced by Bob Dylan. Source: encyclopedia.com / allmusic \u2014 Damien Rice influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "damien-rice",
+    "target": "van-morrison",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Damien Rice influenced by Van Morrison. Source: encyclopedia.com / allmusic \u2014 Damien Rice influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "blue-oyster-cult",
+    "target": "black-sabbath",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Blue Oyster Cult influenced by Black Sabbath. Source: tvtropes.org / wikipedia \u2014 Blue Oyster Cult influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "imagine-dragons",
+    "target": "arcade-fire",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Imagine Dragons influenced by Arcade Fire. Source: tvtropes.org / musewiki.org \u2014 Imagine Dragons (Dan Reynolds) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "imagine-dragons",
+    "target": "nirvana",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Imagine Dragons influenced by Nirvana. Source: tvtropes.org / musewiki.org \u2014 Imagine Dragons (Dan Reynolds) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "imagine-dragons",
+    "target": "muse",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Imagine Dragons influenced by Muse. Source: tvtropes.org / musewiki.org \u2014 Imagine Dragons (Dan Reynolds) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "imagine-dragons",
+    "target": "the-beatles",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Imagine Dragons influenced by The Beatles. Source: tvtropes.org / musewiki.org \u2014 Imagine Dragons (Dan Reynolds) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "imagine-dragons",
+    "target": "paul-simon",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Imagine Dragons influenced by Paul Simon. Source: tvtropes.org / musewiki.org \u2014 Imagine Dragons (Dan Reynolds) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "imagine-dragons",
+    "target": "coldplay",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Imagine Dragons influenced by Coldplay. Source: tvtropes.org / musewiki.org \u2014 Imagine Dragons (Dan Reynolds) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "imagine-dragons",
+    "target": "harry-nilsson",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Imagine Dragons influenced by Harry Nilsson. Source: tvtropes.org / musewiki.org \u2014 Imagine Dragons (Dan Reynolds) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "imagine-dragons",
+    "target": "u2",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Imagine Dragons influenced by U2. Source: tvtropes.org / musewiki.org \u2014 Imagine Dragons (Dan Reynolds) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "madredeus",
+    "target": "amalia-rodrigues",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Madredeus influenced by Am\u00e1lia Rodrigues. Source: wikipedia / portuguesemusic.info \u2014 Madredeus (fado / Am\u00e1lia Rodrigues)",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "andrea-bocelli",
+    "target": "franco-corelli",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Andrea Bocelli influenced by Franco Corelli. Source: britannica.com / italyonthisday.com \u2014 Andrea Bocelli (Franco Corelli)",
+    "sources": [
+      "web-curated"
+    ]
   }
 ]

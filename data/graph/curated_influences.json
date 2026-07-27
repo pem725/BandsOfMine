@@ -713,5 +713,35 @@
     "artist": "diana-ross",
     "influences": ["Billie Holiday", "Josephine Baker", "Ethel Waters", "Bessie Smith"],
     "source": "wers.org / hollywoodreporter.com — Diana Ross influences"
+  },
+  {
+    "artist": "stray-cats",
+    "influences": ["Eddie Cochran", "Gene Vincent", "Carl Perkins", "Elvis Presley", "Johnny Cash", "Buddy Holly", "Johnny Burnette"],
+    "source": "encyclopedia.com / saturdayeveningpost.com — Stray Cats influences"
+  },
+  {
+    "artist": "damien-rice",
+    "influences": ["Jeff Buckley", "Nick Drake", "Bob Dylan", "Van Morrison"],
+    "source": "encyclopedia.com / allmusic — Damien Rice influences"
+  },
+  {
+    "artist": "blue-oyster-cult",
+    "influences": ["Black Sabbath"],
+    "source": "tvtropes.org / wikipedia — Blue Oyster Cult influences"
+  },
+  {
+    "artist": "imagine-dragons",
+    "influences": ["Arcade Fire", "Nirvana", "Muse", "The Beatles", "Paul Simon", "Coldplay", "Harry Nilsson", "U2"],
+    "source": "tvtropes.org / musewiki.org — Imagine Dragons (Dan Reynolds) influences"
+  },
+  {
+    "artist": "madredeus",
+    "influences": ["Amália Rodrigues"],
+    "source": "wikipedia / portuguesemusic.info — Madredeus (fado / Amália Rodrigues)"
+  },
+  {
+    "artist": "andrea-bocelli",
+    "influences": ["Franco Corelli"],
+    "source": "britannica.com / italyonthisday.com — Andrea Bocelli (Franco Corelli)"
   }
 ]
