@@ -123764,5 +123764,236 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "source": "george-michael",
+    "target": "marvin-gaye",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "George Michael influenced by Marvin Gaye. Source: grokipedia / smoothradio.com \u2014 George Michael influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "george-michael",
+    "target": "stevie-wonder",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "George Michael influenced by Stevie Wonder. Source: grokipedia / smoothradio.com \u2014 George Michael influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "george-michael",
+    "target": "aretha-franklin",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "George Michael influenced by Aretha Franklin. Source: grokipedia / smoothradio.com \u2014 George Michael influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "george-michael",
+    "target": "elton-john",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "George Michael influenced by Elton John. Source: grokipedia / smoothradio.com \u2014 George Michael influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "george-michael",
+    "target": "queen",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "George Michael influenced by Queen. Source: grokipedia / smoothradio.com \u2014 George Michael influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "george-michael",
+    "target": "david-bowie",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "George Michael influenced by David Bowie. Source: grokipedia / smoothradio.com \u2014 George Michael influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-brian-setzer-orchestra",
+    "target": "eddie-cochran",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Brian Setzer Orchestra influenced by Eddie Cochran. Source: allmusic.com / saturdayeveningpost.com \u2014 Brian Setzer / Stray Cats influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-brian-setzer-orchestra",
+    "target": "gene-vincent",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Brian Setzer Orchestra influenced by Gene Vincent. Source: allmusic.com / saturdayeveningpost.com \u2014 Brian Setzer / Stray Cats influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-brian-setzer-orchestra",
+    "target": "carl-perkins",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Brian Setzer Orchestra influenced by Carl Perkins. Source: allmusic.com / saturdayeveningpost.com \u2014 Brian Setzer / Stray Cats influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-brian-setzer-orchestra",
+    "target": "elvis-presley",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Brian Setzer Orchestra influenced by Elvis Presley. Source: allmusic.com / saturdayeveningpost.com \u2014 Brian Setzer / Stray Cats influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "peter-frampton",
+    "target": "hank-marvin",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Peter Frampton influenced by Hank Marvin. Source: encyclopedia.com / wikipedia \u2014 Peter Frampton influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "peter-frampton",
+    "target": "the-beatles",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Peter Frampton influenced by The Beatles. Source: encyclopedia.com / wikipedia \u2014 Peter Frampton influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "peter-frampton",
+    "target": "the-ventures",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Peter Frampton influenced by The Ventures. Source: encyclopedia.com / wikipedia \u2014 Peter Frampton influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "cowboy-junkies",
+    "target": "the-velvet-underground",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Cowboy Junkies influenced by The Velvet Underground. Source: allmusic.com / newdirectionsinmusic.com \u2014 Cowboy Junkies influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "cowboy-junkies",
+    "target": "hank-williams",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Cowboy Junkies influenced by Hank Williams. Source: allmusic.com / newdirectionsinmusic.com \u2014 Cowboy Junkies influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "cowboy-junkies",
+    "target": "lightnin-hopkins",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Cowboy Junkies influenced by Lightnin' Hopkins. Source: allmusic.com / newdirectionsinmusic.com \u2014 Cowboy Junkies influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "cowboy-junkies",
+    "target": "patsy-cline",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Cowboy Junkies influenced by Patsy Cline. Source: allmusic.com / newdirectionsinmusic.com \u2014 Cowboy Junkies influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "cowboy-junkies",
+    "target": "john-coltrane",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Cowboy Junkies influenced by John Coltrane. Source: allmusic.com / newdirectionsinmusic.com \u2014 Cowboy Junkies influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "carole-king",
+    "target": "leiber-and-stoller",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Carole King influenced by Leiber and Stoller. Source: history.com / udiscovermusic.com \u2014 Carole King (Brill Building) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "carole-king",
+    "target": "cole-porter",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Carole King influenced by Cole Porter. Source: history.com / udiscovermusic.com \u2014 Carole King (Brill Building) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "carole-king",
+    "target": "irving-berlin",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Carole King influenced by Irving Berlin. Source: history.com / udiscovermusic.com \u2014 Carole King (Brill Building) influences",
+    "sources": [
+      "web-curated"
+    ]
   }
 ]

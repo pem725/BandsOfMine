@@ -628,5 +628,30 @@
     "artist": "melissa-etheridge",
     "influences": ["Bruce Springsteen", "Janis Joplin", "Bob Dylan"],
     "source": "encyclopedia.com / rollingstone.com — Melissa Etheridge influences"
+  },
+  {
+    "artist": "george-michael",
+    "influences": ["Marvin Gaye", "Stevie Wonder", "Aretha Franklin", "Elton John", "Queen", "David Bowie"],
+    "source": "grokipedia / smoothradio.com — George Michael influences"
+  },
+  {
+    "artist": "the-brian-setzer-orchestra",
+    "influences": ["Eddie Cochran", "Gene Vincent", "Carl Perkins", "Elvis Presley"],
+    "source": "allmusic.com / saturdayeveningpost.com — Brian Setzer / Stray Cats influences"
+  },
+  {
+    "artist": "peter-frampton",
+    "influences": ["Hank Marvin", "The Beatles", "The Ventures"],
+    "source": "encyclopedia.com / wikipedia — Peter Frampton influences"
+  },
+  {
+    "artist": "cowboy-junkies",
+    "influences": ["The Velvet Underground", "Hank Williams", "Lightnin' Hopkins", "Patsy Cline", "John Coltrane"],
+    "source": "allmusic.com / newdirectionsinmusic.com — Cowboy Junkies influences"
+  },
+  {
+    "artist": "carole-king",
+    "influences": ["Leiber and Stoller", "Cole Porter", "Irving Berlin"],
+    "source": "history.com / udiscovermusic.com — Carole King (Brill Building) influences"
   }
 ]
