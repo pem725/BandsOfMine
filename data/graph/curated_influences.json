@@ -743,5 +743,30 @@
     "artist": "andrea-bocelli",
     "influences": ["Franco Corelli"],
     "source": "britannica.com / italyonthisday.com — Andrea Bocelli (Franco Corelli)"
+  },
+  {
+    "artist": "the-new-basement-tapes",
+    "influences": ["Bob Dylan", "The Band"],
+    "source": "wikipedia / rollingstone.com — New Basement Tapes (Lost on the River)"
+  },
+  {
+    "artist": "one-republic",
+    "influences": ["U2", "The Beatles", "Peter Gabriel", "Muse", "Fiona Apple"],
+    "source": "forbes.com / nme.com — OneRepublic (Ryan Tedder) influences"
+  },
+  {
+    "artist": "chief-keef",
+    "influences": ["Gucci Mane", "Lil Wayne", "50 Cent"],
+    "source": "complex.com / wikipedia — Chief Keef influences"
+  },
+  {
+    "artist": "rich-homie-quan",
+    "influences": ["Young Jeezy", "Gucci Mane", "T.I.", "Lil Wayne", "OutKast", "Goodie Mob"],
+    "source": "complex.com / wikipedia — Rich Homie Quan influences"
+  },
+  {
+    "artist": "blues-traveler",
+    "influences": ["Paul Butterfield", "Elmore James", "Muddy Waters", "John Lee Hooker", "Jimi Hendrix"],
+    "source": "earofnewt.com / learntheharmonica.com — Blues Traveler (John Popper) influences"
   }
 ]

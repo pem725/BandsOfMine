@@ -124853,5 +124853,236 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "source": "the-new-basement-tapes",
+    "target": "bob-dylan",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The New Basement Tapes influenced by Bob Dylan. Source: wikipedia / rollingstone.com \u2014 New Basement Tapes (Lost on the River)",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-new-basement-tapes",
+    "target": "the-band",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The New Basement Tapes influenced by The Band. Source: wikipedia / rollingstone.com \u2014 New Basement Tapes (Lost on the River)",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "one-republic",
+    "target": "u2",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "One Republic influenced by U2. Source: forbes.com / nme.com \u2014 OneRepublic (Ryan Tedder) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "one-republic",
+    "target": "the-beatles",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "One Republic influenced by The Beatles. Source: forbes.com / nme.com \u2014 OneRepublic (Ryan Tedder) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "one-republic",
+    "target": "peter-gabriel",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "One Republic influenced by Peter Gabriel. Source: forbes.com / nme.com \u2014 OneRepublic (Ryan Tedder) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "one-republic",
+    "target": "muse",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "One Republic influenced by Muse. Source: forbes.com / nme.com \u2014 OneRepublic (Ryan Tedder) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "one-republic",
+    "target": "fiona-apple",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "One Republic influenced by Fiona Apple. Source: forbes.com / nme.com \u2014 OneRepublic (Ryan Tedder) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "chief-keef",
+    "target": "gucci-mane",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Chief Keef influenced by Gucci Mane. Source: complex.com / wikipedia \u2014 Chief Keef influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "chief-keef",
+    "target": "lil-wayne",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Chief Keef influenced by Lil Wayne. Source: complex.com / wikipedia \u2014 Chief Keef influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "chief-keef",
+    "target": "50-cent",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Chief Keef influenced by 50 Cent. Source: complex.com / wikipedia \u2014 Chief Keef influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "rich-homie-quan",
+    "target": "young-jeezy",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Rich Homie Quan influenced by Young Jeezy. Source: complex.com / wikipedia \u2014 Rich Homie Quan influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "rich-homie-quan",
+    "target": "gucci-mane",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Rich Homie Quan influenced by Gucci Mane. Source: complex.com / wikipedia \u2014 Rich Homie Quan influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "rich-homie-quan",
+    "target": "t-i",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Rich Homie Quan influenced by T.I.. Source: complex.com / wikipedia \u2014 Rich Homie Quan influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "rich-homie-quan",
+    "target": "lil-wayne",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Rich Homie Quan influenced by Lil Wayne. Source: complex.com / wikipedia \u2014 Rich Homie Quan influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "rich-homie-quan",
+    "target": "outkast",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Rich Homie Quan influenced by OutKast. Source: complex.com / wikipedia \u2014 Rich Homie Quan influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "rich-homie-quan",
+    "target": "goodie-mob",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Rich Homie Quan influenced by Goodie Mob. Source: complex.com / wikipedia \u2014 Rich Homie Quan influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "blues-traveler",
+    "target": "paul-butterfield",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Blues Traveler influenced by Paul Butterfield. Source: earofnewt.com / learntheharmonica.com \u2014 Blues Traveler (John Popper) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "blues-traveler",
+    "target": "elmore-james",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Blues Traveler influenced by Elmore James. Source: earofnewt.com / learntheharmonica.com \u2014 Blues Traveler (John Popper) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "blues-traveler",
+    "target": "muddy-waters",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Blues Traveler influenced by Muddy Waters. Source: earofnewt.com / learntheharmonica.com \u2014 Blues Traveler (John Popper) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "blues-traveler",
+    "target": "john-lee-hooker",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Blues Traveler influenced by John Lee Hooker. Source: earofnewt.com / learntheharmonica.com \u2014 Blues Traveler (John Popper) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "blues-traveler",
+    "target": "jimi-hendrix",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Blues Traveler influenced by Jimi Hendrix. Source: earofnewt.com / learntheharmonica.com \u2014 Blues Traveler (John Popper) influences",
+    "sources": [
+      "web-curated"
+    ]
   }
 ]
