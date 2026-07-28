@@ -124402,5 +124402,236 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "source": "the-animals",
+    "target": "john-lee-hooker",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Animals influenced by John Lee Hooker. Source: tidal.com / earlyblues.org \u2014 The Animals (Eric Burdon) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-animals",
+    "target": "ray-charles",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Animals influenced by Ray Charles. Source: tidal.com / earlyblues.org \u2014 The Animals (Eric Burdon) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-animals",
+    "target": "fats-domino",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Animals influenced by Fats Domino. Source: tidal.com / earlyblues.org \u2014 The Animals (Eric Burdon) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-animals",
+    "target": "chuck-berry",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Animals influenced by Chuck Berry. Source: tidal.com / earlyblues.org \u2014 The Animals (Eric Burdon) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-animals",
+    "target": "big-joe-turner",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Animals influenced by Big Joe Turner. Source: tidal.com / earlyblues.org \u2014 The Animals (Eric Burdon) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "benny-goodman",
+    "target": "fletcher-henderson",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Benny Goodman influenced by Fletcher Henderson. Source: encyclopedia.com / syncopatedtimes.com \u2014 Benny Goodman influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "benny-goodman",
+    "target": "johnny-dodds",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Benny Goodman influenced by Johnny Dodds. Source: encyclopedia.com / syncopatedtimes.com \u2014 Benny Goodman influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "benny-goodman",
+    "target": "jimmy-noone",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Benny Goodman influenced by Jimmy Noone. Source: encyclopedia.com / syncopatedtimes.com \u2014 Benny Goodman influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "benny-goodman",
+    "target": "leon-roppolo",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Benny Goodman influenced by Leon Roppolo. Source: encyclopedia.com / syncopatedtimes.com \u2014 Benny Goodman influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "bruce-hornsby",
+    "target": "keith-jarrett",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Bruce Hornsby influenced by Keith Jarrett. Source: allaboutjazz.com / encyclopedia.com \u2014 Bruce Hornsby influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "bruce-hornsby",
+    "target": "bill-evans",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Bruce Hornsby influenced by Bill Evans. Source: allaboutjazz.com / encyclopedia.com \u2014 Bruce Hornsby influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "bruce-hornsby",
+    "target": "mccoy-tyner",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Bruce Hornsby influenced by McCoy Tyner. Source: allaboutjazz.com / encyclopedia.com \u2014 Bruce Hornsby influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "bruce-hornsby",
+    "target": "herbie-hancock",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Bruce Hornsby influenced by Herbie Hancock. Source: allaboutjazz.com / encyclopedia.com \u2014 Bruce Hornsby influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "bruce-hornsby",
+    "target": "bud-powell",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Bruce Hornsby influenced by Bud Powell. Source: allaboutjazz.com / encyclopedia.com \u2014 Bruce Hornsby influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "bruce-hornsby",
+    "target": "leon-russell",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Bruce Hornsby influenced by Leon Russell. Source: allaboutjazz.com / encyclopedia.com \u2014 Bruce Hornsby influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "bruce-hornsby",
+    "target": "bill-monroe",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Bruce Hornsby influenced by Bill Monroe. Source: allaboutjazz.com / encyclopedia.com \u2014 Bruce Hornsby influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "pat-benatar",
+    "target": "liza-minnelli",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Pat Benatar influenced by Liza Minnelli. Source: americansongwriter.com / culturesonar.com \u2014 Pat Benatar (Liza Minnelli)",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "israel-kamakawiwo-ole",
+    "target": "gabby-pahinui",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Israel Kamakawiwo'Ole influenced by Gabby Pahinui. Source: vintagevinylnews.com / hawaii-aloha.com \u2014 Israel Kamakawiwo'ole influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "israel-kamakawiwo-ole",
+    "target": "eddie-kamae",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Israel Kamakawiwo'Ole influenced by Eddie Kamae. Source: vintagevinylnews.com / hawaii-aloha.com \u2014 Israel Kamakawiwo'ole influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-monkeys",
+    "target": "the-beatles",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Monkeys influenced by The Beatles. Source: beatles.fandom.com / udel.edu \u2014 The Monkees influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-monkeys",
+    "target": "the-beach-boys",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Monkeys influenced by The Beach Boys. Source: beatles.fandom.com / udel.edu \u2014 The Monkees influences",
+    "sources": [
+      "web-curated"
+    ]
   }
 ]

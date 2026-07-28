@@ -798,5 +798,35 @@
     "artist": "steppenwolf",
     "influences": ["Chuck Berry", "Little Richard", "Elvis Presley"],
     "source": "wikipedia / goldminemag.com — Steppenwolf (John Kay) influences"
+  },
+  {
+    "artist": "the-animals",
+    "influences": ["John Lee Hooker", "Ray Charles", "Fats Domino", "Chuck Berry", "Big Joe Turner"],
+    "source": "tidal.com / earlyblues.org — The Animals (Eric Burdon) influences"
+  },
+  {
+    "artist": "benny-goodman",
+    "influences": ["Fletcher Henderson", "Johnny Dodds", "Jimmy Noone", "Leon Roppolo"],
+    "source": "encyclopedia.com / syncopatedtimes.com — Benny Goodman influences"
+  },
+  {
+    "artist": "bruce-hornsby",
+    "influences": ["Keith Jarrett", "Bill Evans", "McCoy Tyner", "Herbie Hancock", "Bud Powell", "Leon Russell", "Bill Monroe"],
+    "source": "allaboutjazz.com / encyclopedia.com — Bruce Hornsby influences"
+  },
+  {
+    "artist": "pat-benatar",
+    "influences": ["Liza Minnelli"],
+    "source": "americansongwriter.com / culturesonar.com — Pat Benatar (Liza Minnelli)"
+  },
+  {
+    "artist": "israel-kamakawiwo-ole",
+    "influences": ["Gabby Pahinui", "Eddie Kamae"],
+    "source": "vintagevinylnews.com / hawaii-aloha.com — Israel Kamakawiwo'ole influences"
+  },
+  {
+    "artist": "the-monkeys",
+    "influences": ["The Beatles", "The Beach Boys"],
+    "source": "beatles.fandom.com / udel.edu — The Monkees influences"
   }
 ]
