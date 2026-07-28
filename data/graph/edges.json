@@ -124083,5 +124083,324 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "source": "five-for-fighting",
+    "target": "billy-joel",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Five For Fighting influenced by Billy Joel. Source: grokipedia / musicscenemedia.com \u2014 Five for Fighting (John Ondrasik) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "five-for-fighting",
+    "target": "elton-john",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Five For Fighting influenced by Elton John. Source: grokipedia / musicscenemedia.com \u2014 Five for Fighting (John Ondrasik) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "five-for-fighting",
+    "target": "stevie-wonder",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Five For Fighting influenced by Stevie Wonder. Source: grokipedia / musicscenemedia.com \u2014 Five for Fighting (John Ondrasik) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "five-for-fighting",
+    "target": "earth-wind-fire",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Five For Fighting influenced by Earth, Wind & Fire. Source: grokipedia / musicscenemedia.com \u2014 Five for Fighting (John Ondrasik) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "bryan-ferry",
+    "target": "billie-holiday",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Bryan Ferry influenced by Billie Holiday. Source: faroutmagazine.co.uk / bryanferry.com \u2014 Bryan Ferry influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "bryan-ferry",
+    "target": "charlie-parker",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Bryan Ferry influenced by Charlie Parker. Source: faroutmagazine.co.uk / bryanferry.com \u2014 Bryan Ferry influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "bryan-ferry",
+    "target": "otis-redding",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Bryan Ferry influenced by Otis Redding. Source: faroutmagazine.co.uk / bryanferry.com \u2014 Bryan Ferry influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "bryan-ferry",
+    "target": "lead-belly",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Bryan Ferry influenced by Lead Belly. Source: faroutmagazine.co.uk / bryanferry.com \u2014 Bryan Ferry influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "bryan-ferry",
+    "target": "big-bill-broonzy",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Bryan Ferry influenced by Big Bill Broonzy. Source: faroutmagazine.co.uk / bryanferry.com \u2014 Bryan Ferry influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "bryan-ferry",
+    "target": "frank-sinatra",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Bryan Ferry influenced by Frank Sinatra. Source: faroutmagazine.co.uk / bryanferry.com \u2014 Bryan Ferry influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "natalie-cole",
+    "target": "nat-king-cole",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Natalie Cole influenced by Nat King Cole. Source: encyclopedia.com / kelownadailycourier.ca \u2014 Natalie Cole influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "natalie-cole",
+    "target": "aretha-franklin",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Natalie Cole influenced by Aretha Franklin. Source: encyclopedia.com / kelownadailycourier.ca \u2014 Natalie Cole influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "natalie-cole",
+    "target": "ella-fitzgerald",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Natalie Cole influenced by Ella Fitzgerald. Source: encyclopedia.com / kelownadailycourier.ca \u2014 Natalie Cole influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "natalie-cole",
+    "target": "carole-king",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Natalie Cole influenced by Carole King. Source: encyclopedia.com / kelownadailycourier.ca \u2014 Natalie Cole influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "natalie-cole",
+    "target": "janis-joplin",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Natalie Cole influenced by Janis Joplin. Source: encyclopedia.com / kelownadailycourier.ca \u2014 Natalie Cole influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "eva-cassidy",
+    "target": "ella-fitzgerald",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Eva Cassidy influenced by Ella Fitzgerald. Source: blixstreet.com / encyclopedia.com \u2014 Eva Cassidy influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "eva-cassidy",
+    "target": "louis-armstrong",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Eva Cassidy influenced by Louis Armstrong. Source: blixstreet.com / encyclopedia.com \u2014 Eva Cassidy influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "eva-cassidy",
+    "target": "ray-charles",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Eva Cassidy influenced by Ray Charles. Source: blixstreet.com / encyclopedia.com \u2014 Eva Cassidy influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "eva-cassidy",
+    "target": "stevie-wonder",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Eva Cassidy influenced by Stevie Wonder. Source: blixstreet.com / encyclopedia.com \u2014 Eva Cassidy influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "eva-cassidy",
+    "target": "joni-mitchell",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Eva Cassidy influenced by Joni Mitchell. Source: blixstreet.com / encyclopedia.com \u2014 Eva Cassidy influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "eva-cassidy",
+    "target": "bonnie-raitt",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Eva Cassidy influenced by Bonnie Raitt. Source: blixstreet.com / encyclopedia.com \u2014 Eva Cassidy influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "eva-cassidy",
+    "target": "sarah-vaughan",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Eva Cassidy influenced by Sarah Vaughan. Source: blixstreet.com / encyclopedia.com \u2014 Eva Cassidy influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "js-bach",
+    "target": "dieterich-buxtehude",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Js Bach influenced by Dieterich Buxtehude. Source: britannica.com / thediapason.com \u2014 J.S. Bach influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "js-bach",
+    "target": "antonio-vivaldi",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Js Bach influenced by Antonio Vivaldi. Source: britannica.com / thediapason.com \u2014 J.S. Bach influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "js-bach",
+    "target": "johann-pachelbel",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Js Bach influenced by Johann Pachelbel. Source: britannica.com / thediapason.com \u2014 J.S. Bach influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "js-bach",
+    "target": "arcangelo-corelli",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Js Bach influenced by Arcangelo Corelli. Source: britannica.com / thediapason.com \u2014 J.S. Bach influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "steppenwolf",
+    "target": "chuck-berry",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Steppenwolf influenced by Chuck Berry. Source: wikipedia / goldminemag.com \u2014 Steppenwolf (John Kay) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "steppenwolf",
+    "target": "little-richard",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Steppenwolf influenced by Little Richard. Source: wikipedia / goldminemag.com \u2014 Steppenwolf (John Kay) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "steppenwolf",
+    "target": "elvis-presley",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Steppenwolf influenced by Elvis Presley. Source: wikipedia / goldminemag.com \u2014 Steppenwolf (John Kay) influences",
+    "sources": [
+      "web-curated"
+    ]
   }
 ]

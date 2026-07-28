@@ -768,5 +768,35 @@
     "artist": "blues-traveler",
     "influences": ["Paul Butterfield", "Elmore James", "Muddy Waters", "John Lee Hooker", "Jimi Hendrix"],
     "source": "earofnewt.com / learntheharmonica.com — Blues Traveler (John Popper) influences"
+  },
+  {
+    "artist": "five-for-fighting",
+    "influences": ["Billy Joel", "Elton John", "Stevie Wonder", "Earth, Wind & Fire"],
+    "source": "grokipedia / musicscenemedia.com — Five for Fighting (John Ondrasik) influences"
+  },
+  {
+    "artist": "bryan-ferry",
+    "influences": ["Billie Holiday", "Charlie Parker", "Otis Redding", "Lead Belly", "Big Bill Broonzy", "Frank Sinatra"],
+    "source": "faroutmagazine.co.uk / bryanferry.com — Bryan Ferry influences"
+  },
+  {
+    "artist": "natalie-cole",
+    "influences": ["Nat King Cole", "Aretha Franklin", "Ella Fitzgerald", "Carole King", "Janis Joplin"],
+    "source": "encyclopedia.com / kelownadailycourier.ca — Natalie Cole influences"
+  },
+  {
+    "artist": "eva-cassidy",
+    "influences": ["Ella Fitzgerald", "Louis Armstrong", "Ray Charles", "Stevie Wonder", "Joni Mitchell", "Bonnie Raitt", "Sarah Vaughan"],
+    "source": "blixstreet.com / encyclopedia.com — Eva Cassidy influences"
+  },
+  {
+    "artist": "js-bach",
+    "influences": ["Dieterich Buxtehude", "Antonio Vivaldi", "Johann Pachelbel", "Arcangelo Corelli"],
+    "source": "britannica.com / thediapason.com — J.S. Bach influences"
+  },
+  {
+    "artist": "steppenwolf",
+    "influences": ["Chuck Berry", "Little Richard", "Elvis Presley"],
+    "source": "wikipedia / goldminemag.com — Steppenwolf (John Kay) influences"
   }
 ]
