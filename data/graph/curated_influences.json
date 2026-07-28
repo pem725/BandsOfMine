@@ -858,5 +858,35 @@
     "artist": "the-cars",
     "influences": ["The Velvet Underground", "Roxy Music", "The Modern Lovers", "David Bowie", "Brian Eno", "Lou Reed"],
     "source": "allmusic.com / faroutmagazine.co.uk — The Cars (Ric Ocasek) influences"
+  },
+  {
+    "artist": "tom-petty",
+    "influences": ["Elvis Presley", "The Beatles", "The Rolling Stones", "Bob Dylan", "The Byrds"],
+    "source": "faroutmagazine.co.uk / bestclassicbands.com — Tom Petty influences"
+  },
+  {
+    "artist": "the-waterboys",
+    "influences": ["Bob Dylan", "The Clash", "Patti Smith", "David Bowie", "Van Morrison"],
+    "source": "allmusic.com / poets.org — The Waterboys (Mike Scott) influences"
+  },
+  {
+    "artist": "squeeze",
+    "influences": ["The Kinks", "The Beatles", "Bob Dylan", "Jimi Hendrix", "David Bowie", "The Velvet Underground"],
+    "source": "loudersound.com / kentamplinvocalacademy.com — Squeeze (Difford/Tilbrook) influences"
+  },
+  {
+    "artist": "ladysmith-black-mambazo",
+    "influences": ["Solomon Linda"],
+    "source": "scribd.com / microgenremusic.com — Ladysmith Black Mambazo (isicathamiya)"
+  },
+  {
+    "artist": "joan-osborne",
+    "influences": ["Etta James", "Ray Charles", "Bessie Smith", "Big Mama Thornton", "Aretha Franklin", "Otis Redding", "Mavis Staples"],
+    "source": "encyclopedia.com / rollingstone.com — Joan Osborne influences"
+  },
+  {
+    "artist": "dinah-washington",
+    "influences": ["Bessie Smith", "Billie Holiday", "Lionel Hampton"],
+    "source": "allmusic.com / grokipedia — Dinah Washington influences"
   }
 ]

@@ -124919,5 +124919,302 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "source": "tom-petty",
+    "target": "elvis-presley",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Tom Petty influenced by Elvis Presley. Source: faroutmagazine.co.uk / bestclassicbands.com \u2014 Tom Petty influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "tom-petty",
+    "target": "the-beatles",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Tom Petty influenced by The Beatles. Source: faroutmagazine.co.uk / bestclassicbands.com \u2014 Tom Petty influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "tom-petty",
+    "target": "the-rolling-stones",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Tom Petty influenced by The Rolling Stones. Source: faroutmagazine.co.uk / bestclassicbands.com \u2014 Tom Petty influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "tom-petty",
+    "target": "bob-dylan",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Tom Petty influenced by Bob Dylan. Source: faroutmagazine.co.uk / bestclassicbands.com \u2014 Tom Petty influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "tom-petty",
+    "target": "the-byrds",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Tom Petty influenced by The Byrds. Source: faroutmagazine.co.uk / bestclassicbands.com \u2014 Tom Petty influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-waterboys",
+    "target": "bob-dylan",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Waterboys influenced by Bob Dylan. Source: allmusic.com / poets.org \u2014 The Waterboys (Mike Scott) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-waterboys",
+    "target": "the-clash",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Waterboys influenced by The Clash. Source: allmusic.com / poets.org \u2014 The Waterboys (Mike Scott) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-waterboys",
+    "target": "patti-smith",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Waterboys influenced by Patti Smith. Source: allmusic.com / poets.org \u2014 The Waterboys (Mike Scott) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-waterboys",
+    "target": "david-bowie",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Waterboys influenced by David Bowie. Source: allmusic.com / poets.org \u2014 The Waterboys (Mike Scott) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-waterboys",
+    "target": "van-morrison",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Waterboys influenced by Van Morrison. Source: allmusic.com / poets.org \u2014 The Waterboys (Mike Scott) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "squeeze",
+    "target": "the-kinks",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Squeeze influenced by The Kinks. Source: loudersound.com / kentamplinvocalacademy.com \u2014 Squeeze (Difford/Tilbrook) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "squeeze",
+    "target": "the-beatles",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Squeeze influenced by The Beatles. Source: loudersound.com / kentamplinvocalacademy.com \u2014 Squeeze (Difford/Tilbrook) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "squeeze",
+    "target": "bob-dylan",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Squeeze influenced by Bob Dylan. Source: loudersound.com / kentamplinvocalacademy.com \u2014 Squeeze (Difford/Tilbrook) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "squeeze",
+    "target": "jimi-hendrix",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Squeeze influenced by Jimi Hendrix. Source: loudersound.com / kentamplinvocalacademy.com \u2014 Squeeze (Difford/Tilbrook) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "squeeze",
+    "target": "david-bowie",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Squeeze influenced by David Bowie. Source: loudersound.com / kentamplinvocalacademy.com \u2014 Squeeze (Difford/Tilbrook) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "squeeze",
+    "target": "the-velvet-underground",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Squeeze influenced by The Velvet Underground. Source: loudersound.com / kentamplinvocalacademy.com \u2014 Squeeze (Difford/Tilbrook) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "ladysmith-black-mambazo",
+    "target": "solomon-linda",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Ladysmith Black Mambazo influenced by Solomon Linda. Source: scribd.com / microgenremusic.com \u2014 Ladysmith Black Mambazo (isicathamiya)",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "joan-osborne",
+    "target": "etta-james",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Joan Osborne influenced by Etta James. Source: encyclopedia.com / rollingstone.com \u2014 Joan Osborne influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "joan-osborne",
+    "target": "ray-charles",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Joan Osborne influenced by Ray Charles. Source: encyclopedia.com / rollingstone.com \u2014 Joan Osborne influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "joan-osborne",
+    "target": "bessie-smith",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Joan Osborne influenced by Bessie Smith. Source: encyclopedia.com / rollingstone.com \u2014 Joan Osborne influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "joan-osborne",
+    "target": "big-mama-thornton",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Joan Osborne influenced by Big Mama Thornton. Source: encyclopedia.com / rollingstone.com \u2014 Joan Osborne influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "joan-osborne",
+    "target": "aretha-franklin",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Joan Osborne influenced by Aretha Franklin. Source: encyclopedia.com / rollingstone.com \u2014 Joan Osborne influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "joan-osborne",
+    "target": "otis-redding",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Joan Osborne influenced by Otis Redding. Source: encyclopedia.com / rollingstone.com \u2014 Joan Osborne influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "joan-osborne",
+    "target": "mavis-staples",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Joan Osborne influenced by Mavis Staples. Source: encyclopedia.com / rollingstone.com \u2014 Joan Osborne influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "dinah-washington",
+    "target": "bessie-smith",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Dinah Washington influenced by Bessie Smith. Source: allmusic.com / grokipedia \u2014 Dinah Washington influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "dinah-washington",
+    "target": "billie-holiday",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Dinah Washington influenced by Billie Holiday. Source: allmusic.com / grokipedia \u2014 Dinah Washington influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "dinah-washington",
+    "target": "lionel-hampton",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Dinah Washington influenced by Lionel Hampton. Source: allmusic.com / grokipedia \u2014 Dinah Washington influences",
+    "sources": [
+      "web-curated"
+    ]
   }
 ]
