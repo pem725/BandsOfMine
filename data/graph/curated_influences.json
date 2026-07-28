@@ -828,5 +828,35 @@
     "artist": "the-monkeys",
     "influences": ["The Beatles", "The Beach Boys"],
     "source": "beatles.fandom.com / udel.edu — The Monkees influences"
+  },
+  {
+    "artist": "duke-ellington",
+    "influences": ["James P. Johnson", "Luckey Roberts", "Will Marion Cook", "Fats Waller", "Sidney Bechet"],
+    "source": "mosaicrecords.com / jazzinfo.org — Duke Ellington influences"
+  },
+  {
+    "artist": "derek-and-the-dominos",
+    "influences": ["Robert Johnson", "Elmore James", "Big Bill Broonzy"],
+    "source": "guitarplayer.com / britannica.com — Derek and the Dominos influences"
+  },
+  {
+    "artist": "the-smiths",
+    "influences": ["New York Dolls", "Patti Smith", "The Cramps", "T. Rex", "Sandie Shaw", "Marianne Faithfull", "Dusty Springfield"],
+    "source": "nme.com / stevepafford.com — The Smiths influences"
+  },
+  {
+    "artist": "warren-zevon",
+    "influences": ["Igor Stravinsky", "Bob Dylan", "Joni Mitchell"],
+    "source": "grokipedia / theringer.com — Warren Zevon influences"
+  },
+  {
+    "artist": "michael-hedges",
+    "influences": ["Leo Kottke", "John Fahey"],
+    "source": "michaelhedges.com / acousticguitar.com — Michael Hedges influences"
+  },
+  {
+    "artist": "the-cars",
+    "influences": ["The Velvet Underground", "Roxy Music", "The Modern Lovers", "David Bowie", "Brian Eno", "Lou Reed"],
+    "source": "allmusic.com / faroutmagazine.co.uk — The Cars (Ric Ocasek) influences"
   }
 ]

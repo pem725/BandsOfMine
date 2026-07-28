@@ -124633,5 +124633,291 @@
     "sources": [
       "web-curated"
     ]
+  },
+  {
+    "source": "duke-ellington",
+    "target": "james-p-johnson",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Duke Ellington influenced by James P. Johnson. Source: mosaicrecords.com / jazzinfo.org \u2014 Duke Ellington influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "duke-ellington",
+    "target": "luckey-roberts",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Duke Ellington influenced by Luckey Roberts. Source: mosaicrecords.com / jazzinfo.org \u2014 Duke Ellington influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "duke-ellington",
+    "target": "will-marion-cook",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Duke Ellington influenced by Will Marion Cook. Source: mosaicrecords.com / jazzinfo.org \u2014 Duke Ellington influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "duke-ellington",
+    "target": "fats-waller",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Duke Ellington influenced by Fats Waller. Source: mosaicrecords.com / jazzinfo.org \u2014 Duke Ellington influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "duke-ellington",
+    "target": "sidney-bechet",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Duke Ellington influenced by Sidney Bechet. Source: mosaicrecords.com / jazzinfo.org \u2014 Duke Ellington influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "derek-and-the-dominos",
+    "target": "robert-johnson",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Derek And The Dominos influenced by Robert Johnson. Source: guitarplayer.com / britannica.com \u2014 Derek and the Dominos influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "derek-and-the-dominos",
+    "target": "elmore-james",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Derek And The Dominos influenced by Elmore James. Source: guitarplayer.com / britannica.com \u2014 Derek and the Dominos influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "derek-and-the-dominos",
+    "target": "big-bill-broonzy",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Derek And The Dominos influenced by Big Bill Broonzy. Source: guitarplayer.com / britannica.com \u2014 Derek and the Dominos influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-smiths",
+    "target": "new-york-dolls",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Smiths influenced by New York Dolls. Source: nme.com / stevepafford.com \u2014 The Smiths influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-smiths",
+    "target": "patti-smith",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Smiths influenced by Patti Smith. Source: nme.com / stevepafford.com \u2014 The Smiths influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-smiths",
+    "target": "the-cramps",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Smiths influenced by The Cramps. Source: nme.com / stevepafford.com \u2014 The Smiths influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-smiths",
+    "target": "t-rex",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Smiths influenced by T. Rex. Source: nme.com / stevepafford.com \u2014 The Smiths influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-smiths",
+    "target": "sandie-shaw",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Smiths influenced by Sandie Shaw. Source: nme.com / stevepafford.com \u2014 The Smiths influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-smiths",
+    "target": "marianne-faithfull",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Smiths influenced by Marianne Faithfull. Source: nme.com / stevepafford.com \u2014 The Smiths influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-smiths",
+    "target": "dusty-springfield",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Smiths influenced by Dusty Springfield. Source: nme.com / stevepafford.com \u2014 The Smiths influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "warren-zevon",
+    "target": "igor-stravinsky",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Warren Zevon influenced by Igor Stravinsky. Source: grokipedia / theringer.com \u2014 Warren Zevon influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "warren-zevon",
+    "target": "bob-dylan",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Warren Zevon influenced by Bob Dylan. Source: grokipedia / theringer.com \u2014 Warren Zevon influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "warren-zevon",
+    "target": "joni-mitchell",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Warren Zevon influenced by Joni Mitchell. Source: grokipedia / theringer.com \u2014 Warren Zevon influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "michael-hedges",
+    "target": "leo-kottke",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Michael Hedges influenced by Leo Kottke. Source: michaelhedges.com / acousticguitar.com \u2014 Michael Hedges influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "michael-hedges",
+    "target": "john-fahey",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "Michael Hedges influenced by John Fahey. Source: michaelhedges.com / acousticguitar.com \u2014 Michael Hedges influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-cars",
+    "target": "the-velvet-underground",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Cars influenced by The Velvet Underground. Source: allmusic.com / faroutmagazine.co.uk \u2014 The Cars (Ric Ocasek) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-cars",
+    "target": "roxy-music",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Cars influenced by Roxy Music. Source: allmusic.com / faroutmagazine.co.uk \u2014 The Cars (Ric Ocasek) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-cars",
+    "target": "the-modern-lovers",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Cars influenced by The Modern Lovers. Source: allmusic.com / faroutmagazine.co.uk \u2014 The Cars (Ric Ocasek) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-cars",
+    "target": "david-bowie",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Cars influenced by David Bowie. Source: allmusic.com / faroutmagazine.co.uk \u2014 The Cars (Ric Ocasek) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-cars",
+    "target": "brian-eno",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Cars influenced by Brian Eno. Source: allmusic.com / faroutmagazine.co.uk \u2014 The Cars (Ric Ocasek) influences",
+    "sources": [
+      "web-curated"
+    ]
+  },
+  {
+    "source": "the-cars",
+    "target": "lou-reed",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.65,
+    "note": "The Cars influenced by Lou Reed. Source: allmusic.com / faroutmagazine.co.uk \u2014 The Cars (Ric Ocasek) influences",
+    "sources": [
+      "web-curated"
+    ]
   }
 ]
