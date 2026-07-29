@@ -110767,34 +110767,36 @@
     "id": "chet-baker",
     "name": "Chet Baker",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1929,
+    "died": 1988,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "1ba1d493-7114-45e2-b163-a36d49a0c065",
     "spotify_id": null,
     "seed": true,
     "play_weight": 0.469,
     "sources": [
-      "spotify-export"
+      "spotify-export",
+      "musicbrainz"
     ]
   },
   {
     "id": "major-lazer",
     "name": "Major Lazer",
-    "kind": "person",
-    "born": null,
+    "kind": "band",
+    "born": 2008,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "75be165a-ad83-4d12-bd28-f589a15c479f",
     "spotify_id": null,
     "seed": true,
     "play_weight": 0.449,
     "sources": [
-      "spotify-export"
+      "spotify-export",
+      "musicbrainz"
     ]
   },
   {
@@ -110817,35 +110819,37 @@
   {
     "id": "michael-franti-spearhead",
     "name": "Michael Franti & Spearhead",
-    "kind": "person",
-    "born": null,
+    "kind": "band",
+    "born": 1994,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "e23eac42-f904-47da-8599-823ff431bea4",
     "spotify_id": null,
     "seed": true,
     "play_weight": 0.44,
     "sources": [
-      "spotify-export"
+      "spotify-export",
+      "musicbrainz"
     ]
   },
   {
     "id": "cocomelon",
     "name": "CoComelon",
     "kind": "person",
-    "born": null,
+    "born": 2006,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "2f5288c5-f360-408e-a76b-e7e43b85320c",
     "spotify_id": null,
     "seed": true,
     "play_weight": 0.437,
     "sources": [
-      "spotify-export"
+      "spotify-export",
+      "musicbrainz"
     ]
   },
   {
@@ -111155,17 +111159,18 @@
   {
     "id": "the-grapes-of-wrath",
     "name": "The Grapes of Wrath",
-    "kind": "person",
-    "born": null,
-    "died": null,
+    "kind": "band",
+    "born": 1983,
+    "died": 1992,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "7ca7e56a-f73a-4ff1-ba62-da0ead496a3f",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
@@ -112355,17 +112360,18 @@
   {
     "id": "england",
     "name": "England",
-    "kind": "person",
-    "born": null,
-    "died": null,
+    "kind": "band",
+    "born": 1975,
+    "died": 2006,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "6f83b722-e56e-45cb-901f-a891f92a14d6",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
@@ -112377,27 +112383,29 @@
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "a1c5bd94-ebee-4b53-9de5-37bddc3ecd21",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "france",
     "name": "France",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1947,
+    "died": 2018,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "385966f0-b912-4755-bad6-4780ebf3f4cd",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
@@ -112409,11 +112417,12 @@
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "6771dc87-f3a5-4822-aa8a-33a1bce1d9c1",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
@@ -113065,11 +113074,12 @@
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "0e1e9df1-0a58-44c0-bbb9-37dd5758c71f",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
@@ -113908,16 +113918,17 @@
     "id": "mariangela-melato",
     "name": "Mariangela Melato",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1941,
+    "died": 2013,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "08451366-6ec6-4349-b691-068b19fa749a",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
@@ -114196,16 +114207,17 @@
     "id": "jim-donoghue",
     "name": "Jim Donoghue",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1910,
+    "died": 1990,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "bcd166e6-82c9-4966-aa87-99f77196c2ba",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
@@ -114649,11 +114661,12 @@
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "47480ac3-0fcd-4866-b134-814543b6e3b7",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
@@ -115609,11 +115622,12 @@
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "cffcf601-435f-4abd-adab-19a124171869",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
@@ -116036,192 +116050,204 @@
     "id": "talking-heads",
     "name": "Talking Heads",
     "kind": "band",
-    "born": null,
-    "died": null,
+    "born": 1974,
+    "died": 1991,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "a94a7155-c79d-4409-9fcf-220cb0e4dc3a",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "keith-jarrett",
     "name": "Keith Jarrett",
     "kind": "person",
-    "born": null,
+    "born": 1945,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "061c4920-3ea6-4835-98f6-02f3b82f5e3a",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "stevie-ray-vaughan",
     "name": "Stevie Ray Vaughan",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1954,
+    "died": 1990,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "f5426431-f490-4678-ad44-a75c71097bb4",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "freddie-king",
     "name": "Freddie King",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1934,
+    "died": 1976,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "d6ae4b23-965f-485a-b2c2-66c43ffaef20",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "mccoy-tyner",
     "name": "McCoy Tyner",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1938,
+    "died": 2020,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "22fe7b6f-af38-458e-87bd-8971e7a2912e",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "new-grass-revival",
     "name": "New Grass Revival",
     "kind": "band",
-    "born": null,
+    "born": 1971,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "9b6f3084-7bd7-444a-b0a5-d2dc78c19284",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "hank-williams",
     "name": "Hank Williams",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1923,
+    "died": 1953,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "906bddec-bc73-49f8-ac1e-eaee691c6cf9",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "merle-haggard",
     "name": "Merle Haggard",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1937,
+    "died": 2016,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "deb2448c-6fdf-4d31-921e-757630515dbd",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "jerry-jeff-walker",
     "name": "Jerry Jeff Walker",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1942,
+    "died": 2020,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "3faa019a-ad91-4ddf-87d5-fdcbdfd8327c",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "willis-alan-ramsey",
     "name": "Willis Alan Ramsey",
     "kind": "person",
-    "born": null,
+    "born": 1951,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "a4727878-d27f-43bc-b6ae-15a0da01e192",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "doc-watson",
     "name": "Doc Watson",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1923,
+    "died": 2012,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "8aa38215-217d-432e-aca6-f2d85b05e843",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "bill-monroe",
     "name": "Bill Monroe",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1911,
+    "died": 1996,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "2a2be593-6984-4640-8cf1-717ec7a6e18b",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
@@ -116244,64 +116270,68 @@
     "id": "j-d-crowe",
     "name": "J.D. Crowe",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1937,
+    "died": 2021,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "f43e4e1e-8e89-44da-95a0-3783102cc911",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "ralph-stanley",
     "name": "Ralph Stanley",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1927,
+    "died": 2016,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "845adb53-9281-41ff-a911-c0af49f3c943",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "the-stanley-brothers",
     "name": "The Stanley Brothers",
     "kind": "band",
-    "born": null,
-    "died": null,
+    "born": 1945,
+    "died": 1966,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "8f918972-81e9-43a5-80a4-d244a42dc5b2",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "howlin-wolf",
     "name": "Howlin' Wolf",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1910,
+    "died": 1976,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "ca5b38c2-f39d-45a4-ad3d-daf4448846ef",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
@@ -116324,80 +116354,85 @@
     "id": "lead-belly",
     "name": "Lead Belly",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1888,
+    "died": 1949,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "ddcfbdcf-cf8d-4776-8a69-10f39376b5a2",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "sonny-terry",
     "name": "Sonny Terry",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1911,
+    "died": 1986,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "3e07fca6-2c7f-4fc1-a138-ec6cd7e4be8a",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "brownie-mcghee",
     "name": "Brownie McGhee",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1915,
+    "died": 1996,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "9d48cb68-cd4d-49fe-b7a8-d31deb678fe8",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "solomon-burke",
     "name": "Solomon Burke",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1940,
+    "died": 2010,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "d5c79890-36c5-4f1b-bed3-4468eee093f3",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "the-horse-flies",
     "name": "The Horse Flies",
     "kind": "band",
-    "born": null,
-    "died": null,
+    "born": 1981,
+    "died": 2016,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "5b0c5989-e49c-41a1-a0dc-3586e2cacd4b",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
@@ -116420,1056 +116455,1122 @@
     "id": "kelly-joe-phelps",
     "name": "Kelly Joe Phelps",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1959,
+    "died": 2022,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "fb1a017d-697d-48e6-8884-3ab3b41709ab",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "pete-seeger",
     "name": "Pete Seeger",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1919,
+    "died": 2014,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "af18a9bc-e4ab-4068-9489-b64e8186fcf1",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "eddie-cochran",
     "name": "Eddie Cochran",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1938,
+    "died": 1960,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "17995d1c-5b3c-4ee9-98f5-105ee3b4ada1",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "hubert-sumlin",
     "name": "Hubert Sumlin",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1931,
+    "died": 2011,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "5bfa36d8-b208-400d-bfa1-8463c93c24ff",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "t-bone-walker",
     "name": "T-Bone Walker",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1910,
+    "died": 1975,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "f1a3fb4a-fff6-4556-a290-3704b109da90",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "tito-puente",
     "name": "Tito Puente",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1923,
+    "died": 2000,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "f19ad155-d809-4770-ab8d-7579467d9f55",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "ray-barretto",
     "name": "Ray Barretto",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1929,
+    "died": 2006,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "169153fd-ba80-401a-8ccd-2825efaf9155",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "eddie-palmieri",
     "name": "Eddie Palmieri",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1936,
+    "died": 2025,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "42b5af45-312e-4dc1-ad0c-84dea2d5dcb2",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "john-coltrane",
     "name": "John Coltrane",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1926,
+    "died": 1967,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "b625448e-bf4a-41c3-a421-72ad46cdb831",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "charlie-parker",
     "name": "Charlie Parker",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1920,
+    "died": 1955,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "c7356af9-9ea6-4a78-a55b-c73775716312",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "bill-evans",
     "name": "Bill Evans",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1929,
+    "died": 1980,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "8247a3f2-3a8e-4256-b322-6c57b03a4e36",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "charles-mingus",
     "name": "Charles Mingus",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1922,
+    "died": 1979,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "f3b8e107-abe8-4743-b6a3-4a4ee995e71f",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "sonny-rollins",
     "name": "Sonny Rollins",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1930,
+    "died": 2026,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "3b47247e-5b57-49b6-a0ed-bad80243802a",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "stan-getz",
     "name": "Stan Getz",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1927,
+    "died": 1991,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "8f2422ab-0ec6-4c92-80c4-afe9622fab32",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "horace-silver",
     "name": "Horace Silver",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1928,
+    "died": 2014,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "d185d986-ee96-4fd3-bd61-8c848a4765b6",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "the-everly-brothers",
     "name": "The Everly Brothers",
     "kind": "band",
-    "born": null,
-    "died": null,
+    "born": 1957,
+    "died": 2014,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "091ec508-877f-4e3c-92a3-10903bbbc7ad",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "xtc",
     "name": "XTC",
-    "kind": "person",
-    "born": null,
-    "died": null,
+    "kind": "band",
+    "born": 1976,
+    "died": 2006,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "97c86b2c-2765-46a2-aef8-76a7e24c430f",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "a-certain-ratio",
     "name": "A Certain Ratio",
-    "kind": "person",
-    "born": null,
+    "kind": "band",
+    "born": 1977,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "73577e86-4da8-4d76-949d-34c757e053be",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "chopin",
     "name": "Chopin",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1810,
+    "died": 1849,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "09ff1fe8-d61c-4b98-bb82-18487c74d7b7",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "leonard-bernstein",
     "name": "Leonard Bernstein",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1918,
+    "died": 1990,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "fa39bc82-9b27-4bbb-9425-d719a72e09ac",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "otis-redding",
     "name": "Otis Redding",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1941,
+    "died": 1967,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "jerry-lee-lewis",
     "name": "Jerry Lee Lewis",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1935,
+    "died": 2022,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "b59ac58d-036e-4bba-8112-c32a34c4575b",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "dr-john",
     "name": "Dr. John",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1941,
+    "died": 2019,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "fe0e1895-aa84-47d9-8e5b-7930fc20709b",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "hank-marvin",
     "name": "Hank Marvin",
     "kind": "person",
-    "born": null,
+    "born": 1941,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "b66bed3d-3f32-4049-8db1-fa7143829450",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "graham-parker",
     "name": "Graham Parker",
     "kind": "person",
-    "born": null,
+    "born": 1950,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "f9227504-4fa5-44ee-b205-5301a1f86936",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "fats-waller",
     "name": "Fats Waller",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1904,
+    "died": 1943,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "569fc5bf-bcb6-4bc5-9a00-bd0d258e34f1",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "roger-miller",
     "name": "Roger Miller",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1936,
+    "died": 1992,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "102045e3-577c-4b10-b01b-424b7e461094",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "townes-van-zandt",
     "name": "Townes Van Zandt",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1944,
+    "died": 1997,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "d67d1a21-6e45-4dd6-aef0-0191ba3796e0",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "guy-clark",
     "name": "Guy Clark",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1941,
+    "died": 2016,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "e885f72e-4617-46de-9454-5485061f29b3",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "waylon-jennings",
     "name": "Waylon Jennings",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1937,
+    "died": 2002,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "1a46826b-4d73-4e04-8590-f36c9d832f9e",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "sublime",
     "name": "Sublime",
-    "kind": "person",
-    "born": null,
+    "kind": "band",
+    "born": 1986,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "95f5b748-d370-47fe-85bd-0af2dc450bc0",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "radiohead",
     "name": "Radiohead",
-    "kind": "person",
-    "born": null,
+    "kind": "band",
+    "born": 1991,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "sippie-wallace",
     "name": "Sippie Wallace",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1898,
+    "died": 1986,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "ac4c191a-92cf-4def-9a48-8635429edb96",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "mississippi-fred-mcdowell",
     "name": "Mississippi Fred McDowell",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1904,
+    "died": 1972,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "8d2651e1-f539-4492-957a-8b4dc4c5d9b9",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "son-house",
     "name": "Son House",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1902,
+    "died": 1988,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "8c87dda0-be58-4e48-a3b5-2626f26364c7",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "black-uhuru",
     "name": "Black Uhuru",
-    "kind": "person",
-    "born": null,
+    "kind": "band",
+    "born": 1972,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "8ee00333-ec2c-439b-a619-ae160aca2a15",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "israel-vibration",
     "name": "Israel Vibration",
-    "kind": "person",
-    "born": null,
+    "kind": "band",
+    "born": 1977,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "ffce4003-a756-46c0-b062-2e942de13d37",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "the-pharcyde",
     "name": "The Pharcyde",
-    "kind": "person",
-    "born": null,
+    "kind": "band",
+    "born": 1989,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "d7134426-a937-43bf-bc54-f10ad8102ed9",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "don-carlos",
     "name": "Don Carlos",
     "kind": "person",
-    "born": null,
+    "born": 1952,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "a80ff520-a853-4d7b-a5fe-77011689ec77",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "gram-parsons",
     "name": "Gram Parsons",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1946,
+    "died": 1973,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "cbc83fb1-2c23-4ad1-9187-594b30da3f21",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "bright-eyes",
     "name": "Bright Eyes",
-    "kind": "person",
-    "born": null,
+    "kind": "band",
+    "born": 1995,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "78f797e3-4913-4026-aad0-1cd858bd735b",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "galactic",
     "name": "Galactic",
-    "kind": "person",
-    "born": null,
+    "kind": "band",
+    "born": 1994,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "cabbdf87-5cb2-4f3c-be65-254655c87508",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "dumpstaphunk",
     "name": "Dumpstaphunk",
-    "kind": "person",
-    "born": null,
+    "kind": "band",
+    "born": 2003,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "94e96fde-f3be-45f1-9c0e-9368c14af6e0",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "rebirth-brass-band",
     "name": "Rebirth Brass Band",
     "kind": "band",
-    "born": null,
+    "born": 1983,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "73701a01-07e2-44f7-8935-e094bdc22892",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "billy-joe-shaver",
     "name": "Billy Joe Shaver",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1939,
+    "died": 2020,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "2af8def8-db31-4998-8bd9-18fdd76db088",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "kris-kristofferson",
     "name": "Kris Kristofferson",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1936,
+    "died": 2024,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "cb1ca13a-4821-4e66-aff0-0fd6b3dc9a81",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "jerry-reed",
     "name": "Jerry Reed",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1937,
+    "died": 2008,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "44419ff2-0251-49ba-933b-b09733ff9adb",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "wilson-pickett",
     "name": "Wilson Pickett",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1941,
+    "died": 2006,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "fc6214b3-6d82-4803-be74-01ece1723e42",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "ronnie-hawkins",
     "name": "Ronnie Hawkins",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1935,
+    "died": 2022,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "8a701db6-1180-4bfb-bd69-417614406212",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "the-staple-singers",
     "name": "The Staple Singers",
-    "kind": "person",
-    "born": null,
-    "died": null,
+    "kind": "band",
+    "born": 1948,
+    "died": 1994,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "3d49e36a-cc9e-411e-93c6-d1646ba5bd3a",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "les-paul",
     "name": "Les Paul",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1915,
+    "died": 2009,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "f671ebd2-917d-466f-b7bc-07c60e4d8990",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "paul-butterfield",
     "name": "Paul Butterfield",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1942,
+    "died": 1987,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "4b21201d-6ee6-4164-9339-06997e2e808c",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "donny-hathaway",
     "name": "Donny Hathaway",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1945,
+    "died": 1979,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "3f6ae36d-ffdb-40cf-98e6-8023cb1c41c9",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "simon-garfunkel",
     "name": "Simon & Garfunkel",
-    "kind": "person",
-    "born": null,
-    "died": null,
+    "kind": "band",
+    "born": 1963,
+    "died": 1970,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "5d02f264-e225-41ff-83f7-d9b1f0b1874a",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "joan-baez",
     "name": "Joan Baez",
     "kind": "person",
-    "born": null,
+    "born": 1941,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "92d37892-6186-4459-9cc1-f0dde57652d0",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "ralph-mctell",
     "name": "Ralph McTell",
     "kind": "person",
-    "born": null,
+    "born": 1944,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "8bf5abde-89d0-4676-98ef-7e1a4eecd03d",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "norman-blake",
     "name": "Norman Blake",
     "kind": "person",
-    "born": null,
+    "born": 1938,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "c9605929-6b48-4991-bb96-0bf460df8ee1",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "cole-porter",
     "name": "Cole Porter",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1891,
+    "died": 1964,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "4a94a6cb-e70a-418b-bb53-a37897b950ce",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "lucinda-williams",
     "name": "Lucinda Williams",
     "kind": "person",
-    "born": null,
+    "born": 1953,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "21685b15-3074-446e-aa1d-ff7157014f53",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "wilco",
     "name": "Wilco",
-    "kind": "person",
-    "born": null,
+    "kind": "band",
+    "born": 1994,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "9e53f84d-ef44-4c16-9677-5fd4d78cbd7d",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "jimmy-reed",
     "name": "Jimmy Reed",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1925,
+    "died": 1976,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "018d8a5e-76c7-450d-a0a1-a97f8c26466f",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "albert-king",
     "name": "Albert King",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1923,
+    "died": 1992,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "10f89195-3af1-46f5-aa36-504aa3309f5a",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "lightnin-hopkins",
     "name": "Lightnin' Hopkins",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1912,
+    "died": 1982,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "d5c55b61-78b8-40c9-be1b-de7517c3aebb",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "albert-collins",
     "name": "Albert Collins",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1932,
+    "died": 1993,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "73b8dddb-ec29-4d11-b449-d97fde73f07b",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "shel-silverstein",
     "name": "Shel Silverstein",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1930,
+    "died": 1999,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "1ce887e7-a9ca-4545-bb75-5af9cea6c862",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "the-lovin-spoonful",
     "name": "The Lovin' Spoonful",
-    "kind": "person",
-    "born": null,
+    "kind": "band",
+    "born": 1964,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "abc08d4f-4e3c-4b5a-b1e8-d324cd6a2f92",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
@@ -117492,240 +117593,255 @@
     "id": "memphis-jug-band",
     "name": "Memphis Jug Band",
     "kind": "band",
-    "born": null,
-    "died": null,
+    "born": 1927,
+    "died": 1934,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "a147eefb-0e07-432d-bd1f-8edf7679a7da",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "the-strokes",
     "name": "The Strokes",
-    "kind": "person",
-    "born": null,
+    "kind": "band",
+    "born": 1998,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "f181961b-20f7-459e-89de-920ef03c7ed0",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "king-oliver",
     "name": "King Oliver",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1885,
+    "died": 1938,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "744fa1ae-051c-463c-957a-25a4ddc01c2f",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "bunk-johnson",
     "name": "Bunk Johnson",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1889,
+    "died": 1949,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "f8dd63f2-5325-456f-abff-d8b837e9bc74",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "buddy-bolden",
     "name": "Buddy Bolden",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1877,
+    "died": 1931,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "874fbd88-835d-41d0-8b37-105ceab98191",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "serge-gainsbourg",
     "name": "Serge Gainsbourg",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1928,
+    "died": 1991,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "b21ef19b-c6aa-4775-90d3-3cc3e067ce6d",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "kraftwerk",
     "name": "Kraftwerk",
-    "kind": "person",
-    "born": null,
+    "kind": "band",
+    "born": 1970,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "5700dcd4-c139-4f31-aa3e-6382b9af9032",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "otis-rush",
     "name": "Otis Rush",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1934,
+    "died": 2018,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "40ee7c92-f44a-4d14-9aee-f87244465ee4",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "magic-sam",
     "name": "Magic Sam",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1937,
+    "died": 1969,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "d1834301-1ca3-4576-a0af-a81479d5c6b6",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "fats-domino",
     "name": "Fats Domino",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1928,
+    "died": 2017,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "e787de5d-49e2-4b1f-9bde-1fd3a671b971",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "dizzy-gillespie",
     "name": "Dizzy Gillespie",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1917,
+    "died": 1993,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "e9ba8ccb-505f-4e5c-b909-65998d0d35b5",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "freddie-webster",
     "name": "Freddie Webster",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1916,
+    "died": 1947,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "e1d48422-697c-4699-8ace-ebf363c2213b",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "bo-diddley",
     "name": "Bo Diddley",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1928,
+    "died": 2008,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "bf659d74-0b61-488c-8a7d-594f43bed9e0",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "pink-anderson",
     "name": "Pink Anderson",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1900,
+    "died": 1974,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "7570d536-f435-4f5b-9ae3-465138ab3ae4",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "floyd-council",
     "name": "Floyd Council",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1911,
+    "died": 1976,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "e07e43ca-96a5-4bf7-8bb4-11348628b0a2",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
@@ -117748,338 +117864,359 @@
     "id": "al-jolson",
     "name": "Al Jolson",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1886,
+    "died": 1950,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "5611a8e8-1521-4919-a531-2689bbb57ce4",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "eddie-cantor",
     "name": "Eddie Cantor",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1892,
+    "died": 1964,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "0e04e04c-bdfe-4a0e-a311-a2190bd6d72c",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "cab-calloway",
     "name": "Cab Calloway",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1907,
+    "died": 1994,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "315bd083-892b-4e76-a9f0-91a7408168fc",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "ethel-waters",
     "name": "Ethel Waters",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1896,
+    "died": 1977,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "ab55e9c9-d475-4fa5-a903-06ff270b1e75",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "barrington-levy",
     "name": "Barrington Levy",
     "kind": "person",
-    "born": null,
+    "born": 1964,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "8ddf3da1-dfa9-490a-93cc-7d4072319995",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "alton-ellis",
     "name": "Alton Ellis",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1938,
+    "died": 2008,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "b04d9207-306c-42db-8b6a-c94d49b4b08a",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "burning-spear",
     "name": "Burning Spear",
     "kind": "person",
-    "born": null,
+    "born": 1945,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "16dad944-c492-43dd-88ed-e0b7ac520c40",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "ken-boothe",
     "name": "Ken Boothe",
     "kind": "person",
-    "born": null,
+    "born": 1948,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "f8eee368-dfe3-4e01-ad1b-9b306a6afb23",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "dr-dre",
     "name": "Dr. Dre",
     "kind": "person",
-    "born": null,
+    "born": 1965,
     "died": null,
     "origin": null,
     "roles": [
       "producer"
     ],
     "genres": [],
-    "mbid": null,
+    "mbid": "5f6ab597-f57a-40da-be9e-adad48708203",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "snoop-dogg",
     "name": "Snoop Dogg",
     "kind": "person",
-    "born": null,
+    "born": 1971,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "f90e8b26-9e52-4669-a5c9-e28529c47894",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "cal-tjader",
     "name": "Cal Tjader",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1925,
+    "died": 1982,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "1015b5e3-8e3d-4d78-806a-c530cf742e66",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "woody-herman",
     "name": "Woody Herman",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1913,
+    "died": 1987,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "73bb2ece-7ef7-4ee9-b3a0-bffe0b481bb0",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "public-enemy",
     "name": "Public Enemy",
-    "kind": "person",
-    "born": null,
+    "kind": "band",
+    "born": 1985,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "bf2e15d0-4b77-469e-bfb4-f8414415baca",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "gil-scott-heron",
     "name": "Gil Scott-Heron",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1949,
+    "died": 2011,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "b5b89643-c488-4f39-a302-25cab31084a5",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "manitas-de-plata",
     "name": "Manitas de Plata",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1921,
+    "died": 2014,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "ee99eb64-8a0c-4256-82e9-2bdc617fe8c1",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "jose-reyes",
     "name": "Jos\u00e9 Reyes",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1928,
+    "died": 1979,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "840fd403-9d19-4a46-92b0-1bb7162eb19a",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "django-reinhardt",
     "name": "Django Reinhardt",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1910,
+    "died": 1953,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "650bf385-6f6d-4992-a3b9-779d144920a4",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "the-carter-family",
     "name": "The Carter Family",
-    "kind": "person",
-    "born": null,
-    "died": null,
+    "kind": "band",
+    "born": 1927,
+    "died": 1943,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "29c5b1fb-5dcc-4499-b225-4ceeeb8a73d1",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "mogwai",
     "name": "Mogwai",
-    "kind": "person",
-    "born": null,
+    "kind": "band",
+    "born": 1995,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "d700b3f5-45af-4d02-95ed-57d301bda93e",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "sigur-ros",
     "name": "Sigur R\u00f3s",
-    "kind": "person",
-    "born": null,
+    "kind": "band",
+    "born": 1994,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "f6f2326f-6b25-4170-b89d-e235b25508e8",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "godspeed-you-black-emperor",
     "name": "Godspeed You! Black Emperor",
-    "kind": "person",
-    "born": null,
+    "kind": "band",
+    "born": 1994,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "3648db01-b29d-4ab9-835c-83f6a5068fe4",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
@@ -118094,107 +118231,114 @@
       "arranger"
     ],
     "genres": [],
-    "mbid": null,
+    "mbid": "26fa8b67-6c7f-406c-ad64-a1d070092df2",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "j-j-cale",
     "name": "J.J. Cale",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1938,
+    "died": 2013,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "4b0be624-6b87-47e8-bbf0-588a2c6c0439",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "grover-washington-jr",
     "name": "Grover Washington Jr.",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1943,
+    "died": 1999,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "c60e178f-36f1-4169-9c03-84addbdbf104",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "cannonball-adderley",
     "name": "Cannonball Adderley",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1928,
+    "died": 1975,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "a4c73ebe-b2c7-4f13-b99d-2fe1f9f27da8",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "dexter-gordon",
     "name": "Dexter Gordon",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1923,
+    "died": 1990,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "cc1588e1-5ba3-45a6-b80c-b31035c89339",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "big-bill-broonzy",
     "name": "Big Bill Broonzy",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1893,
+    "died": 1958,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "05bc49f8-3108-44c8-82b9-ac3254896a69",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "randy-newman",
     "name": "Randy Newman",
     "kind": "person",
-    "born": null,
+    "born": 1943,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "da7bb7d8-557d-4635-9ca1-e6e985525bd5",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
@@ -118219,164 +118363,174 @@
     "id": "glen-ballard",
     "name": "Glen Ballard",
     "kind": "person",
-    "born": null,
+    "born": 1953,
     "died": null,
     "origin": null,
     "roles": [
       "producer"
     ],
     "genres": [],
-    "mbid": null,
+    "mbid": "4d9768fd-947c-4b0a-beba-6191e2c830e2",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "t-bone-burnett",
     "name": "T Bone Burnett",
     "kind": "person",
-    "born": null,
+    "born": 1948,
     "died": null,
     "origin": null,
     "roles": [
       "producer"
     ],
     "genres": [],
-    "mbid": null,
+    "mbid": "b821dd8c-4583-4385-9293-6f1015b74ef9",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "jaco-pastorius",
     "name": "Jaco Pastorius",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1951,
+    "died": 1987,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "46a6fac0-2e14-4214-b08e-3bdb1cffa5aa",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "jimmie-rodgers",
     "name": "Jimmie Rodgers",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1897,
+    "died": 1933,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "394492c0-cecf-40a8-b676-0e5706317fab",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "duran-duran",
     "name": "Duran Duran",
-    "kind": "person",
-    "born": null,
+    "kind": "band",
+    "born": 1978,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "1a1cd7f3-e5df-4eca-bae2-2757c9e656b5",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "the-kingston-trio",
     "name": "The Kingston Trio",
-    "kind": "person",
-    "born": null,
-    "died": null,
+    "kind": "band",
+    "born": 1957,
+    "died": 1967,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "78977492-5888-4c7a-92b3-95293e90a653",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "the-four-freshmen",
     "name": "The Four Freshmen",
-    "kind": "person",
-    "born": null,
+    "kind": "band",
+    "born": 1948,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "53a61b1f-dd88-45e7-b5d8-3e84038aa81a",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "the-four-lads",
     "name": "The Four Lads",
-    "kind": "person",
-    "born": null,
+    "kind": "band",
+    "born": 1950,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "5670e4ef-2ad4-4f17-b252-a00e2fbd336f",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "o-v-wright",
     "name": "O.V. Wright",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1939,
+    "died": 1980,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "ac486e0f-9d86-4dec-8f4f-0f06e4d51946",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "the-impressions",
     "name": "The Impressions",
-    "kind": "person",
-    "born": null,
+    "kind": "band",
+    "born": 1958,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "8af64037-6d26-4d24-afd8-7e085abb01b1",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
@@ -118398,401 +118552,426 @@
   {
     "id": "leiber-and-stoller",
     "name": "Leiber and Stoller",
-    "kind": "person",
+    "kind": "band",
     "born": null,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "507a43b4-a58c-4f49-8d2a-5750208c52ae",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "irving-berlin",
     "name": "Irving Berlin",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1888,
+    "died": 1989,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "5e645519-a175-4fe0-9a9b-eb9dc9f506b5",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "joan-armatrading",
     "name": "Joan Armatrading",
     "kind": "person",
-    "born": null,
+    "born": 1950,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "fa598e78-5cc5-4a8b-a3b5-63934d4712c7",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "odetta",
     "name": "Odetta",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1930,
+    "died": 2008,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "e81906c6-cba2-44ec-9e39-29737754d809",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "roy-harper",
     "name": "Roy Harper",
     "kind": "person",
-    "born": null,
+    "born": 1941,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "8fc0c1d2-9be0-464f-98ee-ae7ae5b0086b",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "bert-jansch",
     "name": "Bert Jansch",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1943,
+    "died": 2011,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "d7f95537-2b48-403d-9ac2-f1fc7aad0960",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "john-mayall",
     "name": "John Mayall",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1933,
+    "died": 2024,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "18c1e06b-fe76-4802-b070-53a2f6b707bd",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "kurt-weill",
     "name": "Kurt Weill",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1900,
+    "died": 1950,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "0e738f68-783c-4a6a-80ae-4f7500861060",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "carolyn-hester",
     "name": "Carolyn Hester",
     "kind": "person",
-    "born": null,
+    "born": 1937,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "7e534f92-84dd-457f-b737-f28db04a5ba5",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "gordon-lightfoot",
     "name": "Gordon Lightfoot",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1938,
+    "died": 2023,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "9d97b077-b28d-4ba8-a3d9-c71926e3b2b6",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "josephine-baker",
     "name": "Josephine Baker",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1906,
+    "died": 1975,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "549dc0da-d165-4bff-839e-dca65cf51c0c",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "bessie-smith",
     "name": "Bessie Smith",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1894,
+    "died": 1937,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "ffa28768-ecda-42c6-ac49-6ce5c7d33043",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "johnny-burnette",
     "name": "Johnny Burnette",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1934,
+    "died": 1964,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "e92e6d99-d4b3-4942-a6e6-b59427dae61e",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "arcade-fire",
     "name": "Arcade Fire",
-    "kind": "person",
-    "born": null,
+    "kind": "band",
+    "born": 2001,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "52074ba6-e495-4ef3-9bb4-0703888a9f68",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "muse",
     "name": "Muse",
-    "kind": "person",
-    "born": null,
+    "kind": "band",
+    "born": 1994,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "harry-nilsson",
     "name": "Harry Nilsson",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1941,
+    "died": 1994,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "e5963d26-01fa-40f5-b200-e0127f410a45",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "amalia-rodrigues",
     "name": "Am\u00e1lia Rodrigues",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1920,
+    "died": 1999,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "6b605219-90fa-465e-82ae-60d2347bd030",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "franco-corelli",
     "name": "Franco Corelli",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1921,
+    "died": 2003,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "7daeefc9-74cf-41a2-8ee6-7ac03933a865",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "fiona-apple",
     "name": "Fiona Apple",
     "kind": "person",
-    "born": null,
+    "born": 1977,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "a9ee533f-8871-4f62-a6bb-91eb264abc90",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "dieterich-buxtehude",
     "name": "Dieterich Buxtehude",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1637,
+    "died": 1707,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "f106fb52-0b54-4135-bdfd-9ccfd7e320cb",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "antonio-vivaldi",
     "name": "Antonio Vivaldi",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1678,
+    "died": 1741,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "ad79836d-9849-44df-8789-180bbc823f3c",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "johann-pachelbel",
     "name": "Johann Pachelbel",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1653,
+    "died": 1706,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "2251b277-2dfb-4cf1-83f3-27e29f902440",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "big-joe-turner",
     "name": "Big Joe Turner",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1911,
+    "died": 1985,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "b123ba15-c4a5-4281-8117-2e57f8f02496",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "fletcher-henderson",
     "name": "Fletcher Henderson",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1897,
+    "died": 1952,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "f47d1c94-c3e3-4c84-a42a-6c33e0032839",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "johnny-dodds",
     "name": "Johnny Dodds",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1892,
+    "died": 1940,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "66fc5e06-25be-4070-8812-aac282a347eb",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
@@ -118804,219 +118983,233 @@
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "613bee91-f172-4b96-928b-965e9e55d786",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "leon-roppolo",
     "name": "Leon Roppolo",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1902,
+    "died": 1943,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "4c7af8ef-15cc-41f2-adad-2e748bd0904a",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "herbie-hancock",
     "name": "Herbie Hancock",
     "kind": "person",
-    "born": null,
+    "born": 1940,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "27613b78-1b9d-4ec3-9db5-fa0743465fdd",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "bud-powell",
     "name": "Bud Powell",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1924,
+    "died": 1966,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "dbc5809c-7837-4b6f-961e-340d64fbb41c",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "gabby-pahinui",
     "name": "Gabby Pahinui",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1921,
+    "died": 1980,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "f7f0a712-5a59-4f65-a36d-5cc5b2ecb029",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "eddie-kamae",
     "name": "Eddie Kamae",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1927,
+    "died": 2017,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "53642ba8-cdfd-4257-9a4c-593989d8985b",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "james-p-johnson",
     "name": "James P. Johnson",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1894,
+    "died": 1955,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "2a58b026-9659-4bfb-90c9-56c4ad9125f1",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "luckey-roberts",
     "name": "Luckey Roberts",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1887,
+    "died": 1968,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "3175ad92-981d-4be6-b7de-5bce9de3faa9",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "will-marion-cook",
     "name": "Will Marion Cook",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1869,
+    "died": 1944,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "1c34168d-4282-46a9-aec4-8b62d8823e7e",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "sidney-bechet",
     "name": "Sidney Bechet",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1897,
+    "died": 1959,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "bf1b23ea-9b76-42cf-a5f6-4a691e81af5e",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "the-cramps",
     "name": "The Cramps",
-    "kind": "person",
-    "born": null,
-    "died": null,
+    "kind": "band",
+    "born": 1976,
+    "died": 2009,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "96c1edac-1011-4cb8-882c-27248de35071",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "sandie-shaw",
     "name": "Sandie Shaw",
     "kind": "person",
-    "born": null,
+    "born": 1947,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "16963107-9288-43a2-946c-81de2f5eddfa",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "marianne-faithfull",
     "name": "Marianne Faithfull",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1946,
+    "died": 2025,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "14ed9dea-1bb0-4743-ba32-39674a71da89",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "dusty-springfield",
     "name": "Dusty Springfield",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1939,
+    "died": 1999,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "b896aa8c-2761-40ce-b485-0e1fffd26167",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
@@ -119039,85 +119232,187 @@
     "id": "leo-kottke",
     "name": "Leo Kottke",
     "kind": "person",
-    "born": null,
+    "born": 1945,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "1a21878d-05b1-4983-a059-7cf3abee04b7",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "john-fahey",
     "name": "John Fahey",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1939,
+    "died": 2001,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "95bb27d2-43c7-4a92-85ee-f95a245f0ee4",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "solomon-linda",
     "name": "Solomon Linda",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1909,
+    "died": 1962,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "746e59cc-37d8-4152-abff-6569d209c3c6",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "big-mama-thornton",
     "name": "Big Mama Thornton",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1926,
+    "died": 1984,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "2993f855-403f-4c6a-bea9-088cd5d354dc",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "mavis-staples",
     "name": "Mavis Staples",
     "kind": "person",
-    "born": null,
+    "born": 1939,
     "died": null,
     "origin": null,
     "roles": [],
     "genres": [],
-    "mbid": null,
+    "mbid": "04f57a2d-2449-400e-8fff-5b1c5af9560b",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "web-curated",
+      "musicbrainz"
     ]
   },
   {
     "id": "lionel-hampton",
     "name": "Lionel Hampton",
+    "kind": "person",
+    "born": 1908,
+    "died": 2002,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "17cf2413-99c1-441d-ba92-700e811daf56",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "web-curated",
+      "musicbrainz"
+    ]
+  },
+  {
+    "id": "federico-garcia-lorca",
+    "name": "Federico Garc\u00eda Lorca",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "3e2efdb0-cd07-40e2-a39f-277c670e1d72",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "karlheinz-stockhausen",
+    "name": "Karlheinz Stockhausen",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "fd09d776-ddfd-4558-afe7-814420d704ed",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "nina-hagen",
+    "name": "Nina Hagen",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "e4d32f51-bc57-42a4-8165-b80f7a86496d",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "zeena-parkins",
+    "name": "Zeena Parkins",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "548e245f-ec6d-4688-a99c-f549fbe33ee5",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "george-clinton",
+    "name": "George Clinton",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "84683370-5eae-418b-acd8-883ac028a8a0",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "marquee-moon",
+    "name": "Marquee Moon",
     "kind": "person",
     "born": null,
     "died": null,
@@ -119128,7 +119423,1687 @@
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "web-curated"
+      "wikidata"
+    ]
+  },
+  {
+    "id": "roger-mcguinn",
+    "name": "Roger McGuinn",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "6ec7336b-a56a-4b5d-bcec-575d2b8ed4e1",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "johann-georg-pisendel",
+    "name": "Johann Georg Pisendel",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "28c25bb3-b017-4167-ab49-e1f49383076b",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-deviants",
+    "name": "The Deviants",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "d4bcc69d-516d-482e-ba77-a1e5f821e927",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "horses",
+    "name": "Horses",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": null,
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "blue-cheer",
+    "name": "Blue Cheer",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "523b52d7-a819-4111-9085-69fc269c9638",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-fugs",
+    "name": "The Fugs",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "88b1dd15-34d9-4214-861c-045e872162a6",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-troggs",
+    "name": "The Troggs",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "4aec87a5-f33e-4bd6-89f2-0c96188c8372",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-kingsmen",
+    "name": "The Kingsmen",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "f58654bf-c6e3-45b6-9fcc-62cf8f0021b2",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "cardiacs",
+    "name": "Cardiacs",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "f7338f2a-136b-4d5e-b099-5504cf997f58",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "suicide",
+    "name": "Suicide",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "7a0f02e0-0ab8-4a62-9e14-c6925cfaed07",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "sun-ra",
+    "name": "Sun Ra",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "c27cac8e-4c4a-48c0-a4ba-41399b9c176d",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "count-five",
+    "name": "Count Five",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "cf20a6c7-822b-4c54-9600-c75bee6a296c",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-monks",
+    "name": "The Monks",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "72bfcd14-0a48-43d9-86cf-e8d0f264fb13",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-standells",
+    "name": "The Standells",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "795b83a0-9315-4201-aa82-675a1699a5c6",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "badfinger",
+    "name": "Badfinger",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "44632683-c340-44de-a65d-328212559f91",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-sonics",
+    "name": "The Sonics",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "16346cf4-4d2b-40ec-8393-0fc7296d92fe",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "sham-69",
+    "name": "Sham 69",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "33235ed4-d5bd-42cd-b77c-de646c36c8c6",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "eater",
+    "name": "Eater",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "c74c3bb6-b471-42f3-a68a-54d27c388620",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "nazz",
+    "name": "Nazz",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "8295499e-808a-4e10-9e91-2df00d9c1a72",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "fad-gadget",
+    "name": "Fad Gadget",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "bfe4ef3f-318f-4d45-be4e-d1e5d872171e",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-trashmen",
+    "name": "The Trashmen",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "1f190f39-89cc-426f-ac40-56c31ebf306f",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "mission-of-burma",
+    "name": "Mission of Burma",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "db9d25d7-a85b-4a29-b2ff-8f5b69ed691e",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "raspberries",
+    "name": "Raspberries",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "01b405ae-8ca2-4dbe-8a30-0587b597f598",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-dils",
+    "name": "The Dils",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "5f0604d8-09d6-49da-a456-ca18f7aeeb76",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "volcano-suns",
+    "name": "Volcano Suns",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "4837e8d3-a13f-4670-9684-82970411f4bc",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "crime",
+    "name": "Crime",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "8047d2f0-0f23-4c02-9cee-084439fec5a8",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "pylon",
+    "name": "Pylon",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "5f895285-0598-4a03-a10f-ac171746ef45",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "angst",
+    "name": "Angst",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "89d8b0f2-caf6-448e-8465-99c36ce7d13e",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "toots-thielemans",
+    "name": "Toots Thielemans",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "20404789-b0f3-43de-bbe1-f4fe39e83e87",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "little-walter",
+    "name": "Little Walter",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "5545a012-0977-46ff-9d69-39bf5952616f",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "cracker",
+    "name": "Cracker",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "ca48bfb8-37c5-4a04-9837-a07975ee0cd3",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "reel-big-fish",
+    "name": "Reel Big Fish",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "5e5480be-eded-44ad-9c45-f6136ec2f5db",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "nicolas-sestito",
+    "name": "Nicol\u00e1s Sestito",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "8e4bd349-122c-4490-b33e-d556d9824124",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "benny-benjamin",
+    "name": "Benny Benjamin",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "473d40f4-6c89-477a-a4b8-869282412cfd",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "johnny-ace",
+    "name": "Johnny Ace",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "0bc7efef-33dd-4d83-8bd0-f9608b158157",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "king-curtis",
+    "name": "King Curtis",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "151231cb-fca6-42e0-976a-66b07193d657",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "pere-ubu",
+    "name": "Pere Ubu",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "5a54b72e-bfb3-4ca6-944a-e17261399965",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "edgar-broughton-band",
+    "name": "Edgar Broughton Band",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "c7b4135b-d12b-429b-b7ff-2584177536f6",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "pink-fairies",
+    "name": "Pink Fairies",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "39f29007-18db-4271-9438-9d0de9fc7e30",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "violent-femmes",
+    "name": "Violent Femmes",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "2aab61bc-67f4-4722-8c6e-e1821b2e32a6",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "wire",
+    "name": "Wire",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "7f2a8098-50e3-451c-8696-c5d9f64f4762",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-gun-club",
+    "name": "The Gun Club",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "e78cc47f-9b89-4ef7-86f8-8f9df4f9dac9",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "richard-wagner",
+    "name": "Richard Wagner",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "eefd7c1e-abcf-4ccc-ba60-0fd435c9061f",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "wendy-carlos",
+    "name": "Wendy Carlos",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "7e3b3173-2c1f-42c0-8544-0e6d19bb181f",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "sergei-prokofiev",
+    "name": "Sergei Prokofiev",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "0e43fe9d-c472-4b62-be9e-55f971a023e1",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "gustav-holst",
+    "name": "Gustav Holst",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "3ba68671-e3b5-4263-81dc-76b16b29bbc6",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "franz-waxman",
+    "name": "Franz Waxman",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "cdd81dd0-fd6c-43c1-aa81-7a26d9860e6e",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "ronald-shannon-jackson",
+    "name": "Ronald Shannon Jackson",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "451b8847-e9f8-4bb3-a72c-6bde23b7b885",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "stanley-clarke",
+    "name": "Stanley Clarke",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "5ab6ca23-9e17-43f2-ad92-869d28bdbf11",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "mantovani",
+    "name": "Mantovani",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "4c566ee7-8dd4-4edc-8cbe-a86ee30feb06",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "george-korngold",
+    "name": "George Korngold",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "0cf512d9-d192-4d93-8dfc-78e893be0ac5",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "anthrax",
+    "name": "Anthrax",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "b616d6f0-ec1f-4c69-8a79-12a97ece7372",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "black-oak-arkansas",
+    "name": "Black Oak Arkansas",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "1ff4b10b-4214-48b7-87b4-64394773bfcc",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "operation-ivy",
+    "name": "Operation Ivy",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "931e1d1f-6b2f-4ff8-9f70-aa537210cd46",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "dead-kennedys",
+    "name": "Dead Kennedys",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "37c78aeb-d196-42b5-b991-6afb4fc9bc2e",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "nofx",
+    "name": "NOFX",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "dcaa4f81-bfb7-44eb-8594-4e74f004b6e4",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "7-seconds",
+    "name": "7 Seconds",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "3594dd1c-1267-471f-a6e2-78978bb3e024",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "michel-legrand",
+    "name": "Michel Legrand",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "2c330f54-9245-488b-b678-dc8a236d06b3",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "ruth-crawford-seeger",
+    "name": "Ruth Crawford Seeger",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "bd108522-8856-4eba-8747-f38860a51818",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "tsunami-bomb",
+    "name": "Tsunami Bomb",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "7d75def9-7b9e-45f4-9437-22601c5dc862",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "billy-bragg",
+    "name": "Billy Bragg",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "7cec4a03-0a83-4308-856a-afb8aa5db0fc",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-nation-of-ulysses",
+    "name": "The Nation of Ulysses",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "ae888df0-2a19-4895-a654-e0093875d5b6",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "pierre-soulages",
+    "name": "Pierre Soulages",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "1f6bff76-3884-4c45-8e54-2171ecd2e8cb",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "robin-trower",
+    "name": "Robin Trower",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "6605c2c6-f115-486c-8b1a-b786882de463",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "golden-earring",
+    "name": "Golden Earring",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "75336c3d-2833-46cb-8037-b835cd7d646d",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "24-7-spyz",
+    "name": "24-7 Spyz",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "d30381e1-27bd-4596-a9c8-d28d6fdceb83",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "buster-smith",
+    "name": "Buster Smith",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "7c0eaa6d-31c0-4e2a-8a00-6567d4677caa",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-dave-clark-five",
+    "name": "The Dave Clark Five",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "6da6a053-618f-4f17-aea1-c8075bd8cc2d",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "eric-b-rakim",
+    "name": "Eric B. & Rakim",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "925228de-bbe5-4c7b-b76f-78e382ec9148",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "fastbacks",
+    "name": "Fastbacks",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "3fe64039-d8e0-4ac2-838f-9a3bf97c4931",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "dead-milkmen",
+    "name": "Dead Milkmen",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "cdd2e0f0-703d-454d-b5c7-cc3bb6dd5552",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "stiff-little-fingers",
+    "name": "Stiff Little Fingers",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "022865bc-84c9-4002-b6c1-d5fc6e12b7d8",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-last-poets",
+    "name": "The Last Poets",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "9457a08d-a2d0-4f2d-9876-b8870612d54f",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-adverts",
+    "name": "The Adverts",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "60ec2ff0-d58a-4319-9d8a-2142ad5bf48a",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "montrose",
+    "name": "Montrose",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "d68063aa-620e-4cf5-8d8c-c2fc8bd1800b",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "urban-dance-squad",
+    "name": "Urban Dance Squad",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "770b04ac-7075-4a39-ab37-dd2885b21e2f",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "james-horner",
+    "name": "James Horner",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "679ec43c-bc04-4bb0-b619-2da702a214ba",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "count-basie",
+    "name": "Count Basie",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "0dbd6300-efdc-420b-857e-895e18fad317",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "michael-kamen",
+    "name": "Michael Kamen",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "adcc6c98-0bf1-4d54-84aa-2249cf5e46bf",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "henry-mancini",
+    "name": "Henry Mancini",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "83e71a21-caf7-4e48-8ff7-6512d51e88a3",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "james-newton-howard",
+    "name": "James Newton Howard",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "f6580b26-77f7-4a7b-8513-6db0476e8f21",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "coleman-hawkins",
+    "name": "Coleman Hawkins",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "5c8cb181-38fe-4300-8153-650b2ed0258f",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "harry-gregson-williams",
+    "name": "Harry Gregson-Williams",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "8974da95-e631-45aa-8fd7-aa0c2795f997",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "dimitri-tiomkin",
+    "name": "Dimitri Tiomkin",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "0ed6e209-dd4d-4c47-b6d0-c3a1ae06fef5",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "max-steiner",
+    "name": "Max Steiner",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "e466fb04-0175-4875-bb39-f50200b66805",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "patrick-doyle",
+    "name": "Patrick Doyle",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "0627192d-4fed-4f4b-bad8-383bb42fa8fa",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "victor-young",
+    "name": "Victor Young",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "338f9d5d-9327-4f01-bb99-0cdf22c48565",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "mercer-ellington",
+    "name": "Mercer Ellington",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "a86ce05d-ba80-4e65-8091-12835bad02d3",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-groundhogs",
+    "name": "The Groundhogs",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "e7cab571-1fa7-4ccc-8fb5-b4f1093df973",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "the-magic-band",
+    "name": "The Magic Band",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "7c5bb396-3b57-472a-9dfd-24ff98d2cc50",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "nick-lowe",
+    "name": "Nick Lowe",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "a3d5a6bf-c86d-44d3-969b-f345620009c6",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "eddie-and-the-hot-rods",
+    "name": "Eddie and the Hot Rods",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "e062ce8b-19cc-4308-b37b-f62b7adfb6c2",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "mark-mothersbaugh",
+    "name": "Mark Mothersbaugh",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "6ff5f720-9fcd-434c-8a62-dc9dd123bde7",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "jimmie-lunceford",
+    "name": "Jimmie Lunceford",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "bea5831a-fa7f-4316-9d71-754e390556b8",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "lennie-niehaus",
+    "name": "Lennie Niehaus",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "84b40267-a06a-4c03-9fe0-a92e340f99c5",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "ducks-deluxe",
+    "name": "Ducks Deluxe",
+    "kind": "band",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "987bb1be-2043-48fa-8f16-02ffd54d15c1",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "charlie-shavers",
+    "name": "Charlie Shavers",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "7c6607e2-dd61-4056-a56f-e46ebfa8b4c7",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "ivory-joe-hunter",
+    "name": "Ivory Joe Hunter",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "ccf7253d-96b7-4cf3-9e11-ad916081a37b",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "blind-willie-mctell",
+    "name": "Blind Willie McTell",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "81e02e29-e46a-49cb-bf13-d204cbe86daa",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "nino-rota",
+    "name": "Nino Rota",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "d52ac009-4ed5-4d01-97d5-8280bb7dd460",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "ma-rainey",
+    "name": "Ma Rainey",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "e1deae56-c8f0-4e73-8264-f4b02dfc051c",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "alfred-newman",
+    "name": "Alfred Newman",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "dbe22c4f-6a21-4b7c-ad09-e4048d1065bc",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "amos-milburn",
+    "name": "Amos Milburn",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "dfa41f72-2f98-4f16-95ea-440cad19db77",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "james-booker",
+    "name": "James Booker",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "fe155348-c8a6-4d09-af55-4d9a53b89e76",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "id": "rudy-ray-moore",
+    "name": "Rudy Ray Moore",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [],
+    "mbid": "beefe242-9b13-4da8-943a-3bcbc312951e",
+    "spotify_id": null,
+    "seed": false,
+    "sources": [
+      "wikidata"
     ]
   }
 ]
