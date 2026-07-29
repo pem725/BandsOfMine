@@ -132678,7 +132678,12 @@
     "source": "r-e-m",
     "target": "marquee-moon",
     "type": "influenced_by",
-    "intervals": [],
+    "intervals": [
+      [
+        1984,
+        1997
+      ]
+    ],
     "weight": 0.7,
     "note": "Wikidata: R.E.M. influenced by Marquee Moon.",
     "sources": [
@@ -132793,7 +132798,12 @@
     "source": "r-e-m",
     "target": "horses",
     "type": "influenced_by",
-    "intervals": [],
+    "intervals": [
+      [
+        2004,
+        null
+      ]
+    ],
     "weight": 0.7,
     "note": "Wikidata: R.E.M. influenced by Horses.",
     "sources": [
@@ -137407,6 +137417,1838 @@
     ],
     "weight": 0.7,
     "note": "Wikidata: Snoop Dogg influenced by Rudy Ray Moore.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "madonna",
+    "target": "david-bowie",
+    "type": "influenced_by",
+    "intervals": [
+      [
+        1947,
+        2016
+      ]
+    ],
+    "weight": 0.7,
+    "note": "Wikidata: Madonna influenced by David Bowie.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "jack-kerouac",
+    "target": "honore-de-balzac",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Jack Kerouac influenced by Honor\u00e9 de Balzac.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "jack-kerouac",
+    "target": "louis-ferdinand-celine",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Jack Kerouac influenced by Louis-Ferdinand C\u00e9line.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "jack-kerouac",
+    "target": "neal-cassady",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Jack Kerouac influenced by Neal Cassady.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "sam-cooke",
+    "target": "steve-perry",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Sam Cooke influenced by Steve Perry.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "jack-kerouac",
+    "target": "therese-of-lisieux",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Jack Kerouac influenced by Th\u00e9r\u00e8se of Lisieux.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "jack-kerouac",
+    "target": "william-s-burroughs",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Jack Kerouac influenced by William S. Burroughs.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "madonna",
+    "target": "mae-west",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Madonna influenced by Mae West.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "madonna",
+    "target": "debbie-harry",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Madonna influenced by Debbie Harry.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "madonna",
+    "target": "chrissie-hynde",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Madonna influenced by Chrissie Hynde.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "sam-cooke",
+    "target": "james-baldwin",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Sam Cooke influenced by James Baldwin.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "ella-fitzgerald",
+    "target": "maxine-sullivan",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Ella Fitzgerald influenced by Maxine Sullivan.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "madonna",
+    "target": "martha-graham",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Madonna influenced by Martha Graham.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "enya",
+    "target": "brian-eno",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Enya influenced by Brian Eno.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "everclear",
+    "target": "the-afghan-whigs",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Everclear influenced by The Afghan Whigs.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "everclear",
+    "target": "uncle-tupelo",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Everclear influenced by Uncle Tupelo.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "dolly-parton",
+    "target": "maddox-brothers-and-rose",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Dolly Parton influenced by Maddox Brothers and Rose.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "ramones",
+    "target": "the-music-machine",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Ramones influenced by The Music Machine.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "papa-wemba",
+    "target": "tabu-ley-rochereau",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Papa Wemba influenced by Tabu Ley Rochereau.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "ramones",
+    "target": "the-remains",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Ramones influenced by The Remains.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "dolly-parton",
+    "target": "molly-o-day",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Dolly Parton influenced by Molly O'Day.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "dolly-parton",
+    "target": "tom-paxton",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Dolly Parton influenced by Tom Paxton.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "everclear",
+    "target": "screaming-trees",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Everclear influenced by Screaming Trees.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "dolly-parton",
+    "target": "the-carter-family",
+    "type": "influenced_by",
+    "intervals": [
+      [
+        1927,
+        1943
+      ]
+    ],
+    "weight": 0.7,
+    "note": "Wikidata: Dolly Parton influenced by Carter Family.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "ramones",
+    "target": "the-crystals",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Ramones influenced by The Crystals.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "ramones",
+    "target": "the-trashmen",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Ramones influenced by The Trashmen.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "alice-in-chains",
+    "target": "neil-young",
+    "type": "influenced_by",
+    "intervals": [
+      [
+        1945,
+        null
+      ]
+    ],
+    "weight": 0.7,
+    "note": "Wikidata: Alice in Chains influenced by Neil Young.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "everclear",
+    "target": "neil-young",
+    "type": "influenced_by",
+    "intervals": [
+      [
+        1945,
+        null
+      ]
+    ],
+    "weight": 0.7,
+    "note": "Wikidata: Everclear influenced by Neil Young.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "elliott-smith",
+    "target": "the-beatles",
+    "type": "influenced_by",
+    "intervals": [
+      [
+        1960,
+        1970
+      ]
+    ],
+    "weight": 0.7,
+    "note": "Wikidata: Elliott Smith influenced by The Beatles.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "ramones",
+    "target": "the-beatles",
+    "type": "influenced_by",
+    "intervals": [
+      [
+        1960,
+        1970
+      ]
+    ],
+    "weight": 0.7,
+    "note": "Wikidata: Ramones influenced by The Beatles.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "everclear",
+    "target": "the-beatles",
+    "type": "influenced_by",
+    "intervals": [
+      [
+        1960,
+        1970
+      ]
+    ],
+    "weight": 0.7,
+    "note": "Wikidata: Everclear influenced by The Beatles.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "alice-in-chains",
+    "target": "led-zeppelin",
+    "type": "influenced_by",
+    "intervals": [
+      [
+        1968,
+        1980
+      ]
+    ],
+    "weight": 0.7,
+    "note": "Wikidata: Alice in Chains influenced by Led Zeppelin.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "dolly-parton",
+    "target": "woody-guthrie",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Dolly Parton influenced by Woody Guthrie.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "ramones",
+    "target": "chuck-berry",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Ramones influenced by Chuck Berry.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "ramones",
+    "target": "buddy-holly",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Ramones influenced by Buddy Holly.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "ramones",
+    "target": "the-rolling-stones",
+    "type": "influenced_by",
+    "intervals": [
+      [
+        1962,
+        null
+      ]
+    ],
+    "weight": 0.7,
+    "note": "Wikidata: Ramones influenced by The Rolling Stones.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "everclear",
+    "target": "nirvana",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Everclear influenced by Nirvana.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "alice-in-chains",
+    "target": "metallica",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Alice in Chains influenced by Metallica.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "alice-in-chains",
+    "target": "motorhead",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Alice in Chains influenced by Mot\u00f6rhead.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "alice-in-chains",
+    "target": "accept",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Alice in Chains influenced by Accept.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "alice-in-chains",
+    "target": "ac-dc",
+    "type": "influenced_by",
+    "intervals": [
+      [
+        1973,
+        null
+      ]
+    ],
+    "weight": 0.7,
+    "note": "Wikidata: Alice in Chains influenced by AC/DC.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "alice-in-chains",
+    "target": "the-doors",
+    "type": "influenced_by",
+    "intervals": [
+      [
+        1965,
+        1973
+      ]
+    ],
+    "weight": 0.7,
+    "note": "Wikidata: Alice in Chains influenced by The Doors.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "alice-in-chains",
+    "target": "black-sabbath",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Alice in Chains influenced by Black Sabbath.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "everclear",
+    "target": "green-day",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Everclear influenced by Green Day.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "sister-rosetta-tharpe",
+    "target": "little-richard",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Sister Rosetta Tharpe influenced by Little Richard.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "alice-in-chains",
+    "target": "sex-pistols",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Alice in Chains influenced by Sex Pistols.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "ramones",
+    "target": "the-who",
+    "type": "influenced_by",
+    "intervals": [
+      [
+        1964,
+        null
+      ]
+    ],
+    "weight": 0.7,
+    "note": "Wikidata: Ramones influenced by The Who.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "alice-in-chains",
+    "target": "deep-purple",
+    "type": "influenced_by",
+    "intervals": [
+      [
+        1968,
+        null
+      ]
+    ],
+    "weight": 0.7,
+    "note": "Wikidata: Alice in Chains influenced by Deep Purple.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "ramones",
+    "target": "the-velvet-underground",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Ramones influenced by The Velvet Underground.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "ramones",
+    "target": "kiss",
+    "type": "influenced_by",
+    "intervals": [
+      [
+        1973,
+        2023
+      ]
+    ],
+    "weight": 0.7,
+    "note": "Wikidata: Ramones influenced by Kiss.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "alice-in-chains",
+    "target": "kiss",
+    "type": "influenced_by",
+    "intervals": [
+      [
+        1973,
+        2023
+      ]
+    ],
+    "weight": 0.7,
+    "note": "Wikidata: Alice in Chains influenced by Kiss.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "ramones",
+    "target": "the-shangri-las",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Ramones influenced by The Shangri-Las.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "everclear",
+    "target": "pearl-jam",
+    "type": "influenced_by",
+    "intervals": [
+      [
+        1990,
+        null
+      ]
+    ],
+    "weight": 0.7,
+    "note": "Wikidata: Everclear influenced by Pearl Jam.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "ramones",
+    "target": "slade",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Ramones influenced by Slade.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "dolly-parton",
+    "target": "bill-monroe",
+    "type": "influenced_by",
+    "intervals": [
+      [
+        1911,
+        1996
+      ]
+    ],
+    "weight": 0.7,
+    "note": "Wikidata: Dolly Parton influenced by Bill Monroe.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "alice-in-chains",
+    "target": "soundgarden",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Alice in Chains influenced by Soundgarden.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "everclear",
+    "target": "soundgarden",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Everclear influenced by Soundgarden.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "ramones",
+    "target": "the-beach-boys",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Ramones influenced by The Beach Boys.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "alice-in-chains",
+    "target": "pixies",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Alice in Chains influenced by Pixies.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "everclear",
+    "target": "pixies",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Everclear influenced by Pixies.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "everclear",
+    "target": "sonic-youth",
+    "type": "influenced_by",
+    "intervals": [
+      [
+        1981,
+        2011
+      ]
+    ],
+    "weight": 0.7,
+    "note": "Wikidata: Everclear influenced by Sonic Youth.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "alice-in-chains",
+    "target": "van-halen",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Alice in Chains influenced by Van Halen.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "alice-in-chains",
+    "target": "rush",
+    "type": "influenced_by",
+    "intervals": [
+      [
+        1968,
+        null
+      ]
+    ],
+    "weight": 0.7,
+    "note": "Wikidata: Alice in Chains influenced by Rush.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "dolly-parton",
+    "target": "willie-nelson",
+    "type": "influenced_by",
+    "intervals": [
+      [
+        1933,
+        null
+      ]
+    ],
+    "weight": 0.7,
+    "note": "Wikidata: Dolly Parton influenced by Willie Nelson.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "dolly-parton",
+    "target": "hank-williams",
+    "type": "influenced_by",
+    "intervals": [
+      [
+        1923,
+        1953
+      ]
+    ],
+    "weight": 0.7,
+    "note": "Wikidata: Dolly Parton influenced by Hank Williams.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "everclear",
+    "target": "hank-williams",
+    "type": "influenced_by",
+    "intervals": [
+      [
+        1923,
+        1953
+      ]
+    ],
+    "weight": 0.7,
+    "note": "Wikidata: Everclear influenced by Hank Williams.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "ramones",
+    "target": "the-stooges",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Ramones influenced by The Stooges.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "alice-in-chains",
+    "target": "the-stooges",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Alice in Chains influenced by The Stooges.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "jane-siberry",
+    "target": "the-byrds",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Jane Siberry influenced by The Byrds.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "ramones",
+    "target": "t-rex",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Ramones influenced by T. Rex.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "ramones",
+    "target": "quiet-riot",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Ramones influenced by Quiet Riot.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "dolly-parton",
+    "target": "june-carter-cash",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Dolly Parton influenced by June Carter Cash.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "dolly-parton",
+    "target": "tammy-wynette",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Dolly Parton influenced by Tammy Wynette.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "dolly-parton",
+    "target": "wanda-jackson",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Dolly Parton influenced by Wanda Jackson.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "dolly-parton",
+    "target": "kitty-wells",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Dolly Parton influenced by Kitty Wells.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "dolly-parton",
+    "target": "loretta-lynn",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Dolly Parton influenced by Loretta Lynn.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "dolly-parton",
+    "target": "patsy-cline",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Dolly Parton influenced by Patsy Cline.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "bernard-herrmann",
+    "target": "charles-ives",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Bernard Herrmann influenced by Charles Ives.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "alice-in-chains",
+    "target": "misfits",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Alice in Chains influenced by Misfits.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "bernard-herrmann",
+    "target": "erich-wolfgang-korngold",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Bernard Herrmann influenced by Erich Wolfgang Korngold.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "ramones",
+    "target": "chubby-checker",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Ramones influenced by Chubby Checker.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "bernard-herrmann",
+    "target": "percy-grainger",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Bernard Herrmann influenced by Percy Grainger.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "alice-in-chains",
+    "target": "blue-oyster-cult",
+    "type": "influenced_by",
+    "intervals": [
+      [
+        1967,
+        null
+      ]
+    ],
+    "weight": 0.7,
+    "note": "Wikidata: Alice in Chains influenced by Blue \u00d6yster Cult.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "ramones",
+    "target": "alice-cooper",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Ramones influenced by Alice Cooper.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "alice-in-chains",
+    "target": "alice-cooper",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Alice in Chains influenced by Alice Cooper.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "bernard-herrmann",
+    "target": "max-steiner",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Bernard Herrmann influenced by Max Steiner.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "dolly-parton",
+    "target": "roy-rogers",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Dolly Parton influenced by Roy Rogers.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "alice-in-chains",
+    "target": "melvins",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Alice in Chains influenced by Melvins.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "dolly-parton",
+    "target": "janis-martin",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Dolly Parton influenced by Janis Martin.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "dolly-parton",
+    "target": "roy-acuff",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Dolly Parton influenced by Roy Acuff.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "alice-in-chains",
+    "target": "ramones",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Alice in Chains influenced by Ramones.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "ramones",
+    "target": "the-sweet",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Ramones influenced by The Sweet.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "alice-in-chains",
+    "target": "budgie",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Alice in Chains influenced by Budgie.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "everclear",
+    "target": "soul-asylum",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Everclear influenced by Soul Asylum.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "ramones",
+    "target": "the-ronettes",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Ramones influenced by The Ronettes.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "ramones",
+    "target": "count-five",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Ramones influenced by Count Five.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "ramones",
+    "target": "jonathan-richman",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Ramones influenced by Jonathan Richman.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "dolly-parton",
+    "target": "porter-wagoner",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Dolly Parton influenced by Porter Wagoner.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "ramones",
+    "target": "the-standells",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Ramones influenced by The Standells.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "ramones",
+    "target": "bay-city-rollers",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Ramones influenced by Bay City Rollers.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "ramones",
+    "target": "mc5",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Ramones influenced by MC5.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "ramones",
+    "target": "new-york-dolls",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Ramones influenced by New York Dolls.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "everclear",
+    "target": "husker-du",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Everclear influenced by H\u00fcsker D\u00fc.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "alice-in-chains",
+    "target": "the-cult",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Alice in Chains influenced by The Cult.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "phil-ochs",
+    "target": "bob-gibson",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Phil Ochs influenced by Bob Gibson.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "ramones",
+    "target": "bobby-fuller",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Ramones influenced by Bobby Fuller.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "everclear",
+    "target": "mudhoney",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Everclear influenced by Mudhoney.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "alice-in-chains",
+    "target": "heart",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Alice in Chains influenced by Heart.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "ramones",
+    "target": "the-troggs",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Ramones influenced by The Troggs.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "ramones",
+    "target": "the-rivieras",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Ramones influenced by The Rivieras.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "ramones",
+    "target": "freddy-cannon",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Ramones influenced by Freddy Cannon.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "everclear",
+    "target": "the-replacements",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Everclear influenced by The Replacements.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "everclear",
+    "target": "green-river",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Everclear influenced by Green River.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "alice-in-chains",
+    "target": "corrosion-of-conformity",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Alice in Chains influenced by Corrosion of Conformity.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "dolly-parton",
+    "target": "dock-boggs",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Dolly Parton influenced by Dock Boggs.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "badfinger",
+    "target": "the-beatles",
+    "type": "influenced_by",
+    "intervals": [
+      [
+        1960,
+        1970
+      ]
+    ],
+    "weight": 0.7,
+    "note": "Wikidata: Badfinger influenced by The Beatles.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "sham-69",
+    "target": "the-clash",
+    "type": "influenced_by",
+    "intervals": [
+      [
+        1976,
+        1986
+      ]
+    ],
+    "weight": 0.7,
+    "note": "Wikidata: Sham 69 influenced by The Clash.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "karlheinz-stockhausen",
+    "target": "olivier-messiaen",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Karlheinz Stockhausen influenced by Olivier Messiaen.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "karlheinz-stockhausen",
+    "target": "theodor-w-adorno",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Karlheinz Stockhausen influenced by Theodor W. Adorno.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "badfinger",
+    "target": "emerson-lake-palmer",
+    "type": "influenced_by",
+    "intervals": [
+      [
+        1970,
+        2011
+      ]
+    ],
+    "weight": 0.7,
+    "note": "Wikidata: Badfinger influenced by Emerson, Lake & Palmer.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "karlheinz-stockhausen",
+    "target": "the-urantia-book",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Karlheinz Stockhausen influenced by The Urantia Book.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "karlheinz-stockhausen",
+    "target": "the-glass-bead-game",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Karlheinz Stockhausen influenced by The Glass Bead Game.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "nina-hagen",
+    "target": "the-tubes",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Nina Hagen influenced by The Tubes.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "raspberries",
+    "target": "the-beatles",
+    "type": "influenced_by",
+    "intervals": [
+      [
+        1960,
+        1970
+      ]
+    ],
+    "weight": 0.7,
+    "note": "Wikidata: Raspberries influenced by The Beatles.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "lennie-niehaus",
+    "target": "duke-ellington",
+    "type": "influenced_by",
+    "intervals": [
+      [
+        1899,
+        1974
+      ]
+    ],
+    "weight": 0.7,
+    "note": "Wikidata: Lennie Niehaus influenced by Duke Ellington.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "richard-wagner",
+    "target": "arthur-schopenhauer",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Richard Wagner influenced by Arthur Schopenhauer.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "harry-gregson-williams",
+    "target": "hans-zimmer",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Harry Gregson-Williams influenced by Hans Zimmer.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "raspberries",
+    "target": "the-who",
+    "type": "influenced_by",
+    "intervals": [
+      [
+        1964,
+        null
+      ]
+    ],
+    "weight": 0.7,
+    "note": "Wikidata: Raspberries influenced by The Who.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "lennie-niehaus",
+    "target": "charlie-parker",
+    "type": "influenced_by",
+    "intervals": [
+      [
+        1920,
+        1955
+      ]
+    ],
+    "weight": 0.7,
+    "note": "Wikidata: Lennie Niehaus influenced by Charlie Parker.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "lennie-niehaus",
+    "target": "maurice-jarre",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Lennie Niehaus influenced by Maurice Jarre.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "patrick-doyle",
+    "target": "james-horner",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Patrick Doyle influenced by James Horner.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "lennie-niehaus",
+    "target": "cannonball-adderley",
+    "type": "influenced_by",
+    "intervals": [
+      [
+        1928,
+        1975
+      ]
+    ],
+    "weight": 0.7,
+    "note": "Wikidata: Lennie Niehaus influenced by Cannonball Adderley.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "lennie-niehaus",
+    "target": "elmer-bernstein",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Lennie Niehaus influenced by Elmer Bernstein.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "patrick-doyle",
+    "target": "john-williams",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Patrick Doyle influenced by John Williams.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "lennie-niehaus",
+    "target": "henry-mancini",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Lennie Niehaus influenced by Henry Mancini.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "harry-gregson-williams",
+    "target": "danny-elfman",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Harry Gregson-Williams influenced by Danny Elfman.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "raspberries",
+    "target": "small-faces",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Raspberries influenced by Small Faces.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "lennie-niehaus",
+    "target": "jerry-goldsmith",
+    "type": "influenced_by",
+    "intervals": [
+      [
+        1929,
+        2004
+      ]
+    ],
+    "weight": 0.7,
+    "note": "Wikidata: Lennie Niehaus influenced by Jerry Goldsmith.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "lennie-niehaus",
+    "target": "lalo-schifrin",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Lennie Niehaus influenced by Lalo Schifrin.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "raspberries",
+    "target": "the-hollies",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Raspberries influenced by The Hollies.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "michael-kamen",
+    "target": "bernard-herrmann",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Michael Kamen influenced by Bernard Herrmann.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "lennie-niehaus",
+    "target": "bernard-herrmann",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Lennie Niehaus influenced by Bernard Herrmann.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "lennie-niehaus",
+    "target": "michel-legrand",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Lennie Niehaus influenced by Michel Legrand.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "lennie-niehaus",
+    "target": "sonny-criss",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Lennie Niehaus influenced by Sonny Criss.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "lennie-niehaus",
+    "target": "benny-carter",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Lennie Niehaus influenced by Benny Carter.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "lennie-niehaus",
+    "target": "alfred-newman",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Lennie Niehaus influenced by Alfred Newman.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "lennie-niehaus",
+    "target": "lee-konitz",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Lennie Niehaus influenced by Lee Konitz.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "lennie-niehaus",
+    "target": "phil-woods",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Lennie Niehaus influenced by Phil Woods.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "lennie-niehaus",
+    "target": "oliver-wallace",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Lennie Niehaus influenced by Oliver Wallace.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "nofx",
+    "target": "rich-kids-on-lsd",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: NOFX influenced by Rich Kids on LSD.",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "7-seconds",
+    "target": "d-o-a",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: 7 Seconds influenced by D.O.A..",
+    "sources": [
+      "wikidata"
+    ]
+  },
+  {
+    "source": "lennie-niehaus",
+    "target": "george-bruns",
+    "type": "influenced_by",
+    "intervals": [],
+    "weight": 0.7,
+    "note": "Wikidata: Lennie Niehaus influenced by George Bruns.",
     "sources": [
       "wikidata"
     ]
