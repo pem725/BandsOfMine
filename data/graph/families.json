@@ -1,0 +1,1933 @@
+{
+  "families": [
+    {
+      "anchor": "the-beatles",
+      "name": "The Beatles",
+      "members": [
+        {
+          "id": "the-rolling-stones",
+          "name": "The Rolling Stones",
+          "tracks": 270,
+          "roots": [
+            "The Beatles",
+            "Muddy Waters",
+            "Chuck Berry",
+            "Robert Johnson",
+            "John Lee Hooker"
+          ]
+        },
+        {
+          "id": "billy-joel",
+          "name": "Billy Joel",
+          "tracks": 246,
+          "roots": [
+            "The Beatles",
+            "The Rolling Stones",
+            "Ray Charles",
+            "Otis Redding",
+            "Beethoven"
+          ]
+        },
+        {
+          "id": "queen",
+          "name": "Queen",
+          "tracks": 180,
+          "roots": [
+            "The Beatles",
+            "Jimi Hendrix",
+            "The Who",
+            "Cream",
+            "Pink"
+          ]
+        },
+        {
+          "id": "u2",
+          "name": "U2",
+          "tracks": 176,
+          "roots": [
+            "The Beatles",
+            "Bob Dylan",
+            "The Rolling Stones",
+            "David Bowie",
+            "The Who"
+          ]
+        },
+        {
+          "id": "jack-johnson",
+          "name": "Jack Johnson",
+          "tracks": 134,
+          "roots": [
+            "The Beatles",
+            "Bob Dylan",
+            "Jimi Hendrix",
+            "Bob Marley",
+            "Radiohead"
+          ]
+        },
+        {
+          "id": "coldplay",
+          "name": "Coldplay",
+          "tracks": 112,
+          "roots": [
+            "The Beatles",
+            "U2",
+            "Oasis",
+            "Radiohead",
+            "Jeff Buckley"
+          ]
+        },
+        {
+          "id": "cat-stevens",
+          "name": "Cat Stevens",
+          "tracks": 106,
+          "roots": [
+            "The Beatles",
+            "Bob Dylan",
+            "The Rolling Stones",
+            "Joni Mitchell",
+            "Joan Baez"
+          ]
+        },
+        {
+          "id": "bee-gees",
+          "name": "Bee Gees",
+          "tracks": 80,
+          "roots": [
+            "The Beatles",
+            "The Everly Brothers"
+          ]
+        },
+        {
+          "id": "pink-floyd",
+          "name": "Pink Floyd",
+          "tracks": 80,
+          "roots": [
+            "The Beatles",
+            "Bo Diddley",
+            "Pink Anderson",
+            "Floyd Council"
+          ]
+        },
+        {
+          "id": "lifehouse",
+          "name": "Lifehouse",
+          "tracks": 72,
+          "roots": [
+            "The Beatles",
+            "U2",
+            "Paul Simon",
+            "Nirvana",
+            "Pearl Jam"
+          ]
+        },
+        {
+          "id": "one-republic",
+          "name": "One Republic",
+          "tracks": 72,
+          "roots": [
+            "The Beatles",
+            "U2",
+            "Peter Gabriel",
+            "Muse",
+            "Fiona Apple"
+          ]
+        },
+        {
+          "id": "sting",
+          "name": "Sting",
+          "tracks": 70,
+          "roots": [
+            "The Beatles",
+            "Bob Marley",
+            "Miles Davis",
+            "Jaco Pastorius"
+          ]
+        },
+        {
+          "id": "barenaked-ladies",
+          "name": "Barenaked Ladies",
+          "tracks": 66,
+          "roots": [
+            "The Beatles",
+            "The Beach Boys",
+            "Rush"
+          ]
+        },
+        {
+          "id": "kiss",
+          "name": "Kiss",
+          "tracks": 48,
+          "roots": [
+            "The Beatles",
+            "Jimi Hendrix",
+            "The Rolling Stones",
+            "David Bowie",
+            "The Who"
+          ]
+        },
+        {
+          "id": "peter-frampton",
+          "name": "Peter Frampton",
+          "tracks": 48,
+          "roots": [
+            "The Beatles",
+            "Hank Marvin",
+            "The Ventures"
+          ]
+        },
+        {
+          "id": "david-bowie",
+          "name": "David Bowie",
+          "tracks": 44,
+          "roots": [
+            "The Beatles",
+            "Bob Dylan",
+            "The Velvet Underground",
+            "Little Richard",
+            "Pink"
+          ]
+        },
+        {
+          "id": "seal",
+          "name": "Seal",
+          "tracks": 40,
+          "roots": [
+            "The Beatles",
+            "Jimi Hendrix",
+            "David Bowie",
+            "Stevie Wonder",
+            "U2"
+          ]
+        },
+        {
+          "id": "the-monkeys",
+          "name": "The Monkeys",
+          "tracks": 40,
+          "roots": [
+            "The Beatles",
+            "The Beach Boys"
+          ]
+        },
+        {
+          "id": "third-eye-blind",
+          "name": "Third Eye Blind",
+          "tracks": 38,
+          "roots": [
+            "The Beatles",
+            "David Bowie",
+            "U2",
+            "The Clash",
+            "Prince"
+          ]
+        },
+        {
+          "id": "genesis",
+          "name": "Genesis",
+          "tracks": 34,
+          "roots": [
+            "The Beatles",
+            "The Beach Boys",
+            "Nina Simone",
+            "King Crimson",
+            "The Nice"
+          ]
+        },
+        {
+          "id": "goo-goo-dolls",
+          "name": "Goo Goo Dolls",
+          "tracks": 32,
+          "roots": [
+            "The Beatles",
+            "Tom Petty",
+            "Neil Young",
+            "Ramones",
+            "R.E.M."
+          ]
+        },
+        {
+          "id": "imagine-dragons",
+          "name": "Imagine Dragons",
+          "tracks": 32,
+          "roots": [
+            "The Beatles",
+            "U2",
+            "Paul Simon",
+            "Nirvana",
+            "Muse"
+          ]
+        },
+        {
+          "id": "deep-purple",
+          "name": "Deep Purple",
+          "tracks": 30,
+          "roots": [
+            "The Beatles",
+            "Jimi Hendrix",
+            "The Rolling Stones",
+            "Led Zeppelin",
+            "The Kinks"
+          ]
+        },
+        {
+          "id": "lenny-kravitz",
+          "name": "Lenny Kravitz",
+          "tracks": 30,
+          "roots": [
+            "The Beatles",
+            "Jimi Hendrix",
+            "The Rolling Stones",
+            "Bob Marley",
+            "Stevie Wonder"
+          ]
+        },
+        {
+          "id": "electric-light-orchestra",
+          "name": "Electric Light Orchestra",
+          "tracks": 30,
+          "roots": [
+            "The Beatles",
+            "The Who",
+            "The Kinks"
+          ]
+        },
+        {
+          "id": "america",
+          "name": "America",
+          "tracks": 24,
+          "roots": [
+            "The Beatles",
+            "The Beach Boys",
+            "Jackson Browne"
+          ]
+        },
+        {
+          "id": "tom-petty",
+          "name": "Tom Petty",
+          "tracks": 24,
+          "roots": [
+            "The Beatles",
+            "Bob Dylan",
+            "The Rolling Stones",
+            "Elvis Presley",
+            "The Byrds"
+          ]
+        },
+        {
+          "id": "squeeze",
+          "name": "Squeeze",
+          "tracks": 24,
+          "roots": [
+            "The Beatles",
+            "Bob Dylan",
+            "Jimi Hendrix",
+            "David Bowie",
+            "The Velvet Underground"
+          ]
+        },
+        {
+          "id": "the-police",
+          "name": "The Police",
+          "tracks": 24,
+          "roots": [
+            "The Beatles",
+            "Jimi Hendrix",
+            "David Bowie",
+            "Bob Marley",
+            "Stevie Wonder"
+          ]
+        },
+        {
+          "id": "bryan-adams",
+          "name": "Bryan Adams",
+          "tracks": 20,
+          "roots": [
+            "The Beatles",
+            "David Bowie",
+            "The Who",
+            "Led Zeppelin",
+            "The Beach Boys"
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "bob-dylan",
+      "name": "Bob Dylan",
+      "members": [
+        {
+          "id": "the-beatles",
+          "name": "The Beatles",
+          "tracks": 1081,
+          "roots": [
+            "Bob Dylan",
+            "Chuck Berry",
+            "Elvis Presley",
+            "Little Richard",
+            "Buddy Holly"
+          ]
+        },
+        {
+          "id": "bruce-springsteen",
+          "name": "Bruce Springsteen",
+          "tracks": 364,
+          "roots": [
+            "Bob Dylan",
+            "Woody Guthrie",
+            "Eddie Cochran",
+            "Pete Seeger"
+          ]
+        },
+        {
+          "id": "jimmy-buffett",
+          "name": "Jimmy Buffett",
+          "tracks": 154,
+          "roots": [
+            "Bob Dylan",
+            "The Beach Boys",
+            "Hank Williams",
+            "Merle Haggard",
+            "Jerry Jeff Walker"
+          ]
+        },
+        {
+          "id": "john-hiatt",
+          "name": "John Hiatt",
+          "tracks": 146,
+          "roots": [
+            "Bob Dylan",
+            "Elvis Costello",
+            "Graham Parker",
+            "Joe Jackson"
+          ]
+        },
+        {
+          "id": "the-wallflowers",
+          "name": "The Wallflowers",
+          "tracks": 96,
+          "roots": [
+            "Bob Dylan",
+            "Tom Petty"
+          ]
+        },
+        {
+          "id": "the-clash",
+          "name": "The Clash",
+          "tracks": 80,
+          "roots": [
+            "Bob Dylan",
+            "Elvis Presley",
+            "The Who",
+            "Woody Guthrie",
+            "Bob Marley"
+          ]
+        },
+        {
+          "id": "john-prine",
+          "name": "John Prine",
+          "tracks": 78,
+          "roots": [
+            "Bob Dylan",
+            "Hank Williams",
+            "Roger Miller"
+          ]
+        },
+        {
+          "id": "dire-straits",
+          "name": "Dire Straits",
+          "tracks": 72,
+          "roots": [
+            "Bob Dylan",
+            "J.J. Cale"
+          ]
+        },
+        {
+          "id": "melissa-etheridge",
+          "name": "Melissa Etheridge",
+          "tracks": 60,
+          "roots": [
+            "Bob Dylan",
+            "Bruce Springsteen",
+            "Janis Joplin"
+          ]
+        },
+        {
+          "id": "counting-crows",
+          "name": "Counting Crows",
+          "tracks": 50,
+          "roots": [
+            "Bob Dylan",
+            "Tom Petty",
+            "Paul Simon",
+            "Van Morrison",
+            "R.E.M."
+          ]
+        },
+        {
+          "id": "ray-lamontagne",
+          "name": "Ray LaMontagne",
+          "tracks": 40,
+          "roots": [
+            "Bob Dylan",
+            "Ray Charles",
+            "Joni Mitchell",
+            "Otis Redding",
+            "Aretha Franklin"
+          ]
+        },
+        {
+          "id": "tom-waits",
+          "name": "Tom Waits",
+          "tracks": 36,
+          "roots": [
+            "Bob Dylan",
+            "Howlin' Wolf",
+            "Louis Armstrong",
+            "Kurt Weill"
+          ]
+        },
+        {
+          "id": "jackson-browne",
+          "name": "Jackson Browne",
+          "tracks": 34,
+          "roots": [
+            "Bob Dylan"
+          ]
+        },
+        {
+          "id": "damien-rice",
+          "name": "Damien Rice",
+          "tracks": 34,
+          "roots": [
+            "Bob Dylan",
+            "Van Morrison",
+            "Jeff Buckley",
+            "Nick Drake"
+          ]
+        },
+        {
+          "id": "jimi-hendrix",
+          "name": "Jimi Hendrix",
+          "tracks": 28,
+          "roots": [
+            "Bob Dylan",
+            "Chuck Berry",
+            "The Who",
+            "Cream"
+          ]
+        },
+        {
+          "id": "warren-zevon",
+          "name": "Warren Zevon",
+          "tracks": 28,
+          "roots": [
+            "Bob Dylan",
+            "Joni Mitchell",
+            "Igor Stravinsky"
+          ]
+        },
+        {
+          "id": "the-waterboys",
+          "name": "The Waterboys",
+          "tracks": 26,
+          "roots": [
+            "Bob Dylan",
+            "David Bowie",
+            "The Clash",
+            "Van Morrison",
+            "Patti Smith"
+          ]
+        },
+        {
+          "id": "amos-lee",
+          "name": "Amos Lee",
+          "tracks": 22,
+          "roots": [
+            "Bob Dylan",
+            "Otis Redding",
+            "Marvin Gaye",
+            "Neil Young",
+            "Bill Withers"
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "jimi-hendrix",
+      "name": "Jimi Hendrix",
+      "members": [
+        {
+          "id": "the-who",
+          "name": "The Who",
+          "tracks": 292,
+          "roots": [
+            "Jimi Hendrix",
+            "The Kinks",
+            "Beethoven",
+            "James Brown",
+            "Mose Allison"
+          ]
+        },
+        {
+          "id": "dave-matthews-band",
+          "name": "Dave Matthews Band",
+          "tracks": 214,
+          "roots": [
+            "Jimi Hendrix",
+            "Bob Marley",
+            "Paul Simon",
+            "Keith Jarrett",
+            "Grateful Dead"
+          ]
+        },
+        {
+          "id": "john-mayer",
+          "name": "John Mayer",
+          "tracks": 74,
+          "roots": [
+            "Jimi Hendrix",
+            "B.B. King",
+            "Buddy Guy",
+            "Eric Clapton",
+            "Stevie Ray Vaughan"
+          ]
+        },
+        {
+          "id": "traffic",
+          "name": "Traffic",
+          "tracks": 42,
+          "roots": [
+            "Jimi Hendrix",
+            "Ray Charles",
+            "Nina Simone",
+            "Buddy Guy",
+            "The Impressions"
+          ]
+        },
+        {
+          "id": "jethro-tull",
+          "name": "Jethro Tull",
+          "tracks": 40,
+          "roots": [
+            "Jimi Hendrix",
+            "Muddy Waters",
+            "Howlin' Wolf",
+            "Roy Harper",
+            "John Mayall"
+          ]
+        },
+        {
+          "id": "freddie-mercury",
+          "name": "Freddie Mercury",
+          "tracks": 36,
+          "roots": [
+            "Jimi Hendrix",
+            "Lata Mangeshkar"
+          ]
+        },
+        {
+          "id": "blues-traveler",
+          "name": "Blues Traveler",
+          "tracks": 24,
+          "roots": [
+            "Jimi Hendrix",
+            "Muddy Waters",
+            "John Lee Hooker",
+            "Elmore James",
+            "Paul Butterfield"
+          ]
+        },
+        {
+          "id": "rush",
+          "name": "Rush",
+          "tracks": 22,
+          "roots": [
+            "Jimi Hendrix",
+            "The Who",
+            "Led Zeppelin",
+            "Cream",
+            "Pink"
+          ]
+        },
+        {
+          "id": "zz-top",
+          "name": "Zz Top",
+          "tracks": 20,
+          "roots": [
+            "Jimi Hendrix",
+            "Muddy Waters",
+            "Howlin' Wolf",
+            "B.B. King",
+            "Freddie King"
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "ray-charles",
+      "name": "Ray Charles",
+      "members": [
+        {
+          "id": "van-morrison",
+          "name": "Van Morrison",
+          "tracks": 208,
+          "roots": [
+            "Ray Charles",
+            "Lead Belly",
+            "Brownie McGhee",
+            "Sonny Terry",
+            "Solomon Burke"
+          ]
+        },
+        {
+          "id": "norah-jones",
+          "name": "Norah Jones",
+          "tracks": 114,
+          "roots": [
+            "Ray Charles",
+            "Billie Holiday",
+            "Miles Davis",
+            "Nina Simone",
+            "Bill Evans"
+          ]
+        },
+        {
+          "id": "bob-marley",
+          "name": "Bob Marley",
+          "tracks": 56,
+          "roots": [
+            "Ray Charles",
+            "Elvis Presley",
+            "Curtis Mayfield",
+            "The Impressions",
+            "Fats Domino"
+          ]
+        },
+        {
+          "id": "eva-cassidy",
+          "name": "Eva Cassidy",
+          "tracks": 42,
+          "roots": [
+            "Ray Charles",
+            "Stevie Wonder",
+            "Joni Mitchell",
+            "Louis Armstrong",
+            "Ella Fitzgerald"
+          ]
+        },
+        {
+          "id": "joe-cocker",
+          "name": "Joe Cocker",
+          "tracks": 36,
+          "roots": [
+            "Ray Charles"
+          ]
+        },
+        {
+          "id": "the-animals",
+          "name": "The Animals",
+          "tracks": 30,
+          "roots": [
+            "Ray Charles",
+            "Chuck Berry",
+            "John Lee Hooker",
+            "Fats Domino",
+            "Big Joe Turner"
+          ]
+        },
+        {
+          "id": "joan-osborne",
+          "name": "Joan Osborne",
+          "tracks": 24,
+          "roots": [
+            "Ray Charles",
+            "Otis Redding",
+            "Aretha Franklin",
+            "Bessie Smith",
+            "Etta James"
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "muddy-waters",
+      "name": "Muddy Waters",
+      "members": [
+        {
+          "id": "eric-clapton",
+          "name": "Eric Clapton",
+          "tracks": 292,
+          "roots": [
+            "Muddy Waters",
+            "Chuck Berry",
+            "Robert Johnson",
+            "B.B. King",
+            "Freddie King"
+          ]
+        },
+        {
+          "id": "fleetwood-mac",
+          "name": "Fleetwood Mac",
+          "tracks": 162,
+          "roots": [
+            "Muddy Waters",
+            "B.B. King",
+            "Freddie King",
+            "Hank Marvin"
+          ]
+        },
+        {
+          "id": "steve-miller-band",
+          "name": "Steve Miller Band",
+          "tracks": 138,
+          "roots": [
+            "Muddy Waters",
+            "Howlin' Wolf",
+            "Buddy Guy",
+            "T-Bone Walker",
+            "Paul Butterfield"
+          ]
+        },
+        {
+          "id": "bonnie-raitt",
+          "name": "Bonnie Raitt",
+          "tracks": 118,
+          "roots": [
+            "Muddy Waters",
+            "Robert Johnson",
+            "John Lee Hooker",
+            "Sippie Wallace",
+            "Son House"
+          ]
+        },
+        {
+          "id": "rod-stewart",
+          "name": "Rod Stewart",
+          "tracks": 72,
+          "roots": [
+            "Muddy Waters",
+            "Otis Redding",
+            "Sam Cooke",
+            "Jackie Wilson"
+          ]
+        },
+        {
+          "id": "the-kinks",
+          "name": "The Kinks",
+          "tracks": 70,
+          "roots": [
+            "Muddy Waters",
+            "Chuck Berry",
+            "Big Bill Broonzy",
+            "Lead Belly",
+            "Bo Diddley"
+          ]
+        },
+        {
+          "id": "little-feat",
+          "name": "Little Feat",
+          "tracks": 42,
+          "roots": [
+            "Muddy Waters",
+            "Robert Johnson",
+            "Howlin' Wolf",
+            "Frank Zappa"
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "billie-holiday",
+      "name": "Billie Holiday",
+      "members": [
+        {
+          "id": "frank-sinatra",
+          "name": "Frank Sinatra",
+          "tracks": 270,
+          "roots": [
+            "Billie Holiday",
+            "Bing Crosby"
+          ]
+        },
+        {
+          "id": "bryan-ferry",
+          "name": "Bryan Ferry",
+          "tracks": 58,
+          "roots": [
+            "Billie Holiday",
+            "Otis Redding",
+            "Big Bill Broonzy",
+            "Lead Belly",
+            "Charlie Parker"
+          ]
+        },
+        {
+          "id": "diana-ross",
+          "name": "Diana Ross",
+          "tracks": 38,
+          "roots": [
+            "Billie Holiday",
+            "Bessie Smith",
+            "Ethel Waters",
+            "Josephine Baker"
+          ]
+        },
+        {
+          "id": "roberta-flack",
+          "name": "Roberta Flack",
+          "tracks": 34,
+          "roots": [
+            "Billie Holiday",
+            "Nina Simone",
+            "Sarah Vaughan",
+            "Frank Sinatra",
+            "Mahalia Jackson"
+          ]
+        },
+        {
+          "id": "dinah-washington",
+          "name": "Dinah Washington",
+          "tracks": 24,
+          "roots": [
+            "Billie Holiday",
+            "Bessie Smith",
+            "Lionel Hampton"
+          ]
+        },
+        {
+          "id": "streisand",
+          "name": "Streisand",
+          "tracks": 20,
+          "roots": [
+            "Billie Holiday",
+            "Mariangela Melato",
+            "Monica Vitti",
+            "Anna Magnani",
+            "Eleonora Duse"
+          ]
+        },
+        {
+          "id": "aretha-franklin",
+          "name": "Aretha Franklin",
+          "tracks": 18,
+          "roots": [
+            "Billie Holiday",
+            "Nina Simone",
+            "Nat King Cole",
+            "Ella Fitzgerald",
+            "Sarah Vaughan"
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "woody-guthrie",
+      "name": "Woody Guthrie",
+      "members": [
+        {
+          "id": "bob-dylan",
+          "name": "Bob Dylan",
+          "tracks": 266,
+          "roots": [
+            "Woody Guthrie",
+            "Robert Johnson",
+            "Suze Rotolo",
+            "Bertolt Brecht",
+            "Allen Ginsberg"
+          ]
+        },
+        {
+          "id": "harry-chapin",
+          "name": "Harry Chapin",
+          "tracks": 88,
+          "roots": [
+            "Woody Guthrie",
+            "Pete Seeger",
+            "The Weavers"
+          ]
+        },
+        {
+          "id": "michelle-shocked",
+          "name": "Michelle Shocked",
+          "tracks": 72,
+          "roots": [
+            "Woody Guthrie",
+            "Big Bill Broonzy",
+            "Lead Belly",
+            "Randy Newman",
+            "Guy Clark"
+          ]
+        },
+        {
+          "id": "johnny-cash",
+          "name": "Johnny Cash",
+          "tracks": 66,
+          "roots": [
+            "Woody Guthrie",
+            "Hank Williams",
+            "Jimmie Rodgers"
+          ]
+        },
+        {
+          "id": "james-taylor",
+          "name": "James Taylor",
+          "tracks": 60,
+          "roots": [
+            "Woody Guthrie"
+          ]
+        },
+        {
+          "id": "nanci-griffith",
+          "name": "Nanci Griffith",
+          "tracks": 34,
+          "roots": [
+            "Woody Guthrie",
+            "John Prine",
+            "Odetta",
+            "Loretta Lynn",
+            "Carolyn Hester"
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "the-rolling-stones",
+      "name": "The Rolling Stones",
+      "members": [
+        {
+          "id": "led-zeppelin",
+          "name": "Led Zeppelin",
+          "tracks": 184,
+          "roots": [
+            "The Rolling Stones",
+            "Robert Johnson",
+            "Blind Willie Johnson",
+            "Willie Dixon",
+            "The Grapes of Wrath"
+          ]
+        },
+        {
+          "id": "aerosmith",
+          "name": "Aerosmith",
+          "tracks": 102,
+          "roots": [
+            "The Rolling Stones",
+            "Led Zeppelin"
+          ]
+        },
+        {
+          "id": "lynyrd-skynyrd",
+          "name": "Lynyrd Skynyrd",
+          "tracks": 98,
+          "roots": [
+            "The Rolling Stones",
+            "Free",
+            "Allman Brothers Band"
+          ]
+        },
+        {
+          "id": "kings-of-leon",
+          "name": "Kings of Leon",
+          "tracks": 46,
+          "roots": [
+            "The Rolling Stones",
+            "The Velvet Underground",
+            "Allman Brothers Band",
+            "Creedence Clearwater Revival",
+            "The Strokes"
+          ]
+        },
+        {
+          "id": "shakira",
+          "name": "Shakira",
+          "tracks": 24,
+          "roots": [
+            "The Rolling Stones",
+            "The Clash",
+            "Prince",
+            "Tom Petty",
+            "Ramones"
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "chuck-berry",
+      "name": "Chuck Berry",
+      "members": [
+        {
+          "id": "grateful-dead",
+          "name": "Grateful Dead",
+          "tracks": 90,
+          "roots": [
+            "Chuck Berry",
+            "Freddie King",
+            "John Coltrane",
+            "Bill Monroe",
+            "Doc Watson"
+          ]
+        },
+        {
+          "id": "steppenwolf",
+          "name": "Steppenwolf",
+          "tracks": 62,
+          "roots": [
+            "Chuck Berry",
+            "Elvis Presley",
+            "Little Richard"
+          ]
+        },
+        {
+          "id": "george-harrison",
+          "name": "George Harrison",
+          "tracks": 56,
+          "roots": [
+            "Chuck Berry",
+            "Carl Perkins",
+            "Ravi Shankar"
+          ]
+        },
+        {
+          "id": "john-lennon",
+          "name": "John Lennon",
+          "tracks": 40,
+          "roots": [
+            "Chuck Berry",
+            "Elvis Presley",
+            "Little Richard",
+            "Buddy Holly",
+            "Carl Perkins"
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "david-bowie",
+      "name": "David Bowie",
+      "members": [
+        {
+          "id": "george-michael",
+          "name": "George Michael",
+          "tracks": 48,
+          "roots": [
+            "David Bowie",
+            "Stevie Wonder",
+            "Marvin Gaye",
+            "Aretha Franklin",
+            "Elton John"
+          ]
+        },
+        {
+          "id": "kt-tunstall",
+          "name": "Kt Tunstall",
+          "tracks": 44,
+          "roots": [
+            "David Bowie"
+          ]
+        },
+        {
+          "id": "lady-gaga",
+          "name": "Lady Gaga",
+          "tracks": 28,
+          "roots": [
+            "David Bowie",
+            "Queen",
+            "Madonna"
+          ]
+        },
+        {
+          "id": "the-cars",
+          "name": "The Cars",
+          "tracks": 26,
+          "roots": [
+            "David Bowie",
+            "The Velvet Underground",
+            "Lou Reed",
+            "Brian Eno",
+            "The Modern Lovers"
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "miles-davis",
+      "name": "Miles Davis",
+      "members": [
+        {
+          "id": "santana",
+          "name": "Santana",
+          "tracks": 238,
+          "roots": [
+            "B.B. King",
+            "Miles Davis",
+            "John Coltrane",
+            "T-Bone Walker",
+            "Tito Puente"
+          ]
+        },
+        {
+          "id": "phish",
+          "name": "Phish",
+          "tracks": 88,
+          "roots": [
+            "Miles Davis",
+            "King Crimson",
+            "Grateful Dead",
+            "Genesis",
+            "Frank Zappa"
+          ]
+        },
+        {
+          "id": "chicago",
+          "name": "Chicago",
+          "tracks": 78,
+          "roots": [
+            "Miles Davis",
+            "Blood, Sweat & Tears"
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "stevie-wonder",
+      "name": "Stevie Wonder",
+      "members": [
+        {
+          "id": "maroon-5",
+          "name": "Maroon 5",
+          "tracks": 134,
+          "roots": [
+            "Stevie Wonder",
+            "Joni Mitchell",
+            "Marvin Gaye",
+            "Prince",
+            "Red Hot Chili Peppers"
+          ]
+        },
+        {
+          "id": "five-for-fighting",
+          "name": "Five For Fighting",
+          "tracks": 60,
+          "roots": [
+            "Stevie Wonder",
+            "Elton John",
+            "Earth, Wind & Fire",
+            "Billy Joel"
+          ]
+        },
+        {
+          "id": "celine-dion",
+          "name": "Celine Dion",
+          "tracks": 58,
+          "roots": [
+            "Stevie Wonder",
+            "Aretha Franklin",
+            "Elton John",
+            "Carole King",
+            "Bee Gees"
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "arcangelo-corelli",
+      "name": "Arcangelo Corelli",
+      "members": [
+        {
+          "id": "js-bach",
+          "name": "Js Bach",
+          "tracks": 128,
+          "roots": [
+            "Arcangelo Corelli",
+            "Johann Pachelbel",
+            "Antonio Vivaldi",
+            "Dieterich Buxtehude"
+          ]
+        },
+        {
+          "id": "handel",
+          "name": "Handel",
+          "tracks": 90,
+          "roots": [
+            "Arcangelo Corelli",
+            "Germany",
+            "England",
+            "France",
+            "Domenico Scarlatti"
+          ]
+        },
+        {
+          "id": "vivaldi",
+          "name": "Vivaldi",
+          "tracks": 90,
+          "roots": [
+            "Arcangelo Corelli",
+            "Giuseppe Torelli"
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "bob-marley",
+      "name": "Bob Marley",
+      "members": [
+        {
+          "id": "dave-matthews",
+          "name": "Dave Matthews",
+          "tracks": 74,
+          "roots": [
+            "Bob Marley",
+            "Keith Jarrett"
+          ]
+        },
+        {
+          "id": "tracy-chapman",
+          "name": "Tracy Chapman",
+          "tracks": 42,
+          "roots": [
+            "Bob Marley",
+            "Joni Mitchell",
+            "Johnny Cash",
+            "Odetta",
+            "Joan Armatrading"
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "bill-evans",
+      "name": "Bill Evans",
+      "members": [
+        {
+          "id": "steely-dan",
+          "name": "Steely Dan",
+          "tracks": 152,
+          "roots": [
+            "Bill Evans",
+            "Charlie Parker",
+            "Sonny Rollins",
+            "Stan Getz",
+            "Duke Ellington"
+          ]
+        },
+        {
+          "id": "bruce-hornsby",
+          "name": "Bruce Hornsby",
+          "tracks": 30,
+          "roots": [
+            "Bill Evans",
+            "Keith Jarrett",
+            "Leon Russell",
+            "Bill Monroe",
+            "McCoy Tyner"
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "the-clash",
+      "name": "The Clash",
+      "members": [
+        {
+          "id": "the-pogues",
+          "name": "The Pogues",
+          "tracks": 228,
+          "roots": [
+            "The Clash",
+            "The Dubliners",
+            "The Clancy Brothers"
+          ]
+        },
+        {
+          "id": "flogging-molly",
+          "name": "Flogging Molly",
+          "tracks": 100,
+          "roots": [
+            "The Clash",
+            "Johnny Cash",
+            "The Dubliners",
+            "The Pogues",
+            "Dropkick Murphys"
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "nat-king-cole",
+      "name": "Nat King Cole",
+      "members": [
+        {
+          "id": "diana-krall",
+          "name": "Diana Krall",
+          "tracks": 224,
+          "roots": [
+            "Bill Evans",
+            "Nat King Cole",
+            "Frank Sinatra",
+            "Fats Waller"
+          ]
+        },
+        {
+          "id": "marvin-gaye",
+          "name": "Marvin Gaye",
+          "tracks": 30,
+          "roots": [
+            "Nat King Cole"
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "the-everly-brothers",
+      "name": "The Everly Brothers",
+      "members": [
+        {
+          "id": "simon-and-garfunkel",
+          "name": "Simon And Garfunkel",
+          "tracks": 174,
+          "roots": [
+            "The Everly Brothers"
+          ]
+        },
+        {
+          "id": "paul-simon",
+          "name": "Paul Simon",
+          "tracks": 54,
+          "roots": [
+            "The Everly Brothers",
+            "George Gershwin"
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "u2",
+      "name": "U2",
+      "members": [
+        {
+          "id": "the-killers",
+          "name": "The Killers",
+          "tracks": 66,
+          "roots": [
+            "U2",
+            "Tom Petty",
+            "Oasis",
+            "The_Cure",
+            "Bruce Springsteen"
+          ]
+        },
+        {
+          "id": "sarah-mclachlan",
+          "name": "Sarah Mclachlan",
+          "tracks": 28,
+          "roots": [
+            "U2",
+            "Joni Mitchell",
+            "Peter Gabriel",
+            "Kate Bush",
+            "Anne Murray"
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "johann-sebastian-bach",
+      "name": "Johann Sebastian Bach",
+      "members": [
+        {
+          "id": "beethoven",
+          "name": "Beethoven",
+          "tracks": 62,
+          "roots": [
+            "Johann Sebastian Bach",
+            "Johann Joseph Fux",
+            "Wolfgang Amadeus Mozart",
+            "Joseph Haydn"
+          ]
+        },
+        {
+          "id": "wolfgang-amadeus-mozart",
+          "name": "Wolfgang Amadeus Mozart",
+          "tracks": 22,
+          "roots": [
+            "Johann Sebastian Bach",
+            "Johann Joseph Fux"
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "elvis-presley",
+      "name": "Elvis Presley",
+      "members": [
+        {
+          "id": "the-brian-setzer-orchestra",
+          "name": "The Brian Setzer Orchestra",
+          "tracks": 50,
+          "roots": [
+            "Elvis Presley",
+            "Carl Perkins",
+            "Eddie Cochran",
+            "Gene Vincent"
+          ]
+        },
+        {
+          "id": "stray-cats",
+          "name": "Stray Cats",
+          "tracks": 34,
+          "roots": [
+            "Elvis Presley",
+            "Buddy Holly",
+            "Carl Perkins",
+            "Johnny Cash",
+            "Eddie Cochran"
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "the-byrds",
+      "name": "The Byrds",
+      "members": [
+        {
+          "id": "don-henley",
+          "name": "Don Henley",
+          "tracks": 42,
+          "roots": [
+            "The Byrds",
+            "Merle Haggard",
+            "The Flying Burrito Brothers"
+          ]
+        },
+        {
+          "id": "firefall",
+          "name": "Firefall",
+          "tracks": 36,
+          "roots": [
+            "The Byrds",
+            "The Flying Burrito Brothers",
+            "Buffalo Springfield",
+            "Gram Parsons"
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "robert-johnson",
+      "name": "Robert Johnson",
+      "members": [
+        {
+          "id": "derek-and-the-dominos",
+          "name": "Derek And The Dominos",
+          "tracks": 28,
+          "roots": [
+            "Robert Johnson",
+            "Big Bill Broonzy",
+            "Elmore James"
+          ]
+        },
+        {
+          "id": "keb-mo",
+          "name": "Keb' Mo'",
+          "tracks": 26,
+          "roots": [
+            "Robert Johnson"
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "_outliers",
+      "name": "Lone stars",
+      "members": [
+        {
+          "id": "the-band",
+          "name": "The Band",
+          "tracks": 282,
+          "roots": [
+            "Curtis Mayfield",
+            "The Staple Singers",
+            "Ronnie Hawkins"
+          ]
+        },
+        {
+          "id": "elton-john",
+          "name": "Elton John",
+          "tracks": 178,
+          "roots": [
+            "Little Richard",
+            "Leon Russell",
+            "Jerry Lee Lewis",
+            "Dr. John"
+          ]
+        },
+        {
+          "id": "louis-armstrong",
+          "name": "Louis Armstrong",
+          "tracks": 100,
+          "roots": [
+            "Buddy Bolden",
+            "King Oliver",
+            "Bunk Johnson"
+          ]
+        },
+        {
+          "id": "gipsy-kings",
+          "name": "Gipsy Kings",
+          "tracks": 82,
+          "roots": [
+            "Django Reinhardt",
+            "Jos\u00e9 Reyes",
+            "Manitas de Plata"
+          ]
+        },
+        {
+          "id": "mumford-sons",
+          "name": "Mumford & Sons",
+          "tracks": 80,
+          "roots": [
+            "Old Crow Medicine Show"
+          ]
+        },
+        {
+          "id": "kenny-g",
+          "name": "Kenny G",
+          "tracks": 72,
+          "roots": [
+            "John Coltrane",
+            "Sonny Rollins",
+            "Grover Washington Jr.",
+            "Dexter Gordon",
+            "Cannonball Adderley"
+          ]
+        },
+        {
+          "id": "the-mamas-and-the-papas",
+          "name": "The Mamas And The Papas",
+          "tracks": 64,
+          "roots": [
+            "The Four Freshmen",
+            "The Kingston Trio",
+            "The Four Lads"
+          ]
+        },
+        {
+          "id": "the-doobie-brothers",
+          "name": "The Doobie Brothers",
+          "tracks": 62,
+          "roots": [
+            "Moby Grape"
+          ]
+        },
+        {
+          "id": "robert-cray",
+          "name": "Robert Cray",
+          "tracks": 62,
+          "roots": [
+            "Al Green",
+            "Albert Collins",
+            "O.V. Wright",
+            "Otis Rush",
+            "Magic Sam"
+          ]
+        },
+        {
+          "id": "kansas",
+          "name": "Kansas",
+          "tracks": 60,
+          "roots": [
+            "King Crimson",
+            "Deep Purple",
+            "Genesis",
+            "Emerson, Lake & Palmer",
+            "Yes"
+          ]
+        },
+        {
+          "id": "loreena-mckennitt",
+          "name": "Loreena Mckennitt",
+          "tracks": 54,
+          "roots": [
+            "Enya"
+          ]
+        },
+        {
+          "id": "miles-davis",
+          "name": "Miles Davis",
+          "tracks": 48,
+          "roots": [
+            "Charlie Parker",
+            "Freddie Webster",
+            "Dizzy Gillespie"
+          ]
+        },
+        {
+          "id": "cowboy-junkies",
+          "name": "Cowboy Junkies",
+          "tracks": 44,
+          "roots": [
+            "The Velvet Underground",
+            "Hank Williams",
+            "John Coltrane",
+            "Lightnin' Hopkins",
+            "Patsy Cline"
+          ]
+        },
+        {
+          "id": "carole-king",
+          "name": "Carole King",
+          "tracks": 44,
+          "roots": [
+            "Leiber and Stoller",
+            "Cole Porter",
+            "Irving Berlin"
+          ]
+        },
+        {
+          "id": "natalie-cole",
+          "name": "Natalie Cole",
+          "tracks": 44,
+          "roots": [
+            "Aretha Franklin",
+            "Nat King Cole",
+            "Ella Fitzgerald",
+            "Carole King",
+            "Janis Joplin"
+          ]
+        },
+        {
+          "id": "indigo-girls",
+          "name": "Indigo Girls",
+          "tracks": 44,
+          "roots": [
+            "Neil Young",
+            "R.E.M."
+          ]
+        },
+        {
+          "id": "benny-goodman",
+          "name": "Benny Goodman",
+          "tracks": 42,
+          "roots": [
+            "Jimmy Noone",
+            "Fletcher Henderson",
+            "Johnny Dodds",
+            "Leon Roppolo"
+          ]
+        },
+        {
+          "id": "johannes-brahms",
+          "name": "Johannes Brahms",
+          "tracks": 38,
+          "roots": [
+            "Beethoven",
+            "Wolfgang Amadeus Mozart"
+          ]
+        },
+        {
+          "id": "andrea-bocelli",
+          "name": "Andrea Bocelli",
+          "tracks": 34,
+          "roots": [
+            "Franco Corelli"
+          ]
+        },
+        {
+          "id": "blue-oyster-cult",
+          "name": "Blue Oyster Cult",
+          "tracks": 32,
+          "roots": [
+            "Black Sabbath"
+          ]
+        },
+        {
+          "id": "dropkick-murphys",
+          "name": "Dropkick Murphys",
+          "tracks": 32,
+          "roots": [
+            "The Dubliners"
+          ]
+        },
+        {
+          "id": "madredeus",
+          "name": "Madredeus",
+          "tracks": 30,
+          "roots": [
+            "Am\u00e1lia Rodrigues"
+          ]
+        },
+        {
+          "id": "pat-benatar",
+          "name": "Pat Benatar",
+          "tracks": 30,
+          "roots": [
+            "Liza Minnelli"
+          ]
+        },
+        {
+          "id": "michael-jackson",
+          "name": "Michael Jackson",
+          "tracks": 30,
+          "roots": [
+            "James Brown",
+            "Jackie Wilson",
+            "Fred Astaire",
+            "Diana Ross",
+            "Sammy Davis Jr."
+          ]
+        },
+        {
+          "id": "israel-kamakawiwo-ole",
+          "name": "Israel Kamakawiwo'Ole",
+          "tracks": 30,
+          "roots": [
+            "Eddie Kamae",
+            "Gabby Pahinui"
+          ]
+        },
+        {
+          "id": "duke-ellington",
+          "name": "Duke Ellington",
+          "tracks": 28,
+          "roots": [
+            "Fats Waller",
+            "Sidney Bechet",
+            "Luckey Roberts",
+            "James P. Johnson",
+            "Will Marion Cook"
+          ]
+        },
+        {
+          "id": "the-smiths",
+          "name": "The Smiths",
+          "tracks": 28,
+          "roots": [
+            "Patti Smith",
+            "New York Dolls",
+            "T. Rex",
+            "The Cramps",
+            "Dusty Springfield"
+          ]
+        },
+        {
+          "id": "michael-hedges",
+          "name": "Michael Hedges",
+          "tracks": 28,
+          "roots": [
+            "John Fahey",
+            "Leo Kottke"
+          ]
+        },
+        {
+          "id": "ladysmith-black-mambazo",
+          "name": "Ladysmith Black Mambazo",
+          "tracks": 26,
+          "roots": [
+            "Solomon Linda"
+          ]
+        },
+        {
+          "id": "frank-zappa",
+          "name": "Frank Zappa",
+          "tracks": 24,
+          "roots": [
+            "Edgard Var\u00e8se",
+            "Gy\u00f6rgy Ligeti",
+            "Johnny \"Guitar\" Watson",
+            "Anton Webern",
+            "Guitar Slim"
+          ]
+        },
+        {
+          "id": "michael-doucet",
+          "name": "Michael Doucet",
+          "tracks": 24,
+          "roots": [
+            "The Balfa Brothers",
+            "Dewey Balfa",
+            "Dennis McGee",
+            "Am\u00e9d\u00e9 Ardoin"
+          ]
+        },
+        {
+          "id": "3-doors-down",
+          "name": "3 Doors Down",
+          "tracks": 24,
+          "roots": [
+            "Nirvana",
+            "Pearl Jam",
+            "Goo Goo Dolls",
+            "Foo Fighters",
+            "The Smashing Pumpkins"
+          ]
+        },
+        {
+          "id": "morrissey",
+          "name": "Morrissey",
+          "tracks": 22,
+          "roots": [
+            "Jobriath"
+          ]
+        },
+        {
+          "id": "gillian-welch",
+          "name": "Gillian Welch",
+          "tracks": 22,
+          "roots": [
+            "Norman Blake",
+            "Ralph Stanley",
+            "The Stanley Brothers"
+          ]
+        },
+        {
+          "id": "the-marshall-tucker-band",
+          "name": "The Marshall Tucker Band",
+          "tracks": 20,
+          "roots": [
+            "Allman Brothers Band",
+            "Lynyrd Skynyrd"
+          ]
+        },
+        {
+          "id": "bing-crosby",
+          "name": "Bing Crosby",
+          "tracks": 20,
+          "roots": [
+            "Louis Armstrong",
+            "Ethel Waters",
+            "Eddie Cantor",
+            "Cab Calloway",
+            "Al Jolson"
+          ]
+        },
+        {
+          "id": "boston",
+          "name": "Boston",
+          "tracks": 20,
+          "roots": [
+            "Led Zeppelin",
+            "Jeff Beck",
+            "Iron Butterfly",
+            "Aerosmith",
+            "Pink Floyd"
+          ]
+        },
+        {
+          "id": "peter-gabriel",
+          "name": "Peter Gabriel",
+          "tracks": 18,
+          "roots": [
+            "Alejandro Jodorowsky"
+          ]
+        },
+        {
+          "id": "tears-for-fears",
+          "name": "Tears For Fears",
+          "tracks": 16,
+          "roots": [
+            "Be-Bop Deluxe"
+          ]
+        }
+      ]
+    }
+  ]
+}
