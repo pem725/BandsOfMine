@@ -20,6 +20,10 @@
   header a{color:var(--accent);text-decoration:none;font-size:13px}
   header a:hover{text-decoration:underline}
   header .nav{margin-left:auto;display:flex;gap:14px}
+  .colorby{font-size:12px;color:var(--dim);display:flex;align-items:center;gap:6px}
+  .colorby button{background:var(--panel);color:var(--dim);border:1px solid var(--line);
+    border-radius:6px;padding:3px 9px;font:inherit;cursor:pointer}
+  .colorby button.on{color:var(--ink);border-color:var(--accent)}
   #sky{grid-area:sky;position:relative;overflow:hidden}
   #sky svg{width:100%;height:100%;display:block;cursor:grab}
   #sky svg:active{cursor:grabbing}
@@ -50,6 +54,10 @@
 <header>
   <h1>The Families of Your Taste</h1>
   <span class="sub">your owned artists, clustered by the taproot they most share</span>
+  <span class="colorby">color by:
+    <button id="cb-family" class="on">influence family</button>
+    <button id="cb-genre">genre</button>
+  </span>
   <span class="nav">
     <a href="index.html">the network →</a>
     <a href="sonic.html">the sonic map →</a>
@@ -62,6 +70,28 @@
 const PALETTE=["#d9843b","#6ba3d6","#68b587","#c85f5f","#9d7cd8","#d4b24a","#4bb3a7","#c77fb0",
   "#7d9e5a","#b0763a","#5a8fb0","#c58f5f","#8a7cc0","#b8555f","#5fa88f","#a89b4a",
   "#cf7d4b","#6f9bd0","#7ab090","#c76b8f","#9a884a","#5c93a8","#b58cc8","#8fae60"];
+
+// map fine-grained genres to broad buckets for legible colouring
+function bucketOf(g){
+  if(!g) return "unknown";
+  g=g.toLowerCase();
+  if(/blues/.test(g)) return "blues";
+  if(/jazz|swing|bossa/.test(g)) return "jazz";
+  if(/soul|funk|r&b|motown|gospel/.test(g)) return "soul / funk";
+  if(/folk|americana|bluegrass|celtic/.test(g)) return "folk / americana";
+  if(/country/.test(g)) return "country";
+  if(/classical|baroque|opera/.test(g)) return "classical";
+  if(/reggae|ska|dub/.test(g)) return "reggae";
+  if(/punk|new wave|alternative|indie|grunge/.test(g)) return "alt / punk / new wave";
+  if(/prog/.test(g)) return "prog";
+  if(/pop|disco/.test(g)) return "pop";
+  if(/rock|metal/.test(g)) return "rock";
+  return "other";
+}
+const BUCKET_COLOR={"rock":"#d9843b","folk / americana":"#68b587","blues":"#6ba3d6",
+  "jazz":"#d4b24a","soul / funk":"#c85f5f","country":"#b0763a","classical":"#9d7cd8",
+  "reggae":"#4bb3a7","alt / punk / new wave":"#c77fb0","prog":"#8a7cc0","pop":"#e0a86a",
+  "other":"#7d8590","unknown":"#4a4f58"};
 
 let data;
 try { data = await fetch("data/graph/families.json").then(r=>r.json()); }
@@ -93,6 +123,9 @@ fams.forEach((f,fi)=> f.members.forEach(m=>
 const maxT = d3.max(stars, s=>s.tracks) || 1;
 const rOf = s => 3 + Math.sqrt(s.tracks/maxT)*11;
 
+let mode = "family";
+const colorFor = d => mode==="genre" ? BUCKET_COLOR[bucketOf(d.genre)] : d.color;
+
 svg.call(d3.zoom().scaleExtent([0.35,5]).on("zoom",ev=>root.attr("transform",ev.transform)));
 
 const sim = d3.forceSimulation(stars)
@@ -108,7 +141,7 @@ const famLabels = root.append("g").selectAll("text").data(fams).join("text")
 
 let sel=null;
 const g = root.append("g").selectAll("g.star").data(stars).join("g").attr("class","star-g");
-g.append("circle").attr("class","star").attr("r",rOf).attr("fill",d=>d.color)
+g.append("circle").attr("class","star").attr("r",rOf).attr("fill",colorFor)
   .on("click",(_,d)=>select(d))
   .on("mouseover",(ev,d)=>hover(d,true)).on("mouseout",(ev,d)=>hover(d,false));
 // label the biggest few stars per family up front
@@ -142,7 +175,7 @@ function select(d){
     <div class="kv" style="color:${d.color};text-transform:uppercase;letter-spacing:.08em;font-size:11px">
       ${fam.name} family · ${fam.members.length} artists</div>
     <h2>${d.name}</h2>
-    <div class="kv">${d.tracks} tracks you own</div>
+    <div class="kv">${d.tracks} tracks you own${d.genres&&d.genres.length?` · <span style="color:${BUCKET_COLOR[bucketOf(d.genre)]}">${d.genres.join(", ")}</span>`:""}</div>
     <div class="kv">shares these roots with your collection:<br><b>${(d.roots||[]).join(" · ")||"—"}</b></div>
     <h3>others in the ${fam.name} family</h3>
     <ul>${fam.members.filter(m=>m.id!==d.id).map(m=>
@@ -152,12 +185,31 @@ function select(d){
   });
 }
 
-document.getElementById("legend").innerHTML =
-  `<b>${fams.length} families · ${stars.length} artists</b>` +
-  fams.map((f,i)=>`<div data-fi="${i}"><span class="dot" style="background:${f.color}"></span>${f.name} (${f.members.length})</div>`).join("");
-document.querySelectorAll(".legend div[data-fi]").forEach(el=>el.onclick=()=>{
-  const s=stars.find(x=>x.fi==el.dataset.fi); if(s) select(s);
-});
+function drawLegend(){
+  const el=document.getElementById("legend");
+  if(mode==="family"){
+    el.innerHTML=`<b>${fams.length} families · ${stars.length} artists</b>`+
+      fams.map((f,i)=>`<div data-fi="${i}"><span class="dot" style="background:${f.color}"></span>${f.name} (${f.members.length})</div>`).join("");
+    el.querySelectorAll("div[data-fi]").forEach(x=>x.onclick=()=>{const s=stars.find(y=>y.fi==x.dataset.fi); if(s) select(s);});
+  } else {
+    const cnt={};
+    stars.forEach(s=>{const b=bucketOf(s.genre); cnt[b]=(cnt[b]||0)+1;});
+    el.innerHTML=`<b>genres across your collection</b>`+
+      Object.entries(cnt).sort((a,b)=>b[1]-a[1]).map(([b,c])=>
+        `<div><span class="dot" style="background:${BUCKET_COLOR[b]}"></span>${b} (${c})</div>`).join("");
+  }
+}
+function recolor(){
+  g.selectAll("circle.star").transition().duration(400).attr("fill",colorFor);
+  drawLegend();
+}
+document.getElementById("cb-family").onclick=()=>{mode="family";
+  document.getElementById("cb-family").classList.add("on");
+  document.getElementById("cb-genre").classList.remove("on"); recolor();};
+document.getElementById("cb-genre").onclick=()=>{mode="genre";
+  document.getElementById("cb-genre").classList.add("on");
+  document.getElementById("cb-family").classList.remove("on"); recolor();};
+drawLegend();
 
 document.getElementById("panel").innerHTML =
   `<p class="empty"><b>${stars.length}</b> artists you own, grouped into <b>${fams.length}</b> families.<br><br>

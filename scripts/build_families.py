@@ -42,10 +42,13 @@ def main() -> int:
     for o in owned:
         anchor = max(inf_out[o], key=lambda r: (rootpop[r], r))
         shared = sorted(inf_out[o], key=lambda r: -rootpop[r])
+        genres = nodes[o].get("genres") or []
         fam[anchor].append({
             "id": o, "name": nodes[o]["name"],
             "tracks": nodes[o].get("local_tracks") or 0,
             "roots": [nodes[r]["name"] for r in shared[:5] if r in nodes],
+            "genre": genres[0] if genres else None,     # primary genre for colouring
+            "genres": genres[:4],
         })
 
     families, outliers = [], []
