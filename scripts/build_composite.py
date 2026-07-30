@@ -193,30 +193,96 @@ def main() -> int:
                           "by": info["by"], "driver": driver,
                           "via": sorted(dset)})
 
+    # ---- personnel layer: the strongest connection of all — actually worked together ----
+    # Similarity says "sounds/feels alike"; personnel says "were in the same room".
+    # We surface band lineups (every member of an owned band) plus collaborations and
+    # spin-offs. A member who belongs to two of your bands becomes a bridge between them.
+    band_members = defaultdict(set)     # band -> {member persons}
+    memb = defaultdict(set)             # person -> {bands}
+    collab = []                         # (a, b, type)
+    for e in edges:
+        if e["type"] == "member_of":
+            band_members[e["target"]].add(e["source"]); memb[e["source"]].add(e["target"])
+        elif e["type"] in ("collaborated_with", "spun_off_from"):
+            collab.append((e["source"], e["target"], e["type"]))
+
+    ownset = set(A)
+    owned_bands = {a for a in A if nodes[a].get("kind") == "band"}
+    # A member of an owned band becomes a graph node if they either BRIDGE two of your
+    # bands (the "worked with others" signal) or are a documented artist in their own
+    # right (genres+born — session-only players usually aren't). Everyone else still
+    # appears in the band's full lineup shown in the side panel, just not as a dot, so
+    # the graph stays legible instead of drowning in 1000+ sidemen.
+    def member_ok(p):
+        return p in nodes and p not in ownset and not NOISE.search(p) and p not in excl
+    def notable(p):
+        n = nodes[p]
+        return bool(n.get("genres")) and bool(n.get("born"))
+    connectors = set()
+    for p, bands in memb.items():
+        if not member_ok(p) or not (bands & owned_bands):
+            continue
+        if len(bands & owned_bands) >= 2 or notable(p):
+            connectors.add(p)
+    nodeset = ownset | connectors
+    # full lineups (every member, node or not) for the side panel
+    lineups = {b: sorted((nodes[p]["name"] for p in band_members[b] if p in nodes))
+               for b in owned_bands if band_members[b]}
+
+    seenp = set()
+    pers = []
+    def addp(a, b, note):
+        if a == b or a not in nodeset or b not in nodeset:
+            return
+        k = tuple(sorted((a, b)))
+        if k in seenp:
+            return
+        seenp.add(k)
+        pers.append({"source": a, "target": b, "sim": 0.55, "by": {}, "note": note,
+                     "driver": "personnel", "via": ["personnel"]})
+    for b in owned_bands:                          # band ↔ each of its members
+        for p in band_members[b]:
+            addp(p, b, "member")
+    for a, b, t in collab:                          # collaborations & spin-offs
+        addp(a, b, "collaborated" if t == "collaborated_with" else "spun off")
+    out_edges += pers
+
     connected = {e["source"] for e in out_edges} | {e["target"] for e in out_edges}
-    out_nodes = [{"id": a, "name": nodes[a]["name"], "tracks": nodes[a].get("local_tracks") or 0,
-                  "genre": (nodes[a].get("genres") or [None])[0],
-                  "origin": nodes[a].get("origin"), "born": nodes[a].get("born")}
-                 for a in A if a in connected]
+    def nrec(a):
+        n = nodes[a]
+        return {"id": a, "name": n["name"], "tracks": n.get("local_tracks") or 0,
+                "genre": (n.get("genres") or [None])[0], "kind": n.get("kind"),
+                "origin": n.get("origin"), "born": n.get("born"),
+                "role": "owned" if a in ownset else "connector"}
+    out_nodes = [nrec(a) for a in nodeset if a in connected]
 
     drv = defaultdict(int)
     for e in out_edges:
         drv[e["driver"]] += 1
-    print(f"{len(out_nodes)} artists, {len(out_edges)} composite-similarity links")
-    print(f"  driven mainly by: " + ", ".join(f"{k} {c}" for k, c in sorted(drv.items(), key=lambda kv: -kv[1])))
+    nconn = sum(1 for n in out_nodes if n["role"] == "connector")
+    print(f"{len(out_nodes)} nodes ({len(out_nodes)-nconn} owned + {nconn} connectors), {len(out_edges)} links")
+    print(f"  driven by: " + ", ".join(f"{k} {c}" for k, c in sorted(drv.items(), key=lambda kv: -kv[1])))
     print(f"  (sonic data for {len(vecs)} of them)")
 
     if not write:
-        # show a few of the strongest links
-        top = sorted(out_edges, key=lambda e: -e["sim"])[:12]
-        print("\n  strongest composite pairs:")
+        # strongest *similarity* pairs (personnel edges are factual, not scored)
+        sims_only = [e for e in out_edges if e["driver"] != "personnel"]
+        top = sorted(sims_only, key=lambda e: -e["sim"])[:8]
+        print("\n  strongest similarity pairs:")
         for e in top:
-            print(f"    {nodes[e['source']]['name']:20} ~ {nodes[e['target']]['name']:20} "
+            print(f"    {nodes[e['source']]['name']:22} ~ {nodes[e['target']]['name']:22} "
                   f"{e['sim']}  ({e['driver']})")
+        # show a band and its now-visible lineup
+        for band in ["eagles", "the-doobie-brothers", "genesis"]:
+            if band in nodes:
+                lineup = [nodes[e["source"]]["name"] for e in out_edges
+                          if e.get("note") == "member" and e["target"] == band]
+                print(f"\n  {nodes[band]['name']} lineup ({len(lineup)}): {', '.join(lineup[:10])}")
         print("\n(preview -- pass --write)")
         return 0
+    keep_lineups = {b: m for b, m in lineups.items() if b in connected}
     (GRAPH / "composite.json").write_text(
-        json.dumps({"nodes": out_nodes, "edges": out_edges}, indent=2) + "\n")
+        json.dumps({"nodes": out_nodes, "edges": out_edges, "lineups": keep_lineups}, indent=2) + "\n")
     print("\nwrote data/graph/composite.json")
     return 0
 

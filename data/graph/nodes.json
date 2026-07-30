@@ -2440,7 +2440,8 @@
       "musicbrainz",
       "local-library"
     ],
-    "local_tracks": 36
+    "local_tracks": 38,
+    "local_weight": 0.401
   },
   {
     "id": "mumford-sons",
@@ -2766,8 +2767,11 @@
     "seed": true,
     "sources": [
       "spotify",
-      "musicbrainz"
-    ]
+      "musicbrainz",
+      "local-library"
+    ],
+    "local_tracks": 22,
+    "local_weight": 0.411
   },
   {
     "id": "maroon-5",
@@ -3220,14 +3224,16 @@
     "name": "Elvis Costello",
     "kind": "person",
     "born": 1954,
-    "died": null,
+    "died": 1996,
     "origin": "Paddington",
     "roles": [],
     "genres": [
       "new wave",
       "pub rock",
       "pop",
-      "pop rock"
+      "pop rock",
+      "country",
+      "pop soul"
     ],
     "mbid": "8a338e06-d182-46f2-bd16-30a09bc840ba",
     "spotify_id": "2BGRfQgtzikz1pzAD0kaEn",
@@ -3544,9 +3550,12 @@
     "sources": [
       "spotify",
       "musicbrainz",
-      "spotify-export"
+      "spotify-export",
+      "local-library"
     ],
-    "play_weight": 0.567
+    "play_weight": 0.567,
+    "local_tracks": 72,
+    "local_weight": 0.435
   },
   {
     "id": "stealers-wheel",
@@ -3766,30 +3775,6 @@
     ]
   },
   {
-    "id": "allman-brothers-band",
-    "name": "Allman Brothers Band",
-    "kind": "band",
-    "born": 1969,
-    "died": 2014,
-    "origin": "Macon",
-    "roles": [],
-    "genres": [
-      "southern rock",
-      "blues rock",
-      "rock",
-      "electric blues"
-    ],
-    "mbid": "72359492-22be-4ed9-aaa0-efa434fb2b01",
-    "spotify_id": "4wQ3PyMz3WwJGI5uEqHUVR",
-    "seed": true,
-    "sources": [
-      "spotify",
-      "musicbrainz",
-      "spotify-export"
-    ],
-    "play_weight": 0.485
-  },
-  {
     "id": "billy-strings",
     "name": "Billy Strings",
     "kind": "person",
@@ -3935,7 +3920,7 @@
     "name": "Eric Clapton",
     "kind": "person",
     "born": 1945,
-    "died": null,
+    "died": 1966,
     "origin": "Ripley",
     "roles": [],
     "genres": [
@@ -4163,14 +4148,17 @@
       "electric blues"
     ],
     "mbid": "72359492-22be-4ed9-aaa0-efa434fb2b01",
-    "spotify_id": null,
+    "spotify_id": "4wQ3PyMz3WwJGI5uEqHUVR",
     "seed": true,
     "local_tracks": 152,
     "local_weight": 0.475,
     "sources": [
       "local-library",
-      "musicbrainz"
-    ]
+      "musicbrainz",
+      "spotify",
+      "spotify-export"
+    ],
+    "play_weight": 0.485
   },
   {
     "id": "jack-johnson",
@@ -4821,25 +4809,6 @@
     ]
   },
   {
-    "id": "the-eagles",
-    "name": "The Eagles",
-    "kind": "band",
-    "born": 1958,
-    "died": 1964,
-    "origin": "United Kingdom",
-    "roles": [],
-    "genres": [],
-    "mbid": "a4852e21-7f09-470b-b5ae-9740d939d183",
-    "spotify_id": null,
-    "seed": true,
-    "local_tracks": 72,
-    "local_weight": 0.435,
-    "sources": [
-      "local-library",
-      "musicbrainz"
-    ]
-  },
-  {
     "id": "rod-stewart",
     "name": "Rod Stewart",
     "kind": "person",
@@ -5452,19 +5421,25 @@
   {
     "id": "10000-maniacs",
     "name": "10000 Maniacs",
-    "kind": "person",
-    "born": null,
+    "kind": "band",
+    "born": 1981,
     "died": null,
-    "origin": null,
+    "origin": "Jamestown",
     "roles": [],
-    "genres": [],
-    "mbid": null,
+    "genres": [
+      "alternative rock",
+      "indie pop",
+      "acoustic rock",
+      "folk pop"
+    ],
+    "mbid": "b9a06530-1241-4162-836f-7b8e79deaa58",
     "spotify_id": null,
     "seed": true,
     "local_tracks": 54,
     "local_weight": 0.427,
     "sources": [
-      "local-library"
+      "local-library",
+      "musicbrainz"
     ]
   },
   {
@@ -7070,24 +7045,6 @@
     ]
   },
   {
-    "id": "clancy-brothers-and-the-dubliners",
-    "name": "Clancy Brothers And The Dubliners",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "local_tracks": 32,
-    "local_weight": 0.416,
-    "sources": [
-      "local-library"
-    ]
-  },
-  {
     "id": "paddy-moloney-and-sean-potts",
     "name": "Paddy Moloney And Sean Potts",
     "kind": "person",
@@ -7469,14 +7426,15 @@
     "name": "Bruce Hornsby",
     "kind": "person",
     "born": 1954,
-    "died": null,
+    "died": 1991,
     "origin": "Williamsburg",
     "roles": [],
     "genres": [
       "rock",
       "bluegrass",
       "blues rock",
-      "folk"
+      "folk",
+      "soft rock"
     ],
     "mbid": "e60dbba7-6f55-429a-bd22-5e9c6a87ae70",
     "spotify_id": null,
@@ -8479,30 +8437,8 @@
     "mbid": "530846f0-4098-4d33-bd8a-8611f823bf51",
     "spotify_id": null,
     "seed": true,
-    "local_tracks": 24,
-    "local_weight": 0.412,
-    "sources": [
-      "local-library",
-      "musicbrainz"
-    ]
-  },
-  {
-    "id": "robert-plant-the-strange-sensation",
-    "name": "Robert Plant & The Strange Sensation",
-    "kind": "band",
-    "born": 2001,
-    "died": 2007,
-    "origin": "United Kingdom",
-    "roles": [],
-    "genres": [
-      "crossover prog",
-      "rock"
-    ],
-    "mbid": "a527e4cb-64be-4960-8ef5-edb02ff7d48e",
-    "spotify_id": null,
-    "seed": true,
-    "local_tracks": 24,
-    "local_weight": 0.412,
+    "local_tracks": 56,
+    "local_weight": 0.828,
     "sources": [
       "local-library",
       "musicbrainz"
@@ -9187,24 +9123,6 @@
     ]
   },
   {
-    "id": "the-nitty-gritty-dirt-band",
-    "name": "The Nitty Gritty Dirt Band",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "local_tracks": 22,
-    "local_weight": 0.411,
-    "sources": [
-      "local-library"
-    ]
-  },
-  {
     "id": "texas-tornados",
     "name": "Texas Tornados",
     "kind": "band",
@@ -9390,7 +9308,10 @@
     "roles": [],
     "genres": [
       "rock",
-      "pop rock"
+      "pop rock",
+      "blue-eyed soul",
+      "pop",
+      "soul"
     ],
     "mbid": "2be6ae30-d220-4419-80da-2a46813ed872",
     "spotify_id": null,
@@ -10453,14 +10374,18 @@
     "name": "Gladys Knight",
     "kind": "person",
     "born": 1944,
-    "died": null,
+    "died": 1989,
     "origin": "Atlanta",
     "roles": [],
     "genres": [
       "soul",
       "doo-wop",
       "funk",
-      "gospel"
+      "gospel",
+      "one voice",
+      "motown",
+      "quiet storm",
+      "smooth soul"
     ],
     "mbid": "68f644b2-42ed-4d11-8bc7-633d5250721b",
     "spotify_id": null,
@@ -10886,28 +10811,6 @@
     "local_weight": 0.408,
     "sources": [
       "local-library"
-    ]
-  },
-  {
-    "id": "the-outlaws",
-    "name": "The Outlaws",
-    "kind": "band",
-    "born": 1961,
-    "died": 1965,
-    "origin": "United Kingdom",
-    "roles": [],
-    "genres": [
-      "instrumental rock",
-      "pop"
-    ],
-    "mbid": "f33ea451-53c8-4d48-afc7-3e5857f01d42",
-    "spotify_id": null,
-    "seed": true,
-    "local_tracks": 16,
-    "local_weight": 0.408,
-    "sources": [
-      "local-library",
-      "musicbrainz"
     ]
   },
   {
@@ -12073,7 +11976,10 @@
       "rock",
       "singer-songwriter",
       "alternative pop",
-      "folk rock"
+      "folk rock",
+      "acoustic rock",
+      "alternative rock",
+      "contemporary folk"
     ],
     "mbid": "1582a5b8-538e-45e7-9ae4-4099439a0e79",
     "spotify_id": null,
@@ -12991,24 +12897,6 @@
   {
     "id": "george-michael-queen",
     "name": "George Michael & Queen",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "local_tracks": 2,
-    "local_weight": 0.401,
-    "sources": [
-      "local-library"
-    ]
-  },
-  {
-    "id": "joe-cocker-the-crusaders",
-    "name": "Joe Cocker & The Crusaders",
     "kind": "person",
     "born": null,
     "died": null,
@@ -15535,21 +15423,25 @@
     "name": "Robert Plant",
     "kind": "person",
     "born": 1948,
-    "died": null,
+    "died": 2007,
     "origin": "West Bromwich",
     "roles": [],
     "genres": [
       "rock",
       "blues rock",
       "folk rock",
-      "acoustic rock"
+      "acoustic rock",
+      "crossover prog"
     ],
     "mbid": "bd53f9a7-8be9-46b0-bf7d-1deea3cb57bc",
     "spotify_id": null,
-    "seed": false,
+    "seed": true,
     "sources": [
-      "musicbrainz"
-    ]
+      "musicbrainz",
+      "local-library"
+    ],
+    "local_tracks": 24,
+    "local_weight": 0.412
   },
   {
     "id": "jimmy-page-robert-plant",
@@ -28697,70 +28589,6 @@
     ]
   },
   {
-    "id": "michael-brice",
-    "name": "Michael Brice",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": "25a52e5c-342f-4ec8-ac10-984f45d3f89b",
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "id": "terry-clarke",
-    "name": "Terry Clarke",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": "244a0926-d42f-400c-b127-684d3d4f365d",
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "id": "rod-meacham",
-    "name": "Rod Meacham",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": "c495c1d8-b20f-4d66-aa86-5d6aa6eba554",
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "id": "johnny-payne",
-    "name": "Johnny Payne",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": "c28a7850-0ceb-4680-a130-7842119bc161",
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
     "id": "david-knopfler",
     "name": "David Knopfler",
     "kind": "person",
@@ -38590,27 +38418,6 @@
     ]
   },
   {
-    "id": "huey-lewis",
-    "name": "Huey Lewis",
-    "kind": "person",
-    "born": 1950,
-    "died": null,
-    "origin": "New York",
-    "roles": [],
-    "genres": [
-      "rock",
-      "blue-eyed soul",
-      "pop",
-      "soul"
-    ],
-    "mbid": "b0b6393a-a5fb-4246-921e-33e0c20371cf",
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
     "id": "chris-hayes",
     "name": "Chris Hayes",
     "kind": "person",
@@ -41679,38 +41486,6 @@
     ]
   },
   {
-    "id": "don-groom",
-    "name": "Don Groom",
-    "kind": "person",
-    "born": 1939,
-    "died": null,
-    "origin": "Walthamstow",
-    "roles": [],
-    "genres": [],
-    "mbid": "b45663dd-d507-4283-93fb-76b28e746ba3",
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "id": "reg-hawkins",
-    "name": "Reg Hawkins",
-    "kind": "person",
-    "born": 1942,
-    "died": null,
-    "origin": "United Kingdom",
-    "roles": [],
-    "genres": [],
-    "mbid": "91a4e1fd-c45c-4937-a0f1-fcfb3afc9e98",
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
     "id": "chas-hodges",
     "name": "Chas Hodges",
     "kind": "person",
@@ -41727,22 +41502,6 @@
     ]
   },
   {
-    "id": "billy-kuy",
-    "name": "Billy Kuy",
-    "kind": "person",
-    "born": 1940,
-    "died": null,
-    "origin": "United Kingdom",
-    "roles": [],
-    "genres": [],
-    "mbid": "4e4b8064-a350-4732-bdba-46e95fd0c673",
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
     "id": "ken-lundgren",
     "name": "Ken Lundgren",
     "kind": "person",
@@ -41752,22 +41511,6 @@
     "roles": [],
     "genres": [],
     "mbid": "4b156101-7fef-4902-95df-f992946cdad2",
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "id": "roger-mingay",
-    "name": "Roger Mingay",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": "b805efbc-fab1-42f4-a006-a497cb9bc2b6",
     "spotify_id": null,
     "seed": false,
     "sources": [
@@ -45219,38 +44962,6 @@
     ]
   },
   {
-    "id": "john-hiatt-the-goners",
-    "name": "John Hiatt & The Goners",
-    "kind": "band",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": "ec88f3a1-3711-4677-9db6-e12ce58238b7",
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "id": "john-hiatt-the-guilty-dogs",
-    "name": "John Hiatt & The Guilty Dogs",
-    "kind": "band",
-    "born": null,
-    "died": null,
-    "origin": "United States",
-    "roles": [],
-    "genres": [],
-    "mbid": "5294275a-86c3-43e1-b6ca-de1d128f991f",
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
     "id": "white-duck",
     "name": "White Duck",
     "kind": "band",
@@ -45260,22 +44971,6 @@
     "roles": [],
     "genres": [],
     "mbid": "21030a9c-9904-4f79-8e40-45095b46294c",
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "id": "ray-lamontagne-the-pariah-dogs",
-    "name": "Ray LaMontagne & The Pariah Dogs",
-    "kind": "band",
-    "born": 2010,
-    "died": null,
-    "origin": "United States",
-    "roles": [],
-    "genres": [],
-    "mbid": "fc46efff-1024-4c1a-9d3d-c2e70cb032e4",
     "spotify_id": null,
     "seed": false,
     "sources": [
@@ -50954,43 +50649,6 @@
     ]
   },
   {
-    "id": "elvis-costello-the-attractions",
-    "name": "Elvis Costello & The Attractions",
-    "kind": "band",
-    "born": 1977,
-    "died": 1996,
-    "origin": "California",
-    "roles": [],
-    "genres": [
-      "new wave",
-      "country",
-      "pop rock",
-      "pop soul"
-    ],
-    "mbid": "0ffb6573-a98e-412e-aa01-0a580e9d8b06",
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "id": "elvis-costello-the-imposters",
-    "name": "Elvis Costello & The Imposters",
-    "kind": "band",
-    "born": null,
-    "died": null,
-    "origin": "United Kingdom",
-    "roles": [],
-    "genres": [],
-    "mbid": "a3e6fa6e-32de-4152-ae38-81291597a10c",
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
     "id": "flip-city",
     "name": "Flip City",
     "kind": "band",
@@ -51082,27 +50740,6 @@
       "2008 universal fire victim"
     ],
     "mbid": "cb5b9dd3-e67e-4b3e-bd81-eebfc03a1e30",
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "id": "10-000-maniacs",
-    "name": "10,000 Maniacs",
-    "kind": "band",
-    "born": 1981,
-    "died": null,
-    "origin": "Jamestown",
-    "roles": [],
-    "genres": [
-      "alternative rock",
-      "indie pop",
-      "acoustic rock",
-      "folk pop"
-    ],
-    "mbid": "b9a06530-1241-4162-836f-7b8e79deaa58",
     "spotify_id": null,
     "seed": false,
     "sources": [
@@ -51596,22 +51233,6 @@
     "roles": [],
     "genres": [],
     "mbid": "d22d23e8-0ad3-4779-a043-0c566d9a2fef",
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "id": "eric-clapton-and-the-powerhouse",
-    "name": "Eric Clapton and the Powerhouse",
-    "kind": "band",
-    "born": 1966,
-    "died": 1966,
-    "origin": "London",
-    "roles": [],
-    "genres": [],
-    "mbid": "abf42300-50a9-4bc1-aa8d-95aa0f104202",
     "spotify_id": null,
     "seed": false,
     "sources": [
@@ -53863,22 +53484,6 @@
     ]
   },
   {
-    "id": "david-bowie-the-buzz",
-    "name": "David Bowie & The Buzz",
-    "kind": "band",
-    "born": 1966,
-    "died": 1966,
-    "origin": "London",
-    "roles": [],
-    "genres": [],
-    "mbid": "2010f1f2-344e-49ed-baf2-455226deb3df",
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
     "id": "the-arnold-corns",
     "name": "The Arnold Corns",
     "kind": "band",
@@ -54004,22 +53609,6 @@
       "rock"
     ],
     "mbid": "311d37e1-6305-4fe0-a6a7-37a377424bc8",
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "id": "david-bowie-the-hype",
-    "name": "David Bowie & The Hype",
-    "kind": "band",
-    "born": null,
-    "died": null,
-    "origin": "England",
-    "roles": [],
-    "genres": [],
-    "mbid": "2c0ac0c6-15a5-4423-bc30-b91322c869ad",
     "spotify_id": null,
     "seed": false,
     "sources": [
@@ -54782,22 +54371,6 @@
       "swing"
     ],
     "mbid": "9b87c1f6-23ae-469b-b710-ea5da2d3f848",
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "id": "glenn-miller-and-the-army-air-force-band",
-    "name": "Glenn Miller and the Army Air Force Band",
-    "kind": "band",
-    "born": 1942,
-    "died": 1944,
-    "origin": "United States",
-    "roles": [],
-    "genres": [],
-    "mbid": "2e53f872-3f85-4023-80d9-454bdf120895",
     "spotify_id": null,
     "seed": false,
     "sources": [
@@ -60420,41 +59993,6 @@
     ]
   },
   {
-    "id": "bruce-hornsby-the-range",
-    "name": "Bruce Hornsby & the Range",
-    "kind": "band",
-    "born": 1984,
-    "died": 1991,
-    "origin": "Los Angeles",
-    "roles": [],
-    "genres": [
-      "rock",
-      "soft rock"
-    ],
-    "mbid": "b548040e-b631-4bdd-ab75-045293e448b7",
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "id": "bruce-hornsby-the-noisemakers",
-    "name": "Bruce Hornsby & the Noisemakers",
-    "kind": "band",
-    "born": null,
-    "died": null,
-    "origin": "United States",
-    "roles": [],
-    "genres": [],
-    "mbid": "e3940b01-5559-4cfe-b8f3-02a0e3d90423",
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
     "id": "george-spanky-mccurdy",
     "name": "George \u201cSpanky\u201d McCurdy",
     "kind": "person",
@@ -60612,22 +60150,6 @@
     "roles": [],
     "genres": [],
     "mbid": "57e03021-b902-4168-8ece-4bf18a7cfe74",
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "id": "duke-ellington-the-jungle-band",
-    "name": "Duke Ellington & the Jungle Band",
-    "kind": "band",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": "4a4eff71-42c6-4afc-828d-ea6f9dcd1721",
     "spotify_id": null,
     "seed": false,
     "sources": [
@@ -61379,27 +60901,6 @@
     ]
   },
   {
-    "id": "tom-petty-and-the-heartbreakers",
-    "name": "Tom Petty and the Heartbreakers",
-    "kind": "band",
-    "born": 1976,
-    "died": 2017,
-    "origin": "Gainesville",
-    "roles": [],
-    "genres": [
-      "rock",
-      "southern rock",
-      "heartland rock",
-      "pop rock"
-    ],
-    "mbid": "f93dbc64-6f08-4033-bcc7-8a0bb4689849",
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
     "id": "mudcrutch",
     "name": "Mudcrutch",
     "kind": "band",
@@ -61672,22 +61173,6 @@
     "roles": [],
     "genres": [],
     "mbid": "bcbceeb5-50b3-4fb7-971a-e3560b4e411c",
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "id": "don-walser-and-the-pure-texas-band",
-    "name": "Don Walser and the Pure Texas Band",
-    "kind": "band",
-    "born": null,
-    "died": null,
-    "origin": "Austin",
-    "roles": [],
-    "genres": [],
-    "mbid": "29ecead0-129d-4702-9ac1-39437e8c0c8d",
     "spotify_id": null,
     "seed": false,
     "sources": [
@@ -62693,22 +62178,6 @@
     ]
   },
   {
-    "id": "keith-richards-and-the-xpensive-winos",
-    "name": "Keith Richards and The X\u2010Pensive Winos",
-    "kind": "band",
-    "born": 1988,
-    "died": null,
-    "origin": "United Kingdom",
-    "roles": [],
-    "genres": [],
-    "mbid": "ac5d1b9c-e420-4fe1-8d88-21cfc45ac626",
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
     "id": "the-new-barbarians",
     "name": "The New Barbarians",
     "kind": "band",
@@ -63529,45 +62998,6 @@
     "roles": [],
     "genres": [],
     "mbid": "dad3fb79-469f-4892-bb39-56d01a9d2485",
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "id": "gladys-knight-and-the-saints-unified-voices",
-    "name": "Gladys Knight and the Saints Unified Voices",
-    "kind": "band",
-    "born": 2002,
-    "died": null,
-    "origin": "United States",
-    "roles": [],
-    "genres": [
-      "one voice"
-    ],
-    "mbid": "3685678a-341e-4783-a030-d7c6d76d4fd0",
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "id": "gladys-knight-the-pips",
-    "name": "Gladys Knight & the Pips",
-    "kind": "band",
-    "born": 1953,
-    "died": 1989,
-    "origin": "Atlanta",
-    "roles": [],
-    "genres": [
-      "soul",
-      "motown",
-      "quiet storm",
-      "smooth soul"
-    ],
-    "mbid": "ca825016-f7fd-4ccf-a523-6ee36ea88828",
     "spotify_id": null,
     "seed": false,
     "sources": [
@@ -64698,27 +64128,6 @@
       "rock"
     ],
     "mbid": "a6e70253-7f00-4347-8cda-652f34526ebb",
-    "spotify_id": null,
-    "seed": false,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "id": "ben-harper-the-innocent-criminals",
-    "name": "Ben Harper & The Innocent Criminals",
-    "kind": "band",
-    "born": 1997,
-    "died": null,
-    "origin": "United States",
-    "roles": [],
-    "genres": [
-      "acoustic rock",
-      "alternative rock",
-      "contemporary folk",
-      "folk rock"
-    ],
-    "mbid": "63ef369f-5a88-4a95-ae58-7803160b08b7",
     "spotify_id": null,
     "seed": false,
     "sources": [
@@ -78343,10 +77752,13 @@
     ],
     "mbid": "e1a01561-204f-49aa-8e9d-12d5d39564e1",
     "spotify_id": null,
-    "seed": false,
+    "seed": true,
     "sources": [
-      "musicbrainz"
-    ]
+      "musicbrainz",
+      "local-library"
+    ],
+    "local_tracks": 16,
+    "local_weight": 0.408
   },
   {
     "id": "paul-davis",

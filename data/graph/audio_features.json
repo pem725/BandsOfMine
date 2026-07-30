@@ -1889,33 +1889,6 @@
       -4.33
     ]
   },
-  "the-eagles": {
-    "name": "The Eagles",
-    "tracks_analyzed": 2,
-    "tempo": 143.6,
-    "key": "A major",
-    "brightness": 1921.2,
-    "bandwidth": 2302.4,
-    "rolloff": 4168.5,
-    "percussive": 0.0746,
-    "energy": 0.03482,
-    "dynamics": 0.02039,
-    "mfcc": [
-      -287.32,
-      97.38,
-      4.42,
-      27.83,
-      11.99,
-      13.89,
-      6.1,
-      10.47,
-      4.87,
-      6.47,
-      1.46,
-      2.48,
-      -5.94
-    ]
-  },
   "rod-stewart": {
     "name": "Rod Stewart",
     "tracks_analyzed": 2,
@@ -4886,33 +4859,6 @@
       1.01
     ]
   },
-  "clancy-brothers-and-the-dubliners": {
-    "name": "Clancy Brothers And The Dubliners",
-    "tracks_analyzed": 2,
-    "tempo": 107.7,
-    "key": "C major",
-    "brightness": 1781.3,
-    "bandwidth": 1826.5,
-    "rolloff": 3382.5,
-    "percussive": 0.0955,
-    "energy": 0.16982,
-    "dynamics": 0.04209,
-    "mfcc": [
-      -75.7,
-      129.02,
-      -31.88,
-      19.46,
-      -16.55,
-      -13.37,
-      -1.49,
-      -0.91,
-      -11.79,
-      5.62,
-      -3.06,
-      -4.97,
-      0.49
-    ]
-  },
   "paddy-moloney-and-sean-potts": {
     "name": "Paddy Moloney And Sean Potts",
     "tracks_analyzed": 2,
@@ -6803,33 +6749,6 @@
       -5.97
     ]
   },
-  "robert-plant-the-strange-sensation": {
-    "name": "Robert Plant & The Strange Sensation",
-    "tracks_analyzed": 2,
-    "tempo": 103.4,
-    "key": "F# major",
-    "brightness": 2427.0,
-    "bandwidth": 2726.5,
-    "rolloff": 5597.0,
-    "percussive": 0.0809,
-    "energy": 0.28565,
-    "dynamics": 0.05522,
-    "mfcc": [
-      -13.87,
-      87.5,
-      7.86,
-      20.73,
-      2.77,
-      11.5,
-      1.19,
-      0.51,
-      -3.41,
-      3.39,
-      -1.14,
-      -1.95,
-      -4.01
-    ]
-  },
   "alana-sweetwater": {
     "name": "Alana Sweetwater",
     "tracks_analyzed": 2,
@@ -7692,33 +7611,6 @@
       -5.01,
       -3.54,
       -6.47
-    ]
-  },
-  "the-nitty-gritty-dirt-band": {
-    "name": "The Nitty Gritty Dirt Band",
-    "tracks_analyzed": 2,
-    "tempo": 123.0,
-    "key": "A# minor",
-    "brightness": 1453.7,
-    "bandwidth": 1431.3,
-    "rolloff": 2591.6,
-    "percussive": 0.0847,
-    "energy": 0.0212,
-    "dynamics": 0.01596,
-    "mfcc": [
-      -342.56,
-      146.34,
-      -47.08,
-      25.22,
-      0.58,
-      2.01,
-      -4.85,
-      -20.72,
-      -2.68,
-      -9.64,
-      -14.97,
-      -6.09,
-      -6.95
     ]
   },
   "texas-tornados": {
@@ -9879,33 +9771,6 @@
       -2.88,
       -0.97,
       -1.27
-    ]
-  },
-  "the-outlaws": {
-    "name": "The Outlaws",
-    "tracks_analyzed": 2,
-    "tempo": 152.0,
-    "key": "D minor",
-    "brightness": 2408.7,
-    "bandwidth": 2607.5,
-    "rolloff": 5445.2,
-    "percussive": 0.1013,
-    "energy": 0.1361,
-    "dynamics": 0.04618,
-    "mfcc": [
-      -74.48,
-      93.33,
-      5.26,
-      17.14,
-      -4.65,
-      7.18,
-      -2.24,
-      6.81,
-      -5.36,
-      3.91,
-      -8.12,
-      -0.33,
-      -1.37
     ]
   },
   "roger-waters": {
@@ -12905,33 +12770,6 @@
       -7.34
     ]
   },
-  "joe-cocker-the-crusaders": {
-    "name": "Joe Cocker & The Crusaders",
-    "tracks_analyzed": 2,
-    "tempo": 136.0,
-    "key": "G# major",
-    "brightness": 1766.1,
-    "bandwidth": 1992.8,
-    "rolloff": 3461.9,
-    "percussive": 0.08,
-    "energy": 0.06053,
-    "dynamics": 0.05045,
-    "mfcc": [
-      -226.63,
-      120.96,
-      -14.38,
-      8.76,
-      -2.07,
-      6.22,
-      -4.59,
-      1.35,
-      -4.12,
-      0.62,
-      -2.66,
-      -2.84,
-      -5.99
-    ]
-  },
   "julie-covington": {
     "name": "Julie Covington",
     "tracks_analyzed": 2,
@@ -13254,6 +13092,114 @@
       -1.78,
       1.46,
       -5.21
+    ]
+  },
+  "nitty-gritty-dirt-band": {
+    "name": "The Nitty Gritty Dirt Band",
+    "tracks_analyzed": 2,
+    "tempo": 123.0,
+    "key": "A# minor",
+    "brightness": 1453.7,
+    "bandwidth": 1431.3,
+    "rolloff": 2591.6,
+    "percussive": 0.0847,
+    "energy": 0.0212,
+    "dynamics": 0.01596,
+    "mfcc": [
+      -342.56,
+      146.34,
+      -47.08,
+      25.22,
+      0.58,
+      2.01,
+      -4.85,
+      -20.72,
+      -2.68,
+      -9.64,
+      -14.97,
+      -6.09,
+      -6.95
+    ]
+  },
+  "robert-plant": {
+    "name": "Robert Plant & The Strange Sensation",
+    "tracks_analyzed": 2,
+    "tempo": 103.4,
+    "key": "F# major",
+    "brightness": 2427.0,
+    "bandwidth": 2726.5,
+    "rolloff": 5597.0,
+    "percussive": 0.0809,
+    "energy": 0.28565,
+    "dynamics": 0.05522,
+    "mfcc": [
+      -13.87,
+      87.5,
+      7.86,
+      20.73,
+      2.77,
+      11.5,
+      1.19,
+      0.51,
+      -3.41,
+      3.39,
+      -1.14,
+      -1.95,
+      -4.01
+    ]
+  },
+  "eagles": {
+    "name": "The Eagles",
+    "tracks_analyzed": 2,
+    "tempo": 143.6,
+    "key": "A major",
+    "brightness": 1921.2,
+    "bandwidth": 2302.4,
+    "rolloff": 4168.5,
+    "percussive": 0.0746,
+    "energy": 0.03482,
+    "dynamics": 0.02039,
+    "mfcc": [
+      -287.32,
+      97.38,
+      4.42,
+      27.83,
+      11.99,
+      13.89,
+      6.1,
+      10.47,
+      4.87,
+      6.47,
+      1.46,
+      2.48,
+      -5.94
+    ]
+  },
+  "outlaws": {
+    "name": "The Outlaws",
+    "tracks_analyzed": 2,
+    "tempo": 152.0,
+    "key": "D minor",
+    "brightness": 2408.7,
+    "bandwidth": 2607.5,
+    "rolloff": 5445.2,
+    "percussive": 0.1013,
+    "energy": 0.1361,
+    "dynamics": 0.04618,
+    "mfcc": [
+      -74.48,
+      93.33,
+      5.26,
+      17.14,
+      -4.65,
+      7.18,
+      -2.24,
+      6.81,
+      -5.36,
+      3.91,
+      -8.12,
+      -0.33,
+      -1.37
     ]
   }
 }

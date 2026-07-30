@@ -5129,7 +5129,7 @@
   },
   {
     "source": "gov-t-mule",
-    "target": "allman-brothers-band",
+    "target": "the-allman-brothers-band",
     "type": "spun_off_from",
     "intervals": [
       [
@@ -11389,7 +11389,7 @@
   },
   {
     "source": "duane-allman",
-    "target": "allman-brothers-band",
+    "target": "the-allman-brothers-band",
     "type": "member_of",
     "intervals": [
       [
@@ -11405,7 +11405,7 @@
   },
   {
     "source": "berry-oakley",
-    "target": "allman-brothers-band",
+    "target": "the-allman-brothers-band",
     "type": "member_of",
     "intervals": [
       [
@@ -11421,7 +11421,7 @@
   },
   {
     "source": "jai-johanny-johanson",
-    "target": "allman-brothers-band",
+    "target": "the-allman-brothers-band",
     "type": "member_of",
     "intervals": [
       [
@@ -11437,7 +11437,7 @@
   },
   {
     "source": "dickey-betts",
-    "target": "allman-brothers-band",
+    "target": "the-allman-brothers-band",
     "type": "member_of",
     "intervals": [
       [
@@ -11453,7 +11453,7 @@
   },
   {
     "source": "gregg-allman",
-    "target": "allman-brothers-band",
+    "target": "the-allman-brothers-band",
     "type": "member_of",
     "intervals": [
       [
@@ -11469,7 +11469,7 @@
   },
   {
     "source": "butch-trucks",
-    "target": "allman-brothers-band",
+    "target": "the-allman-brothers-band",
     "type": "member_of",
     "intervals": [
       [
@@ -11485,7 +11485,7 @@
   },
   {
     "source": "chuck-leavell",
-    "target": "allman-brothers-band",
+    "target": "the-allman-brothers-band",
     "type": "member_of",
     "intervals": [
       [
@@ -11501,7 +11501,7 @@
   },
   {
     "source": "lamar-williams",
-    "target": "allman-brothers-band",
+    "target": "the-allman-brothers-band",
     "type": "member_of",
     "intervals": [
       [
@@ -11517,7 +11517,7 @@
   },
   {
     "source": "david-goldflies",
-    "target": "allman-brothers-band",
+    "target": "the-allman-brothers-band",
     "type": "member_of",
     "intervals": [
       [
@@ -11533,7 +11533,7 @@
   },
   {
     "source": "dan-toler",
-    "target": "allman-brothers-band",
+    "target": "the-allman-brothers-band",
     "type": "member_of",
     "intervals": [
       [
@@ -11549,7 +11549,7 @@
   },
   {
     "source": "mike-lawler",
-    "target": "allman-brothers-band",
+    "target": "the-allman-brothers-band",
     "type": "member_of",
     "intervals": [
       [
@@ -11565,7 +11565,7 @@
   },
   {
     "source": "david-frankie-toler",
-    "target": "allman-brothers-band",
+    "target": "the-allman-brothers-band",
     "type": "member_of",
     "intervals": [
       [
@@ -11581,7 +11581,7 @@
   },
   {
     "source": "johnny-neel",
-    "target": "allman-brothers-band",
+    "target": "the-allman-brothers-band",
     "type": "member_of",
     "intervals": [
       [
@@ -11597,7 +11597,7 @@
   },
   {
     "source": "warren-haynes",
-    "target": "allman-brothers-band",
+    "target": "the-allman-brothers-band",
     "type": "member_of",
     "intervals": [
       [
@@ -11613,7 +11613,7 @@
   },
   {
     "source": "allen-woody",
-    "target": "allman-brothers-band",
+    "target": "the-allman-brothers-band",
     "type": "member_of",
     "intervals": [
       [
@@ -11629,7 +11629,7 @@
   },
   {
     "source": "marc-quinones",
-    "target": "allman-brothers-band",
+    "target": "the-allman-brothers-band",
     "type": "member_of",
     "intervals": [
       [
@@ -11645,7 +11645,7 @@
   },
   {
     "source": "jack-pearson",
-    "target": "allman-brothers-band",
+    "target": "the-allman-brothers-band",
     "type": "member_of",
     "intervals": [
       [
@@ -11661,7 +11661,7 @@
   },
   {
     "source": "oteil-burbridge",
-    "target": "allman-brothers-band",
+    "target": "the-allman-brothers-band",
     "type": "member_of",
     "intervals": [
       [
@@ -11677,7 +11677,7 @@
   },
   {
     "source": "derek-trucks",
-    "target": "allman-brothers-band",
+    "target": "the-allman-brothers-band",
     "type": "member_of",
     "intervals": [
       [
@@ -11693,7 +11693,7 @@
   },
   {
     "source": "jimmy-herring",
-    "target": "allman-brothers-band",
+    "target": "the-allman-brothers-band",
     "type": "member_of",
     "intervals": [
       [
@@ -13851,342 +13851,6 @@
       [
         2003,
         null
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "duane-allman",
-    "target": "the-allman-brothers-band",
-    "type": "member_of",
-    "intervals": [
-      [
-        1969,
-        1971
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "berry-oakley",
-    "target": "the-allman-brothers-band",
-    "type": "member_of",
-    "intervals": [
-      [
-        1969,
-        1972
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "jai-johanny-johanson",
-    "target": "the-allman-brothers-band",
-    "type": "member_of",
-    "intervals": [
-      [
-        1969,
-        1980
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "dickey-betts",
-    "target": "the-allman-brothers-band",
-    "type": "member_of",
-    "intervals": [
-      [
-        1969,
-        2000
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "gregg-allman",
-    "target": "the-allman-brothers-band",
-    "type": "member_of",
-    "intervals": [
-      [
-        1969,
-        2014
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "butch-trucks",
-    "target": "the-allman-brothers-band",
-    "type": "member_of",
-    "intervals": [
-      [
-        1969,
-        2014
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "chuck-leavell",
-    "target": "the-allman-brothers-band",
-    "type": "member_of",
-    "intervals": [
-      [
-        1972,
-        1976
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "lamar-williams",
-    "target": "the-allman-brothers-band",
-    "type": "member_of",
-    "intervals": [
-      [
-        1972,
-        1976
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "david-goldflies",
-    "target": "the-allman-brothers-band",
-    "type": "member_of",
-    "intervals": [
-      [
-        1978,
-        1982
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "dan-toler",
-    "target": "the-allman-brothers-band",
-    "type": "member_of",
-    "intervals": [
-      [
-        1978,
-        1982
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "mike-lawler",
-    "target": "the-allman-brothers-band",
-    "type": "member_of",
-    "intervals": [
-      [
-        1980,
-        1982
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "david-frankie-toler",
-    "target": "the-allman-brothers-band",
-    "type": "member_of",
-    "intervals": [
-      [
-        1980,
-        1982
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "johnny-neel",
-    "target": "the-allman-brothers-band",
-    "type": "member_of",
-    "intervals": [
-      [
-        1989,
-        1990
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "warren-haynes",
-    "target": "the-allman-brothers-band",
-    "type": "member_of",
-    "intervals": [
-      [
-        1989,
-        1997
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "allen-woody",
-    "target": "the-allman-brothers-band",
-    "type": "member_of",
-    "intervals": [
-      [
-        1989,
-        1997
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "marc-quinones",
-    "target": "the-allman-brothers-band",
-    "type": "member_of",
-    "intervals": [
-      [
-        1991,
-        2014
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "jack-pearson",
-    "target": "the-allman-brothers-band",
-    "type": "member_of",
-    "intervals": [
-      [
-        1997,
-        1999
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "oteil-burbridge",
-    "target": "the-allman-brothers-band",
-    "type": "member_of",
-    "intervals": [
-      [
-        1997,
-        2014
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "derek-trucks",
-    "target": "the-allman-brothers-band",
-    "type": "member_of",
-    "intervals": [
-      [
-        1999,
-        2014
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "jimmy-herring",
-    "target": "the-allman-brothers-band",
-    "type": "member_of",
-    "intervals": [
-      [
-        2000,
-        2000
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "gov-t-mule",
-    "target": "the-allman-brothers-band",
-    "type": "spun_off_from",
-    "intervals": [
-      [
-        1969,
-        2014
       ]
     ],
     "weight": 0.7,
@@ -16683,70 +16347,6 @@
       [
         1996,
         null
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "michael-brice",
-    "target": "the-eagles",
-    "type": "member_of",
-    "intervals": [
-      [
-        1958,
-        1964
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "terry-clarke",
-    "target": "the-eagles",
-    "type": "member_of",
-    "intervals": [
-      [
-        1958,
-        1964
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "rod-meacham",
-    "target": "the-eagles",
-    "type": "member_of",
-    "intervals": [
-      [
-        1958,
-        1964
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "johnny-payne",
-    "target": "the-eagles",
-    "type": "member_of",
-    "intervals": [
-      [
-        1958,
-        1964
       ]
     ],
     "weight": 0.7,
@@ -24753,8 +24353,8 @@
   },
   {
     "source": "justin-adams",
-    "target": "robert-plant-the-strange-sensation",
-    "type": "member_of",
+    "target": "robert-plant",
+    "type": "collaborated_with",
     "intervals": [
       [
         2001,
@@ -24769,8 +24369,8 @@
   },
   {
     "source": "john-baggott",
-    "target": "robert-plant-the-strange-sensation",
-    "type": "member_of",
+    "target": "robert-plant",
+    "type": "collaborated_with",
     "intervals": [
       [
         2001,
@@ -24785,8 +24385,8 @@
   },
   {
     "source": "clive-deamer",
-    "target": "robert-plant-the-strange-sensation",
-    "type": "member_of",
+    "target": "robert-plant",
+    "type": "collaborated_with",
     "intervals": [
       [
         2001,
@@ -24801,24 +24401,8 @@
   },
   {
     "source": "billy-fuller",
-    "target": "robert-plant-the-strange-sensation",
-    "type": "member_of",
-    "intervals": [
-      [
-        2001,
-        2007
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "robert-plant",
-    "target": "robert-plant-the-strange-sensation",
-    "type": "member_of",
+    "target": "robert-plant",
+    "type": "collaborated_with",
     "intervals": [
       [
         2001,
@@ -24833,8 +24417,8 @@
   },
   {
     "source": "liam-tyson",
-    "target": "robert-plant-the-strange-sensation",
-    "type": "member_of",
+    "target": "robert-plant",
+    "type": "collaborated_with",
     "intervals": [
       [
         2001,
@@ -26849,22 +26433,6 @@
   },
   {
     "source": "sean-hopper",
-    "target": "huey-lewis-the-news",
-    "type": "member_of",
-    "intervals": [
-      [
-        1979,
-        null
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "huey-lewis",
     "target": "huey-lewis-the-news",
     "type": "member_of",
     "intervals": [
@@ -30023,150 +29591,6 @@
       [
         1973,
         2023
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "ritchie-blackmore",
-    "target": "the-outlaws",
-    "type": "member_of",
-    "intervals": [
-      [
-        1961,
-        1965
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "bobby-graham",
-    "target": "the-outlaws",
-    "type": "member_of",
-    "intervals": [
-      [
-        1961,
-        1965
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "don-groom",
-    "target": "the-outlaws",
-    "type": "member_of",
-    "intervals": [
-      [
-        1961,
-        1965
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "reg-hawkins",
-    "target": "the-outlaws",
-    "type": "member_of",
-    "intervals": [
-      [
-        1961,
-        1965
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "chas-hodges",
-    "target": "the-outlaws",
-    "type": "member_of",
-    "intervals": [
-      [
-        1961,
-        1965
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "billy-kuy",
-    "target": "the-outlaws",
-    "type": "member_of",
-    "intervals": [
-      [
-        1961,
-        1965
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "ken-lundgren",
-    "target": "the-outlaws",
-    "type": "member_of",
-    "intervals": [
-      [
-        1961,
-        1965
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "roger-mingay",
-    "target": "the-outlaws",
-    "type": "member_of",
-    "intervals": [
-      [
-        1961,
-        1965
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "mick-underwood",
-    "target": "the-outlaws",
-    "type": "member_of",
-    "intervals": [
-      [
-        1961,
-        1965
       ]
     ],
     "weight": 0.7,
@@ -33962,39 +33386,7 @@
   },
   {
     "source": "john-hiatt",
-    "target": "john-hiatt-the-goners",
-    "type": "member_of",
-    "intervals": [
-      [
-        1952,
-        null
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "john-hiatt",
     "target": "little-village",
-    "type": "member_of",
-    "intervals": [
-      [
-        1952,
-        null
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "john-hiatt",
-    "target": "john-hiatt-the-guilty-dogs",
     "type": "member_of",
     "intervals": [
       [
@@ -34015,22 +33407,6 @@
     "intervals": [
       [
         1952,
-        null
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "ray-lamontagne",
-    "target": "ray-lamontagne-the-pariah-dogs",
-    "type": "member_of",
-    "intervals": [
-      [
-        1973,
         null
       ]
     ],
@@ -39514,38 +38890,6 @@
   },
   {
     "source": "elvis-costello",
-    "target": "elvis-costello-the-attractions",
-    "type": "member_of",
-    "intervals": [
-      [
-        1954,
-        null
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "elvis-costello",
-    "target": "elvis-costello-the-imposters",
-    "type": "member_of",
-    "intervals": [
-      [
-        1954,
-        null
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "elvis-costello",
     "target": "flip-city",
     "type": "member_of",
     "intervals": [
@@ -39642,7 +38986,7 @@
   },
   {
     "source": "natalie-merchant",
-    "target": "10-000-maniacs",
+    "target": "10000-maniacs",
     "type": "member_of",
     "intervals": [
       [
@@ -40219,22 +39563,6 @@
   {
     "source": "eric-clapton",
     "target": "the-louisiana-gator-boys",
-    "type": "member_of",
-    "intervals": [
-      [
-        1945,
-        null
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "eric-clapton",
-    "target": "eric-clapton-and-the-powerhouse",
     "type": "member_of",
     "intervals": [
       [
@@ -42757,22 +42085,6 @@
   },
   {
     "source": "david-bowie",
-    "target": "david-bowie-the-buzz",
-    "type": "member_of",
-    "intervals": [
-      [
-        1966,
-        1966
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "david-bowie",
     "target": "the-arnold-corns",
     "type": "member_of",
     "intervals": [
@@ -42886,22 +42198,6 @@
   {
     "source": "david-bowie",
     "target": "the-riot-squad",
-    "type": "member_of",
-    "intervals": [
-      [
-        1947,
-        2016
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "david-bowie",
-    "target": "david-bowie-the-hype",
     "type": "member_of",
     "intervals": [
       [
@@ -43718,22 +43014,6 @@
   {
     "source": "glenn-miller",
     "target": "california-ramblers",
-    "type": "member_of",
-    "intervals": [
-      [
-        1904,
-        1944
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "glenn-miller",
-    "target": "glenn-miller-and-the-army-air-force-band",
     "type": "member_of",
     "intervals": [
       [
@@ -49492,38 +48772,6 @@
     ]
   },
   {
-    "source": "bruce-hornsby",
-    "target": "bruce-hornsby-the-range",
-    "type": "member_of",
-    "intervals": [
-      [
-        1954,
-        null
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "bruce-hornsby",
-    "target": "bruce-hornsby-the-noisemakers",
-    "type": "member_of",
-    "intervals": [
-      [
-        1954,
-        null
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
     "source": "george-spanky-mccurdy",
     "target": "lady-gaga",
     "type": "collaborated_with",
@@ -49670,22 +48918,6 @@
   {
     "source": "duke-ellington",
     "target": "duke-ellingtons-hot-five",
-    "type": "member_of",
-    "intervals": [
-      [
-        1899,
-        1974
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "duke-ellington",
-    "target": "duke-ellington-the-jungle-band",
     "type": "member_of",
     "intervals": [
       [
@@ -50485,22 +49717,6 @@
   },
   {
     "source": "tom-petty",
-    "target": "tom-petty-and-the-heartbreakers",
-    "type": "member_of",
-    "intervals": [
-      [
-        1976,
-        2017
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "tom-petty",
     "target": "mudcrutch",
     "type": "member_of",
     "intervals": [
@@ -50811,22 +50027,6 @@
       [
         1970,
         null
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "don-walser",
-    "target": "don-walser-and-the-pure-texas-band",
-    "type": "member_of",
-    "intervals": [
-      [
-        1934,
-        2006
       ]
     ],
     "weight": 0.7,
@@ -52149,22 +51349,6 @@
   },
   {
     "source": "keith-richards",
-    "target": "keith-richards-and-the-xpensive-winos",
-    "type": "member_of",
-    "intervals": [
-      [
-        1943,
-        null
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "keith-richards",
     "target": "the-new-barbarians",
     "type": "member_of",
     "intervals": [
@@ -53141,38 +52325,6 @@
   },
   {
     "source": "gladys-knight",
-    "target": "gladys-knight-and-the-saints-unified-voices",
-    "type": "member_of",
-    "intervals": [
-      [
-        1944,
-        null
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "gladys-knight",
-    "target": "gladys-knight-the-pips",
-    "type": "member_of",
-    "intervals": [
-      [
-        1944,
-        null
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "gladys-knight",
     "target": "dionne-friends",
     "type": "member_of",
     "intervals": [
@@ -53989,8 +53141,8 @@
   },
   {
     "source": "steve-winwood",
-    "target": "eric-clapton-and-the-powerhouse",
-    "type": "member_of",
+    "target": "eric-clapton",
+    "type": "collaborated_with",
     "intervals": [
       [
         1948,
@@ -54666,22 +53818,6 @@
     "intervals": [
       [
         2010,
-        null
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "ben-harper",
-    "target": "ben-harper-the-innocent-criminals",
-    "type": "member_of",
-    "intervals": [
-      [
-        1969,
         null
       ]
     ],
@@ -58547,8 +57683,8 @@
   },
   {
     "source": "bobby-keys",
-    "target": "keith-richards-and-the-xpensive-winos",
-    "type": "member_of",
+    "target": "keith-richards",
+    "type": "collaborated_with",
     "intervals": [],
     "weight": 0.7,
     "note": null,
@@ -73596,8 +72732,8 @@
   },
   {
     "source": "mike-campbell",
-    "target": "tom-petty-and-the-heartbreakers",
-    "type": "member_of",
+    "target": "tom-petty",
+    "type": "collaborated_with",
     "intervals": [
       [
         1976,
@@ -74340,8 +73476,8 @@
   },
   {
     "source": "michael-ward",
-    "target": "john-hiatt-the-guilty-dogs",
-    "type": "member_of",
+    "target": "john-hiatt",
+    "type": "collaborated_with",
     "intervals": [],
     "weight": 0.7,
     "note": null,
@@ -74351,8 +73487,8 @@
   },
   {
     "source": "michael-ward",
-    "target": "ben-harper-the-innocent-criminals",
-    "type": "member_of",
+    "target": "ben-harper",
+    "type": "collaborated_with",
     "intervals": [],
     "weight": 0.7,
     "note": null,
@@ -90244,8 +89380,8 @@
   },
   {
     "source": "michael-urbano",
-    "target": "john-hiatt-the-guilty-dogs",
-    "type": "member_of",
+    "target": "john-hiatt",
+    "type": "collaborated_with",
     "intervals": [],
     "weight": 0.7,
     "note": null,
@@ -96888,8 +96024,8 @@
   },
   {
     "source": "kenneth-blevins",
-    "target": "john-hiatt-the-goners",
-    "type": "member_of",
+    "target": "john-hiatt",
+    "type": "collaborated_with",
     "intervals": [],
     "weight": 0.7,
     "note": null,
@@ -100542,9 +99678,9 @@
     ]
   },
   {
-    "source": "huey-lewis",
+    "source": "huey-lewis-the-news",
     "target": "american-express",
-    "type": "member_of",
+    "type": "spun_off_from",
     "intervals": [],
     "weight": 0.7,
     "note": null,
@@ -100553,9 +99689,9 @@
     ]
   },
   {
-    "source": "huey-lewis",
+    "source": "huey-lewis-the-news",
     "target": "clover",
-    "type": "member_of",
+    "type": "spun_off_from",
     "intervals": [],
     "weight": 0.7,
     "note": null,
@@ -112050,7 +111186,7 @@
   },
   {
     "source": "third-eye-blind",
-    "target": "huey-lewis",
+    "target": "huey-lewis-the-news",
     "type": "influenced_by",
     "intervals": [
       [
@@ -121176,7 +120312,7 @@
   },
   {
     "source": "tedeschi-trucks-band",
-    "target": "allman-brothers-band",
+    "target": "the-allman-brothers-band",
     "type": "influenced_by",
     "intervals": [
       [
@@ -121320,7 +120456,7 @@
   },
   {
     "source": "widespread-panic",
-    "target": "allman-brothers-band",
+    "target": "the-allman-brothers-band",
     "type": "influenced_by",
     "intervals": [
       [
@@ -121880,7 +121016,7 @@
   },
   {
     "source": "gov-t-mule",
-    "target": "allman-brothers-band",
+    "target": "the-allman-brothers-band",
     "type": "influenced_by",
     "intervals": [
       [
@@ -122423,7 +121559,7 @@
     ]
   },
   {
-    "source": "allman-brothers-band",
+    "source": "the-allman-brothers-band",
     "target": "the-band",
     "type": "influenced_by",
     "intervals": [
@@ -123480,7 +122616,7 @@
   },
   {
     "source": "the-marshall-tucker-band",
-    "target": "allman-brothers-band",
+    "target": "the-allman-brothers-band",
     "type": "influenced_by",
     "intervals": [
       [
@@ -125704,7 +124840,7 @@
   },
   {
     "source": "the-charlie-daniels-band",
-    "target": "allman-brothers-band",
+    "target": "the-allman-brothers-band",
     "type": "influenced_by",
     "intervals": [
       [
@@ -125736,7 +124872,7 @@
   },
   {
     "source": "lynyrd-skynyrd",
-    "target": "allman-brothers-band",
+    "target": "the-allman-brothers-band",
     "type": "influenced_by",
     "intervals": [
       [
@@ -125832,7 +124968,7 @@
   },
   {
     "source": "kings-of-leon",
-    "target": "allman-brothers-band",
+    "target": "the-allman-brothers-band",
     "type": "influenced_by",
     "intervals": [
       [
