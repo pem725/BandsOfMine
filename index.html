@@ -43,6 +43,12 @@
   .layers label { display: flex; align-items: center; gap: 5px; font-size: 12px; color: var(--dim); cursor: pointer; }
   .layers input { accent-color: var(--accent); }
   .layers .pip { width: 18px; height: 3px; border-radius: 2px; display: inline-block; }
+  .ncolor { font-size: 12px; color: var(--dim); display: flex; align-items: center; gap: 5px; }
+  .ncolor button { background: var(--panel); color: var(--dim); border: 1px solid var(--line);
+    padding: 3px 8px; font: inherit; cursor: pointer; }
+  .ncolor button:first-of-type { border-radius: 6px 0 0 6px; }
+  .ncolor button:last-of-type { border-radius: 0 6px 6px 0; border-left: none; }
+  .ncolor button.on { color: var(--ink); border-color: var(--accent); }
   header input[type=search] {
     margin-left: auto;
     background: var(--panel);
@@ -119,6 +125,9 @@
     <label><input type="checkbox" id="L-producer"><span class="pip" style="background:#68b587"></span>produced by</label>
     <label><input type="checkbox" id="L-sonic"><span class="pip" style="background:#4bb3a7"></span>sounds like</label>
   </span>
+  <span class="ncolor">nodes:
+    <button id="nc-kind" class="on">kind</button><button id="nc-genre">genre</button>
+  </span>
   <a href="sonic.html" style="color:var(--accent);text-decoration:none;font-size:13px">the sonic map →</a>
   <a href="families.html" style="color:var(--accent);text-decoration:none;font-size:13px">the families →</a>
   <a href="geo.html" style="color:var(--accent);text-decoration:none;font-size:13px">the map →</a>
@@ -146,6 +155,24 @@ const KIND_COLOR = {
   venue:  "#9d7cd8",
   scene:  "#68b587",
 };
+// genre colouring (shared with the families & geo views)
+function bucketOf(g){ if(!g) return "unknown"; g=g.toLowerCase();
+  if(/blues/.test(g))return"blues"; if(/jazz|swing|bossa/.test(g))return"jazz";
+  if(/soul|funk|r&b|motown|gospel/.test(g))return"soul / funk";
+  if(/folk|americana|bluegrass|celtic/.test(g))return"folk / americana";
+  if(/country/.test(g))return"country"; if(/classical|baroque|opera/.test(g))return"classical";
+  if(/reggae|ska|dub/.test(g))return"reggae";
+  if(/punk|new wave|alternative|indie|grunge/.test(g))return"alt / punk / new wave";
+  if(/prog/.test(g))return"prog"; if(/pop|disco/.test(g))return"pop";
+  if(/rock|metal/.test(g))return"rock"; return"other"; }
+const BUCKET_COLOR={"rock":"#d9843b","folk / americana":"#68b587","blues":"#6ba3d6",
+  "jazz":"#d4b24a","soul / funk":"#c85f5f","country":"#b0763a","classical":"#9d7cd8",
+  "reggae":"#4bb3a7","alt / punk / new wave":"#c77fb0","prog":"#8a7cc0","pop":"#e0a86a",
+  "other":"#7d8590","unknown":"#3a3f47"};
+let nodeColorMode = "kind";
+const nodeColor = d => nodeColorMode === "genre"
+  ? BUCKET_COLOR[bucketOf((d.genres || [])[0])]
+  : (KIND_COLOR[d.kind] || "#888");
 const EDGE_COLOR = {
   member_of:         "#d9843b",
   collaborated_with: "#6ba3d6",
@@ -288,7 +315,7 @@ function render() {
       enter => {
         const g = enter.append("g").attr("class", "node").attr("opacity", 0);
         g.append("circle")
-          .attr("fill", d => KIND_COLOR[d.kind] || "#888")
+          .attr("fill", nodeColor)
           .attr("stroke-width", d => d.seed ? 2.5 : 1.5)
           .attr("stroke", d => d.seed ? "#fff" : "var(--bg)");
         g.append("text").attr("dy", -10).attr("text-anchor", "middle").text(d => d.name);
@@ -303,7 +330,7 @@ function render() {
       exit => exit.transition().duration(200).attr("opacity", 0).remove()
     );
 
-  nodeSel.select("circle").transition().duration(250).attr("r", radius);
+  nodeSel.select("circle").transition().duration(250).attr("r", radius).attr("fill", nodeColor);
   // With hundreds of nodes, showing every label is a hairball. Label only your
   // seed artists and the well-connected hubs; the rest surface on hover/select.
   const labelCut = visible.length > 60 ? 4 : 0;
@@ -319,6 +346,7 @@ function render() {
   document.getElementById("year").textContent = allTime ? "all" : y;
   renderPanel(selected, y, allTime);
   applyHighlight();
+  drawLegend();
 }
 
 function tick() {
@@ -413,12 +441,24 @@ function renderPanel(d, y, allTime) {
 }
 
 // --- legend ------------------------------------------------------------
-document.getElementById("legend").innerHTML =
-  Object.entries(KIND_COLOR).map(([k, c]) =>
-    `<div><span class="dot" style="background:${c}"></span>${k}</div>`).join("") +
-  `<div style="height:8px"></div>` +
-  Object.entries(EDGE_COLOR).map(([k, c]) =>
-    `<div><span class="sw" style="background:${c}"></span>${k.replace(/_/g, " ")}</div>`).join("");
+function drawLegend() {
+  let top;
+  if (nodeColorMode === "genre") {
+    // count genre buckets among the currently-visible nodes
+    const cnt = {};
+    for (const n of nodes) { if (!degree.has(n.id)) continue;
+      const b = bucketOf((n.genres || [])[0]); cnt[b] = (cnt[b] || 0) + 1; }
+    top = Object.entries(cnt).sort((a, b) => b[1] - a[1]).map(([b, c]) =>
+      `<div><span class="dot" style="background:${BUCKET_COLOR[b]}"></span>${b} (${c})</div>`).join("");
+  } else {
+    top = Object.entries(KIND_COLOR).map(([k, c]) =>
+      `<div><span class="dot" style="background:${c}"></span>${k}</div>`).join("");
+  }
+  document.getElementById("legend").innerHTML = top + `<div style="height:8px"></div>` +
+    Object.entries(EDGE_COLOR).map(([k, c]) =>
+      `<div><span class="sw" style="background:${c}"></span>${k.replace(/_/g, " ")}</div>`).join("");
+}
+drawLegend();
 
 // --- controls ----------------------------------------------------------
 const slider = document.getElementById("slider");
@@ -430,6 +470,16 @@ for (const k of ["personnel", "influence", "producer", "sonic"]) {
   document.getElementById("L-" + k).addEventListener("change", ev => {
     layers[k] = ev.target.checked;
     render();
+  });
+}
+
+for (const m of ["kind", "genre"]) {
+  document.getElementById("nc-" + m).addEventListener("click", () => {
+    nodeColorMode = m;
+    document.getElementById("nc-kind").classList.toggle("on", m === "kind");
+    document.getElementById("nc-genre").classList.toggle("on", m === "genre");
+    nodeSel.select("circle").transition().duration(400).attr("fill", nodeColor);
+    drawLegend();
   });
 }
 
