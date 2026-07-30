@@ -114,6 +114,9 @@ def relations_for(mbid: str) -> list[dict]:
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--resolve", action="store_true", help="fill in missing mbids")
+    ap.add_argument("--owned", action="store_true",
+                    help="with --resolve: only artists you own/love (local_tracks or "
+                         "play_weight), not the thousands of expansion members")
     ap.add_argument("--expand", metavar="NODE_ID", help="pull relations for one node")
     ap.add_argument("--expand-seeds", action="store_true", help="expand every seed:true node")
     ap.add_argument("--expand-bands", action="store_true",
@@ -151,6 +154,10 @@ def main() -> int:
 
     # --- resolve mbids ---------------------------------------------------
     to_resolve = nodes if args.resolve else targets
+    if args.resolve and args.owned:
+        to_resolve = [n for n in nodes
+                      if (n.get("local_tracks") or 0) >= 12 or (n.get("play_weight") or 0) > 0]
+        print(f"resolving {len([n for n in to_resolve if not n.get('mbid')])} owned artists lacking an mbid")
     for n in to_resolve:
         if n.get("mbid"):
             continue

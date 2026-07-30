@@ -57,7 +57,7 @@ def main() -> int:
     if ex.exists():
         excl = {l.split("#", 1)[0].strip() for l in ex.read_text().splitlines() if l.split("#", 1)[0].strip()}
     NOISE = re.compile(r"misc|unknown|orchestra|philharmon|broadway|collection|classic-rock-19|"
-                       r"segovia|facing-future|duets|cast-recording|various|festival|heifetz|"
+                       r"facing-future|duets|cast-recording|various|festival|heifetz|"
                        r"karajan|classics-vol|kink|hykk|rp85|pvdo|el-diablo|cantiga|benedictine|"
                        r"choeur|chapelle|ensemble|consort|quartet|chorale|tenors|romeros|"
                        r"reservoir|soundtrack|motion-picture|original-score|-ost$|greatest-hits")

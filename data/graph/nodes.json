@@ -5155,20 +5155,23 @@
   },
   {
     "id": "phillippe-entremont",
-    "name": "Phillippe Entremont",
+    "name": "Philippe Entremont",
     "kind": "person",
-    "born": null,
+    "born": 1934,
     "died": null,
-    "origin": null,
+    "origin": "Reims",
     "roles": [],
-    "genres": [],
-    "mbid": null,
+    "genres": [
+      "classical"
+    ],
+    "mbid": "1fc11988-003a-430f-8a6d-8453869fdd04",
     "spotify_id": null,
     "seed": true,
     "local_tracks": 58,
     "local_weight": 0.429,
     "sources": [
-      "local-library"
+      "local-library",
+      "musicbrainz"
     ]
   },
   {
@@ -5728,20 +5731,24 @@
   },
   {
     "id": "dina-shore",
-    "name": "Dina Shore",
+    "name": "Dinah Shore",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1916,
+    "died": 1994,
+    "origin": "Winchester",
     "roles": [],
-    "genres": [],
-    "mbid": null,
+    "genres": [
+      "traditional pop",
+      "vocal jazz"
+    ],
+    "mbid": "1a329949-6586-47d2-994a-cd64e13cab68",
     "spotify_id": null,
     "seed": true,
     "local_tracks": 44,
     "local_weight": 0.422,
     "sources": [
-      "local-library"
+      "local-library",
+      "musicbrainz"
     ]
   },
   {
@@ -6942,7 +6949,7 @@
   },
   {
     "id": "frederic-chopin",
-    "name": "Frederic Chopin",
+    "name": "Fr\u00e9d\u00e9ric Chopin",
     "kind": "person",
     "born": null,
     "died": null,
@@ -7212,20 +7219,23 @@
   },
   {
     "id": "israel-kamakawiwo-ole",
-    "name": "Israel Kamakawiwo'Ole",
+    "name": "Israel Kamakawiwo\u02bbole",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1959,
+    "died": 1997,
+    "origin": "Honolulu",
     "roles": [],
-    "genres": [],
-    "mbid": null,
+    "genres": [
+      "reggae"
+    ],
+    "mbid": "e7ae37b1-624f-47b9-bf4f-53b52ef19528",
     "spotify_id": null,
     "seed": true,
     "local_tracks": 30,
     "local_weight": 0.415,
     "sources": [
-      "local-library"
+      "local-library",
+      "musicbrainz"
     ]
   },
   {
@@ -7631,20 +7641,24 @@
   },
   {
     "id": "the-bodeans",
-    "name": "The Bodeans",
-    "kind": "person",
-    "born": null,
+    "name": "BoDeans",
+    "kind": "band",
+    "born": 1983,
     "died": null,
-    "origin": null,
+    "origin": "Waukesha",
     "roles": [],
-    "genres": [],
-    "mbid": null,
+    "genres": [
+      "alternative rock",
+      "heartland rock"
+    ],
+    "mbid": "84c38d3a-3400-4c28-b988-90558bb6fae0",
     "spotify_id": null,
     "seed": true,
     "local_tracks": 26,
     "local_weight": 0.413,
     "sources": [
-      "local-library"
+      "local-library",
+      "musicbrainz"
     ]
   },
   {
@@ -7673,20 +7687,23 @@
   },
   {
     "id": "darlingisde",
-    "name": "Darlingisde",
-    "kind": "person",
-    "born": null,
+    "name": "Darlingside",
+    "kind": "band",
+    "born": 2009,
     "died": null,
-    "origin": null,
+    "origin": "Hadley",
     "roles": [],
-    "genres": [],
-    "mbid": null,
+    "genres": [
+      "indie folk"
+    ],
+    "mbid": "b7a65497-9fba-46b5-8c4e-0311cf6943b0",
     "spotify_id": null,
     "seed": true,
     "local_tracks": 26,
     "local_weight": 0.413,
     "sources": [
-      "local-library"
+      "local-library",
+      "musicbrainz"
     ]
   },
   {
@@ -8505,24 +8522,6 @@
     ]
   },
   {
-    "id": "classical-misc",
-    "name": "Classical Misc",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "local_tracks": 24,
-    "local_weight": 0.412,
-    "sources": [
-      "local-library"
-    ]
-  },
-  {
     "id": "classic-rock-1969",
     "name": "Classic Rock; 1969",
     "kind": "person",
@@ -8609,24 +8608,6 @@
     "sources": [
       "local-library",
       "musicbrainz"
-    ]
-  },
-  {
-    "id": "hykk6d-g",
-    "name": "HYKK6D~G",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "local_tracks": 22,
-    "local_weight": 0.411,
-    "sources": [
-      "local-library"
     ]
   },
   {
@@ -9029,24 +9010,6 @@
     ]
   },
   {
-    "id": "uncleedmusic",
-    "name": "Uncleedmusic",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "local_tracks": 21,
-    "local_weight": 0.41,
-    "sources": [
-      "local-library"
-    ]
-  },
-  {
     "id": "keith-richards",
     "name": "Keith Richards",
     "kind": "person",
@@ -9214,20 +9177,26 @@
   },
   {
     "id": "seals-crofts",
-    "name": "Seals  Crofts",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "name": "Seals & Crofts",
+    "kind": "band",
+    "born": 1969,
+    "died": 1980,
+    "origin": "Los Angeles",
     "roles": [],
-    "genres": [],
-    "mbid": null,
+    "genres": [
+      "soft rock",
+      "close harmony",
+      "folk rock",
+      "pop rock"
+    ],
+    "mbid": "b0633a9d-b576-4d7c-bb26-e4c6ed2728a9",
     "spotify_id": null,
     "seed": true,
     "local_tracks": 20,
     "local_weight": 0.41,
     "sources": [
-      "local-library"
+      "local-library",
+      "musicbrainz"
     ]
   },
   {
@@ -10354,20 +10323,26 @@
   },
   {
     "id": "paco-de-lucia",
-    "name": "Paco De Luci\u0301A",
+    "name": "Paco de Luc\u00eda",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1947,
+    "died": 2014,
+    "origin": "Algeciras",
     "roles": [],
-    "genres": [],
-    "mbid": null,
+    "genres": [
+      "flamenco",
+      "flamenco jazz",
+      "jazz",
+      "latin jazz"
+    ],
+    "mbid": "7bc8dd01-35ea-4b18-a64d-3a364dc76a52",
     "spotify_id": null,
     "seed": true,
     "local_tracks": 16,
     "local_weight": 0.408,
     "sources": [
-      "local-library"
+      "local-library",
+      "musicbrainz"
     ]
   },
   {
@@ -10520,20 +10495,24 @@
   },
   {
     "id": "vincente-amigo",
-    "name": "Vincente Amigo",
+    "name": "Vicente Amigo",
     "kind": "person",
-    "born": null,
+    "born": 1967,
     "died": null,
-    "origin": null,
+    "origin": "Guadalcanal",
     "roles": [],
-    "genres": [],
-    "mbid": null,
+    "genres": [
+      "flamenco",
+      "jazz"
+    ],
+    "mbid": "6df45204-f43d-46b5-90f9-b908534e8ed4",
     "spotify_id": null,
     "seed": true,
     "local_tracks": 16,
     "local_weight": 0.408,
     "sources": [
-      "local-library"
+      "local-library",
+      "musicbrainz"
     ]
   },
   {
@@ -10696,24 +10675,6 @@
   {
     "id": "christmas-from-around-the-world",
     "name": "Christmas From Around The World",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "local_tracks": 15,
-    "local_weight": 0.407,
-    "sources": [
-      "local-library"
-    ]
-  },
-  {
-    "id": "tyzgv7-v",
-    "name": "TYZGV7~V",
     "kind": "person",
     "born": null,
     "died": null,
@@ -10986,20 +10947,26 @@
   },
   {
     "id": "mclachlan-sarah",
-    "name": "Mclachlan, Sarah",
+    "name": "Sarah McLachlan",
     "kind": "person",
-    "born": null,
+    "born": 1968,
     "died": null,
-    "origin": null,
+    "origin": "Halifax",
     "roles": [],
-    "genres": [],
-    "mbid": null,
+    "genres": [
+      "pop",
+      "rock",
+      "christmas music",
+      "folk pop"
+    ],
+    "mbid": "ce58d854-7430-4231-aa44-97f0144b3372",
     "spotify_id": null,
     "seed": true,
     "local_tracks": 12,
     "local_weight": 0.406,
     "sources": [
-      "local-library"
+      "local-library",
+      "musicbrainz"
     ]
   },
   {
@@ -131745,8 +131712,8 @@
     "id": "andres-segovia",
     "name": "Andr\u00e9s Segovia",
     "kind": "person",
-    "born": null,
-    "died": null,
+    "born": 1893,
+    "died": 1987,
     "origin": null,
     "roles": [],
     "genres": [
@@ -131757,8 +131724,10 @@
     "local_tracks": 102,
     "local_weight": 0.85,
     "sources": [
-      "local-library"
-    ]
+      "local-library",
+      "musicbrainz"
+    ],
+    "mbid": "443aad48-c7e7-476f-96bf-90f123a4829b"
   },
   {
     "id": "chuck-mangione",

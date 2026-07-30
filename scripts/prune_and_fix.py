@@ -26,6 +26,8 @@ PRUNE = [
     "the-rolling-stone-collection-1977-1982", "the-rolling-stone-collection-1967-1969",
     "the-rolling-stone-collection-1973-1977", "rolling-stone-collection1986-1992",
     "rolling-stone-collection-1969-1970",
+    # 2026-07-30 second sweep: more rip artifacts / misc bins
+    "classical-misc", "hykk6d-g", "tyzgv7-v", "uncleedmusic",
 ]
 
 # compilation node -> the real artist it actually represents.
