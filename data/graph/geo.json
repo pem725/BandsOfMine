@@ -1,0 +1,2155 @@
+{
+  "points": [
+    {
+      "id": "neil-young",
+      "name": "Neil Young",
+      "lon": -79.38,
+      "lat": 43.65,
+      "place": "Toronto, Canada",
+      "tracks": 202,
+      "genre": "folk rock"
+    },
+    {
+      "id": "buffalo-springfield",
+      "name": "Buffalo Springfield",
+      "lon": -118.24,
+      "lat": 34.05,
+      "place": "Los Angeles, CA",
+      "tracks": 0,
+      "genre": "folk rock"
+    },
+    {
+      "id": "crazy-horse",
+      "name": "Crazy Horse",
+      "lon": -118.24,
+      "lat": 34.05,
+      "place": "Los Angeles, CA",
+      "tracks": 0,
+      "genre": "hard rock"
+    },
+    {
+      "id": "crosby-stills-nash",
+      "name": "Crosby, Stills & Nash",
+      "lon": -118.24,
+      "lat": 34.05,
+      "place": "Los Angeles, CA",
+      "tracks": 0,
+      "genre": "folk rock"
+    },
+    {
+      "id": "csny",
+      "name": "Crosby, Stills, Nash & Young",
+      "lon": -118.24,
+      "lat": 34.05,
+      "place": "Los Angeles, CA",
+      "tracks": 0,
+      "genre": "folk rock"
+    },
+    {
+      "id": "stephen-stills",
+      "name": "Stephen Stills",
+      "lon": -96.8,
+      "lat": 32.78,
+      "place": "Dallas, TX",
+      "tracks": 4,
+      "genre": "folk rock"
+    },
+    {
+      "id": "joni-mitchell",
+      "name": "Joni Mitchell",
+      "lon": -106,
+      "lat": 56,
+      "place": "Fort Macleod, Alberta, Canada",
+      "tracks": 102,
+      "genre": "folk"
+    },
+    {
+      "id": "david-crosby",
+      "name": "David Crosby",
+      "lon": -118.24,
+      "lat": 34.05,
+      "place": "Los Angeles, CA",
+      "tracks": 4,
+      "genre": "folk rock"
+    },
+    {
+      "id": "graham-nash",
+      "name": "Graham Nash",
+      "lon": -1.5,
+      "lat": 52.5,
+      "place": "Blackpool, England",
+      "tracks": 10,
+      "genre": "folk rock"
+    },
+    {
+      "id": "bob-dylan",
+      "name": "Bob Dylan",
+      "lon": -92.1,
+      "lat": 46.79,
+      "place": "Duluth, MN",
+      "tracks": 266,
+      "genre": "folk"
+    },
+    {
+      "id": "the-band",
+      "name": "The Band",
+      "lon": -79.38,
+      "lat": 43.65,
+      "place": "Toronto, Canada / Woodstock, NY",
+      "tracks": 282,
+      "genre": "roots rock"
+    },
+    {
+      "id": "al-petteway",
+      "name": "Al Petteway",
+      "lon": -98.5,
+      "lat": 39.8,
+      "place": "United States",
+      "tracks": 30,
+      "genre": "folk"
+    },
+    {
+      "id": "the-steeldrivers",
+      "name": "The Steeldrivers",
+      "lon": -86.78,
+      "lat": 36.16,
+      "place": "Nashville",
+      "tracks": 0,
+      "genre": "bluegrass"
+    },
+    {
+      "id": "lemon-jelly",
+      "name": "Lemon Jelly",
+      "lon": -0.13,
+      "lat": 51.51,
+      "place": "London",
+      "tracks": 0,
+      "genre": "downtempo"
+    },
+    {
+      "id": "van-morrison",
+      "name": "Van Morrison",
+      "lon": -5.93,
+      "lat": 54.6,
+      "place": "Belfast",
+      "tracks": 208,
+      "genre": "folk rock"
+    },
+    {
+      "id": "widespread-panic",
+      "name": "Widespread Panic",
+      "lon": -83.38,
+      "lat": 33.96,
+      "place": "Athens",
+      "tracks": 0,
+      "genre": "jam band"
+    },
+    {
+      "id": "watchhouse",
+      "name": "Watchhouse",
+      "lon": -79.06,
+      "lat": 35.91,
+      "place": "Chapel Hill",
+      "tracks": 0,
+      "genre": "folk"
+    },
+    {
+      "id": "tedeschi-trucks-band",
+      "name": "Tedeschi Trucks Band",
+      "lon": -81.66,
+      "lat": 30.33,
+      "place": "Jacksonville",
+      "tracks": 0,
+      "genre": "blues rock"
+    },
+    {
+      "id": "trampled-by-turtles",
+      "name": "Trampled by Turtles",
+      "lon": -92.1,
+      "lat": 46.79,
+      "place": "Duluth",
+      "tracks": 0,
+      "genre": "bluegrass"
+    },
+    {
+      "id": "dave-matthews",
+      "name": "Dave Matthews",
+      "lon": -78.48,
+      "lat": 38.03,
+      "place": "Charlottesville",
+      "tracks": 74,
+      "genre": "rock"
+    },
+    {
+      "id": "phish",
+      "name": "Phish",
+      "lon": -73.21,
+      "lat": 44.48,
+      "place": "Burlington",
+      "tracks": 88,
+      "genre": "jam band"
+    },
+    {
+      "id": "billy-joel",
+      "name": "Billy Joel",
+      "lon": -73.86,
+      "lat": 40.84,
+      "place": "The Bronx",
+      "tracks": 246,
+      "genre": "piano rock"
+    },
+    {
+      "id": "nightmares-on-wax",
+      "name": "Nightmares On Wax",
+      "lon": -1.55,
+      "lat": 53.8,
+      "place": "Leeds",
+      "tracks": 0,
+      "genre": "downtempo"
+    },
+    {
+      "id": "the-beatles",
+      "name": "The Beatles",
+      "lon": -2.99,
+      "lat": 53.41,
+      "place": "Liverpool",
+      "tracks": 1081,
+      "genre": "rock"
+    },
+    {
+      "id": "dave-matthews-band",
+      "name": "Dave Matthews Band",
+      "lon": -78.48,
+      "lat": 38.03,
+      "place": "Charlottesville",
+      "tracks": 214,
+      "genre": "rock"
+    },
+    {
+      "id": "kings-of-leon",
+      "name": "Kings of Leon",
+      "lon": -86.78,
+      "lat": 36.16,
+      "place": "Nashville",
+      "tracks": 46,
+      "genre": "alternative rock"
+    },
+    {
+      "id": "little-feat",
+      "name": "Little Feat",
+      "lon": -118.24,
+      "lat": 34.05,
+      "place": "Los Angeles",
+      "tracks": 42,
+      "genre": "southern rock"
+    },
+    {
+      "id": "led-zeppelin",
+      "name": "Led Zeppelin",
+      "lon": -0.13,
+      "lat": 51.51,
+      "place": "London",
+      "tracks": 184,
+      "genre": "hard rock"
+    },
+    {
+      "id": "caamp",
+      "name": "Caamp",
+      "lon": -83.38,
+      "lat": 33.96,
+      "place": "Athens",
+      "tracks": 0,
+      "genre": "americana"
+    },
+    {
+      "id": "the-rolling-stones",
+      "name": "The Rolling Stones",
+      "lon": -0.13,
+      "lat": 51.51,
+      "place": "London",
+      "tracks": 270,
+      "genre": "rock"
+    },
+    {
+      "id": "steve-miller-band",
+      "name": "Steve Miller Band",
+      "lon": -122.42,
+      "lat": 37.77,
+      "place": "San Francisco",
+      "tracks": 138,
+      "genre": "blues rock"
+    },
+    {
+      "id": "jj-grey-mofro",
+      "name": "JJ Grey & Mofro",
+      "lon": -81.66,
+      "lat": 30.33,
+      "place": "Jacksonville",
+      "tracks": 0,
+      "genre": "blues rock"
+    },
+    {
+      "id": "big-head-todd-and-the-monsters",
+      "name": "Big Head Todd and The Monsters",
+      "lon": -105.5,
+      "lat": 39.0,
+      "place": "Colorado",
+      "tracks": 0,
+      "genre": "alternative rock"
+    },
+    {
+      "id": "james-gang",
+      "name": "James Gang",
+      "lon": -81.69,
+      "lat": 41.5,
+      "place": "Cleveland",
+      "tracks": 0,
+      "genre": "hard rock"
+    },
+    {
+      "id": "susan-tedeschi",
+      "name": "Susan Tedeschi",
+      "lon": -71.06,
+      "lat": 42.36,
+      "place": "Boston",
+      "tracks": 0,
+      "genre": "blues"
+    },
+    {
+      "id": "the-band-of-heathens",
+      "name": "The Band Of Heathens",
+      "lon": -97.74,
+      "lat": 30.27,
+      "place": "Austin",
+      "tracks": 0,
+      "genre": "americana"
+    },
+    {
+      "id": "foo-fighters",
+      "name": "Foo Fighters",
+      "lon": -122.33,
+      "lat": 47.61,
+      "place": "Seattle",
+      "tracks": 0,
+      "genre": "rock"
+    },
+    {
+      "id": "todd-snider",
+      "name": "Todd Snider",
+      "lon": -122.68,
+      "lat": 45.52,
+      "place": "Portland",
+      "tracks": 0,
+      "genre": "alternative country"
+    },
+    {
+      "id": "blitzen-trapper",
+      "name": "Blitzen Trapper",
+      "lon": -122.68,
+      "lat": 45.52,
+      "place": "Portland",
+      "tracks": 0,
+      "genre": "alternative country"
+    },
+    {
+      "id": "gov-t-mule",
+      "name": "Gov't Mule",
+      "lon": -74.01,
+      "lat": 40.71,
+      "place": "New York",
+      "tracks": 0,
+      "genre": "blues rock"
+    },
+    {
+      "id": "dj-shadow",
+      "name": "DJ Shadow",
+      "lon": -121.89,
+      "lat": 37.34,
+      "place": "San Jose",
+      "tracks": 0,
+      "genre": "electronic"
+    },
+    {
+      "id": "aerosmith",
+      "name": "Aerosmith",
+      "lon": -71.06,
+      "lat": 42.36,
+      "place": "Boston",
+      "tracks": 102,
+      "genre": "hard rock"
+    },
+    {
+      "id": "the-fray",
+      "name": "The Fray",
+      "lon": -104.99,
+      "lat": 39.74,
+      "place": "Denver",
+      "tracks": 68,
+      "genre": "alternative rock"
+    },
+    {
+      "id": "the-charlie-daniels-band",
+      "name": "The Charlie Daniels Band",
+      "lon": -86.78,
+      "lat": 36.16,
+      "place": "Nashville",
+      "tracks": 0,
+      "genre": "country"
+    },
+    {
+      "id": "the-revivalists",
+      "name": "The Revivalists",
+      "lon": -90.07,
+      "lat": 29.95,
+      "place": "New Orleans",
+      "tracks": 0,
+      "genre": null
+    },
+    {
+      "id": "waxahatchee",
+      "name": "Waxahatchee",
+      "lon": -1.9,
+      "lat": 52.48,
+      "place": "Birmingham",
+      "tracks": 0,
+      "genre": "indie folk"
+    },
+    {
+      "id": "khruangbin",
+      "name": "Khruangbin",
+      "lon": -95.37,
+      "lat": 29.76,
+      "place": "Houston",
+      "tracks": 0,
+      "genre": "psychedelic rock"
+    },
+    {
+      "id": "the-infamous-stringdusters",
+      "name": "The Infamous Stringdusters",
+      "lon": -86.78,
+      "lat": 36.16,
+      "place": "Nashville",
+      "tracks": 0,
+      "genre": "folk"
+    },
+    {
+      "id": "lukas-nelson-and-promise-of-the-real",
+      "name": "Lukas Nelson and Promise of the Real",
+      "lon": -118.47,
+      "lat": 33.99,
+      "place": "Venice",
+      "tracks": 0,
+      "genre": "country rock"
+    },
+    {
+      "id": "tea-leaf-green",
+      "name": "Tea Leaf Green",
+      "lon": -122.42,
+      "lat": 37.77,
+      "place": "San Francisco",
+      "tracks": 0,
+      "genre": "jam band"
+    },
+    {
+      "id": "st-paul-the-broken-bones",
+      "name": "St. Paul & The Broken Bones",
+      "lon": -1.9,
+      "lat": 52.48,
+      "place": "Birmingham",
+      "tracks": 0,
+      "genre": "soul"
+    },
+    {
+      "id": "fruit-bats",
+      "name": "Fruit Bats",
+      "lon": -87.63,
+      "lat": 41.88,
+      "place": "Chicago",
+      "tracks": 0,
+      "genre": "indie folk"
+    },
+    {
+      "id": "mumford-sons",
+      "name": "Mumford & Sons",
+      "lon": -0.13,
+      "lat": 51.51,
+      "place": "London",
+      "tracks": 80,
+      "genre": "folk pop"
+    },
+    {
+      "id": "bastille",
+      "name": "Bastille",
+      "lon": -0.13,
+      "lat": 51.51,
+      "place": "London",
+      "tracks": 0,
+      "genre": "pop rock"
+    },
+    {
+      "id": "rock-mafia",
+      "name": "Rock Mafia",
+      "lon": -98.5,
+      "lat": 39.8,
+      "place": "United States",
+      "tracks": 0,
+      "genre": null
+    },
+    {
+      "id": "rusted-root",
+      "name": "Rusted Root",
+      "lon": -79.996,
+      "lat": 40.44,
+      "place": "Pittsburgh",
+      "tracks": 0,
+      "genre": "rock"
+    },
+    {
+      "id": "counting-crows",
+      "name": "Counting Crows",
+      "lon": -122.27,
+      "lat": 37.87,
+      "place": "Berkeley",
+      "tracks": 50,
+      "genre": "alternative rock"
+    },
+    {
+      "id": "etta-james",
+      "name": "Etta James",
+      "lon": -118.24,
+      "lat": 34.05,
+      "place": "Los Angeles",
+      "tracks": 0,
+      "genre": "soul"
+    },
+    {
+      "id": "the-chieftains",
+      "name": "The Chieftains",
+      "lon": -6.26,
+      "lat": 53.35,
+      "place": "Dublin",
+      "tracks": 268,
+      "genre": "folk"
+    },
+    {
+      "id": "maroon-5",
+      "name": "Maroon 5",
+      "lon": -118.24,
+      "lat": 34.05,
+      "place": "Los Angeles",
+      "tracks": 134,
+      "genre": "pop"
+    },
+    {
+      "id": "ac-dc",
+      "name": "AC/DC",
+      "lon": 151.21,
+      "lat": -33.87,
+      "place": "Sydney",
+      "tracks": 0,
+      "genre": "hard rock"
+    },
+    {
+      "id": "the-finn-brothers",
+      "name": "The Finn Brothers",
+      "lon": 172.0,
+      "lat": -41.0,
+      "place": "New Zealand",
+      "tracks": 24,
+      "genre": "classic pop and rock"
+    },
+    {
+      "id": "the-real-mckenzies",
+      "name": "The Real McKenzies",
+      "lon": -123.12,
+      "lat": 49.28,
+      "place": "Vancouver",
+      "tracks": 0,
+      "genre": "celtic punk"
+    },
+    {
+      "id": "alo",
+      "name": "ALO",
+      "lon": 8.5,
+      "lat": 61.0,
+      "place": "Norway",
+      "tracks": 0,
+      "genre": null
+    },
+    {
+      "id": "mike-pinto",
+      "name": "Mike Pinto",
+      "lon": -98.5,
+      "lat": 39.8,
+      "place": "United States",
+      "tracks": 0,
+      "genre": "reggae"
+    },
+    {
+      "id": "slightly-stoopid",
+      "name": "Slightly Stoopid",
+      "lon": -117.16,
+      "lat": 32.72,
+      "place": "San Diego",
+      "tracks": 0,
+      "genre": "reggae"
+    },
+    {
+      "id": "iration",
+      "name": "Iration",
+      "lon": -119.4,
+      "lat": 36.8,
+      "place": "California",
+      "tracks": 0,
+      "genre": "reggae"
+    },
+    {
+      "id": "lucero",
+      "name": "Lucero",
+      "lon": -90.05,
+      "lat": 35.15,
+      "place": "Memphis",
+      "tracks": 0,
+      "genre": "alternative rock"
+    },
+    {
+      "id": "flogging-molly",
+      "name": "Flogging Molly",
+      "lon": -118.24,
+      "lat": 34.05,
+      "place": "Los Angeles",
+      "tracks": 100,
+      "genre": "celtic punk"
+    },
+    {
+      "id": "carbon-leaf",
+      "name": "Carbon Leaf",
+      "lon": -77.44,
+      "lat": 37.54,
+      "place": "Richmond",
+      "tracks": 0,
+      "genre": "alternative country"
+    },
+    {
+      "id": "elvis-costello",
+      "name": "Elvis Costello",
+      "lon": -0.18,
+      "lat": 51.52,
+      "place": "Paddington",
+      "tracks": 30,
+      "genre": "new wave"
+    },
+    {
+      "id": "the-ballroom-thieves",
+      "name": "The Ballroom Thieves",
+      "lon": -71.06,
+      "lat": 42.36,
+      "place": "Boston",
+      "tracks": 0,
+      "genre": "indie folk"
+    },
+    {
+      "id": "queen",
+      "name": "Queen",
+      "lon": -0.13,
+      "lat": 51.51,
+      "place": "London",
+      "tracks": 180,
+      "genre": "rock"
+    },
+    {
+      "id": "train",
+      "name": "Train",
+      "lon": -122.42,
+      "lat": 37.77,
+      "place": "San Francisco",
+      "tracks": 170,
+      "genre": "pop"
+    },
+    {
+      "id": "carly-simon",
+      "name": "Carly Simon",
+      "lon": -73.86,
+      "lat": 40.84,
+      "place": "The Bronx",
+      "tracks": 66,
+      "genre": "soft rock"
+    },
+    {
+      "id": "the-doors",
+      "name": "The Doors",
+      "lon": -118.47,
+      "lat": 33.99,
+      "place": "Venice",
+      "tracks": 220,
+      "genre": "psychedelic rock"
+    },
+    {
+      "id": "the-who",
+      "name": "The Who",
+      "lon": -0.13,
+      "lat": 51.51,
+      "place": "London",
+      "tracks": 292,
+      "genre": "rock"
+    },
+    {
+      "id": "eagles",
+      "name": "Eagles",
+      "lon": -118.24,
+      "lat": 34.05,
+      "place": "Los Angeles",
+      "tracks": 0,
+      "genre": "rock"
+    },
+    {
+      "id": "seals-and-crofts",
+      "name": "Seals and Crofts",
+      "lon": -118.24,
+      "lat": 34.05,
+      "place": "Los Angeles",
+      "tracks": 0,
+      "genre": "soft rock"
+    },
+    {
+      "id": "america",
+      "name": "America",
+      "lon": -0.13,
+      "lat": 51.51,
+      "place": "London",
+      "tracks": 24,
+      "genre": "soft rock"
+    },
+    {
+      "id": "bachman-turner-overdrive",
+      "name": "Bachman-Turner Overdrive",
+      "lon": -97.14,
+      "lat": 49.9,
+      "place": "Winnipeg",
+      "tracks": 0,
+      "genre": "rock"
+    },
+    {
+      "id": "the-doobie-brothers",
+      "name": "The Doobie Brothers",
+      "lon": -121.89,
+      "lat": 37.34,
+      "place": "San Jose",
+      "tracks": 62,
+      "genre": "rock"
+    },
+    {
+      "id": "the-lonely-island",
+      "name": "The Lonely Island",
+      "lon": -122.27,
+      "lat": 37.87,
+      "place": "Berkeley",
+      "tracks": 0,
+      "genre": "comedy"
+    },
+    {
+      "id": "allman-brothers-band",
+      "name": "Allman Brothers Band",
+      "lon": -83.63,
+      "lat": 32.84,
+      "place": "Macon",
+      "tracks": 0,
+      "genre": "southern rock"
+    },
+    {
+      "id": "vince-guaraldi-trio",
+      "name": "Vince Guaraldi Trio",
+      "lon": -98.5,
+      "lat": 39.8,
+      "place": "United States",
+      "tracks": 0,
+      "genre": "jazz"
+    },
+    {
+      "id": "the-commitments",
+      "name": "The Commitments",
+      "lon": -8.0,
+      "lat": 53.4,
+      "place": "Ireland",
+      "tracks": 28,
+      "genre": "soul"
+    },
+    {
+      "id": "bruce-springsteen",
+      "name": "Bruce Springsteen",
+      "lon": -74.0,
+      "lat": 40.3,
+      "place": "Long Branch",
+      "tracks": 364,
+      "genre": "rock"
+    },
+    {
+      "id": "eric-clapton",
+      "name": "Eric Clapton",
+      "lon": -88.95,
+      "lat": 35.75,
+      "place": "Ripley",
+      "tracks": 292,
+      "genre": "blues"
+    },
+    {
+      "id": "santana",
+      "name": "Santana",
+      "lon": -122.42,
+      "lat": 37.77,
+      "place": "San Francisco",
+      "tracks": 238,
+      "genre": "latin rock"
+    },
+    {
+      "id": "the-pogues",
+      "name": "The Pogues",
+      "lon": -0.13,
+      "lat": 51.51,
+      "place": "London",
+      "tracks": 228,
+      "genre": "celtic punk"
+    },
+    {
+      "id": "u2",
+      "name": "U2",
+      "lon": -6.26,
+      "lat": 53.35,
+      "place": "Dublin",
+      "tracks": 176,
+      "genre": "alternative rock"
+    },
+    {
+      "id": "fleetwood-mac",
+      "name": "Fleetwood Mac",
+      "lon": -0.13,
+      "lat": 51.51,
+      "place": "London",
+      "tracks": 162,
+      "genre": "rock"
+    },
+    {
+      "id": "the-allman-brothers-band",
+      "name": "The Allman Brothers Band",
+      "lon": -83.63,
+      "lat": 32.84,
+      "place": "Macon",
+      "tracks": 152,
+      "genre": "southern rock"
+    },
+    {
+      "id": "coldplay",
+      "name": "Coldplay",
+      "lon": -0.13,
+      "lat": 51.51,
+      "place": "London",
+      "tracks": 112,
+      "genre": "alternative rock"
+    },
+    {
+      "id": "louis-armstrong",
+      "name": "Louis Armstrong",
+      "lon": -90.07,
+      "lat": 29.95,
+      "place": "New Orleans",
+      "tracks": 100,
+      "genre": "jazz"
+    },
+    {
+      "id": "lynyrd-skynyrd",
+      "name": "Lynyrd Skynyrd",
+      "lon": -81.66,
+      "lat": 30.33,
+      "place": "Jacksonville",
+      "tracks": 98,
+      "genre": "southern rock"
+    },
+    {
+      "id": "the-wallflowers",
+      "name": "The Wallflowers",
+      "lon": -118.24,
+      "lat": 34.05,
+      "place": "Los Angeles",
+      "tracks": 96,
+      "genre": "folk rock"
+    },
+    {
+      "id": "harry-chapin",
+      "name": "Harry Chapin",
+      "lon": -73.94,
+      "lat": 40.68,
+      "place": "Brooklyn",
+      "tracks": 88,
+      "genre": "folk rock"
+    },
+    {
+      "id": "john-mcdermott",
+      "name": "John Mcdermott",
+      "lon": -4.25,
+      "lat": 55.86,
+      "place": "Glasgow",
+      "tracks": 88,
+      "genre": "celtic"
+    },
+    {
+      "id": "supertramp",
+      "name": "Supertramp",
+      "lon": -0.13,
+      "lat": 51.51,
+      "place": "London",
+      "tracks": 84,
+      "genre": "progressive rock"
+    },
+    {
+      "id": "the-clash",
+      "name": "The Clash",
+      "lon": -0.13,
+      "lat": 51.51,
+      "place": "London",
+      "tracks": 80,
+      "genre": "punk rock"
+    },
+    {
+      "id": "pink-floyd",
+      "name": "Pink Floyd",
+      "lon": -0.13,
+      "lat": 51.51,
+      "place": "London",
+      "tracks": 80,
+      "genre": "progressive rock"
+    },
+    {
+      "id": "chicago",
+      "name": "Chicago",
+      "lon": -87.63,
+      "lat": 41.88,
+      "place": "Chicago",
+      "tracks": 78,
+      "genre": "rock"
+    },
+    {
+      "id": "the-irish-tenors",
+      "name": "The Irish Tenors",
+      "lon": -8.0,
+      "lat": 53.4,
+      "place": "Ireland",
+      "tracks": 76,
+      "genre": "traditional pop"
+    },
+    {
+      "id": "lifehouse",
+      "name": "Lifehouse",
+      "lon": -118.24,
+      "lat": 34.05,
+      "place": "Los Angeles",
+      "tracks": 72,
+      "genre": "alternative rock"
+    },
+    {
+      "id": "michelle-shocked",
+      "name": "Michelle Shocked",
+      "lon": -96.8,
+      "lat": 32.78,
+      "place": "Dallas",
+      "tracks": 72,
+      "genre": "alternative folk"
+    },
+    {
+      "id": "the-eagles",
+      "name": "The Eagles",
+      "lon": -1.5,
+      "lat": 52.5,
+      "place": "United Kingdom",
+      "tracks": 72,
+      "genre": null
+    },
+    {
+      "id": "kenny-g",
+      "name": "Kenny G",
+      "lon": -122.33,
+      "lat": 47.61,
+      "place": "Seattle",
+      "tracks": 72,
+      "genre": "smooth jazz"
+    },
+    {
+      "id": "crosby-stills-and-nash",
+      "name": "Crosby Stills And Nash",
+      "lon": -118.24,
+      "lat": 34.05,
+      "place": "Los Angeles",
+      "tracks": 72,
+      "genre": "folk rock"
+    },
+    {
+      "id": "the-kinks",
+      "name": "The Kinks",
+      "lon": -0.13,
+      "lat": 51.51,
+      "place": "London",
+      "tracks": 70,
+      "genre": "rock"
+    },
+    {
+      "id": "barenaked-ladies",
+      "name": "Barenaked Ladies",
+      "lon": -79.38,
+      "lat": 43.65,
+      "place": "Toronto",
+      "tracks": 66,
+      "genre": "alternative rock"
+    },
+    {
+      "id": "the-killers",
+      "name": "The Killers",
+      "lon": -115.14,
+      "lat": 36.17,
+      "place": "Las Vegas",
+      "tracks": 66,
+      "genre": "alternative rock"
+    },
+    {
+      "id": "the-mamas-and-the-papas",
+      "name": "The Mamas And The Papas",
+      "lon": -74.01,
+      "lat": 40.71,
+      "place": "New York",
+      "tracks": 64,
+      "genre": "sunshine pop"
+    },
+    {
+      "id": "steppenwolf",
+      "name": "Steppenwolf",
+      "lon": -79.38,
+      "lat": 43.65,
+      "place": "Toronto",
+      "tracks": 62,
+      "genre": "hard rock"
+    },
+    {
+      "id": "five-for-fighting",
+      "name": "Five For Fighting",
+      "lon": -118.24,
+      "lat": 34.05,
+      "place": "Los Angeles",
+      "tracks": 60,
+      "genre": null
+    },
+    {
+      "id": "james-taylor",
+      "name": "James Taylor",
+      "lon": -71.06,
+      "lat": 42.36,
+      "place": "Boston",
+      "tracks": 60,
+      "genre": "rock"
+    },
+    {
+      "id": "bryan-ferry",
+      "name": "Bryan Ferry",
+      "lon": -77.04,
+      "lat": 38.9,
+      "place": "Washington",
+      "tracks": 58,
+      "genre": "art rock"
+    },
+    {
+      "id": "george-harrison",
+      "name": "George Harrison",
+      "lon": -2.99,
+      "lat": 53.41,
+      "place": "Liverpool",
+      "tracks": 56,
+      "genre": "rock"
+    },
+    {
+      "id": "bob-marley",
+      "name": "Bob Marley",
+      "lon": -76.79,
+      "lat": 17.99,
+      "place": "Kingston",
+      "tracks": 56,
+      "genre": "reggae"
+    },
+    {
+      "id": "paul-simon",
+      "name": "Paul Simon",
+      "lon": -74.17,
+      "lat": 40.74,
+      "place": "Newark",
+      "tracks": 54,
+      "genre": "folk"
+    },
+    {
+      "id": "christopher-parkening",
+      "name": "Christopher Parkening",
+      "lon": -118.24,
+      "lat": 34.05,
+      "place": "Los Angeles",
+      "tracks": 54,
+      "genre": "guitar"
+    },
+    {
+      "id": "the-brian-setzer-orchestra",
+      "name": "The Brian Setzer Orchestra",
+      "lon": -118.24,
+      "lat": 34.05,
+      "place": "Los Angeles",
+      "tracks": 50,
+      "genre": "swing"
+    },
+    {
+      "id": "kt-tunstall",
+      "name": "Kt Tunstall",
+      "lon": -3.19,
+      "lat": 55.95,
+      "place": "Edinburgh",
+      "tracks": 44,
+      "genre": "folk"
+    },
+    {
+      "id": "cowboy-junkies",
+      "name": "Cowboy Junkies",
+      "lon": -79.38,
+      "lat": 43.65,
+      "place": "Toronto",
+      "tracks": 44,
+      "genre": "folk"
+    },
+    {
+      "id": "marc-cohn",
+      "name": "Marc Cohn",
+      "lon": -81.69,
+      "lat": 41.5,
+      "place": "Cleveland",
+      "tracks": 44,
+      "genre": "soft rock"
+    },
+    {
+      "id": "carole-king",
+      "name": "Carole King",
+      "lon": -73.97,
+      "lat": 40.78,
+      "place": "Manhattan",
+      "tracks": 44,
+      "genre": "soft rock"
+    },
+    {
+      "id": "natalie-cole",
+      "name": "Natalie Cole",
+      "lon": -118.24,
+      "lat": 34.05,
+      "place": "Los Angeles",
+      "tracks": 44,
+      "genre": "soul"
+    },
+    {
+      "id": "indigo-girls",
+      "name": "Indigo Girls",
+      "lon": -84.39,
+      "lat": 33.75,
+      "place": "Atlanta",
+      "tracks": 44,
+      "genre": "folk rock"
+    },
+    {
+      "id": "traffic",
+      "name": "Traffic",
+      "lon": -1.9,
+      "lat": 52.48,
+      "place": "Birmingham",
+      "tracks": 42,
+      "genre": "progressive rock"
+    },
+    {
+      "id": "eva-cassidy",
+      "name": "Eva Cassidy",
+      "lon": -77.04,
+      "lat": 38.9,
+      "place": "Washington, D.C.",
+      "tracks": 42,
+      "genre": "folk"
+    },
+    {
+      "id": "benny-goodman",
+      "name": "Benny Goodman",
+      "lon": -87.63,
+      "lat": 41.88,
+      "place": "Chicago",
+      "tracks": 42,
+      "genre": "swing"
+    },
+    {
+      "id": "tracy-chapman",
+      "name": "Tracy Chapman",
+      "lon": -81.69,
+      "lat": 41.5,
+      "place": "Cleveland",
+      "tracks": 42,
+      "genre": "blues rock"
+    },
+    {
+      "id": "john-lennon",
+      "name": "John Lennon",
+      "lon": -2.99,
+      "lat": 53.41,
+      "place": "Liverpool",
+      "tracks": 40,
+      "genre": "rock"
+    },
+    {
+      "id": "seal",
+      "name": "Seal",
+      "lon": -0.18,
+      "lat": 51.52,
+      "place": "Paddington",
+      "tracks": 40,
+      "genre": "soul"
+    },
+    {
+      "id": "the-monkeys",
+      "name": "The Monkeys",
+      "lon": -98.5,
+      "lat": 39.8,
+      "place": "United States",
+      "tracks": 40,
+      "genre": "pop"
+    },
+    {
+      "id": "diana-ross",
+      "name": "Diana Ross",
+      "lon": -83.05,
+      "lat": 42.33,
+      "place": "Detroit",
+      "tracks": 38,
+      "genre": "pop"
+    },
+    {
+      "id": "third-eye-blind",
+      "name": "Third Eye Blind",
+      "lon": -122.42,
+      "lat": 37.77,
+      "place": "San Francisco",
+      "tracks": 38,
+      "genre": "alternative rock"
+    },
+    {
+      "id": "ottmar-liebert-luna-negra",
+      "name": "Ottmar Liebert & Luna Negra",
+      "lon": 10.4,
+      "lat": 51.2,
+      "place": "Germany",
+      "tracks": 38,
+      "genre": null
+    },
+    {
+      "id": "tom-waits",
+      "name": "Tom Waits",
+      "lon": -117.75,
+      "lat": 34.06,
+      "place": "Pomona",
+      "tracks": 36,
+      "genre": "folk"
+    },
+    {
+      "id": "crosby-and-nash",
+      "name": "Crosby And Nash",
+      "lon": -98.5,
+      "lat": 39.8,
+      "place": "United States",
+      "tracks": 36,
+      "genre": "rock"
+    },
+    {
+      "id": "london-symphony-orchestra",
+      "name": "London Symphony Orchestra",
+      "lon": -0.13,
+      "lat": 51.51,
+      "place": "London",
+      "tracks": 36,
+      "genre": "classical"
+    },
+    {
+      "id": "charlotte-church",
+      "name": "Charlotte Church",
+      "lon": -3.18,
+      "lat": 51.48,
+      "place": "Cardiff",
+      "tracks": 34,
+      "genre": "classical"
+    },
+    {
+      "id": "goo-goo-dolls",
+      "name": "Goo Goo Dolls",
+      "lon": -78.88,
+      "lat": 42.89,
+      "place": "Buffalo",
+      "tracks": 32,
+      "genre": "alternative rock"
+    },
+    {
+      "id": "imagine-dragons",
+      "name": "Imagine Dragons",
+      "lon": -115.14,
+      "lat": 36.17,
+      "place": "Las Vegas",
+      "tracks": 32,
+      "genre": "alternative rock"
+    },
+    {
+      "id": "marvin-gaye",
+      "name": "Marvin Gaye",
+      "lon": -77.04,
+      "lat": 38.9,
+      "place": "Washington, D.C.",
+      "tracks": 30,
+      "genre": "soul"
+    },
+    {
+      "id": "ub40",
+      "name": "Ub40",
+      "lon": -1.9,
+      "lat": 52.48,
+      "place": "Birmingham",
+      "tracks": 30,
+      "genre": "reggae"
+    },
+    {
+      "id": "lenny-kravitz",
+      "name": "Lenny Kravitz",
+      "lon": -73.97,
+      "lat": 40.78,
+      "place": "Manhattan",
+      "tracks": 30,
+      "genre": "rock"
+    },
+    {
+      "id": "electric-light-orchestra",
+      "name": "Electric Light Orchestra",
+      "lon": -1.9,
+      "lat": 52.48,
+      "place": "Birmingham",
+      "tracks": 30,
+      "genre": "progressive rock"
+    },
+    {
+      "id": "funnies",
+      "name": "funnies",
+      "lon": -98.5,
+      "lat": 39.8,
+      "place": "United States",
+      "tracks": 29,
+      "genre": null
+    },
+    {
+      "id": "duke-ellington",
+      "name": "Duke Ellington",
+      "lon": -77.04,
+      "lat": 38.9,
+      "place": "Washington, D.C.",
+      "tracks": 28,
+      "genre": "jazz"
+    },
+    {
+      "id": "jimi-hendrix",
+      "name": "Jimi Hendrix",
+      "lon": -122.33,
+      "lat": 47.61,
+      "place": "Seattle",
+      "tracks": 28,
+      "genre": "blues rock"
+    },
+    {
+      "id": "derek-and-the-dominos",
+      "name": "Derek And The Dominos",
+      "lon": -0.13,
+      "lat": 51.51,
+      "place": "London",
+      "tracks": 28,
+      "genre": "blues rock"
+    },
+    {
+      "id": "the-smiths",
+      "name": "The Smiths",
+      "lon": -2.24,
+      "lat": 53.48,
+      "place": "Manchester",
+      "tracks": 28,
+      "genre": "jangle pop"
+    },
+    {
+      "id": "warren-zevon",
+      "name": "Warren Zevon",
+      "lon": -87.63,
+      "lat": 41.88,
+      "place": "Chicago",
+      "tracks": 28,
+      "genre": "rock"
+    },
+    {
+      "id": "mozart",
+      "name": "Mozart",
+      "lon": 13.05,
+      "lat": 47.81,
+      "place": "Salzburg",
+      "tracks": 28,
+      "genre": "classical"
+    },
+    {
+      "id": "michael-hedges",
+      "name": "Michael Hedges",
+      "lon": -121.49,
+      "lat": 38.58,
+      "place": "Sacramento",
+      "tracks": 28,
+      "genre": "new age"
+    },
+    {
+      "id": "barbra-streisand",
+      "name": "Barbra Streisand",
+      "lon": -73.94,
+      "lat": 40.68,
+      "place": "Brooklyn",
+      "tracks": 26,
+      "genre": "pop"
+    },
+    {
+      "id": "the-cars",
+      "name": "The Cars",
+      "lon": -71.06,
+      "lat": 42.36,
+      "place": "Boston",
+      "tracks": 26,
+      "genre": "new wave"
+    },
+    {
+      "id": "keb-mo",
+      "name": "Keb' Mo'",
+      "lon": -118.24,
+      "lat": 34.05,
+      "place": "Los Angeles",
+      "tracks": 26,
+      "genre": "blues"
+    },
+    {
+      "id": "the-waterboys",
+      "name": "The Waterboys",
+      "lon": -3.19,
+      "lat": 55.95,
+      "place": "Edinburgh",
+      "tracks": 26,
+      "genre": "folk rock"
+    },
+    {
+      "id": "shawn-mullins",
+      "name": "Shawn Mullins",
+      "lon": -84.39,
+      "lat": 33.75,
+      "place": "Atlanta",
+      "tracks": 26,
+      "genre": "alternative rock"
+    },
+    {
+      "id": "the-script",
+      "name": "The Script",
+      "lon": -6.26,
+      "lat": 53.35,
+      "place": "Dublin",
+      "tracks": 26,
+      "genre": "soft rock"
+    },
+    {
+      "id": "fine-young-cannibals",
+      "name": "Fine Young Cannibals",
+      "lon": -1.9,
+      "lat": 52.48,
+      "place": "Birmingham",
+      "tracks": 24,
+      "genre": "new wave"
+    },
+    {
+      "id": "tom-petty",
+      "name": "Tom Petty",
+      "lon": -82.32,
+      "lat": 29.65,
+      "place": "Gainesville",
+      "tracks": 24,
+      "genre": "rock"
+    },
+    {
+      "id": "squeeze",
+      "name": "Squeeze",
+      "lon": -0.13,
+      "lat": 51.51,
+      "place": "London",
+      "tracks": 24,
+      "genre": "new wave"
+    },
+    {
+      "id": "the-police",
+      "name": "The Police",
+      "lon": -0.13,
+      "lat": 51.51,
+      "place": "London",
+      "tracks": 24,
+      "genre": "new wave"
+    },
+    {
+      "id": "bob-marley-and-the-wailers",
+      "name": "Bob Marley And The Wailers",
+      "lon": -76.79,
+      "lat": 17.99,
+      "place": "Kingston",
+      "tracks": 24,
+      "genre": "reggae"
+    },
+    {
+      "id": "dido",
+      "name": "Dido",
+      "lon": -0.13,
+      "lat": 51.51,
+      "place": "London",
+      "tracks": 24,
+      "genre": "pop"
+    },
+    {
+      "id": "the-king-jesus-disciples",
+      "name": "The King Jesus Disciples",
+      "lon": -98.5,
+      "lat": 39.8,
+      "place": "United States",
+      "tracks": 24,
+      "genre": null
+    },
+    {
+      "id": "the-clancy-brothers",
+      "name": "The Clancy Brothers",
+      "lon": -8.0,
+      "lat": 53.4,
+      "place": "Ireland",
+      "tracks": 24,
+      "genre": "folk"
+    },
+    {
+      "id": "robert-plant-the-strange-sensation",
+      "name": "Robert Plant & The Strange Sensation",
+      "lon": -1.5,
+      "lat": 52.5,
+      "place": "United Kingdom",
+      "tracks": 24,
+      "genre": "crossover prog"
+    },
+    {
+      "id": "pink",
+      "name": "Pink",
+      "lon": -0.13,
+      "lat": 51.51,
+      "place": "London",
+      "tracks": 24,
+      "genre": "progressive rock"
+    },
+    {
+      "id": "rhett-miller",
+      "name": "Rhett Miller",
+      "lon": -97.74,
+      "lat": 30.27,
+      "place": "Austin",
+      "tracks": 24,
+      "genre": "alternative country"
+    },
+    {
+      "id": "frank-zappa",
+      "name": "Frank Zappa",
+      "lon": -76.61,
+      "lat": 39.29,
+      "place": "Baltimore",
+      "tracks": 24,
+      "genre": "progressive rock"
+    },
+    {
+      "id": "austin-lounge-lizards",
+      "name": "Austin Lounge Lizards",
+      "lon": -97.74,
+      "lat": 30.27,
+      "place": "Austin",
+      "tracks": 24,
+      "genre": "bluegrass"
+    },
+    {
+      "id": "the-bothy-band",
+      "name": "The Bothy Band",
+      "lon": -8.0,
+      "lat": 53.4,
+      "place": "Ireland",
+      "tracks": 24,
+      "genre": "folk"
+    },
+    {
+      "id": "new-radicals",
+      "name": "New Radicals",
+      "lon": -118.24,
+      "lat": 34.05,
+      "place": "Los Angeles",
+      "tracks": 24,
+      "genre": "pop rock"
+    },
+    {
+      "id": "stevie-nicks",
+      "name": "Stevie Nicks",
+      "lon": -112.07,
+      "lat": 33.45,
+      "place": "Phoenix",
+      "tracks": 22,
+      "genre": "rock"
+    },
+    {
+      "id": "rush",
+      "name": "Rush",
+      "lon": -79.38,
+      "lat": 43.65,
+      "place": "Toronto",
+      "tracks": 22,
+      "genre": "progressive rock"
+    },
+    {
+      "id": "wolfgang-amadeus-mozart",
+      "name": "Wolfgang Amadeus Mozart",
+      "lon": 13.05,
+      "lat": 47.81,
+      "place": "Salzburg",
+      "tracks": 22,
+      "genre": "classical"
+    },
+    {
+      "id": "lou-reed",
+      "name": "Lou Reed",
+      "lon": -73.94,
+      "lat": 40.68,
+      "place": "Brooklyn",
+      "tracks": 22,
+      "genre": "art rock"
+    },
+    {
+      "id": "amos-lee",
+      "name": "Amos Lee",
+      "lon": -75.16,
+      "lat": 39.95,
+      "place": "Philadelphia",
+      "tracks": 22,
+      "genre": "folk"
+    },
+    {
+      "id": "rickie-lee-jones",
+      "name": "Rickie Lee Jones",
+      "lon": -87.63,
+      "lat": 41.88,
+      "place": "Chicago",
+      "tracks": 22,
+      "genre": "folk"
+    },
+    {
+      "id": "los-lobos",
+      "name": "Los Lobos",
+      "lon": -118.24,
+      "lat": 34.05,
+      "place": "Los Angeles",
+      "tracks": 22,
+      "genre": "rock"
+    },
+    {
+      "id": "texas-tornados",
+      "name": "Texas Tornados",
+      "lon": -122.42,
+      "lat": 37.77,
+      "place": "San Francisco",
+      "tracks": 22,
+      "genre": "tejano"
+    },
+    {
+      "id": "gillian-welch",
+      "name": "Gillian Welch",
+      "lon": -74.01,
+      "lat": 40.71,
+      "place": "New York",
+      "tracks": 22,
+      "genre": "alternative country"
+    },
+    {
+      "id": "vertical-horizon",
+      "name": "Vertical Horizon",
+      "lon": -77.04,
+      "lat": 38.9,
+      "place": "Washington, D.C.",
+      "tracks": 22,
+      "genre": "alternative rock"
+    },
+    {
+      "id": "bing-crosby",
+      "name": "Bing Crosby",
+      "lon": -122.44,
+      "lat": 47.25,
+      "place": "Tacoma",
+      "tracks": 20,
+      "genre": "jazz"
+    },
+    {
+      "id": "huey-lewis-the-news",
+      "name": "Huey Lewis & The News",
+      "lon": -122.42,
+      "lat": 37.77,
+      "place": "San Francisco",
+      "tracks": 20,
+      "genre": "rock"
+    },
+    {
+      "id": "boston",
+      "name": "Boston",
+      "lon": -71.06,
+      "lat": 42.36,
+      "place": "Boston",
+      "tracks": 20,
+      "genre": "hard rock"
+    },
+    {
+      "id": "george-thorogood",
+      "name": "George Thorogood",
+      "lon": -74.17,
+      "lat": 40.74,
+      "place": "Newark",
+      "tracks": 20,
+      "genre": "boogie rock"
+    },
+    {
+      "id": "glenn-miller-orchestra",
+      "name": "Glenn Miller Orchestra",
+      "lon": -98.5,
+      "lat": 39.8,
+      "place": "United States",
+      "tracks": 20,
+      "genre": "big band"
+    },
+    {
+      "id": "jesse-cook",
+      "name": "Jesse Cook",
+      "lon": 2.35,
+      "lat": 48.86,
+      "place": "Paris",
+      "tracks": 20,
+      "genre": "nuevo flamenco"
+    },
+    {
+      "id": "streisand",
+      "name": "Streisand",
+      "lon": -73.94,
+      "lat": 40.68,
+      "place": "Brooklyn",
+      "tracks": 20,
+      "genre": "pop"
+    },
+    {
+      "id": "zz-top",
+      "name": "Zz Top",
+      "lon": -95.37,
+      "lat": 29.76,
+      "place": "Houston",
+      "tracks": 20,
+      "genre": "blues rock"
+    },
+    {
+      "id": "the-righteous-brothers",
+      "name": "The Righteous Brothers",
+      "lon": -118.24,
+      "lat": 34.05,
+      "place": "Los Angeles",
+      "tracks": 20,
+      "genre": "blue-eyed soul"
+    },
+    {
+      "id": "bryan-adams",
+      "name": "Bryan Adams",
+      "lon": -76.79,
+      "lat": 17.99,
+      "place": "Kingston",
+      "tracks": 20,
+      "genre": "rock"
+    },
+    {
+      "id": "johannes-linstead",
+      "name": "Johannes Linstead",
+      "lon": -79.38,
+      "lat": 43.65,
+      "place": "Toronto",
+      "tracks": 20,
+      "genre": "folk"
+    },
+    {
+      "id": "simply-red",
+      "name": "Simply Red",
+      "lon": -2.24,
+      "lat": 53.48,
+      "place": "Manchester",
+      "tracks": 20,
+      "genre": "blue-eyed soul"
+    },
+    {
+      "id": "roxy-music",
+      "name": "Roxy Music",
+      "lon": -0.13,
+      "lat": 51.51,
+      "place": "London",
+      "tracks": 20,
+      "genre": "art rock"
+    },
+    {
+      "id": "midnight-oil",
+      "name": "Midnight Oil",
+      "lon": 151.21,
+      "lat": -33.87,
+      "place": "Sydney",
+      "tracks": 20,
+      "genre": "rock"
+    },
+    {
+      "id": "the-lion-king",
+      "name": "The Lion King",
+      "lon": -98.5,
+      "lat": 39.8,
+      "place": "United States",
+      "tracks": 20,
+      "genre": null
+    },
+    {
+      "id": "chant",
+      "name": "Chant",
+      "lon": -97.74,
+      "lat": 30.27,
+      "place": "Austin",
+      "tracks": 19,
+      "genre": null
+    },
+    {
+      "id": "yes",
+      "name": "Yes",
+      "lon": -0.13,
+      "lat": 51.51,
+      "place": "London",
+      "tracks": 18,
+      "genre": "progressive rock"
+    },
+    {
+      "id": "aretha-franklin",
+      "name": "Aretha Franklin",
+      "lon": -90.05,
+      "lat": 35.15,
+      "place": "Memphis",
+      "tracks": 18,
+      "genre": "soul"
+    },
+    {
+      "id": "al-stewart",
+      "name": "Al Stewart",
+      "lon": -4.25,
+      "lat": 55.86,
+      "place": "Glasgow",
+      "tracks": 18,
+      "genre": "folk rock"
+    },
+    {
+      "id": "meat-loaf",
+      "name": "Meat Loaf",
+      "lon": -96.8,
+      "lat": 32.78,
+      "place": "Dallas",
+      "tracks": 18,
+      "genre": "hard rock"
+    },
+    {
+      "id": "gladys-knight",
+      "name": "Gladys Knight",
+      "lon": -84.39,
+      "lat": 33.75,
+      "place": "Atlanta",
+      "tracks": 18,
+      "genre": "soul"
+    },
+    {
+      "id": "earl-klugh",
+      "name": "Earl Klugh",
+      "lon": -83.05,
+      "lat": 42.33,
+      "place": "Detroit",
+      "tracks": 16,
+      "genre": "contemporary jazz"
+    },
+    {
+      "id": "the-moody-blues",
+      "name": "The Moody Blues",
+      "lon": -1.9,
+      "lat": 52.48,
+      "place": "Birmingham",
+      "tracks": 16,
+      "genre": "progressive rock"
+    },
+    {
+      "id": "steve-morse-band",
+      "name": "Steve Morse Band",
+      "lon": -98.5,
+      "lat": 39.8,
+      "place": "United States",
+      "tracks": 16,
+      "genre": "eclectic prog"
+    },
+    {
+      "id": "bad-company",
+      "name": "Bad Company",
+      "lon": -0.13,
+      "lat": 51.51,
+      "place": "London",
+      "tracks": 16,
+      "genre": "blues rock"
+    },
+    {
+      "id": "the-outlaws",
+      "name": "The Outlaws",
+      "lon": -1.5,
+      "lat": 52.5,
+      "place": "United Kingdom",
+      "tracks": 16,
+      "genre": "instrumental rock"
+    },
+    {
+      "id": "simple-minds",
+      "name": "Simple Minds",
+      "lon": -4.25,
+      "lat": 55.86,
+      "place": "Glasgow",
+      "tracks": 16,
+      "genre": "new wave"
+    },
+    {
+      "id": "george-gershwin",
+      "name": "George Gershwin",
+      "lon": -73.94,
+      "lat": 40.68,
+      "place": "Brooklyn",
+      "tracks": 12,
+      "genre": "jazz"
+    },
+    {
+      "id": "blind-faith",
+      "name": "Blind Faith",
+      "lon": -88.95,
+      "lat": 35.75,
+      "place": "Ripley",
+      "tracks": 12,
+      "genre": "blues rock"
+    },
+    {
+      "id": "young-dubliners",
+      "name": "Young Dubliners",
+      "lon": -118.24,
+      "lat": 34.05,
+      "place": "Los Angeles",
+      "tracks": 12,
+      "genre": "celtic rock"
+    },
+    {
+      "id": "guster",
+      "name": "Guster",
+      "lon": -71.06,
+      "lat": 42.36,
+      "place": "Boston",
+      "tracks": 10,
+      "genre": "alternative rock"
+    },
+    {
+      "id": "bill-cosby",
+      "name": "Bill Cosby",
+      "lon": -75.16,
+      "lat": 39.95,
+      "place": "Philadelphia",
+      "tracks": 10,
+      "genre": "comedy"
+    },
+    {
+      "id": "ben-folds-five",
+      "name": "Ben Folds Five",
+      "lon": -79.06,
+      "lat": 35.91,
+      "place": "Chapel Hill",
+      "tracks": 10,
+      "genre": "indie rock"
+    },
+    {
+      "id": "pat-metheny-group",
+      "name": "Pat Metheny Group",
+      "lon": -98.5,
+      "lat": 39.8,
+      "place": "United States",
+      "tracks": 8,
+      "genre": "jazz"
+    },
+    {
+      "id": "springsteen",
+      "name": "Springsteen",
+      "lon": -74.0,
+      "lat": 40.3,
+      "place": "Long Branch",
+      "tracks": 8,
+      "genre": "rock"
+    },
+    {
+      "id": "dublin-city-ramblers",
+      "name": "Dublin City Ramblers",
+      "lon": -6.26,
+      "lat": 53.35,
+      "place": "Dublin",
+      "tracks": 6,
+      "genre": null
+    },
+    {
+      "id": "ben-harper",
+      "name": "Ben Harper",
+      "lon": -117.75,
+      "lat": 34.06,
+      "place": "Pomona",
+      "tracks": 6,
+      "genre": "rock"
+    },
+    {
+      "id": "barleycorn",
+      "name": "Barleycorn",
+      "lon": -8.0,
+      "lat": 53.4,
+      "place": "Ireland",
+      "tracks": 6,
+      "genre": null
+    },
+    {
+      "id": "jim-mccann",
+      "name": "Jim Mccann",
+      "lon": -8.0,
+      "lat": 53.4,
+      "place": "Ireland",
+      "tracks": 4,
+      "genre": null
+    },
+    {
+      "id": "stand-by-me",
+      "name": "Stand By Me",
+      "lon": 138.3,
+      "lat": 36.2,
+      "place": "Japan",
+      "tracks": 2,
+      "genre": null
+    },
+    {
+      "id": "middle-brother",
+      "name": "Middle Brother",
+      "lon": -98.5,
+      "lat": 39.8,
+      "place": "United States",
+      "tracks": 2,
+      "genre": "alternative country"
+    },
+    {
+      "id": "ray-shell",
+      "name": "Ray Shell",
+      "lon": -98.5,
+      "lat": 39.8,
+      "place": "United States",
+      "tracks": 2,
+      "genre": null
+    },
+    {
+      "id": "murray-head",
+      "name": "Murray Head",
+      "lon": -0.13,
+      "lat": 51.51,
+      "place": "London",
+      "tracks": 2,
+      "genre": "pop rock"
+    },
+    {
+      "id": "paul-nicholas",
+      "name": "Paul Nicholas",
+      "lon": -1.5,
+      "lat": 52.5,
+      "place": "United Kingdom",
+      "tracks": 2,
+      "genre": "pop"
+    },
+    {
+      "id": "explosions-in-the-sky",
+      "name": "Explosions_In_The_Sky",
+      "lon": -97.74,
+      "lat": 30.27,
+      "place": "Austin",
+      "tracks": 2,
+      "genre": "post-rock"
+    },
+    {
+      "id": "julie-covington",
+      "name": "Julie Covington",
+      "lon": -0.13,
+      "lat": 51.51,
+      "place": "London",
+      "tracks": 2,
+      "genre": "british"
+    },
+    {
+      "id": "ringtones",
+      "name": "ringtones",
+      "lon": -105.5,
+      "lat": 39.0,
+      "place": "Colorado",
+      "tracks": 2,
+      "genre": null
+    },
+    {
+      "id": "on-broadway",
+      "name": "On Broadway",
+      "lon": -118.24,
+      "lat": 34.05,
+      "place": "Los Angeles",
+      "tracks": 2,
+      "genre": "alternative metal"
+    },
+    {
+      "id": "julian-lloyd-webber",
+      "name": "Julian Lloyd Webber",
+      "lon": -0.13,
+      "lat": 51.51,
+      "place": "London",
+      "tracks": 2,
+      "genre": "classical"
+    },
+    {
+      "id": "walk-off-the-earth",
+      "name": "Walk Off the Earth",
+      "lon": -73.21,
+      "lat": 44.48,
+      "place": "Burlington",
+      "tracks": 2,
+      "genre": "indie pop"
+    },
+    {
+      "id": "major-lazer",
+      "name": "Major Lazer",
+      "lon": -118.24,
+      "lat": 34.05,
+      "place": "Los Angeles",
+      "tracks": 0,
+      "genre": "dancehall"
+    },
+    {
+      "id": "michael-franti-spearhead",
+      "name": "Michael Franti & Spearhead",
+      "lon": -122.42,
+      "lat": 37.77,
+      "place": "San Francisco",
+      "tracks": 0,
+      "genre": "classic pop and rock"
+    }
+  ]
+}
