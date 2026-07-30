@@ -131459,816 +131459,1012 @@
     "id": "ma-rainey",
     "name": "Ma Rainey",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1886,
+    "died": 1939,
+    "origin": "Columbus",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "vaudeville blues",
+      "blues"
+    ],
     "mbid": "e1deae56-c8f0-4e73-8264-f4b02dfc051c",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "alfred-newman",
     "name": "Alfred Newman",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1901,
+    "died": 1970,
+    "origin": "New Haven",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "film composer",
+      "score",
+      "soundtrack"
+    ],
     "mbid": "dbe22c4f-6a21-4b7c-ad09-e4048d1065bc",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "amos-milburn",
     "name": "Amos Milburn",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1927,
+    "died": 1980,
+    "origin": "Houston",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "boogie-woogie",
+      "jump blues",
+      "piano blues",
+      "r&b"
+    ],
     "mbid": "dfa41f72-2f98-4f16-95ea-440cad19db77",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "james-booker",
     "name": "James Booker",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1939,
+    "died": 1983,
+    "origin": "New Orleans",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "jazz",
+      "piano blues",
+      "stride",
+      "new orleans blues"
+    ],
     "mbid": "fe155348-c8a6-4d09-af55-4d9a53b89e76",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "rudy-ray-moore",
     "name": "Rudy Ray Moore",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1927,
+    "died": 2008,
+    "origin": "Fort Smith",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "comedy"
+    ],
     "mbid": "beefe242-9b13-4da8-943a-3bcbc312951e",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "honore-de-balzac",
     "name": "Honor\u00e9 de Balzac",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1799,
+    "died": 1850,
+    "origin": "Tours",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "has german audiobooks"
+    ],
     "mbid": "a0412c28-426e-409c-a7ed-363a3ffc481a",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "louis-ferdinand-celine",
     "name": "Louis-Ferdinand C\u00e9line",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1894,
+    "died": 1961,
+    "origin": "France",
     "roles": [],
     "genres": [],
     "mbid": "22220116-8fce-4bfd-8c8f-aa11ebf72487",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "neal-cassady",
     "name": "Neal Cassady",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1926,
+    "died": 1968,
+    "origin": "Salt Lake City",
     "roles": [],
     "genres": [],
     "mbid": "c97392bf-b164-4e99-bef4-1e1bb068bc03",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "steve-perry",
     "name": "Steve Perry",
     "kind": "person",
-    "born": null,
+    "born": 1949,
     "died": null,
-    "origin": null,
+    "origin": "Hanford",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "rock"
+    ],
     "mbid": "88b0ef74-9da8-4998-8e3b-70687575588c",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "therese-of-lisieux",
     "name": "Th\u00e9r\u00e8se of Lisieux",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1873,
+    "died": 1897,
+    "origin": "Alen\u00e7on",
     "roles": [],
     "genres": [],
     "mbid": "94148830-96bc-4fbb-9a62-d30973cff544",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "william-s-burroughs",
     "name": "William S. Burroughs",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1914,
+    "died": 1997,
+    "origin": "St. Louis",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "beat poetry"
+    ],
     "mbid": "f150ed27-bee7-49d8-a226-31fef88c29b3",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "mae-west",
     "name": "Mae West",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1893,
+    "died": 1980,
+    "origin": "Brooklyn",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "vaudeville"
+    ],
     "mbid": "9cde9e3a-e8af-4659-9c59-bdbf96acb558",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "debbie-harry",
     "name": "Debbie Harry",
     "kind": "person",
-    "born": null,
+    "born": 1945,
     "died": null,
-    "origin": null,
+    "origin": "Miami",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "rock",
+      "pop",
+      "dance",
+      "new wave"
+    ],
     "mbid": "2e229823-0fc2-438b-aacb-5de02bd0b9b7",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "chrissie-hynde",
     "name": "Chrissie Hynde",
     "kind": "person",
-    "born": null,
+    "born": 1951,
     "died": null,
-    "origin": null,
+    "origin": "Akron",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "pop",
+      "rock"
+    ],
     "mbid": "a5d79c54-81c3-4a73-af6a-ad5c143d3f21",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "james-baldwin",
     "name": "James Baldwin",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1924,
+    "died": 1987,
+    "origin": "United States",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "author",
+      "novelist"
+    ],
     "mbid": "1c0dfc5c-f850-43fe-bc5f-5b057180481b",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "maxine-sullivan",
     "name": "Maxine Sullivan",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1911,
+    "died": 1987,
+    "origin": "Pennsylvania",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "vocal jazz",
+      "jazz",
+      "swing"
+    ],
     "mbid": "813de8c0-1cec-485b-989c-7ed17e998e65",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "martha-graham",
     "name": "Martha Graham",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1894,
+    "died": 1991,
+    "origin": "Allegheny County",
     "roles": [],
     "genres": [],
     "mbid": "6ecb1371-a0ed-47ab-85ae-947b20168b9d",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "the-afghan-whigs",
     "name": "The Afghan Whigs",
     "kind": "band",
-    "born": null,
+    "born": 1986,
     "died": null,
-    "origin": null,
+    "origin": "Cincinnati",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "alternative rock",
+      "indie rock"
+    ],
     "mbid": "2feb192c-2363-46d6-b476-1c88a25cb294",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "uncle-tupelo",
     "name": "Uncle Tupelo",
     "kind": "band",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1987,
+    "died": 1994,
+    "origin": "Belleville",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "folk"
+    ],
     "mbid": "95c043f1-0bdd-403a-b714-663908d7e4fc",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "maddox-brothers-and-rose",
     "name": "Maddox Brothers and Rose",
     "kind": "band",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1937,
+    "died": 1956,
+    "origin": "United States",
     "roles": [],
     "genres": [],
     "mbid": "9668ebd6-c3ab-43cf-b2eb-3b4eb7f3688c",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "the-music-machine",
     "name": "The Music Machine",
     "kind": "band",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1965,
+    "died": 1969,
+    "origin": "Los Angeles",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "garage rock",
+      "proto-punk",
+      "psychedelic rock"
+    ],
     "mbid": "6117101b-38b1-4281-8f86-03911163bce6",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "tabu-ley-rochereau",
     "name": "Tabu Ley Rochereau",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1940,
+    "died": 2013,
+    "origin": "Bandundu",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "soukous",
+      "congolese rumba"
+    ],
     "mbid": "85a694a0-dde9-4d79-a3b5-11950be0f3de",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "the-remains",
     "name": "The Remains",
     "kind": "band",
-    "born": null,
+    "born": 1964,
     "died": null,
-    "origin": null,
+    "origin": "Boston",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "garage rock",
+      "rock"
+    ],
     "mbid": "852a5a7d-d96e-4911-9491-03c9797bf83f",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "molly-o-day",
     "name": "Molly O'Day",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1923,
+    "died": 1987,
+    "origin": "Pike County",
     "roles": [],
     "genres": [],
     "mbid": "fe66e257-b4bd-483e-b1b5-e4cef38d484f",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "tom-paxton",
     "name": "Tom Paxton",
     "kind": "person",
-    "born": null,
+    "born": 1937,
     "died": null,
-    "origin": null,
+    "origin": "Chicago",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "folk",
+      "singer-songwriter"
+    ],
     "mbid": "1880815f-5f43-4eba-9038-96ba0380134d",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "the-crystals",
     "name": "The Crystals",
     "kind": "band",
-    "born": null,
+    "born": 1960,
     "died": null,
-    "origin": null,
+    "origin": "New York",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "pop",
+      "brill building"
+    ],
     "mbid": "c68ea4b4-85ae-481e-8345-959f6cfc1fdc",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "the-shangri-las",
     "name": "The Shangri-Las",
     "kind": "band",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1963,
+    "died": 1968,
+    "origin": "Cambria Heights",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "pop"
+    ],
     "mbid": "91d01e5f-252d-469d-a16a-12c613e48e5d",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "june-carter-cash",
     "name": "June Carter Cash",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1929,
+    "died": 2003,
+    "origin": "Maces Spring",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "country",
+      "traditional country"
+    ],
     "mbid": "4ee75011-678b-46e0-b8e1-8ef47e5b7379",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "wanda-jackson",
     "name": "Wanda Jackson",
     "kind": "person",
-    "born": null,
+    "born": 1937,
     "died": null,
-    "origin": null,
+    "origin": "Maud",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "country",
+      "rockabilly",
+      "gospel",
+      "singer-songwriter"
+    ],
     "mbid": "550fbe01-42e9-4006-bcd0-6a1854dceb8f",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "kitty-wells",
     "name": "Kitty Wells",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1919,
+    "died": 2012,
+    "origin": "Nashville",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "country",
+      "traditional country",
+      "country gospel",
+      "nashville sound"
+    ],
     "mbid": "5a5eeab3-e4b7-42e9-8ae9-b90eeb210b96",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "charles-ives",
     "name": "Charles Ives",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1874,
+    "died": 1954,
+    "origin": "Danbury",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "classical",
+      "modern classical"
+    ],
     "mbid": "eb87b85e-857d-4c11-8aa9-4c55f3b54880",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "erich-wolfgang-korngold",
     "name": "Erich Wolfgang Korngold",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1897,
+    "died": 1957,
+    "origin": "Brno",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "classical"
+    ],
     "mbid": "71b79646-5a0c-465b-b4da-e26af5120165",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "chubby-checker",
     "name": "Chubby Checker",
     "kind": "person",
-    "born": null,
+    "born": 1941,
     "died": null,
-    "origin": null,
+    "origin": "Andrews",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "rock and roll",
+      "calypso",
+      "pop",
+      "psychedelic soul"
+    ],
     "mbid": "920febb2-ea05-4339-8a08-17294e60c736",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "percy-grainger",
     "name": "Percy Grainger",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1882,
+    "died": 1961,
+    "origin": "Melbourne",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "classical"
+    ],
     "mbid": "9d5a875f-9815-4384-9e4f-cd4ea4f2bc16",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "roy-rogers",
     "name": "Roy Rogers",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1911,
+    "died": 1998,
+    "origin": "Cincinnati",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "country",
+      "western"
+    ],
     "mbid": "5a2e5b57-b8d6-46d3-9b9b-1c7c575102ba",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "janis-martin",
     "name": "Janis Martin",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1940,
+    "died": 2007,
+    "origin": "Virginia",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "rock"
+    ],
     "mbid": "aaddc588-aad5-4e1a-bb07-65bee40a9590",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "roy-acuff",
     "name": "Roy Acuff",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1903,
+    "died": 1992,
+    "origin": "Maynardville",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "country",
+      "traditional country"
+    ],
     "mbid": "d7db24ec-d95b-409a-9841-afd946701435",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "budgie",
     "name": "Budgie",
     "kind": "band",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1967,
+    "died": 2010,
+    "origin": "Cardiff",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "heavy metal",
+      "hard rock",
+      "progressive rock",
+      "metal"
+    ],
     "mbid": "517566c5-3d43-4a81-8f78-9a78f3209e09",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "the-ronettes",
     "name": "The Ronettes",
     "kind": "band",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1959,
+    "died": 1974,
+    "origin": "Washington Heights",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "pop",
+      "brill building",
+      "christmas music",
+      "doo-wop"
+    ],
     "mbid": "393e5448-896f-43e9-b80b-4ee58e1e71a4",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "jonathan-richman",
     "name": "Jonathan Richman",
     "kind": "person",
-    "born": null,
+    "born": 1951,
     "died": null,
-    "origin": null,
+    "origin": "Natick",
     "roles": [],
     "genres": [],
     "mbid": "bae34b81-9abd-416e-a720-fedc359df775",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "porter-wagoner",
     "name": "Porter Wagoner",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1927,
+    "died": 2007,
+    "origin": "West Plains",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "country"
+    ],
     "mbid": "942123a3-df28-463f-9f6e-202b69b8e253",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "bay-city-rollers",
     "name": "Bay City Rollers",
     "kind": "band",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1967,
+    "died": 1987,
+    "origin": "Edinburgh",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "pop",
+      "bubblegum pop",
+      "power pop",
+      "pop rock"
+    ],
     "mbid": "28cc1f98-add6-49d5-820a-ce973ee2954b",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "the-cult",
     "name": "The Cult",
     "kind": "band",
-    "born": null,
+    "born": 1983,
     "died": null,
-    "origin": null,
+    "origin": "London",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "hard rock",
+      "post-punk",
+      "alternative rock",
+      "gothic rock"
+    ],
     "mbid": "8846e4ff-0c19-4af2-872b-7a8dc7497f68",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "bob-gibson",
     "name": "Bob Gibson",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1931,
+    "died": 1996,
+    "origin": "Brooklyn",
     "roles": [],
     "genres": [],
     "mbid": "d31d0631-1e45-4d22-a6a7-a0c87047f5c5",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "the-rivieras",
     "name": "The Rivieras",
     "kind": "band",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1962,
+    "died": 1966,
+    "origin": "South Bend",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "surf rock",
+      "frat rock",
+      "rock",
+      "surf"
+    ],
     "mbid": "4f9c5d6d-5fbf-4b5c-9891-d68d067b63ed",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "freddy-cannon",
     "name": "Freddy Cannon",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1936,
+    "died": 2026,
+    "origin": "Revere",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "rock",
+      "rock and roll"
+    ],
     "mbid": "48c723b1-5044-4063-a934-b6a7602181b1",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "green-river",
     "name": "Green River",
     "kind": "band",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1983,
+    "died": 1987,
+    "origin": "Seattle",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "alternative rock",
+      "grunge",
+      "rock"
+    ],
     "mbid": "78f56916-fe11-4110-8f10-d553ddf8de7b",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "corrosion-of-conformity",
     "name": "Corrosion of Conformity",
     "kind": "band",
-    "born": null,
+    "born": 1982,
     "died": null,
-    "origin": null,
+    "origin": "Raleigh",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "alternative metal",
+      "crossover thrash",
+      "metal",
+      "stoner metal"
+    ],
     "mbid": "0f6e80ef-1972-4dee-8896-dc9955f1beeb",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "dock-boggs",
     "name": "Dock Boggs",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1898,
+    "died": 1971,
+    "origin": "United States",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "appalachian folk",
+      "old-time",
+      "country blues"
+    ],
     "mbid": "78fad453-6853-4c74-9237-e5160afd9db0",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "olivier-messiaen",
     "name": "Olivier Messiaen",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1908,
+    "died": 1992,
+    "origin": "Avignon",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "classical",
+      "contemporary classical",
+      "modern classical"
+    ],
     "mbid": "c6e5c5f4-984e-432a-87b8-b6afa288bca1",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "theodor-w-adorno",
     "name": "Theodor W. Adorno",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1903,
+    "died": 1969,
+    "origin": "Frankfurt am Main",
     "roles": [],
     "genres": [],
     "mbid": "b2d80fb6-a565-421a-a04c-ebb3bc0c3167",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
@@ -132307,144 +132503,179 @@
     "id": "arthur-schopenhauer",
     "name": "Arthur Schopenhauer",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1788,
+    "died": 1860,
+    "origin": "Gda\u0144sk",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "has german audiobooks"
+    ],
     "mbid": "852f26a1-228b-4908-b787-5e1a4887610b",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "sonny-criss",
     "name": "Sonny Criss",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1927,
+    "died": 1977,
+    "origin": "Memphis",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "jazz",
+      "bebop",
+      "hard bop"
+    ],
     "mbid": "de0b20ad-fc6f-460f-a21d-d0321e187ffc",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "benny-carter",
     "name": "Benny Carter",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1907,
+    "died": 2003,
+    "origin": "Harlem",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "jazz",
+      "swing",
+      "bebop",
+      "big band"
+    ],
     "mbid": "25cf5731-bed9-4604-97a4-8b9655de1a30",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "lee-konitz",
     "name": "Lee Konitz",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1927,
+    "died": 2020,
+    "origin": "Chicago",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "jazz"
+    ],
     "mbid": "9136db51-46ba-4208-afd6-7753fb0739aa",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "phil-woods",
     "name": "Phil Woods",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1931,
+    "died": 2015,
+    "origin": "Springfield",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "hard bop",
+      "jazz",
+      "post-bop"
+    ],
     "mbid": "df555225-0856-4cd9-ae46-b4734ee1418d",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "oliver-wallace",
     "name": "Oliver Wallace",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1887,
+    "died": 1963,
+    "origin": "London",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "disney",
+      "soundtrack"
+    ],
     "mbid": "ad0e1c5b-2a97-45e2-9176-105444da0752",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "rich-kids-on-lsd",
     "name": "Rich Kids on LSD",
     "kind": "person",
-    "born": null,
+    "born": 1984,
     "died": null,
-    "origin": null,
+    "origin": "Montecito",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "punk"
+    ],
     "mbid": "18e9b336-485d-45d8-8cc0-791ec57c1f7e",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "d-o-a",
     "name": "D.O.A.",
     "kind": "band",
-    "born": null,
+    "born": 1978,
     "died": null,
-    "origin": null,
+    "origin": "Vancouver",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "punk"
+    ],
     "mbid": "0f0b2f97-a073-4a92-ab99-ff7980ad7fca",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   },
   {
     "id": "george-bruns",
     "name": "George Bruns",
     "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
+    "born": 1914,
+    "died": 1983,
+    "origin": "Clackamas County",
     "roles": [],
-    "genres": [],
+    "genres": [
+      "jazz"
+    ],
     "mbid": "4204e06b-d2e4-4823-b6f3-47f7593518cb",
     "spotify_id": null,
     "seed": false,
     "sources": [
-      "wikidata"
+      "wikidata",
+      "musicbrainz"
     ]
   }
 ]
