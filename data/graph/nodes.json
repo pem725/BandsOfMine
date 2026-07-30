@@ -131,26 +131,6 @@
     ]
   },
   {
-    "id": "crosby-stills-nash",
-    "name": "Crosby, Stills & Nash",
-    "kind": "band",
-    "born": 1968,
-    "died": 2016,
-    "origin": "Los Angeles, CA",
-    "roles": [],
-    "genres": [
-      "folk rock",
-      "vocal harmony"
-    ],
-    "mbid": "cfafad90-b736-4c74-8ded-f3f4d7b2c792",
-    "spotify_id": null,
-    "seed": true,
-    "sources": [
-      "neil-young.spotify",
-      "musicbrainz"
-    ]
-  },
-  {
     "id": "csny",
     "name": "Crosby, Stills, Nash & Young",
     "kind": "band",
@@ -4228,30 +4208,6 @@
     ]
   },
   {
-    "id": "various-artists",
-    "name": "Various Artists",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [
-      "special purpose artist",
-      "special purpose",
-      "compilation",
-      "soundtrack"
-    ],
-    "mbid": "89ad4ac3-39f7-470e-963a-56509c546377",
-    "spotify_id": null,
-    "seed": true,
-    "local_tracks": 116,
-    "local_weight": 0.457,
-    "sources": [
-      "local-library",
-      "musicbrainz"
-    ]
-  },
-  {
     "id": "norah-jones",
     "name": "Norah Jones",
     "kind": "person",
@@ -4679,24 +4635,6 @@
     ]
   },
   {
-    "id": "the-segovia-collection-vol-1",
-    "name": "The Segovia Collection (Vol. 1)",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "local_tracks": 76,
-    "local_weight": 0.437,
-    "sources": [
-      "local-library"
-    ]
-  },
-  {
     "id": "the-irish-tenors",
     "name": "The Irish Tenors",
     "kind": "band",
@@ -4892,7 +4830,8 @@
       "folk rock",
       "folk pop",
       "pop rock",
-      "singer-songwriter"
+      "singer-songwriter",
+      "vocal harmony"
     ],
     "mbid": "cfafad90-b736-4c74-8ded-f3f4d7b2c792",
     "spotify_id": null,
@@ -4901,7 +4840,8 @@
     "local_weight": 0.435,
     "sources": [
       "local-library",
-      "musicbrainz"
+      "musicbrainz",
+      "neil-young.spotify"
     ]
   },
   {
@@ -4950,24 +4890,6 @@
     "sources": [
       "local-library",
       "musicbrainz"
-    ]
-  },
-  {
-    "id": "rp85g1-f",
-    "name": "RP85G1~F",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "local_tracks": 68,
-    "local_weight": 0.433,
-    "sources": [
-      "local-library"
     ]
   },
   {
@@ -5043,25 +4965,6 @@
     ]
   },
   {
-    "id": "the-clancy-brothers-tommy-makem",
-    "name": "The Clancy Brothers & Tommy Makem",
-    "kind": "band",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": "845168c1-a232-4c06-b0c3-0e72531ae1c5",
-    "spotify_id": null,
-    "seed": true,
-    "local_tracks": 64,
-    "local_weight": 0.431,
-    "sources": [
-      "local-library",
-      "musicbrainz"
-    ]
-  },
-  {
     "id": "the-mamas-and-the-papas",
     "name": "The Mamas And The Papas",
     "kind": "band",
@@ -5083,24 +4986,6 @@
     "sources": [
       "local-library",
       "musicbrainz"
-    ]
-  },
-  {
-    "id": "clancy-brothers-with-tommy-makem",
-    "name": "Clancy Brothers With Tommy Makem",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "local_tracks": 64,
-    "local_weight": 0.431,
-    "sources": [
-      "local-library"
     ]
   },
   {
@@ -5219,24 +5104,6 @@
     ]
   },
   {
-    "id": "kidmisc",
-    "name": "KidMisc",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "local_tracks": 60,
-    "local_weight": 0.43,
-    "sources": [
-      "local-library"
-    ]
-  },
-  {
     "id": "melissa-etheridge",
     "name": "Melissa Etheridge",
     "kind": "person",
@@ -5285,24 +5152,6 @@
       "spotify-export"
     ],
     "play_weight": 0.441
-  },
-  {
-    "id": "unknown-album",
-    "name": "Unknown Album",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "local_tracks": 60,
-    "local_weight": 0.43,
-    "sources": [
-      "local-library"
-    ]
   },
   {
     "id": "phillippe-entremont",
@@ -6942,24 +6791,6 @@
     ]
   },
   {
-    "id": "the-clancy-brothers-and-makem",
-    "name": "The Clancy Brothers And Makem",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "local_tracks": 32,
-    "local_weight": 0.416,
-    "sources": [
-      "local-library"
-    ]
-  },
-  {
     "id": "goo-goo-dolls",
     "name": "Goo Goo Dolls",
     "kind": "band",
@@ -7900,24 +7731,6 @@
     ]
   },
   {
-    "id": "the-segovia-collection-vol-5-five-centuries-of-the-spanish-guitar",
-    "name": "The Segovia Collection (Vol. 5) Five Centuries Of The Spanish Guitar",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "local_tracks": 26,
-    "local_weight": 0.413,
-    "sources": [
-      "local-library"
-    ]
-  },
-  {
     "id": "el-diablo-suelto-guitar-music-of-venezuela",
     "name": "El Diablo Suelto Guitar Music Of Venezuela",
     "kind": "person",
@@ -8405,24 +8218,6 @@
     ]
   },
   {
-    "id": "hr5mb4-8",
-    "name": "HR5MB4~8",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "local_tracks": 24,
-    "local_weight": 0.412,
-    "sources": [
-      "local-library"
-    ]
-  },
-  {
     "id": "the-clancy-brothers",
     "name": "The Clancy Brothers",
     "kind": "band",
@@ -8437,8 +8232,8 @@
     "mbid": "530846f0-4098-4d33-bd8a-8611f823bf51",
     "spotify_id": null,
     "seed": true,
-    "local_tracks": 56,
-    "local_weight": 0.828,
+    "local_tracks": 216,
+    "local_weight": 2.106,
     "sources": [
       "local-library",
       "musicbrainz"
@@ -9692,24 +9487,6 @@
     ]
   },
   {
-    "id": "new-music-sampler-harp-magazine-2004",
-    "name": "New Music Sampler (Harp Magazine 2004)",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "local_tracks": 20,
-    "local_weight": 0.41,
-    "sources": [
-      "local-library"
-    ]
-  },
-  {
     "id": "irish-pub-songs-vol-3",
     "name": "Irish Pub Songs Vol. 3",
     "kind": "person",
@@ -10461,24 +10238,6 @@
     ]
   },
   {
-    "id": "the-rolling-stone-collection-1977-1982",
-    "name": "The Rolling Stone Collection 1977-1982",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "local_tracks": 17,
-    "local_weight": 0.408,
-    "sources": [
-      "local-library"
-    ]
-  },
-  {
     "id": "les-miserables",
     "name": "Les Miserables",
     "kind": "band",
@@ -10495,24 +10254,6 @@
     "sources": [
       "local-library",
       "musicbrainz"
-    ]
-  },
-  {
-    "id": "the-rolling-stone-collection-1967-1969",
-    "name": "The Rolling Stone Collection 1967-1969",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "local_tracks": 17,
-    "local_weight": 0.408,
-    "sources": [
-      "local-library"
     ]
   },
   {
@@ -10709,24 +10450,6 @@
     ]
   },
   {
-    "id": "the-rolling-stone-collection-1973-1977",
-    "name": "The Rolling Stone Collection 1973-1977",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "local_tracks": 16,
-    "local_weight": 0.408,
-    "sources": [
-      "local-library"
-    ]
-  },
-  {
     "id": "bad-company",
     "name": "Bad Company",
     "kind": "band",
@@ -10862,24 +10585,6 @@
     ]
   },
   {
-    "id": "rolling-stone-collection-1969-1970",
-    "name": "Rolling Stone Collection - 1969-1970",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "local_tracks": 15,
-    "local_weight": 0.407,
-    "sources": [
-      "local-library"
-    ]
-  },
-  {
     "id": "master-and-commander",
     "name": "Master And Commander",
     "kind": "person",
@@ -10937,24 +10642,6 @@
   {
     "id": "dominngo-perlman-together",
     "name": "Dominngo Perlman Together",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "local_tracks": 15,
-    "local_weight": 0.407,
-    "sources": [
-      "local-library"
-    ]
-  },
-  {
-    "id": "rolling-stone-collection1986-1992",
-    "name": "Rolling Stone Collection1986-1992",
     "kind": "person",
     "born": null,
     "died": null,
@@ -11607,24 +11294,6 @@
     ]
   },
   {
-    "id": "20th-century-masters-the-millennium-collection-best-of-chuck-mangione",
-    "name": "20th Century Masters - The Millennium Collection Best Of Chuck Mangione",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "local_tracks": 10,
-    "local_weight": 0.405,
-    "sources": [
-      "local-library"
-    ]
-  },
-  {
     "id": "american-pie-other-hits",
     "name": "American Pie & Other Hits",
     "kind": "person",
@@ -12008,24 +11677,6 @@
     "sources": [
       "local-library",
       "musicbrainz"
-    ]
-  },
-  {
-    "id": "pvdo1-9",
-    "name": "_PVDO1~9",
-    "kind": "person",
-    "born": null,
-    "died": null,
-    "origin": null,
-    "roles": [],
-    "genres": [],
-    "mbid": null,
-    "spotify_id": null,
-    "seed": true,
-    "local_tracks": 6,
-    "local_weight": 0.403,
-    "sources": [
-      "local-library"
     ]
   },
   {
@@ -132088,6 +131739,44 @@
     "sources": [
       "wikidata",
       "musicbrainz"
+    ]
+  },
+  {
+    "id": "andres-segovia",
+    "name": "Andr\u00e9s Segovia",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [
+      "classical"
+    ],
+    "spotify_id": null,
+    "seed": true,
+    "local_tracks": 102,
+    "local_weight": 0.85,
+    "sources": [
+      "local-library"
+    ]
+  },
+  {
+    "id": "chuck-mangione",
+    "name": "Chuck Mangione",
+    "kind": "person",
+    "born": null,
+    "died": null,
+    "origin": null,
+    "roles": [],
+    "genres": [
+      "jazz"
+    ],
+    "spotify_id": null,
+    "seed": true,
+    "local_tracks": 10,
+    "local_weight": 0.405,
+    "sources": [
+      "local-library"
     ]
   }
 ]

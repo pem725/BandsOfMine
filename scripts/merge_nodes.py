@@ -54,6 +54,11 @@ PLAN = {
     # --- mis-resolved to the wrong band: move tracks only, drop the wrong node ---
     "eagles":                   ("resolve", ["the-eagles"]),
     "outlaws":                  ("resolve", ["the-outlaws"]),
+    # --- 2026-07-30 second pass: spelling/punctuation variants of one act ---
+    "the-clancy-brothers":      ("merge", ["the-clancy-brothers-tommy-makem",
+                                           "clancy-brothers-with-tommy-makem",
+                                           "the-clancy-brothers-and-makem"]),
+    "crosby-stills-and-nash":   ("merge", ["crosby-stills-nash"]),
 }
 
 TRACK_FIELDS = ["local_tracks", "play_weight", "local_weight"]

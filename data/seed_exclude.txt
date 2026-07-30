@@ -45,3 +45,16 @@ montana-of-300
 chris-brown
 r-kelly
 mgk
+
+# 2026-07-30 compilation / rip-artifact folders (not artists)
+unknown-album
+kidmisc
+rp85g1-f
+hr5mb4-8
+pvdo1-9
+new-music-sampler-harp-magazine-2004
+the-rolling-stone-collection-1977-1982
+the-rolling-stone-collection-1967-1969
+the-rolling-stone-collection-1973-1977
+rolling-stone-collection1986-1992
+rolling-stone-collection-1969-1970

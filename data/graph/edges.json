@@ -385,7 +385,7 @@
   },
   {
     "source": "david-crosby",
-    "target": "crosby-stills-nash",
+    "target": "crosby-stills-and-nash",
     "type": "member_of",
     "intervals": [
       [
@@ -396,12 +396,13 @@
     "weight": 1.0,
     "note": null,
     "sources": [
-      "neil-young.spotify"
+      "neil-young.spotify",
+      "musicbrainz"
     ]
   },
   {
     "source": "stephen-stills",
-    "target": "crosby-stills-nash",
+    "target": "crosby-stills-and-nash",
     "type": "member_of",
     "intervals": [
       [
@@ -412,12 +413,13 @@
     "weight": 1.0,
     "note": null,
     "sources": [
-      "neil-young.spotify"
+      "neil-young.spotify",
+      "musicbrainz"
     ]
   },
   {
     "source": "graham-nash",
-    "target": "crosby-stills-nash",
+    "target": "crosby-stills-and-nash",
     "type": "member_of",
     "intervals": [
       [
@@ -428,12 +430,13 @@
     "weight": 1.0,
     "note": null,
     "sources": [
-      "neil-young.spotify"
+      "neil-young.spotify",
+      "musicbrainz"
     ]
   },
   {
     "source": "csny",
-    "target": "crosby-stills-nash",
+    "target": "crosby-stills-and-nash",
     "type": "spun_off_from",
     "intervals": [
       [
@@ -985,7 +988,7 @@
   },
   {
     "source": "david-santos",
-    "target": "crosby-stills-nash",
+    "target": "crosby-stills-and-nash",
     "type": "collaborated_with",
     "intervals": [
       [
@@ -16500,70 +16503,6 @@
     ]
   },
   {
-    "source": "david-santos",
-    "target": "crosby-stills-and-nash",
-    "type": "collaborated_with",
-    "intervals": [
-      [
-        1968,
-        2016
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "david-crosby",
-    "target": "crosby-stills-and-nash",
-    "type": "member_of",
-    "intervals": [
-      [
-        1968,
-        2016
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "graham-nash",
-    "target": "crosby-stills-and-nash",
-    "type": "member_of",
-    "intervals": [
-      [
-        1968,
-        2016
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "stephen-stills",
-    "target": "crosby-stills-and-nash",
-    "type": "member_of",
-    "intervals": [
-      [
-        1968,
-        2016
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
     "source": "pete-quaife",
     "target": "the-kinks",
     "type": "member_of",
@@ -17141,9 +17080,14 @@
   },
   {
     "source": "liam-clancy",
-    "target": "the-clancy-brothers-tommy-makem",
+    "target": "the-clancy-brothers",
     "type": "member_of",
-    "intervals": [],
+    "intervals": [
+      [
+        1969,
+        1971
+      ]
+    ],
     "weight": 0.7,
     "note": null,
     "sources": [
@@ -17152,9 +17096,14 @@
   },
   {
     "source": "patrick-clancy",
-    "target": "the-clancy-brothers-tommy-makem",
+    "target": "the-clancy-brothers",
     "type": "member_of",
-    "intervals": [],
+    "intervals": [
+      [
+        1969,
+        1971
+      ]
+    ],
     "weight": 0.7,
     "note": null,
     "sources": [
@@ -17163,9 +17112,14 @@
   },
   {
     "source": "tom-clancy",
-    "target": "the-clancy-brothers-tommy-makem",
+    "target": "the-clancy-brothers",
     "type": "member_of",
-    "intervals": [],
+    "intervals": [
+      [
+        1969,
+        1971
+      ]
+    ],
     "weight": 0.7,
     "note": null,
     "sources": [
@@ -17174,7 +17128,7 @@
   },
   {
     "source": "tommy-makem",
-    "target": "the-clancy-brothers-tommy-makem",
+    "target": "the-clancy-brothers",
     "type": "member_of",
     "intervals": [],
     "weight": 0.7,
@@ -24257,54 +24211,6 @@
   },
   {
     "source": "bobby-clancy",
-    "target": "the-clancy-brothers",
-    "type": "member_of",
-    "intervals": [
-      [
-        1969,
-        1971
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "liam-clancy",
-    "target": "the-clancy-brothers",
-    "type": "member_of",
-    "intervals": [
-      [
-        1969,
-        1971
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "patrick-clancy",
-    "target": "the-clancy-brothers",
-    "type": "member_of",
-    "intervals": [
-      [
-        1969,
-        1971
-      ]
-    ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "tom-clancy",
     "target": "the-clancy-brothers",
     "type": "member_of",
     "intervals": [
@@ -40034,17 +39940,6 @@
         null
       ]
     ],
-    "weight": 0.7,
-    "note": null,
-    "sources": [
-      "musicbrainz"
-    ]
-  },
-  {
-    "source": "muhammad-berlian",
-    "target": "various-artists",
-    "type": "collaborated_with",
-    "intervals": [],
     "weight": 0.7,
     "note": null,
     "sources": [
