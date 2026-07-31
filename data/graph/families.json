@@ -50,8 +50,8 @@
             "The Beatles",
             "Jimi Hendrix",
             "The Who",
-            "Cream",
-            "Pink"
+            "Pink",
+            "Cream"
           ],
           "genre": "rock",
           "genres": [
@@ -68,8 +68,8 @@
           "roots": [
             "The Beatles",
             "Bob Dylan",
-            "The Rolling Stones",
             "David Bowie",
+            "The Rolling Stones",
             "The Who"
           ],
           "genre": "alternative rock",
@@ -106,9 +106,9 @@
           "roots": [
             "The Beatles",
             "U2",
-            "Radiohead",
             "Brian Eno",
-            "Oasis"
+            "Kate Bush",
+            "Radiohead"
           ],
           "genre": "alternative rock",
           "genres": [
@@ -127,7 +127,7 @@
             "Bob Dylan",
             "The Rolling Stones",
             "Joni Mitchell",
-            "Simon & Garfunkel"
+            "Ralph McTell"
           ],
           "genre": "folk rock",
           "genres": [
@@ -178,8 +178,8 @@
           "roots": [
             "The Beatles",
             "U2",
-            "Paul Simon",
             "Nirvana",
+            "Paul Simon",
             "Pearl Jam"
           ],
           "genre": "alternative rock",
@@ -246,8 +246,8 @@
           "roots": [
             "The Beatles",
             "Jimi Hendrix",
-            "The Rolling Stones",
             "David Bowie",
+            "The Rolling Stones",
             "The Who"
           ],
           "genre": "hard rock",
@@ -302,8 +302,8 @@
             "The Beatles",
             "Jimi Hendrix",
             "David Bowie",
-            "U2",
-            "Stevie Wonder"
+            "Stevie Wonder",
+            "U2"
           ],
           "genre": "soul",
           "genres": [
@@ -393,8 +393,8 @@
           "roots": [
             "The Beatles",
             "U2",
-            "Paul Simon",
             "Nirvana",
+            "Paul Simon",
             "Muse"
           ],
           "genre": "alternative rock",
@@ -432,8 +432,8 @@
             "The Beatles",
             "Jimi Hendrix",
             "The Rolling Stones",
-            "Stevie Wonder",
-            "Bob Marley"
+            "Bob Marley",
+            "Stevie Wonder"
           ],
           "genre": "rock",
           "genres": [
@@ -522,8 +522,8 @@
             "The Beatles",
             "Jimi Hendrix",
             "David Bowie",
-            "Bob Marley",
-            "Stevie Wonder"
+            "Stevie Wonder",
+            "Bob Marley"
           ],
           "genre": "new wave",
           "genres": [
@@ -567,7 +567,7 @@
             "Chuck Berry",
             "Elvis Presley",
             "Little Richard",
-            "Buddy Holly"
+            "Beethoven"
           ],
           "genre": "rock",
           "genres": [
@@ -653,9 +653,9 @@
           "roots": [
             "Bob Dylan",
             "Woody Guthrie",
+            "Bob Marley",
             "The Who",
-            "Elvis Presley",
-            "Bob Marley"
+            "Elvis Presley"
           ],
           "genre": "punk rock",
           "genres": [
@@ -721,9 +721,9 @@
           "roots": [
             "Bob Dylan",
             "Tom Petty",
-            "Paul Simon",
             "Van Morrison",
-            "R.E.M."
+            "Paul Simon",
+            "The Band"
           ],
           "genre": "alternative rock",
           "genres": [
@@ -862,8 +862,8 @@
           "tracks": 22,
           "roots": [
             "Bob Dylan",
-            "Marvin Gaye",
             "Otis Redding",
+            "Marvin Gaye",
             "Neil Young",
             "Bill Withers"
           ],
@@ -907,8 +907,8 @@
             "Jimi Hendrix",
             "Bob Marley",
             "Paul Simon",
-            "Keith Jarrett",
-            "Grateful Dead"
+            "Grateful Dead",
+            "Keith Jarrett"
           ],
           "genre": "rock",
           "genres": [
@@ -964,8 +964,8 @@
             "Jimi Hendrix",
             "Muddy Waters",
             "Howlin' Wolf",
-            "John Mayall",
-            "Bert Jansch"
+            "Bert Jansch",
+            "Roy Harper"
           ],
           "genre": "progressive rock",
           "genres": [
@@ -1018,8 +1018,8 @@
             "Jimi Hendrix",
             "The Who",
             "Led Zeppelin",
-            "Pink",
-            "Cream"
+            "Cream",
+            "Pink"
           ],
           "genre": "progressive rock",
           "genres": [
@@ -1036,8 +1036,8 @@
           "roots": [
             "Jimi Hendrix",
             "Muddy Waters",
-            "Howlin' Wolf",
             "B.B. King",
+            "Howlin' Wolf",
             "Freddie King"
           ],
           "genre": "blues rock",
@@ -1061,9 +1061,9 @@
           "roots": [
             "Ray Charles",
             "Lead Belly",
+            "Sonny Terry",
             "Jelly Roll Morton",
-            "Brownie McGhee",
-            "Solomon Burke"
+            "Brownie McGhee"
           ],
           "genre": "folk rock",
           "genres": [
@@ -1100,8 +1100,8 @@
             "Ray Charles",
             "Elvis Presley",
             "Curtis Mayfield",
-            "Fats Domino",
-            "The Impressions"
+            "The Impressions",
+            "Fats Domino"
           ],
           "genre": "reggae",
           "genres": [
@@ -1119,8 +1119,8 @@
             "Ray Charles",
             "Stevie Wonder",
             "Joni Mitchell",
-            "Ella Fitzgerald",
-            "Sarah Vaughan"
+            "Sarah Vaughan",
+            "Louis Armstrong"
           ],
           "genre": "folk",
           "genres": [
@@ -1133,7 +1133,7 @@
         {
           "id": "joe-cocker",
           "name": "Joe Cocker",
-          "tracks": 36,
+          "tracks": 38,
           "roots": [
             "Ray Charles"
           ],
@@ -1149,8 +1149,8 @@
           "name": "The Animals",
           "tracks": 30,
           "roots": [
-            "Chuck Berry",
             "Ray Charles",
+            "Chuck Berry",
             "John Lee Hooker",
             "Fats Domino",
             "Big Joe Turner"
@@ -1252,8 +1252,8 @@
             "Muddy Waters",
             "Robert Johnson",
             "John Lee Hooker",
-            "Mississippi Fred McDowell",
-            "Son House"
+            "Son House",
+            "Sippie Wallace"
           ],
           "genre": "blues rock",
           "genres": [
@@ -1288,8 +1288,8 @@
           "roots": [
             "Muddy Waters",
             "Chuck Berry",
-            "Big Bill Broonzy",
             "Lead Belly",
+            "Big Bill Broonzy",
             "Bo Diddley"
           ],
           "genre": "rock",
@@ -1349,7 +1349,7 @@
             "Otis Redding",
             "Lead Belly",
             "Big Bill Broonzy",
-            "Frank Sinatra"
+            "Charlie Parker"
           ],
           "genre": "art rock",
           "genres": [
@@ -1384,8 +1384,8 @@
           "roots": [
             "Billie Holiday",
             "Nina Simone",
-            "Frank Sinatra",
             "Sarah Vaughan",
+            "Frank Sinatra",
             "Mahalia Jackson"
           ],
           "genre": "soul",
@@ -1419,10 +1419,10 @@
           "tracks": 20,
           "roots": [
             "Billie Holiday",
-            "Mariangela Melato",
             "Monica Vitti",
-            "Anna Magnani",
-            "Eleonora Duse"
+            "Mariangela Melato",
+            "Eleonora Duse",
+            "Anna Magnani"
           ],
           "genre": "pop",
           "genres": [
@@ -1440,8 +1440,8 @@
             "Billie Holiday",
             "Nina Simone",
             "Nat King Cole",
-            "Ella Fitzgerald",
-            "Sarah Vaughan"
+            "Sarah Vaughan",
+            "Sam Cooke"
           ],
           "genre": "soul",
           "genres": [
@@ -1464,8 +1464,8 @@
           "roots": [
             "Robert Johnson",
             "Woody Guthrie",
-            "Bertolt Brecht",
             "Allen Ginsberg",
+            "Bertolt Brecht",
             "Suze Rotolo"
           ],
           "genre": "folk",
@@ -1499,10 +1499,10 @@
           "tracks": 72,
           "roots": [
             "Woody Guthrie",
-            "Big Bill Broonzy",
             "Lead Belly",
-            "Randy Newman",
-            "Guy Clark"
+            "Big Bill Broonzy",
+            "Guy Clark",
+            "Randy Newman"
           ],
           "genre": "alternative folk",
           "genres": [
@@ -1550,10 +1550,10 @@
           "tracks": 34,
           "roots": [
             "Woody Guthrie",
-            "Odetta",
             "John Prine",
-            "Townes Van Zandt",
-            "Carolyn Hester"
+            "Odetta",
+            "Loretta Lynn",
+            "Gordon Lightfoot"
           ],
           "genre": "americana",
           "genres": [
@@ -1576,7 +1576,7 @@
           "roots": [
             "The Rolling Stones",
             "Robert Johnson",
-            "Willie Dixon",
+            "Blind Willie Johnson",
             "The Grapes of Wrath",
             "The Lord of the Rings"
           ],
@@ -1611,7 +1611,7 @@
           "roots": [
             "The Rolling Stones",
             "Free",
-            "Allman Brothers Band"
+            "The Allman Brothers Band"
           ],
           "genre": "southern rock",
           "genres": [
@@ -1628,7 +1628,7 @@
           "roots": [
             "The Rolling Stones",
             "The Velvet Underground",
-            "Allman Brothers Band",
+            "The Allman Brothers Band",
             "Creedence Clearwater Revival",
             "The Strokes"
           ],
@@ -1803,7 +1803,7 @@
             "The Velvet Underground",
             "Brian Eno",
             "Lou Reed",
-            "Roxy Music"
+            "The Modern Lovers"
           ],
           "genre": "new wave",
           "genres": [
@@ -1824,11 +1824,11 @@
           "name": "Santana",
           "tracks": 238,
           "roots": [
-            "Miles Davis",
             "B.B. King",
+            "Miles Davis",
             "John Coltrane",
             "T-Bone Walker",
-            "Tito Puente"
+            "Eddie Palmieri"
           ],
           "genre": "latin rock",
           "genres": [
@@ -1845,8 +1845,8 @@
           "roots": [
             "Miles Davis",
             "King Crimson",
-            "Genesis",
             "Grateful Dead",
+            "Genesis",
             "Frank Zappa"
           ],
           "genre": "jam band",
@@ -1888,7 +1888,7 @@
             "Joni Mitchell",
             "Marvin Gaye",
             "Prince",
-            "Bill Withers"
+            "Red Hot Chili Peppers"
           ],
           "genre": "pop",
           "genres": [
@@ -1919,8 +1919,8 @@
             "Stevie Wonder",
             "Aretha Franklin",
             "Elton John",
-            "Liza Minnelli",
-            "Anne Murray"
+            "Anne Murray",
+            "Bee Gees"
           ],
           "genre": "pop",
           "genres": [
@@ -1928,6 +1928,63 @@
             "soft rock",
             "contemporary r&b",
             "pop soul"
+          ]
+        }
+      ]
+    },
+    {
+      "anchor": "the-byrds",
+      "name": "The Byrds",
+      "members": [
+        {
+          "id": "eagles",
+          "name": "Eagles",
+          "tracks": 72,
+          "roots": [
+            "The Byrds",
+            "The Flying Burrito Brothers",
+            "Linda Ronstadt"
+          ],
+          "genre": "rock",
+          "genres": [
+            "rock",
+            "country rock",
+            "classic rock",
+            "folk rock"
+          ]
+        },
+        {
+          "id": "don-henley",
+          "name": "Don Henley",
+          "tracks": 42,
+          "roots": [
+            "The Byrds",
+            "The Flying Burrito Brothers",
+            "Merle Haggard"
+          ],
+          "genre": "rock",
+          "genres": [
+            "rock",
+            "folk",
+            "pop rock"
+          ]
+        },
+        {
+          "id": "firefall",
+          "name": "Firefall",
+          "tracks": 36,
+          "roots": [
+            "The Byrds",
+            "The Flying Burrito Brothers",
+            "Gram Parsons",
+            "Buffalo Springfield"
+          ],
+          "genre": "country rock",
+          "genres": [
+            "country rock",
+            "pop rock",
+            "rock",
+            "soft rock"
           ]
         }
       ]
@@ -1955,10 +2012,10 @@
           "tracks": 90,
           "roots": [
             "Arcangelo Corelli",
-            "Italy",
-            "Alessandro Scarlatti",
-            "Germany",
-            "Georg Philipp Telemann"
+            "Georg Philipp Telemann",
+            "Domenico Scarlatti",
+            "Giovanni Bononcini",
+            "France"
           ],
           "genre": "classical",
           "genres": [
@@ -2038,7 +2095,7 @@
             "Bill Evans",
             "Charlie Parker",
             "Sonny Rollins",
-            "Horace Silver",
+            "Charles Mingus",
             "Duke Ellington"
           ],
           "genre": "jazz rock",
@@ -2056,9 +2113,9 @@
           "roots": [
             "Bill Evans",
             "Keith Jarrett",
-            "Leon Russell",
             "Bill Monroe",
-            "McCoy Tyner"
+            "Leon Russell",
+            "Bud Powell"
           ],
           "genre": "rock",
           "genres": [
@@ -2099,8 +2156,8 @@
             "The Clash",
             "Johnny Cash",
             "The Dubliners",
-            "The Pogues",
-            "Dropkick Murphys"
+            "Dropkick Murphys",
+            "The Pogues"
           ],
           "genre": "celtic punk",
           "genres": [
@@ -2121,8 +2178,8 @@
           "name": "Diana Krall",
           "tracks": 224,
           "roots": [
-            "Bill Evans",
             "Nat King Cole",
+            "Bill Evans",
             "Frank Sinatra",
             "Fats Waller"
           ],
@@ -2199,9 +2256,9 @@
           "roots": [
             "U2",
             "Tom Petty",
-            "Oasis",
             "The_Cure",
-            "Bruce Springsteen"
+            "Bruce Springsteen",
+            "Oasis"
           ],
           "genre": "alternative rock",
           "genres": [
@@ -2219,8 +2276,8 @@
             "U2",
             "Joni Mitchell",
             "Peter Gabriel",
-            "Anne Murray",
-            "Kate Bush"
+            "Kate Bush",
+            "Anne Murray"
           ],
           "genre": "pop",
           "genres": [
@@ -2282,8 +2339,8 @@
           "roots": [
             "Elvis Presley",
             "Carl Perkins",
-            "Eddie Cochran",
-            "Gene Vincent"
+            "Gene Vincent",
+            "Eddie Cochran"
           ],
           "genre": "swing",
           "genres": [
@@ -2301,53 +2358,13 @@
             "Elvis Presley",
             "Buddy Holly",
             "Carl Perkins",
-            "Eddie Cochran",
-            "Johnny Cash"
+            "Johnny Cash",
+            "Eddie Cochran"
           ],
           "genre": "rock",
           "genres": [
             "rock",
             "rockabilly"
-          ]
-        }
-      ]
-    },
-    {
-      "anchor": "the-byrds",
-      "name": "The Byrds",
-      "members": [
-        {
-          "id": "don-henley",
-          "name": "Don Henley",
-          "tracks": 42,
-          "roots": [
-            "The Byrds",
-            "The Flying Burrito Brothers",
-            "Merle Haggard"
-          ],
-          "genre": "rock",
-          "genres": [
-            "rock",
-            "folk",
-            "pop rock"
-          ]
-        },
-        {
-          "id": "firefall",
-          "name": "Firefall",
-          "tracks": 36,
-          "roots": [
-            "The Byrds",
-            "The Flying Burrito Brothers",
-            "Gram Parsons",
-            "Buffalo Springfield"
-          ],
-          "genre": "country rock",
-          "genres": [
-            "country rock",
-            "pop rock",
-            "rock",
-            "soft rock"
           ]
         }
       ]
@@ -2399,8 +2416,8 @@
           "tracks": 282,
           "roots": [
             "Curtis Mayfield",
-            "Ronnie Hawkins",
-            "The Staple Singers"
+            "The Staple Singers",
+            "Ronnie Hawkins"
           ],
           "genre": "roots rock",
           "genres": [
@@ -2428,13 +2445,28 @@
           ]
         },
         {
+          "id": "the-allman-brothers-band",
+          "name": "The Allman Brothers Band",
+          "tracks": 152,
+          "roots": [
+            "The Band"
+          ],
+          "genre": "southern rock",
+          "genres": [
+            "southern rock",
+            "blues rock",
+            "rock",
+            "electric blues"
+          ]
+        },
+        {
           "id": "louis-armstrong",
           "name": "Louis Armstrong",
           "tracks": 100,
           "roots": [
-            "King Oliver",
             "Buddy Bolden",
-            "Bunk Johnson"
+            "Bunk Johnson",
+            "King Oliver"
           ],
           "genre": "jazz",
           "genres": [
@@ -2449,9 +2481,9 @@
           "name": "Gipsy Kings",
           "tracks": 82,
           "roots": [
-            "Jos\u00e9 Reyes",
             "Django Reinhardt",
-            "Manitas de Plata"
+            "Manitas de Plata",
+            "Jos\u00e9 Reyes"
           ],
           "genre": "flamenco",
           "genres": [
@@ -2483,9 +2515,9 @@
           "roots": [
             "John Coltrane",
             "Sonny Rollins",
+            "Dexter Gordon",
             "Cannonball Adderley",
-            "Grover Washington Jr.",
-            "Dexter Gordon"
+            "Grover Washington Jr."
           ],
           "genre": "smooth jazz",
           "genres": [
@@ -2500,9 +2532,9 @@
           "name": "The Mamas And The Papas",
           "tracks": 64,
           "roots": [
-            "The Four Lads",
             "The Kingston Trio",
-            "The Four Freshmen"
+            "The Four Freshmen",
+            "The Four Lads"
           ],
           "genre": "sunshine pop",
           "genres": [
@@ -2534,9 +2566,9 @@
           "roots": [
             "Al Green",
             "Albert Collins",
+            "Otis Rush",
             "Magic Sam",
-            "O.V. Wright",
-            "Otis Rush"
+            "O.V. Wright"
           ],
           "genre": "blues",
           "genres": [
@@ -2554,8 +2586,8 @@
             "King Crimson",
             "Genesis",
             "Deep Purple",
-            "Yes",
-            "Emerson, Lake & Palmer"
+            "Emerson, Lake & Palmer",
+            "Yes"
           ],
           "genre": "progressive rock",
           "genres": [
@@ -2585,8 +2617,8 @@
           "tracks": 48,
           "roots": [
             "Charlie Parker",
-            "Freddie Webster",
-            "Dizzy Gillespie"
+            "Dizzy Gillespie",
+            "Freddie Webster"
           ],
           "genre": "jazz",
           "genres": [
@@ -2672,8 +2704,8 @@
           "tracks": 42,
           "roots": [
             "Johnny Dodds",
-            "Jimmy Noone",
             "Leon Roppolo",
+            "Jimmy Noone",
             "Fletcher Henderson"
           ],
           "genre": "swing",
@@ -2780,9 +2812,9 @@
           "roots": [
             "Jackie Wilson",
             "James Brown",
-            "Sammy Davis Jr.",
             "Diana Ross",
-            "Fred Astaire"
+            "Fred Astaire",
+            "Sammy Davis Jr."
           ],
           "genre": "pop",
           "genres": [
@@ -2794,14 +2826,16 @@
         },
         {
           "id": "israel-kamakawiwo-ole",
-          "name": "Israel Kamakawiwo'Ole",
+          "name": "Israel Kamakawiwo\u02bbole",
           "tracks": 30,
           "roots": [
-            "Eddie Kamae",
-            "Gabby Pahinui"
+            "Gabby Pahinui",
+            "Eddie Kamae"
           ],
-          "genre": null,
-          "genres": []
+          "genre": "reggae",
+          "genres": [
+            "reggae"
+          ]
         },
         {
           "id": "duke-ellington",
@@ -2809,10 +2843,10 @@
           "tracks": 28,
           "roots": [
             "Fats Waller",
-            "James P. Johnson",
-            "Sidney Bechet",
+            "Will Marion Cook",
             "Luckey Roberts",
-            "Will Marion Cook"
+            "Sidney Bechet",
+            "James P. Johnson"
           ],
           "genre": "jazz",
           "genres": [
@@ -2829,7 +2863,7 @@
             "Patti Smith",
             "New York Dolls",
             "T. Rex",
-            "Sandie Shaw",
+            "Dusty Springfield",
             "The Cramps"
           ],
           "genre": "jangle pop",
@@ -2845,8 +2879,8 @@
           "name": "Michael Hedges",
           "tracks": 28,
           "roots": [
-            "John Fahey",
-            "Leo Kottke"
+            "Leo Kottke",
+            "John Fahey"
           ],
           "genre": "new age",
           "genres": [
@@ -2874,11 +2908,11 @@
           "name": "Frank Zappa",
           "tracks": 24,
           "roots": [
-            "Edgard Var\u00e8se",
             "Johnny \"Guitar\" Watson",
-            "Anton Webern",
+            "Edgard Var\u00e8se",
             "Gy\u00f6rgy Ligeti",
-            "Guitar Slim"
+            "Guitar Slim",
+            "Anton Webern"
           ],
           "genre": "progressive rock",
           "genres": [
@@ -2893,10 +2927,10 @@
           "name": "Michael Doucet",
           "tracks": 24,
           "roots": [
-            "Dewey Balfa",
+            "Dennis McGee",
             "Am\u00e9d\u00e9 Ardoin",
-            "The Balfa Brothers",
-            "Dennis McGee"
+            "Dewey Balfa",
+            "The Balfa Brothers"
           ],
           "genre": "cajun",
           "genres": [
@@ -2910,9 +2944,9 @@
           "roots": [
             "Nirvana",
             "Pearl Jam",
-            "Foo Fighters",
+            "The Smashing Pumpkins",
             "Goo Goo Dolls",
-            "Matchbox Twenty"
+            "Foo Fighters"
           ],
           "genre": "alternative rock",
           "genres": [
@@ -2920,6 +2954,23 @@
             "post-grunge",
             "pop rock",
             "acoustic rock"
+          ]
+        },
+        {
+          "id": "nitty-gritty-dirt-band",
+          "name": "Nitty Gritty Dirt Band",
+          "tracks": 22,
+          "roots": [
+            "The Lovin' Spoonful",
+            "Jim Kweskin Jug Band",
+            "Memphis Jug Band"
+          ],
+          "genre": "country",
+          "genres": [
+            "country",
+            "bluegrass",
+            "country rock",
+            "folk rock"
           ]
         },
         {
@@ -2959,7 +3010,7 @@
           "name": "The Marshall Tucker Band",
           "tracks": 20,
           "roots": [
-            "Allman Brothers Band",
+            "The Allman Brothers Band",
             "Lynyrd Skynyrd"
           ],
           "genre": "southern rock",
@@ -2977,9 +3028,9 @@
           "roots": [
             "Louis Armstrong",
             "Ethel Waters",
+            "Eddie Cantor",
             "Cab Calloway",
-            "Al Jolson",
-            "Eddie Cantor"
+            "Al Jolson"
           ],
           "genre": "jazz",
           "genres": [

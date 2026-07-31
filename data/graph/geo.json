@@ -28,15 +28,6 @@
       "genre": "hard rock"
     },
     {
-      "id": "crosby-stills-nash",
-      "name": "Crosby, Stills & Nash",
-      "lon": -118.24,
-      "lat": 34.05,
-      "place": "Los Angeles, CA",
-      "tracks": 0,
-      "genre": "folk rock"
-    },
-    {
       "id": "csny",
       "name": "Crosby, Stills, Nash & Young",
       "lon": -118.24,
@@ -699,7 +690,7 @@
       "lon": -118.24,
       "lat": 34.05,
       "place": "Los Angeles",
-      "tracks": 0,
+      "tracks": 72,
       "genre": "rock"
     },
     {
@@ -746,15 +737,6 @@
       "place": "Berkeley",
       "tracks": 0,
       "genre": "comedy"
-    },
-    {
-      "id": "allman-brothers-band",
-      "name": "Allman Brothers Band",
-      "lon": -83.63,
-      "lat": 32.84,
-      "place": "Macon",
-      "tracks": 0,
-      "genre": "southern rock"
     },
     {
       "id": "vince-guaraldi-trio",
@@ -953,15 +935,6 @@
       "place": "Dallas",
       "tracks": 72,
       "genre": "alternative folk"
-    },
-    {
-      "id": "the-eagles",
-      "name": "The Eagles",
-      "lon": -1.5,
-      "lat": 52.5,
-      "place": "United Kingdom",
-      "tracks": 72,
-      "genre": null
     },
     {
       "id": "kenny-g",
@@ -1527,17 +1500,8 @@
       "lon": -8.0,
       "lat": 53.4,
       "place": "Ireland",
-      "tracks": 24,
+      "tracks": 216,
       "genre": "folk"
-    },
-    {
-      "id": "robert-plant-the-strange-sensation",
-      "name": "Robert Plant & The Strange Sensation",
-      "lon": -1.5,
-      "lat": 52.5,
-      "place": "United Kingdom",
-      "tracks": 24,
-      "genre": "crossover prog"
     },
     {
       "id": "pink",
@@ -1729,6 +1693,15 @@
       "genre": "big band"
     },
     {
+      "id": "seals-crofts",
+      "name": "Seals & Crofts",
+      "lon": -118.24,
+      "lat": 34.05,
+      "place": "Los Angeles",
+      "tracks": 20,
+      "genre": "soft rock"
+    },
+    {
       "id": "jesse-cook",
       "name": "Jesse Cook",
       "lon": 2.35,
@@ -1907,15 +1880,6 @@
       "place": "London",
       "tracks": 16,
       "genre": "blues rock"
-    },
-    {
-      "id": "the-outlaws",
-      "name": "The Outlaws",
-      "lon": -1.5,
-      "lat": 52.5,
-      "place": "United Kingdom",
-      "tracks": 16,
-      "genre": "instrumental rock"
     },
     {
       "id": "simple-minds",
@@ -2132,6 +2096,15 @@
       "place": "Burlington",
       "tracks": 2,
       "genre": "indie pop"
+    },
+    {
+      "id": "outlaws",
+      "name": "Outlaws",
+      "lon": -98.5,
+      "lat": 39.8,
+      "place": "United States",
+      "tracks": 16,
+      "genre": "southern rock"
     },
     {
       "id": "major-lazer",
